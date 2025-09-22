@@ -1,0 +1,3498 @@
+ 
+PRIVATE & CONFIDENTIAL 
+Service Agreement ver 7132017 
+    
+ 
+CBRE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SERVICE AGREEMENT 
+Between 
+CBRE South Asia Pvt. Ltd 
+& 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -1- 
+CBRE Service Agreement 31.03.17 
+ 
+SCHEDULE 
+1 
+ 
+ 
+Contract Number 
+MSA / VEN /           /2020 dated 
+_____ February 2020 
+2 
+Page 4 
+Main Agreement Effective Date   
+ 
+3 
+Page 4 
+Main Agreement CBRE Legal Entity 
+CBRE SOUTH ASIA 
+PRIVATE LIMITED 
+4 
+Page 4 
+Main Agreement Service Provider Name  
+ 
+5 
+Page 8 
+Section C 
+Agreement Term 
+ 
+6 
+Page 27 
+Section W 
+Contact Information of 
+CBRE 
+Mr. Amit Verma 
+7 
+Page 27 
+Section W 
+Contact Information of the 
+Service Provider 
+ 
+8 
+Page 29 
+Section AA 10 
+Currency  
+INR 
+ 
+ 
+IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the Effective 
+Date. 
+ 
+CBRE Legal entity in 3 of the Schedule table 
+above 
+ 
+SERVICE PROVIDER in 4 of the 
+Schedule table above: 
+ 
+ 
+ 
+Address: PTI Building, Ground Floor, 4 Sansad 
+Marg, New Delhi – 110 001 
+ 
+Address: 
+ 
+ 
+ 
+Company Registration Number: 
+ 
+Company Registration Number: 
+U74140DL1999PTC100244 
+ 
+ 
+By: 
+ 
+ 
+By: 
+ 
+Name: 
+Mr. Ashish Podar 
+ 
+Name: 
+ 
+Title: 
+Executive Director – Global 
+Workplace Solutions 
+ 
+Title: 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -2- 
+CBRE Service Agreement 31.03.17 
+Contents 
+A. 
+Definitions and Interpretation. ............................................................................................... 4 
+B. 
+Designation of Account Manager. .......................................................................................... 7 
+C. 
+Term of Agreement ................................................................................................................. 8 
+D. 
+Services. .................................................................................................................................... 8 
+E. 
+Change Process ...................................................................................................................... 10 
+F. 
+Service Provider’s Compensation. ....................................................................................... 10 
+G. 
+Termination............................................................................................................................ 11 
+H. 
+Service Provider Representations and Warranties. ........................................................... 13 
+I. 
+Service Warranty................................................................................................................... 14 
+J. 
+Compliance with Laws. ......................................................................................................... 15 
+K. 
+Data Protection. ..................................................................................................................... 17 
+L. 
+Service Provider Personnel. .................................................................................................. 18 
+M. 
+Independent Contractor. ...................................................................................................... 20 
+N. 
+Taxes ....................................................................................................................................... 20 
+O. 
+Assignment and Subcontracting. ......................................................................................... 21 
+P. 
+Non-Solicitation ..................................................................................................................... 21 
+Q. 
+Insurance Requirements ....................................................................................................... 21 
+R. 
+Indemnification and Settlement ........................................................................................... 23 
+S. 
+Confidentiality Obligations................................................................................................... 24 
+T. 
+Ownership of Materials. ....................................................................................................... 25 
+U. 
+Force Majeure Events and Suspension of Work. ............................................................... 26 
+V. 
+Mediation, Governing Law and Jurisdiction. ..................................................................... 27 
+W. 
+Notices ..................................................................................................................................... 28 
+X. 
+Limitation of Liability. .......................................................................................................... 28 
+Y. 
+Third Party Beneficiaries...................................................................................................... 28 
+Z. 
+Audit ....................................................................................................................................... 29 
+AA. Miscellaneous. ........................................................................................................................ 29 
+BB. Order of Precedence .............................................................................................................. 31 
+CC. Client’s Consent; Effectiveness ............................................................................................ 31 
+DD. Exhibit 1: Amendment to the Terms and Conditions 
+EE. Exhibit 2: Definition of Services 
+FF. Exhibit 3: Statement of Work 
+GG. Exhibit 4: Pricing 
+HH. Exhibit 5: CBRE Service Provider Code of Conduct 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -3- 
+CBRE Service Agreement 31.03.17 
+II. 
+Exhibit 6: Drug Testing & Background Investigation 
+JJ. 
+Exhibit 7: Insurance Requirement 
+KK. Exhibit 8: Service Provider Invoicing Instructions 
+ 
+LL. Exhibit 9: CBRE Policy & Standards 
+MM. Exhibit 10: Governance Model Principle 
+NN. Exhibit 11: Local Terms 
+OO. Exhibit 12: Variation Agreement 
+ 
+ 
+ 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -4- 
+CBRE Service Agreement 31.03.17 
+SERVICE AGREEMENT 
+ 
+THIS SERVICE AGREEMENT (this “Agreement”), dated as of “Effective Date” (refer 
+to no. 2 of the Schedule table), is entered into by and between CBRE (refer to no. 3 of the 
+Schedule table), and Service Provider (refer to no. 4 of the Schedule table).  CBRE and Service 
+Provider may be referred to herein individually as a “Party” and collectively as the “Parties”.  
+W I T N E S S E T H: 
+WHEREAS, CBRE has entered into one or more contracts with Client as hereafter defined for the 
+performance of certain facility management and/or real estate services, and CBRE desires to 
+engage Service Provider to provide, and Service Provider desires to provide, a portion of the 
+Services and/or materials to be rendered or delivered under such contract or contracts at those 
+Client Facilities listed on Exhibit 3 (Statement of Work) attached hereto and made a part hereof 
+and at other Facilities as may be specified by CBRE from time to time.   
+NOW, THEREFORE, in consideration of the agreements contained herein and other good and 
+valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties 
+hereto covenant and agree as follows: 
+A. Definitions and Interpretation. 
+In this Agreement the following definitions and rules of interpretation apply: 
+1. “Affiliate(s)” means any legal entity that, directly or indirectly, (i) is owned and/or 
+controlled by, (ii) owns and/or controls, or (iii) is under common ownership and/or control 
+with, a Party. 
+2. “Applicable Laws” means all applicable regional, country, and local statutes, laws 
+(including the common law), ordinances, rules, codes, and regulations governing Service 
+Provider, the Services and the Facilities, including those of applicable regulatory bodies, 
+governmental agencies, tribunals, instrumentalities, or any subdivisions thereof or other 
+applicable entities exercising executive, legislative, judicial, taxing, regulatory or 
+administrative powers of or pertaining to government including, without limitation, 
+applicable import and export control laws, anti-corruption laws prohibiting the payment of 
+commercial or private bribes, and any other applicable anti-corruption laws. 
+3. Intentionally omitted. 
+4. “CBRE Indemnified Parties” means (i) CBRE and its officers, directors, shareholders, 
+employees, agents, representatives, subsidiaries, Affiliates, successors, and assigns, and 
+(ii) any person or entity that CBRE is required to defend, indemnify, and hold harmless in 
+connection with Service Provider’s performance of the Services, including, but not limited 
+to, the Client. 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -5- 
+CBRE Service Agreement 31.03.17 
+5. “Client” means any entity with whom CBRE has contracted to provide the Services as 
+defined in the Statement of Work. 
+6. “Client Data” means all data and information, in any form, provided or made available to 
+Service Provider by or on behalf of Client or its Affiliates or otherwise obtained or created 
+by Service Provider for or on behalf of  Client or its Affiliates, including (i) all data and 
+information obtained, developed or produced by Service Provider specifically for the 
+benefit of Client in connection with this Agreement, (ii) all Client data and information to 
+which Service Provider has access in connection with this Agreement, (iii) all reports 
+provided to CBRE or Client by Service Provider pursuant to this Agreement, and (iv) all 
+data and information derived from Client data and information provided or made available 
+to Service Provider by or on behalf of Client or its Affiliates; 
+7.  “Confidential Information” means any information of CBRE or Client that is not generally 
+known to the public and at the time of disclosure is identified, or would reasonably be 
+understood by the Service Provider, to be proprietary or confidential, whether disclosed in 
+oral, written, visual, electronic or other form, and which the Service Provider (or its 
+subcontractors or agents) observes or learns in connection with this Agreement.  
+Confidential Information includes, but is not limited to:  (a) business plans, strategies, 
+forecasts, projects and analyses; (b) financial information and fee structures; (c) business 
+processes, methods and models; (d) employee and service provider information; (e) 
+materials,  product and service specifications; (f) manufacturing, purchasing, logistics, 
+sales and marketing information; and (g) the terms and conditions of this Agreement.  
+Confidential Information also includes Personal Data and Client Data. 
+8. “Data Protection Legislation” means any Applicable Laws in force from time to time 
+relating to privacy legislation and guidance issued by data protection regulators in the 
+relevant jurisdiction. 
+9. “Deliverables” means the Services and any materials (including software), or any 
+modifications, enhancements or derivative works thereof (including modifications and 
+enhancements to Service Provider owned materials and, to the extent agreed by third 
+parties and subcontractors, third party owned materials), developed pursuant to this 
+Agreement by or on behalf of (a) Service Provider, (b) subcontractors or (c) any 
+combination of Service Provider and subcontractors, to the extent developed originally and 
+specifically for CBRE or Client, as part of the Services.  
+10. “Facilities” means the real property and buildings, listed in Exhibit 3 (Statement of Work), 
+as such may be amended from time to time in accordance with this Agreement. 
+11. “Hazardous Materials” means any material or substance which is or becomes defined as a 
+“hazardous waste,” “hazardous substance,” “hazardous material,” or similar pollutant or 
+contaminant under any regulation or Applicable Laws. 
+12. “Incorporated Documents” means all Exhibits and Addenda to this Agreement. 
+13. “Insolvency Event” means the occurrence of any of the following:  
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -6- 
+CBRE Service Agreement 31.03.17 
+a. 
+Service Provider suspends, or threatens to suspend, payment of its debts or is unable to 
+pay its debts as they fall due or admits inability to pay its debts or (being a company or 
+limited liability partnership) is deemed unable to pay its debts within the meaning of any 
+Applicable Law; 
+b. 
+Service Provider commences negotiations with all or any class of its creditors with a 
+view to rescheduling any of its debts, or makes a proposal for or enters into any 
+compromise or arrangement with any of its creditors other than (being a company) for 
+the sole purpose of a scheme for a solvent amalgamation of Service Provider with one or 
+more other companies or the solvent reconstruction of Service Provider; 
+c. 
+a petition is filed, a notice is given, a resolution is passed, or an order is made, for or in 
+connection with the winding up of Service Provider (being a company) other than for the 
+sole purpose of a scheme for a solvent amalgamation of Service Provider with one or 
+more other companies or the solvent reconstruction of Service Provider; 
+d. 
+an application is made to court, or an order is made, for the appointment of an 
+administrator, or if a notice of intention to appoint an administrator is given or if an 
+administrator is appointed, over Service Provider (being a company); 
+e. 
+the holder of a qualifying floating charge over the assets of Service Provider (being a 
+company) has become entitled to appoint or has appointed an administrative receiver; 
+f. 
+a person becomes entitled to appoint a receiver over all or any of the assets of Service 
+Provider or a receiver is appointed over all or any of the assets of Service Provider; 
+g. 
+a creditor or secured party of Service Provider attaches or takes possession of, or a 
+distress, execution, sequestration or other such process is levied or enforced on or sued 
+against, the whole or any part of Service Provider's assets and such attachment or process 
+is not discharged within 14 days; or 
+h. 
+any event occurs, or proceeding is taken, with respect to Service Provider in any 
+jurisdiction to which it is subject that has an effect equivalent or similar to any of the 
+events mentioned in (a) to (g) (inclusive) above. 
+14.  “KPIs” means those certain Key Performance Indicators or Service Levels, if any, set forth 
+in Exhibit 2 (Definition of Services).  
+15. “CBRE Policy & Standards” means such operating standard, if any, set forth in Exhibit 9.   
+16.  “Personal Data” shall mean any Personal Data (as defined in Applicable Laws) in respect 
+of which CBRE (or any member of its group), or any Client or Client Indemnified Party is 
+a Data Controller (as defined in Section L.1), and which is Processed by the Service 
+Provider under or in connection with this Agreement from time to time. 
+17.  “Process” has the meaning given to it under the Data Protection Legislation but, for the 
+purposes of this Agreement, it shall include both manual and automatic processing. 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -7- 
+CBRE Service Agreement 31.03.17 
+18. “Service Provider Personnel” means: (a) the officers, employees, and agents of Service 
+Provider; and (b) the officers, employees, and agents of Service Provider's suppliers, 
+service providers or subcontractors.  
+19. “Services” means the goods or services provided by Service Provider purchased by CBRE 
+under this Agreement as set forth in Exhibit 2 (Definition of Services), including all related 
+deliverables and all labour, tools, materials, equipment, and transportation necessary to 
+complete the Services and including the completion of such Services.  The term Services 
+will include, where the Services contemplate, delivery of a system or works, such system 
+or works and any goods, components or materials supplied in connection with the Services.  
+20. “Replacement Service Provider” means any replacement provider to CBRE and/or the 
+Client of services which are the same as or similar to the Services (or any part of them) 
+further to the expiry or earlier termination of the Services (or any part of them). 
+21.  “Statement of Work” means a written document issued by CBRE authorizing Service 
+Provider to initiate performance of the Services identified in this Agreement.  
+22. “Taxes” means any and all sales, use, excise, value-added, goods and services, 
+consumption, withholding and other similar taxes and duties that are imposed by 
+Applicable Laws in connection with: (i) the provision of the Services as a whole; (ii) the 
+provision of any particular Service; and (iii) any equipment, materials or other resources 
+provided or used in connection with the Services. 
+23. Intentionally omitted.  
+24. Intentionally omitted. 
+25. Interpretation   In this Agreement a reference to one gender shall include reference to every 
+gender; words denoting a singular number include the plural and vice versa; references to 
+persons shall include firms, companies and other organisations; a reference to a statutory 
+provision includes a reference to the same as modified, re-enacted or replaced from time 
+to time and any subordinate legislation made under it; a reference to a legal or regulatory 
+body includes a reference to any successor body or bodies to it; the words “include”, 
+“includes”, “including” and “in particular” shall be construed as if they were followed by 
+the words “without limitation” and a reference to this Agreement shall include its Exhibits.  
+Except as expressly provided in this Agreement, the rights and remedies provided under 
+this Agreement are in addition to, and not exclusive of, any other rights or remedies, 
+whether under this Agreement or provided by law. 
+B. Designation of Account Manager.  Service Provider shall assign a senior employee as Service 
+Provider’s CBRE account manager, at no cost to CBRE, who will be responsible for working 
+directly with CBRE’s representatives with respect to all matters pertaining to the performance 
+of this Agreement by Service Provider.  Service Provider shall not reassign or remove the 
+account manager or assign other employees to serve as account manager without providing 
+prior written notice to CBRE which notice shall include the name and contact information for 
+the successor account manager. 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -8- 
+CBRE Service Agreement 31.03.17 
+C. Term of Agreement.  The initial term of this Agreement (the “Initial Term”) shall commence 
+on the Effective Date (refer to no. 2 of Schedule table) or and shall continue through the end 
+of the day (refer to no. 5 of Schedule table immediately preceding anniversary date of this 
+Agreement, unless sooner terminated pursuant to the terms of this Agreement.  CBRE shall 
+have the option to extend the Initial Term for successive periods of one year each (each, an 
+“Extension Period”) by delivering notice thereof to Service Provider on or prior to thirty (30) 
+days before the expiration of the Initial Term or the current Extension Period, as the case may 
+be (the Initial Term, as it may be so extended, the “Term”).  Upon expiration of the Term, this 
+Agreement shall automatically renew on a month-to-month basis under the existing terms, 
+conditions and pricing until the Parties modify the Term of the Agreement, execute a new 
+Agreement or either Party provides the other Party with at least thirty (30) days termination 
+notice.  In the event that the date of completion of any Statement of Work(s) entered into 
+pursuant to this Agreement, or the time for performance of any Services performed pursuant 
+to that certain Statement of Work(s) extends beyond the expiration or termination date of this 
+Agreement, this Agreement shall continue to apply to such Statement of Work(s) and the terms 
+of the Statement of Work(s) shall remain unchanged and in effect until expiration of the 
+Statement of Work or it is otherwise terminated pursuant to the terms of this Agreement. 
+D. Services.   
+1. Provision of Services.  Service Provider shall perform the Services in accordance with 
+standards and methods identified in this Agreement, including Exhibit 9 (CBRE Policy and 
+Standards) or, if none is specified, with the methods generally employed in the performance 
+of the Services or as may be specified by CBRE from time to time.  At all times, Service 
+Provider shall be solely responsible, at its sole cost and expense, for providing the 
+equipment, personnel and all other resources necessary to provide or perform the Services.  
+If any services, functions or responsibilities not specifically described herein are necessary 
+for the proper performance and provision of the Services, they shall be deemed to be 
+implied by and included within the scope of Services to the same extent and in the same 
+manner as if specifically described herein.  Subject to the requirements of Exhibit 9 (CBRE 
+Policy and Standards), all Services shall be performed with the degree of care, skill, 
+diligence, professional knowledge, judgment and expertise consistent with the applicable 
+work practices and the highest professional industry standards in accordance with the 
+requirements and specifications set forth in this Agreement. All Services shall be subject 
+to the Client Required Contract Flow-down Provisions as set forth in the Statement of 
+Work.  Further, in performing under any Statement of Work issued pursuant to this 
+Agreement, and without limiting its other obligations hereunder, the Service Provider shall 
+perform the Services so as to achieve those KPIs set forth in such Statement of Work. 
+2. Services for CBRE Affiliates within same Jurisdiction. Notwithstanding any provision to 
+the contrary in the Agreement, CBRE Affiliates within the same jurisdiction governing this 
+Agreement (“CBRE Affiliates”), may order Services under this Agreement through the 
+execution of a Statement of Work (in the form of Exhibit 3) without any further need of 
+any novation or amendment of this Agreement and without affecting CBRE’s or Service 
+Provider’s respective obligations, responsibilities and liabilities under this Agreement. 
+With respect to the Services for the CBRE Affiliate under a Statement of Work, it is hereby 
+understood that references to “CBRE” in this Agreement refer to the CBRE Affiliate. Each 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -9- 
+CBRE Service Agreement 31.03.17 
+Statement of Work will create contractual rights and obligations solely under this 
+Agreement between the CBRE entity issuing such Statement of Work and the Service 
+Provider.  
+3. No Exclusivity.   Service Provider understands and agrees that CBRE does not guaranty 
+any volume of Services or minimum or maximum number of Statement of Works that may 
+be issued to Service Provider for Services under this Agreement and CBRE retains the right 
+to enter into similar service agreements for similar services with any other service 
+providers. 
+4. Inspection of Services.  The Services and Service Provider’s performance of the Services 
+are subject to examination, inspection, and testing by CBRE at all reasonable times and 
+places.  If the Services are found to be defective or non-conforming, Service Provider shall 
+immediately take action to remedy the defective or non-conforming Services in a timely 
+manner and Service Provider shall reimburse CBRE for all expenses incurred in connection 
+with such examination, inspection, and testing. 
+5. Continuous Improvement of Services.  Generally and as part of the Services, Service 
+Provider commits to continuously and incrementally improving its performance of the 
+Services consistent with developments in the market for services similar in scope, scale 
+and geographic coverage.  Except as expressly directed otherwise by Client, in writing, 
+Service Provider will also maintain a level of technology and currency associated with the 
+Services that is at least current with the then current level of technology: (i) that Service 
+Provider utilizes for its other customers; and (ii) generally accepted in the industry and 
+compatible with commercially available and supported technologies; provided that if 
+changes require additional costs or resources, the Parties will discuss in good faith and 
+mutually agree upon any change through the Change Process of this Agreement. 
+6. Clean-up.  Service Provider shall keep its work area cleared of debris at all times.  If Service 
+Provider fails to do so, CBRE may, at its discretion, clean-up the Facilities and charge 
+Service Provider’s account (whether directly or by way of set off, as provided in this 
+Agreement) all costs for the same, including any costs or penalties incurred by CBRE. 
+7. Timely Performance.  Where this Agreement or a Statement of Work specifies a time for 
+the performance of Service Provider’s obligations, TIME IS OF THE ESSENCE in such 
+performance.  If Service Provider has knowledge that anything has prevented, may prevent 
+or threatens to prevent the timely performance of the Services under this Agreement and/or 
+the applicable Statement of Work, Service Provider shall promptly notify CBRE’s designee 
+and include all relevant information concerning the delay or potential delay. 
+8. Hazardous Materials.  If Service Provider becomes aware of or suspects the presence of 
+Hazardous Materials at the Facilities, Service Provider shall immediately stop work in the 
+affected area and notify CBRE in writing.  Service Provider and its employees who provide 
+Services at Client Facilities will comply with all Applicable Laws.  Service Provider shall 
+only use Hazardous Materials that are required in the ordinary course of providing the 
+Services and in compliance with all Applicable Laws.  Service Provider shall assume sole 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -10- 
+CBRE Service Agreement 31.03.17 
+responsibility and liability for any Hazardous Materials that it brings on-site in its provision 
+of the Services. 
+9. Incorporated Documents.  The Incorporated Documents are incorporated herein and are 
+made a part of this Agreement by reference.  Service Provider acknowledges that it has 
+received a copy of this Agreement in its entirety, has read and understands all of the terms 
+and conditions of this Agreement, and further acknowledges and agrees that this 
+Agreement incorporates, is governed by, and is subject to the Incorporated Documents. 
+10. Risk of Loss and Title to Deliverables.  Service Provider shall bear the risk of any loss or 
+damage to all equipment, supplies, and materials to be used by Service Provider in the 
+performance of the Services, wherever located.  Title to any Deliverables in a physical form 
+shall transfer to CBRE or the relevant Client (as applicable) on the earlier of payment for 
+and delivery of such Deliverables. 
+E. Change Process.  CBRE may, at any time during the progress of the Services, require 
+additions, deductions or deviations (each individually referred to as a "Change") in the Services 
+which must (i) be in writing, (ii) include any agreed upon price or schedule changes, and (iii) 
+be signed by an authorized representative of each Party (“Change Notice”).  Service Provider 
+shall not make Changes to Services or products or Changes to the processes or materials used 
+to provide the Services to CBRE without prior written approval of CBRE.  Service Provider 
+shall provide CBRE with a prior written request before implementing any Change covered by 
+this Section (“Change Request”).  All Change Requests from Service Provider shall provide 
+full details of the proposed Change(s).  Service Provider shall provide CBRE the Change 
+Request at least two (2) months prior to the implementation date of any proposed Change.  If 
+CBRE provides written acceptance in a Change Request, Service Provider may make the 
+requested Change(s).  If CBRE rejects the Change Request or does not provide written 
+acceptance within thirty (30) days of receipt of the Change Request, Service Provider shall not 
+implement the Change.  If Service Provider does not follow the foregoing “Change Process”, 
+Service Provider is responsible for all direct and indirect consequences, including, without 
+limitation, all costs, damages, penalties, losses and expenses incurred by Service Provider, 
+CBRE and/or Client. 
+F. Service Provider’s Compensation.   
+1. Service Provider Fees.  Service Provider’s compensation for the Services and eligible 
+reimbursements shall be as described in this Agreement and in individual Statement of 
+Works (“Service Provider Fees”).  Except as expressly provided in this Agreement and the 
+applicable Statement of Works, Service Provider shall not be compensated or reimbursed 
+for any expenses incurred by Service Provider in its rendering of the Services, and CBRE 
+and Client shall have no obligation therefor. 
+2. Invoicing Instructions.  Service Provider shall comply with the invoicing instructions set 
+forth in Exhibit 8 (Service Provider Invoicing Instructions) which is attached hereto and 
+incorporated herein by reference.  CBRE reserves the right to change the format and 
+methodology in which invoices are submitted, processed and paid in its sole discretion 
+upon providing written notice to Service Provider.  All invoices shall be submitted to 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -11- 
+CBRE Service Agreement 31.03.17 
+CBRE for review, coding and approval no more frequently than monthly and within 
+thirty (30) days of completion of the related Services.  Service Provider acknowledges and 
+agrees that invoices for Services rendered pursuant to this Agreement must be received by 
+no later than sixty (60) days after the date such Services are rendered.   Any invoices 
+received by CBRE relating to Services performed more than sixty (60) days after the date 
+such Services were rendered shall not be due or payable by CBRE.  For valuable 
+consideration, the receipt of which is acknowledged by Service Provider, Service Provider 
+agrees that failure by Service Provider to invoice for Services within the foregoing sixty 
+(60) day period, shall constitute a full and complete release of any claims by Service 
+Provider, whether in law or equity, and Service Provider waives its right to pursue any 
+action, whether at law or in equity, arising out of this Agreement, against CBRE or Client 
+and their  respective officers, shareholders, directors, partners, employees or agents.  All 
+invoices shall include an itemization of all applicable Taxes due in connection with such 
+invoice and other substantiating documentation or information as reasonably required by 
+CBRE, including lien waivers and releases for itself and each of its subcontractors and 
+service providers, as applicable. 
+3. Payment.  Any undisputed sum due to Service Provider pursuant to this Agreement will be 
+payable to Service Provider within sixty (60) calendar days or as indicated in the Statement 
+of Work after receipt by CBRE of an invoice from Service Provider meeting the 
+requirements of this Section; provided that  notwithstanding the foregoing, or any language 
+to the contrary contained in this Agreement, CBRE shall have no obligation for the 
+payment of any properly invoiced Service Provider Fees owed for Services satisfactorily 
+completed by Service Provider until CBRE has received payment from Client for such 
+Services Provider Fees.   
+4. Service Provider Obligations.  Upon receipt of payment, Service Provider shall promptly 
+pay all bills for labour and materials performed and furnished by others in connection with 
+the Services.  Any amounts charged incorrectly or for non-conforming Services by Service 
+Provider shall be refunded by Service Provider immediately upon the discovery thereof 
+without additional cost to or further demand by CBRE. 
+5.  CBRE Rights.  CBRE shall have the right, in CBRE’s sole discretion upon written notice 
+to Service Provider, to issue joint cheques to Service Provider and any subcontractor or 
+other third party engaged by Service Provider which performs a portion of the Services on 
+behalf of Service Provider that has not been paid by Service Provider for services rendered.  
+The issuance of any joint cheque pursuant to this provision shall not create any contractual, 
+third party beneficiary or other relationship between Client, CBRE and such subcontractor 
+or third party.  CBRE may offset any amounts paid or incurred to discharge, settle or 
+remove any liens, judgments and/or claims arising from the Services of Service Provider 
+against any payment then or thereafter due to Service Provider. 
+G. Termination.   
+1. Termination for Convenience.   
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -12- 
+CBRE Service Agreement 31.03.17 
+a. 
+CBRE may terminate this Agreement and/or any Statement of Work, either in whole or 
+in part, and with respect to one or more of the Facilities, without liability, fee or penalty, 
+at any time and without cause upon thirty (30) days prior written notice to Service 
+Provider.  In the event CBRE’s services have been terminated by Client or CBRE’s 
+agreement with Client expires, and either Client or Client’s designee determines to 
+continue this Agreement and require Service Provider to continue to perform Services 
+hereunder, CBRE will not be subject to any fee, liability or penalty as a result thereof, 
+and CBRE shall have no responsibility to Service Provider whatsoever after the date 
+upon which CBRE shall no longer provide services to Client. 
+2. Default.  The following events and conditions shall constitute a “Default” under this 
+Agreement: 
+a. a breach, failure to perform or comply with, or defect or delay in performance by the 
+Service Provider of any the terms and conditions of, or, of its obligations under, this 
+Agreement; or 
+b. any representation or warranty of Service Provider in this Agreement is false or 
+misleading in any material respect. 
+3. Termination for Default.  If Service Provider is in Default in the performance of the 
+Services or breaches any of its covenants, agreements or obligations under this Agreement 
+or any Statement of Work, and such Default is not corrected within five (5) days of receipt 
+of written notice from CBRE (unless such Default cannot be cured with the payment of a 
+sum of money and otherwise cannot reasonably be cured within such five (5) day period, 
+in which event Service Provider shall have an additional ten (10) days to cure such Default, 
+provided such cure is promptly, continuously and diligently pursued), CBRE may in its 
+discretion thereafter immediately terminate this Agreement and/or any such Statement of 
+Work, either in whole or in part with respect to one or more of the Facilities, by written 
+notice to Service Provider.  In addition, upon the occurrence of any such Default by Service 
+Provider that is not cured within such period (or, in the case of an emergency, at any time 
+prior thereto and without the need for notice), without thereby waiving such Default or any 
+of CBRE’s other rights or remedies, and without liability to Service Provider in connection 
+therewith, CBRE or its designee may (but shall not be obligated to) perform any such 
+covenant, agreement or obligation under this Agreement or any Statement of Work for the 
+account and at the expense of Service Provider, which Service Provider shall pay 
+immediately upon demand together with all costs and expenses incurred by CBRE in 
+enforcing its rights against Service Provider.   
+4. Termination for Insolvency Events.  CBRE may terminate this Agreement immediately by 
+written notice to Service Provider if an Insolvency Event occurs.   
+5. Effect of Termination. Upon any termination, Service Provider shall be paid only for 
+Services properly rendered prior to the effective date of the termination as determined by 
+CBRE.  CBRE, however, may withhold any payments due Service Provider upon its 
+Default for the purpose of set-off until such time as the exact amount of damages due to 
+CBRE from Service Provider is determined.  Termination or expiry of this Agreement shall 
+not affect any rights, remedies, obligations or liabilities of the parties that have accrued up 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -13- 
+CBRE Service Agreement 31.03.17 
+to the date of termination or expiry, including the right to claim damages in respect of any 
+breach of this Agreement which existed at or before the date of termination or expiry. 
+6. Termination Assistance.  Upon the expiration or termination of this Agreement and/or any 
+Statement of Work, Service Provider shall cooperate for a period of time following such 
+expiration or termination to be determined by CBRE to assure the orderly transition of all 
+Services back to CBRE or to an alternative service provider designated by CBRE and to 
+ensure that the Services are maintained without interruption.  Service Provider’s 
+obligations in connection with such disengagement also will include, without limitation, 
+and as requested by CBRE: (i) either terminate or assign to CBRE or its designee, at 
+CBRE’s option, any or all subcontracts relating to the Services then in effect; and (ii) 
+returning or destroying Confidential Information, and returning to CBRE (or its designee) 
+any materials or equipment of Client or CBRE in Service Provider’s possession.  Service 
+Provider will waive, and will cause its subcontractors, if applicable, to waive, their rights, 
+if any, under contracts with Service Provider Personnel  restricting the ability of Service 
+Provider Personnel to be recruited or hired by CBRE or its designee, and CBRE or its 
+designee will have reasonable access to such personnel for interviews and recruitment.  
+Nothing set forth in this Section shall limit any rights or remedies of CBRE against Service 
+Provider or require an election of remedies in such event. 
+H. Service Provider Representations and Warranties.   
+Service Provider represents, warrants and covenants that: 
+ 
+1. it is a business entity duly organized, validly existing and in good standing under the laws 
+of the jurisdiction   in which it is organized; 
+2. it is fully equipped and qualified to perform the Services and that it is financially solvent, 
+able to pay its debts as they fall due, and possesses sufficient working capital to provide 
+the Services contemplated hereunder; 
+3. it is duly licensed, authorized or qualified to do business and is in good standing in every 
+jurisdiction in which a license, authorization or qualification is required for the ownership 
+or leasing of its assets or the transaction of business of the character transacted by it;  
+4. it has all requisite corporate power and authority to execute, deliver and perform its 
+obligations under this Agreement; 
+5. the execution, delivery and performance of this Agreement has been duly authorized by 
+Service Provider; 
+6. it has visited and had full opportunity to review and has carefully examined the Facilities 
+and has satisfied itself as to the character, quality, and quantity of the Services to be 
+performed, the conditions that may be encountered at the Facilities or that may otherwise 
+affect the cost or difficulty of performing the Services, the labour, equipment, supplies, and 
+materials to be furnished, supplied, or utilized in connection with performance of the 
+Services, and all other requirements of this Agreement; 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -14- 
+CBRE Service Agreement 31.03.17 
+7. there is no outstanding litigation, arbitrated matter or other dispute to which Service 
+Provider is a party which, if decided unfavorably to Service Provider, would reasonably be 
+expected to have a potential or actual material adverse effect on Service Provider’s ability 
+to fulfill its respective obligations under the Agreement; 
+8. it has not, directly or indirectly, given and will not give, or permit to be given by its 
+representatives, any commissions, payments, kickbacks, lavish or extensive entertainment, 
+or other inducements of more than minimal value or otherwise in violation of CBRE’s or 
+Client’s policies to any third party, government official, employee, representative, advisor 
+or agent of CBRE or Client in connection with this Agreement; 
+9. it will comply with the Applicable Laws in its provision of the Services; 
+10. Service Provider Personnel and subcontractors that it will use to provide and perform the 
+Services have and will continue to have, the knowledge, skills, experience, expertise, 
+language and speaking capabilities, qualifications and resources to provide and perform 
+the Services in accordance with this Agreement in a diligent, workmanlike manner with 
+due care and skill; 
+11. none of the Services or Service Provider owned materials applicable to the Services will 
+infringe upon the proprietary or intellectual property rights of any third party; 
+12. it will not hold itself out as the exclusive representative of, or service provider to, CBRE 
+or Client; and 
+13. it shall maintain appropriate backup, contingency, and remedial plans necessary to ensure 
+Service Provider's continued performance under this Agreement despite labour 
+disturbances, strikes, lockouts, transportation problems, technology problems, equipment 
+breakdowns, and similar events. 
+I. Service Warranty. 
+1. Service Warranty.  Service Provider represents, warrants, and covenants to and with CBRE 
+and Client that the materials used in the provision of the Services shall be of first class 
+quality, new in all respects and not used, reworked, refurbished or rebuilt, unless otherwise 
+approved by CBRE, and Service Provider shall, where applicable, deliver clear title to 
+equipment, materials and improvements provided to CBRE and/or Client under this 
+Agreement and ensure and warrant that, with respect to all such equipment, materials and 
+goods supplied they are delivered free and clear of any and all encumbrances.  Service 
+Provider further warrants that all materials, equipment and labour supplied to CBRE is and 
+shall be free from errors, faults and defects in workmanship, construction, structural and 
+functional design, material and operations and in conformance with the requirements of 
+this Agreement and the applicable Statement of Work for a period of twelve (12) months 
+following the completion of the Services to CBRE’s satisfaction; provided, that if any 
+longer warranty period is specified for any materials, equipment or workmanship under 
+any plans or specifications, this Agreement, a Statement of Work or any manufacturer’s 
+warranty, the longer warranty period shall govern.  Service Provider shall ensure that all 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -15- 
+CBRE Service Agreement 31.03.17 
+materials and equipment that have a manufacturer’s warranty are registered with the 
+manufacturer in Client’s name.   
+2. Service Provider Warranty Obligations.  During the warranty period, Service Provider 
+shall, at no cost to CBRE, promptly and satisfactorily replace, correct or repair (as 
+applicable) any Services, material or workmanship found to be defective or otherwise not 
+in conformity with the requirements of this Agreement and promptly remedy any damage 
+resulting therefrom. 
+3. No Liens.  Service Provider acknowledges that neither CBRE nor the Client intend for the 
+Services to enable Service Provider to assert any liens.  Service Provider shall not assert 
+nor permit any person or entity furnishing labour, equipment, supplies, or materials to 
+Service Provider or any person or entity acting for or under Service Provider to assert any 
+liens against CBRE, the buildings or the Facilities on which the Services are to be 
+performed.  Service Provider shall furnish CBRE, upon request, affidavits of account status 
+and lien releases as may be required by CBRE.   
+4. CBRE Remedies.  If at any time or from time to time CBRE should determine that Client 
+or CBRE or any of their property, respectively, might become liable for any claim or 
+subject to any lien that is chargeable to or through Service Provider, CBRE may retain out 
+of any payment then due Service Provider under the applicable Statement of Work, any 
+other Statement of Work(s) between CBRE and Service Provider, or any such payment 
+thereafter to become due an amount sufficient to indemnify CBRE and Client completely 
+against such liens, judgments and/or claims including, without limitation, all of CBRE’s 
+and Client’s costs associated therewith.  CBRE may retain the amount withheld until 
+Service Provider delivers to CBRE a complete release of the claims and liens that is 
+satisfactory to CBRE.  Further, CBRE may at any time or from time to time require that 
+Service Provider post a bond, at no cost to CBRE, to remove any liens, judgments and/or 
+claims.  CBRE may discharge, settle or remove any liens, judgments and/or claims by 
+bonding, payment or otherwise, all of which, together with all reasonable legal fees and 
+costs, are chargeable to Service Provider.  CBRE may set off any amounts so paid or 
+incurred to discharge, settle or remove any such liens, judgments and/or claims against any 
+payment then or thereafter due to Service Provider. 
+J. Compliance with Laws.   
+1. Compliance with Laws.  Service Provider represents warrants and covenants that Service 
+Provider possesses and shall maintain at its own expense all permits, licenses, approvals, 
+registrations, consents and certificates and pay all fees required by law with respect to any 
+Services and/or performance of this Agreement.  Service Provider shall, in connection with 
+the performance of the Services, comply with all Applicable Laws. 
+2. Notice of Changes in Laws.  Service Provider will monitor and promptly identify and notify 
+CBRE of all changes in Applicable Laws that have an impact on the Services or this 
+Agreement. 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -16- 
+CBRE Service Agreement 31.03.17 
+3. CBRE Service Provider Code of Conduct.  Service Provider shall comply with the CBRE 
+Service Provider Code of Conduct at Exhibit 5 (CBRE Service Provider Code of Conduct) 
+attached hereto and made a part hereof.   
+4. Compliance with Client Policies.  Service Provider shall and shall ensure that its 
+subcontractors, and all Service Provider Personnel, prior to performing the Service read 
+and understand the most current copies of the Client Policies including those available on 
+Client’s website at the expense of the Service Provider. Service Provider shall and shall 
+ensure that its subcontractors and all Service Provider Personnel comply with the Client 
+Policies. In the case of any difference between the requirements of the Client Policies and 
+the Applicable Law, the stricter or higher standard shall apply. 
+ 
+ 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -17- 
+CBRE Service Agreement 31.03.17 
+K. Data Protection.   
+1. Definitions: In this Section K, the terms "Data Controller" and "Data Subject" have the 
+meanings set out in Applicable Laws.  
+2. Service Provider Data Protection Obligations.  Service Provider must at all times: 
+a. comply with all applicable Data Protection Legislation;  
+b. Process Personal Data only on behalf of CBRE (or, if so directed by CBRE, Clients) 
+only to the extent, and in such manner, as is necessary for the purpose of lawfully 
+performing its obligations under this Agreement, or as is required by Applicable Law 
+and otherwise in accordance with instructions given by CBRE from time to time; 
+c. save as set out in subsection (b), not modify, duplicate, replicate, amend or alter the 
+contents of any Personal Data; 
+d. preserve the security and confidentiality of Personal Data and protect it against 
+unauthorised or unlawful Processing or access, accidental loss, destruction, damage, 
+alteration or disclosure; 
+e. ensure that the measures employed by or on behalf of Service Provider towards 
+compliance with its obligations in this Section K are appropriate to the harm which 
+might result from any unauthorised or unlawful Processing or access, accidental loss, 
+destruction, damage or disclosure of Personal Data that is Personal Data and having 
+regard to the nature of the Personal Data concerned; 
+f. implement and comply with such other procedures and measures as CBRE may from 
+time to time reasonably require in respect of Personal Data; 
+g. promptly provide to CBRE on request from time to time a written description of the 
+technical and organisational measures employed for holding and Processing Personal 
+Data and thereafter notify CBRE in writing of material changes to such measures 
+from time to time; 
+h. notify CBRE immediately in writing (and by telephone and email if outside normal 
+working hours) in the event of any breach by Service Provider or any subcontractor 
+of this Section K or any loss of or unauthorised use or access to Personal Data (the 
+foregoing each a “Security Incident”) and thereafter promptly provide all 
+cooperation, information and assistance and follow such instructions reasonably 
+requested by CBRE with respect to the response to the Security Incident; 
+i. notify CBRE promptly in writing (and in any event within three (3) business days) of 
+any data subject access request received by the Service Provider (or any of its agents 
+or subcontractors) in relation to Personal Data. 
+j. provide to CBRE copies of all Personal Data held by or on behalf of Service Provider 
+and all other reasonable assistance in relation to a data subject who makes a subject 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -18- 
+CBRE Service Agreement 31.03.17 
+access request satisfying the applicable legal requirements (or as otherwise directed 
+by CBRE), whether the subject access request is given to Service Provider or any of 
+its agents or to CBRE or a third party and CBRE gives to the Suppler details of the 
+subject access request. 
+k. not cause or permit any subcontractor or any Service Provider Affiliate to hold or 
+Process Personal Data without CBRE’s prior written consent (to be given or withheld 
+in CBRE’s sole and absolute discretion); 
+l. ensure that any Service Provider Personnel, permitted sub-contractors and such sub-
+contractors’ directors, officers, employees and agents act in accordance with this 
+Section K as if bound by it as Service Provider is bound;   
+m. take all reasonable steps to ensure the reliability of any of Service Provider Personnel 
+who have access to the Personal Data; 
+n. ensure that only those of Service Provider Personnel who need to have access to the 
+Personal Data are granted access to such data and only for the purposes of the 
+performance of this Agreement and all of Service Provider Personnel required to 
+access the Personal Data are informed of the confidential nature of the Personal Data 
+and comply with the obligations set out in this Section K; and 
+o. not Process or otherwise transfer any Personal Data outside the European Economic 
+Area unless CBRE has given express prior written consent and (where the permitted 
+transfer is to a country outside the EEA and which has not been determined by the 
+European Commission under article 25(6) of Directive 94/46/EC as providing 
+adequate protection of personal data) the recipient of such data has entered into a 
+contract in the format of the EU Model Terms in a form satisfactory to CBRE.   
+3. Data Protection Indemnity.   Service Provider shall on demand, at all times during and after 
+the Term of this Agreement, indemnify CBRE (and Client) and keep CBRE (and Client) 
+indemnified on demand and held harmless from and against all losses, damages, claims, 
+costs, or expenses and other liabilities (including fines and legal fees) incurred by, awarded 
+against or agreed to be paid by CBRE (or Client) arising out of or in connection with any 
+breach of Service Provider’s obligations under this Section K.  
+L. Service Provider Personnel.   
+1. CBRE Acceptance of Service Provider Personnel.  Service Provider shall have in its 
+employ at all times and shall provide a sufficient number of capable and competent Service 
+Provider Personnel having expertise suitable to their assignments and qualified to perform 
+the Services safely, legally and efficiently in accordance with Service Provider’s 
+obligations hereunder.  Service Provider Personnel must be acceptable to CBRE, and 
+CBRE reserves the right to require Service Provider to remove immediately any of Service 
+Provider Personnel from performing the Services, with or without cause, in CBRE’s sole 
+discretion for reasons including, but not limited to, substance abuse at the Facilities as 
+provided in subsection (K.2) below. 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -19- 
+CBRE Service Agreement 31.03.17 
+2. Removal for Substance Abuse; Substance Abuse Policy.  To the extent permitted by 
+applicable Laws, Service Provider agrees to immediately remove (or cause to be removed) 
+any Service Provider Personnel who is known to be or reasonably suspected of engaging 
+in substance abuse while at a Facility, in a Client or Service Provider vehicle or while 
+performing Services or otherwise in violation of Service Provider’s policies regarding 
+substance abuse.  In the case of reasonable suspicion, such removal shall be pending 
+completion of the applicable investigation.  Substance abuse includes the sale, attempted 
+sale, possession or use of illegal drugs, drug paraphernalia, or, to the extent not permitted 
+on Facilities, alcohol, or the misuse of prescription or non-prescription drugs.  Service 
+Provider represents and warrants that it has and will maintain a substance abuse policy and 
+that such policy will be applicable to all Service Provider Personnel performing Services 
+under this Agreement.  Service Provider represents and warrants that it shall require its 
+subcontractors providing Services to have and maintain such policy and practices and to 
+adhere to this provision. 
+3. Background Checks.  To the extent applicable to the Services and allowed by law, Service 
+Provider acknowledges, warrants and represents that it will comply with the Drug Testing 
+and Background Investigation Requirements for Service Provider Personnel set forth in 
+Exhibit 6 (Drug Testing and Background Investigation) to this Agreement. 
+4. Service Provider Personnel Not Employees of CBRE.  All Service Provider Personnel, as 
+applicable, will be and remain employees of Service Provider or its subcontractors and not 
+of CBRE when performing Services.  Service Provider and its subcontractors, as 
+applicable, will be solely responsible for: (a) all salaries, benefits and other compensation 
+of the Service Provider Personnel, (b) making all deductions and withholdings from its 
+employees’ salaries and other compensation; (c) the supervision and direction of the 
+activities of Service Provider Personnel; and (d) the payment of all contributions, taxes and 
+assessments.  CBRE and Client shall not be deemed to be an employer or joint or co-
+employer with respect to any Service Provider Personnel, including employees of Service 
+Provider or subcontractors. 
+5. Employee Indemnity.  Service Provider shall be liable for and shall indemnify and keep 
+fully and effectively indemnified on demand the CBRE Indemnified Parties and/or any 
+Replacement Service Provider without any set-off counterclaim or other deductions against 
+any claims, demands, actions, proceedings, settlement and all losses, costs, charges, 
+penalties, awards, expenses and liabilities which it or they incur or may incur (whether on, 
+before or after the expiry or termination of this Agreement and/or the applicable Statement 
+of Work, whether in whole or in part and/or the termination or expiry of all or part of the 
+Services) arising out of or in connection with the employment and/or termination of 
+employment of any person whose employment or claims or liabilities arising out of their 
+employment or its termination transfers to the CBRE Indemnified Parties and/or any 
+Replacement Service Provider. 
+6. Conduct of Service Provider Personnel.  Service Provider will ensure that the Service 
+Provider Personnel, while at any Facilities, (a) comply with all applicable safety, health 
+and security rules and regulations and other instructions of CBRE and Client, when 
+performing Services at a Facility, and shall conduct their work at Facilities in such a manner 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -20- 
+CBRE Service Agreement 31.03.17 
+as to avoid endangering the safety, or interfering with the convenience of CBRE or Client 
+or its customers, (b) comply with reasonable requests of CBRE or Client pertaining to 
+personal and professional conduct, and (c) otherwise conduct themselves in a professional 
+and businesslike manner.  In addition, Service Provider shall maintain records of all 
+recordable injuries or illnesses (as defined by any government entity) occurring to Service 
+Provider Personnel while performing Services.  Subject to Applicable Laws, Service 
+Provider shall provide copies of such records to CBRE or Client upon request. 
+7. Service Provider Personnel Safety.  Service Provider shall use appropriate precautions to 
+prevent injury to its employees and others on or about the Facilities and shall comply with 
+all safety regulations required by the applicable health and safety rules, regulations and 
+laws or by any other governmental authority, local law or safety regulation having 
+jurisdiction over CBRE, Service Provider, the Services or the Facilities.  Service Provider 
+agrees to abide by and ensure that its employees abide by the CBRE Safety Policy attached 
+hereto as Exhibit 9 (CBRE Policy and Standards), and any similar policy issued by the 
+Client, each of which have been reviewed and understood by Service Provider.  In addition, 
+Service Provider agrees to adhere to and perform the Services in accordance with the 
+Client’s applicable health and safety policies and procedures which will be provided to 
+Service Provider as applicable.  The applicability of said policies and procedures shall be 
+determined solely by CBRE.  Any conflict, dispute or inconsistency between any of the 
+aforementioned programs, policies and procedures, shall be resolved in favor of the most 
+stringent program, policy or procedure which affords the Client the greatest amount of 
+protection.  Service Provider is solely responsible for taking reasonable precautions for the 
+safety of Service Provider's employees, and Service Provider may not rely upon CBRE’s 
+implied or stated control of the workplace to reduce this responsibility nor assume that 
+CBRE controls or has the ability to control the presence or absence of hazardous conditions 
+in the workplace to which Service Provider’s employees may be exposed.  
+M. Independent Contractor.  Nothing contained in this Agreement or in the relationship of 
+Service Provider and CBRE shall be deemed to constitute a partnership, joint venture, or any 
+other relationship between Service Provider and CBRE except for the independent contractor 
+relationship described in this Agreement.  Service Provider’s authority is limited solely to 
+performing the Services set forth herein in accordance with the terms of this Agreement, the 
+corresponding exhibits and Statement of Works. Nothing in this Agreement, in any Statement 
+of Work or any Service Provider subcontract shall create any contractual relationship or 
+liabilities between any employee, agent or subcontractor (or any employee or agent of 
+subcontractor) of Service Provider and CBRE or Client.  Further, Service Provider does not 
+have any authority to execute any contracts or agreements for or on behalf of CBRE or Client 
+and is not granted any right or authority to assume or create any obligation or liability or to 
+make any representation, covenant, agreement or warranty, express or implied, on CBRE’s or 
+Client’s behalf or to bind CBRE or Client in any manner. 
+ 
+N. Taxes.  Service Provider shall pay any and all Taxes upon receipt of payment for same from 
+CBRE.  CBRE and Client shall be allowed to withhold from amounts payable to Service 
+Provider hereunder all Taxes and other charges required to be withheld by law.  Service 
+Provider shall take such actions and cooperate with CBRE and Client to the extent necessary 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -21- 
+CBRE Service Agreement 31.03.17 
+to ensure that CBRE will be treated as a purchasing agent for Client and that the purchase 
+and/or provision of materials, equipment and Services under this Agreement qualify for any 
+applicable manufacturing, resale, or other tax exemption, and where an exemption is not 
+available, the Taxes thereon are minimized.  Service Provider shall prepare, execute, file as 
+necessary and retain resale, exemption and similar certificates, and reflect dealer, vendor, 
+CBRE and Client exemption or similar numbers on its invoices or billings as necessary to 
+exempt or minimize Taxes on goods and Services provided under this Agreement. Service 
+Provider shall be solely responsible for any penalties or interest resulting from Service 
+Provider’s failure to file proper tax returns or promptly to remit to the appropriate taxing 
+authorities Taxes or other payments made to Service Provider by Client under this Agreement 
+and Service Provider agrees to indemnify on demand, defend (promptly and diligently, at 
+Service Provider’s sole expense with attorneys satisfactory to CBRE and Client) and hold 
+harmless CBRE and Client against any Claims (as hereinafter defined) that any Indemnified 
+Party (as hereinafter defined) may suffer, sustain or incur as a result of Service Provider failing 
+to do so.  This Section shall survive the expiration or termination of this Agreement. 
+O. Assignment and Subcontracting.   
+1. Assignment.  Neither Service Provider’s interest in this Agreement nor in any Statement 
+of Work, including without limitation any monies due or to become due to it hereunder, or 
+any portion thereof may be assigned or encumbered, nor may its duties, obligations and 
+responsibilities hereunder or under any Statement of Work be delegated or subcontracted 
+further to any third party, without the prior express written consent of CBRE in each 
+instance.  Any such assignment, encumbrance, delegation or subcontract made without the 
+express written consent of CBRE shall be null and void ab initio.  Service Provider for 
+good and valuable consideration hereby consents to such assignment and novation of this 
+Agreement and/or any Statement of Work by CBRE, at CBRE’s sole discretion.  
+2. Subcontracting.  Service Provider shall require all permitted vendors and subcontractors 
+employed to perform Services under this Agreement to have the appropriate types and 
+amounts of insurance coverage commensurate with the nature of the Services performed 
+and the risk exposures created by performing those Services and Service Provider further 
+agrees and acknowledges that it shall defend, indemnify on demand and hold harmless the 
+CBRE Indemnified Parties for any claims, losses or liabilities in any way arising from or 
+attributable to the Services performed by any vendor or subcontractor employed by Service 
+Provider that performs Services under this Agreement. 
+P. Non-Solicitation.  During the Term of this Agreement, and for a period of six (6) months after 
+the expiration or early termination hereof, Service Provider shall not directly or indirectly hire, 
+permit the employment of, or solicit to hire any of CBRE’s or Client’s personnel unless 
+expressly agreed otherwise by CBRE or Client, as the case may be, in writing. 
+Q. Insurance Requirements.  During the Term and as otherwise required under this Agreement, 
+Service Provider shall maintain at all times the minimum amounts and scope of insurance 
+coverage set forth in Exhibit 7 (Insurance Requirement) to this Agreement with such Exhibit 
+hereby being incorporated by reference as a material requirement of this Agreement which 
+shall not be construed in any way as a limitation of Service Provider’s liability under this 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -22- 
+CBRE Service Agreement 31.03.17 
+Agreement, including, without limitation, liability for claims denied or rejected by Service 
+Provider’s insurance company or the insurance companies of its agents or subcontractors.  
+Service Provider shall not commence any Services until Service Provider has procured all of 
+the required in insurance policies with minimum amounts of coverage as set forth in Exhibit 7 
+(Insurance Requirement) which must comply with the policy requirements set forth below: 
+(a) License/Rating.  All insurance policies shall be in customary forms and shall be 
+issued by companies authorized to do business in the jurisdictions where the 
+Services are performed. 
+(b) Vendor Screening/Certificate of Insurance. Service Provider acknowledges and 
+agrees that it will enroll, at Service Provider’s sole expense, in the CBRE vendor 
+screening and certificate of insurance management program.  Registration in the 
+CBRE vendor screening can be completed on the internet at www.avetta.com or as 
+otherwise may be directed by CBRE.  Service Provider shall deliver certificates of 
+insurance evidencing the required insurance coverage to Client and CBRE upon 
+request and when registering in the CBRE vendor screening program which must 
+occur prior to the commencement of performance under any Statement of Work 
+issued under this Agreement or upon any renewal of such insurance during the Term 
+of this Agreement not less than thirty (30) days prior to the expiration dates of any 
+policy shown on the certificates then in effect, and otherwise from time to time upon 
+request by CBRE or Client. 
+(c) Notice of Cancellation.  CBRE shall, be given not less than thirty (30) days' notice prior 
+to the cancellation of any insurance required by this Agreement for other than non-
+payment of premiums.  CBRE shall be given at least ten (10) days’ notice prior to 
+cancellation of any required insurance for non-payment of premium. 
+(d) Additional Insured Endorsements.  All certificates of insurance provided under this 
+Agreement shall include copies of endorsements to Service Provider’s commercial 
+general liability policy that includes Client and CBRE (including all participating 
+Affiliates) as additional insured(s) on appropriate forms or equivalent form of Blanket 
+Additional Insured Endorsement, covering the additional insureds for liability arising 
+from all operations and completed operations of Service Provider. 
+(e) No Waiver/Deductible.  The failure of CBRE to demand such certificate of insurance 
+or failure of CBRE to identify a deficiency will not be construed as a waiver of Service 
+Provider’s obligation to maintain the insurance required under this Agreement.  Service 
+Provider shall be responsible for the amount of any deductible contained in any of the 
+above-described insurance policies and certificates of insurance. 
+(f)  Service Provider Insurance Primary.  Service Provider’s insurance shall be deemed 
+primary with respect to coverage extended to the additional insureds, whose insurance 
+shall be excess and non-contributory with that required of Service Provider hereunder.   
+(g) Waiver of Subrogation.  To the fullest extent permitted by law, the commercial general 
+liability insurance policy of Service Provider shall contain provisions that the insurance 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -23- 
+CBRE Service Agreement 31.03.17 
+companies waive the rights of recovery or subrogation against Client, CBRE, their 
+respective Affiliates, and each of their and their Affiliates’ respective agents, officers, 
+directors, shareholders, employees, insurers, successors and assigns.   
+(h) Additional CBRE Rights.  The failure to secure and maintain or add by endorsement 
+the CBRE Indemnified Parties shall not act as a defense to the enforcement of the terms 
+of this Agreement.  Any failure to provide the agreed endorsements shall entitle CBRE 
+to terminate this agreement or to acquire coverage necessary to protect Client and 
+CBRE from the failure and charge the cost thereof to the Service Provider.  Service 
+Provider shall require or provide the same minimum insurance requirements as listed 
+above from all of its permitted subcontractors unless otherwise agreed by CBRE in 
+writing. 
+R. Indemnification and Settlement.  To the fullest extent permitted by law, Service Provider 
+shall defend (with counsel approved by Client and/or CBRE), indemnify on demand, pay, save 
+and hold harmless the CBRE Indemnified Parties from and against any liabilities, damages 
+(including, without limitation, direct, special and consequential damages), costs, expenses, 
+suits, losses, claims, actions, fines and penalties (including, without limitation, court costs, 
+reasonable legal  fees and any other reasonable costs of litigation) (hereinafter collectively, the 
+“Claims”) that any of the CBRE Indemnified Parties may suffer, sustain or incur arising out of 
+or in connection with: 
+1. Indemnification. 
+(a) Service Provider’s work or presence on the Facilities or other work site, including but 
+not limited to any negligent acts, errors or omissions, intentional misconduct or fraud 
+of Service Provider or Service Provider Personnel, whether active or passive, actual or 
+alleged, whether in the provision of the Services, failure to provide any or all of the 
+Services or otherwise;  
+(b) any actual or alleged breach of this Agreement, including but not limited to 
+Confidentiality and Service Provider’s representations and warranties by Service 
+Provider or Service Provider Personnel; 
+(c) any claims by Service Provider employees or employees of Service Provider 
+subcontractors, including but not limited to: (i) allegations of wrongful discharge, 
+discharge in violation of public policy, harassment or discrimination on the basis of 
+race, color, sex, religion, national origin, age, disability, sexual orientation, 
+retaliation, unfair dismissal or other unlawful conduct; (ii) those made under 
+workers’ compensation or similar employee benefit acts; or (iii) claims alleging that 
+Service Provider has failed to pay any employment benefits and any taxes required 
+of it of any nature whatsoever; 
+(d) failure to comply with any Applicable Laws by Service Provider or Service Provider 
+Personnel; or 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -24- 
+CBRE Service Agreement 31.03.17 
+(e) any infringement or alleged infringement of any patent, copyright, trade secret of 
+other proprietary right of any third party relating to the Services performed under 
+this Agreement.   
+The foregoing indemnification shall apply irrespective of whether Claims are asserted by a 
+Party, by its employees, agents or subcontractors, or by unrelated third parties.  Nothing 
+contained herein shall relieve Service Provider of any responsibility for Claims regardless of 
+whether Service Provider is required to provide insurance covering such Claims or whether the 
+matter giving rise to the Claims is the responsibility of Service Provider’s agents, employees 
+or subcontractors. The provisions of this Section shall survive the expiration of the Term or 
+the termination of this Agreement.   
+2. Settlement.  With respect to Service Provider’s duties of indemnity under this Agreement, 
+Service Provider shall have the right to control the defense of any litigation, and to settle 
+or compromise all claims and lawsuits subject to its indemnity.  However, Service Provider 
+may not settle or compromise such claim or lawsuit without the written consent of CBRE 
+if any settlement or compromise (a) requires CBRE or its Client to part with any property 
+right or interest, assume any obligation, or make any payment not indemnified, or 
+(b) subjects CBRE to any injunction.  Subject to the foregoing, CBRE shall have the right, 
+at its option and expense, but not the obligation, to retain advisory counsel to represent its 
+interests in defending any such claim or lawsuit. 
+S. Confidentiality Obligations 
+1. Service Provider Confidentiality Obligations.  All Confidential Information owned by 
+CBRE or Client is and shall remain the property of such party at all times. By disclosing 
+Confidential Information to Service Provider, CBRE or Client, as applicable, does not grant 
+any express or implied licenses to Service Provider in any proprietary rights, including 
+without limitation, patents, copyrights, trademarks, trade secret or trade secret information, 
+of CBRE or Client.  As of the Effective Date, the Confidentiality terms of this Agreement 
+shall supersede and replace the terms of any confidentiality or non-disclosure agreement 
+previously executed by the Parties with respect to subject matter that is covered by this 
+Agreement.  Service Provider agrees to utilize the Confidential Information received by it 
+only for the purpose of providing the Services and for no other purpose whatsoever 
+including without limitation, diverting, inducing or attempting to divert or induce Client to 
+discontinue or modify the present or future relationship between CBRE and Client or 
+otherwise injuring or interfering in the business relationship between CBRE and Client.  
+Service Provider shall use the same care and discretion to avoid disclosure, publication or 
+dissemination of any Confidential Information received from CBRE or Client as Service 
+Provider uses with its own confidential information that it does not wish to disclose, publish 
+or disseminate, but in no event less than a reasonable degree of care.  Service Provider shall 
+not disclose to any person (other than as necessary to Service Provider Personnel directly 
+involved in Service Provider’s provision of the Services) Confidential Information at any 
+time, either during the Term or at any time thereafter, without the express written 
+agreement of CBRE.  Service Provider shall execute any supplemental agreement required 
+by CBRE with respect to Confidential Information.  Service Provider shall advise all 
+recipients of Confidential Information as to the provisions of this Section and obtain their 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -25- 
+CBRE Service Agreement 31.03.17 
+written agreement to be bound by its conditions.  Upon the termination of this Agreement, 
+a Service Provider shall immediately deliver to CBRE upon request (i) any and all materials 
+provided to Service Provider, relating in any way to and/or created in connection with the 
+performance of the Services under the terms of this Agreement; and (ii) any and all 
+originals, copies, reproductions and summaries (including without limitation, any written 
+or electronic form of any such information) of any Confidential Information, or at CBRE's 
+option, certify destruction of the same.  Service Provider shall incorporate the requirements 
+of this Section in all subcontracts, requiring each approved subcontractor to comply with 
+the provisions hereof in the same manner as is required of Service Provider.  Service 
+Provider shall immediately report to CBRE any unauthorized disclosure of Confidential 
+Information. 
+2. Confidential Information Exclusions.  Service Provider shall not be liable for disclosure or 
+use of any Confidential Information if:  (i) it was in the public domain at the time it was 
+disclosed or used through no fault of Service Provider; (ii) it becomes known to the Service 
+Provider from a source other than CBRE or Client without a breach of this Agreement by 
+Service Provider; (iii) it was independently developed by Service Provider without the 
+benefit of the information received from CBRE or Client; or (iv) it was disclosed under 
+legal process or other legal requirement provided Service Provider agrees to cooperate in 
+seeking reasonable protective arrangements requested by CBRE or Client, and to promptly 
+notify CBRE and Client if Service Provider receives any subpoena or other legal process 
+seeking disclosure of Confidential Information. 
+3. Restrictions on Use of Name and Marks.  Service Provider shall not use or display CBRE’s 
+or Client’s name or logo, and shall not utilize other trademarks or service marks of CBRE 
+or Client, without such party’s prior written consent.  Neither Service Provider nor its 
+agents or subcontractors may issue any press, media or publicity releases or give statements 
+to the media identifying CBRE or Client or relating to this Agreement or any Facility 
+without the prior written consent of CBRE. 
+4. Remedies.  Service Provider hereby irrevocably agrees that irreparable damage to CBRE 
+would occur in the event that it breaches any of the provisions of this Section S.  Service 
+Provider acknowledges and agrees that CBRE shall be entitled to an injunction or 
+injunctions to prevent breaches of this Section S and to specifically enforce the terms and 
+provisions of this Section S in addition to any other remedy to which CBRE is entitled at 
+law or in equity. In the event that any action shall be brought in equity to enforce the 
+provisions of this Section S, Service Provider shall not allege, and hereby waives the 
+defense, that there is an adequate remedy at law. 
+5. Survival. Service Provider’s confidentiality obligations under this Agreement shall survive 
+the termination or expiration of the Agreement. 
+T. Ownership of Materials.   
+1. "Deliverables" means any materials (including software), or any modifications, 
+enhancements or derivative works thereof (including modifications and enhancements to 
+Service Provider owned materials and, to the extent agreed by third parties and 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -26- 
+CBRE Service Agreement 31.03.17 
+subcontractors, third party owned materials), developed pursuant to this Agreement by or 
+on behalf of (a) Service Provider, (b) subcontractors or (c) any combination of Service 
+Provider and subcontractors, to the extent developed originally and specifically for CBRE 
+or Client, as part of the Services.  All right, title and interest in or to Deliverables will be 
+owned by CBRE and Client, as applicable. Service Provider hereby irrevocably assigns, 
+and will assign, to CBRE and Client without further consideration, all of Service Provider’s 
+right, title and interest in and to such Deliverables. Service Provider acknowledges that 
+CBRE and Client and their successors and assigns of CBRE and Client will have the right 
+to obtain and hold in their own name any intellectual property rights in and to such 
+Deliverables. Service Provider shall obtain waivers of any moral rights in the products of 
+the Services (including the Deliverables) to which any individual is now or may be at any 
+future time entitled under the law in any jurisdiction where the services are provided. 
+Service Provider agrees to execute any documents and take any other actions reasonably 
+requested by CBRE or Client to effectuate the purposes of this Section. CBRE and Client 
+grant to Service Provider a non-exclusive, non-transferable, worldwide, limited right and 
+license to use, execute, reproduce, display, perform, modify and distribute the Deliverables 
+for the sole purpose of providing the Services during the Term.  CBRE and Client may, in 
+their sole discretion and upon such terms and at such prices as CBRE, Client and Service 
+Provider may agree, grant Service Provider a license to use the Deliverables for other 
+purposes and to sublicense such Deliverables.  
+2.  Service Provider Pre-existing Intellectual Property.  To the extent that the Deliverables 
+and the Services and consist of or include items previously developed, patented or 
+copyrighted by Service Provider or a third party (“Service Provider Pre-Existing 
+Intellectual Property”), Service Provider hereby grants to CBRE and Client an unrestricted, 
+perpetual, royalty-free, fully paid-up, non-exclusive, world-wide, irrevocable license to use 
+such Service Provider Pre-existing Intellectual Property so that CBRE and Client may 
+receive the benefit of the Deliverables or Services provided by Service 
+Provider.  Notwithstanding anything contained in this Agreement to the contrary, upon the 
+expiration or termination of this Agreement, if the use of the Deliverables or Services is 
+impaired or they cannot be fully utilized, serviced or repaired by CBRE or Client without 
+the use of the Service Provider Pre-existing Intellectual Property,  Service Provider will 
+grant to CBRE and Client an unrestricted, perpetual, royalty-free, fully paid-up, non-
+exclusive, world-wide, irrevocable license to use such Service Provider Pre-existing 
+Intellectual Property so that CBRE and Client may continue to receive the benefit of the 
+Deliverables and Services. Service Provider Pre-existing Intellectual Property includes, 
+without limitation, any equipment, materials, components, software, programmable 
+devices or any other tangible item, in any form or medium, identifiable to the Deliverables 
+or Services included in the applicable Statement of Work. 
+U. Force Majeure Events and Suspension of Work.  Neither party hereto shall be liable to the 
+other party for any loss or damage arising out of a failure to perform their respective obligations 
+under this Agreement if said failure to perform is caused by an event beyond the reasonable 
+control of the party, including, but not limited to, acts of God, acts of governmental agencies, 
+strikes, labor disputes, fire, explosions or other casualties, theft, vandalism, riots, war, or 
+material 
+unavailability 
+of 
+equipment, 
+supplies, 
+or 
+materials 
+(each 
+a 
+“Force 
+Majeure  Event”).  A party seeking relief under this Section U shall immediately notify the 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -27- 
+CBRE Service Agreement 31.03.17 
+other party in writing of the occurrence of the Force Majeure Event, the anticipated impact on 
+the affected party’s ability to perform its obligations under this Agreement, and the steps such 
+party intends to take to remedy the Force Majeure Event.   Each party shall use commercially 
+reasonable efforts to minimize the impact, losses, damages, and delay associated with a Force 
+Majeure Event CBRE  may direct in writing that Service Provider suspend, delay, or interrupt 
+performance of all or any part of the Services and the associated payments for such period of 
+time that  CBRE determines to be appropriate or necessary.  To the extent  CBRE’s  contract 
+with the Client is suspended, delayed, interrupted, scope reduced or terminated due to a Force 
+Majeure Event,  CBRE may so suspend, delay, interrupt, reduce scope or terminate this 
+Agreement.  
+V. Mediation, Governing Law and Jurisdiction. 
+1. Mediation.   Each Party commits that in the event a dispute should arise under this 
+Agreement or relating in any manner hereto, the Parties agree to make a good faith attempt 
+to settle their dispute prior to the commencement of formal litigation (i.e., the filing of a 
+lawsuit or other legal proceeding) by using a third party mediator. Any mediation shall take 
+place in jurisdiction where the services are provided, unless otherwise agreed to (under a 
+Statement of Work or otherwise) in writing by the Parties.  The costs of such mediation 
+shall be equally divided between the Parties. Each Party shall be represented at such 
+mediation by a senior executive of such Party, with authority to bind the Party. The Parties 
+agree to exchange informally such information as is reasonably necessary and relevant to 
+the issues being mediated. If such mediation is unsuccessful, then either Party shall have 
+the right to initiate litigation in compliance with the terms set forth in Section V.4 below. 
+All mediation proceedings shall be confidential, and no information exchanged in such 
+mediation relating to settlement negotiations or offers shall be discoverable or admissible 
+in any litigation involving the Parties.  In the event a Party seeks equitable relief (such as 
+injunctive relief or specific performance), or in the event of an approaching deadline 
+prescribed by an applicable statute of limitation, then there shall be no requirement that 
+such Party utilize the mediation process referred to herein. 
+2. Continued Performance.   Each Party agrees that it will, unless otherwise directed by the 
+other Party, continue performing its obligations under the Agreement while any dispute is 
+being resolved; provided that this provision will not operate or be construed as extending 
+the Term or prohibiting or delaying a Party’s exercise of any right it may have to terminate 
+the Term as to all or any part of the Services. 
+3. Governing Law.  The Agreement and all disputes arising out of or in connection with it or 
+its subject matter, whether of a contractual or non-contractual nature, shall be governed by 
+and construed in accordance with the laws of where the Services are rendered.  
+4. Jurisdiction.   Subject to Section V.1, each of the Parties agrees to submit to the exclusive 
+jurisdiction of courts where the Services are rendered. 
+ 
+ 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -28- 
+CBRE Service Agreement 31.03.17 
+W. Notices.  Any and all notices, consents, demands, approvals, directives or other 
+communications required or permitted under this Agreement shall be in writing and be 
+delivered personally, properly mailed via first class recorded or registered mail, or sent by, 
+private courier service or pre-paid airmail, to the addresses of the Parties set forth below.  Any 
+notice shall be deemed to be properly given: (a) when delivered personally; (b) five (5) 
+business days after having been sent by recorded or registered mail, return receipt requested, 
+postage prepaid; or (c) two (2) business days after deposit with a private courier specifying 
+next day delivery, with written confirmation of receipt; or (d) five (5) business days after 
+posting or at the time recorded by the delivery service if sent by pre-paid airmail.   
+If to CBRE:   
+ 
+(refer to no. 6 of the Schedule table) 
+  
+ 
+with a copy to:  
+Attn: APAC.Contracts.Management@cbre.com 
+ 
+ 
+If to Service Provider:  
+(refer to no. 7 of the Schedule table) 
+ 
+ 
+ 
+ 
+  
+ 
+Either Party hereto may change its address set forth above for the receipt of notice by giving 
+written notice to the other Party in the manner set forth herein. 
+X. Limitation of Liability.   
+1. In no event shall a CBRE Indemnified Party be liable to Service Provider for any: (a) loss 
+of profits or anticipated profits; (b) any consequential, indirect or special loss or damage; 
+or (c) any punitive or incidental loss or damage, whether based in contract, strict liability, 
+negligence, tort or otherwise, with respect to this Agreement or any Statement of Work 
+regardless of the foreseeability or the cause thereof.  
+2. Nothing in this Agreement shall limit or exclude the liability of the Service Provider, CBRE 
+or any CBRE Indemnified Party for: (a) death or personal injury caused by its negligence, 
+or the negligence of its personnel, agents or subcontractors; (b) fraud or fraudulent 
+misrepresentation; or (c) any other liability which cannot be limited or excluded by 
+applicable law. 
+Y. Third Party Beneficiaries.   
+1. Client is Third Party Beneficiary.  Client and each of Client’s Affiliates that owns, leases 
+or occupies a Facility from time to time or otherwise derives Services under this Agreement 
+shall be deemed to be a third party beneficiary entitled to the benefits and protections 
+afforded to CBRE under this Agreement with rights of direct enforcement against Service 
+Provider.   
+2. Replacement Service Provider. Replacement Service Provider shall be deemed a third party 
+beneficiary solely with respect to Section L.5 of this Agreement with rights of direct 
+enforcement against Service Provider with respect to Section L.5 of this Agreement.  
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -29- 
+CBRE Service Agreement 31.03.17 
+3. No Third Party Beneficiaries.  Except as otherwise expressly provided herein, no party 
+other than the Parties to this Agreement,the Client, and any CBRE Affiliate under Section 
+D.2, shall have any rights in this Agreement.  The rights under this Agreement are 
+exclusively those of the Parties to this Agreement, the   Client, any CBRE Affiliate with 
+respect to Section D.2, and Client’s Affiliates and Replacement Service Provider with 
+respect to Section L.5.  There shall be no third party beneficiaries of this Agreement except 
+as set forth in the immediately preceding sentence.  Service Provider represents that it is 
+not aware of any party claiming such rights and in the event it becomes aware of any such 
+party claiming such rights, the Service Provider agrees to immediately notify CBRE and 
+to indemnify on demand CBRE, and any other CBRE Indemnified Parties, as applicable. 
+Z. Audit.  Service Provider shall maintain accurate and complete records in accordance with 
+generally accepted accounting principles that enable Service Provider to demonstrate full 
+compliance with this Agreement.  Upon prior written notice to Service Provider, CBRE and/or 
+Client may audit and verify Service Provider’s operating environment, business records, 
+compliance with the terms and conditions of this Agreement and any applicable terms and 
+conditions of the agreement between CBRE and Client (which shall be set out in Exhibit 9), 
+and service capabilities (but only to the extent that they relate to the provision of Services 
+delivered under this Agreement) during Service Provider’s normal business hours to ensure 
+that Service Provider is maintaining adequate controls and security measures, that Service 
+Provider’s billings to CBRE are correct, and that any reports required under this Agreement 
+are accurate.  Service Provider will provide CBRE and the Client with non-confidential 
+information and access to facilities and personnel relating to the Services.  If the audit discloses 
+that CBRE has paid Service Provider for any charges not properly incurred, Service Provider 
+shall promptly refund to CBRE, the amount of overpayment, interest at the prime rate from the 
+date of payment, and CBRE’s cost of audit. 
+AA. 
+Miscellaneous.   
+1. Headings.  The section headings appearing in this Agreement have been inserted for the 
+purpose of convenience and ready reference.  They do not purport, and shall not be deemed, 
+to define, limit or extend the scope or intent of the respective Sections.   
+2. Entire Agreement/Modification.  This Agreement, when fully executed, together with each 
+Statement of Work issued by CBRE, shall supersede any and all prior and existing 
+agreements between the Parties, either oral or in writing, and contains all the covenants 
+and agreements between the Parties with respect to the subject matter of this Agreement.  
+Any amendment or modification to this Agreement must be made in writing and signed by 
+the Parties hereto through a Variation Agreement, a sample of which is attached as Exhibit 
+12 and is hereby incorporated by reference as a part of this Agreement.   
+3. Waiver.  No term or provision of this Agreement shall be deemed waived and no breach 
+excused unless such waiver or consent shall be in writing and signed by the Party claimed 
+to have waived or consented.  No single or partial exercise of any right or remedy under 
+this Agreement shall prevent or restrict the further exercise of that or any other right or 
+remedy.  Any consent by any Party to, or waiver of, a breach by the other, whether express 
+or implied, shall not constitute a consent to, or waiver of, or excuse for any other different 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -30- 
+CBRE Service Agreement 31.03.17 
+or subsequent breach.  No failure to exercise or delay in exercising any right or remedy 
+provided under this Agreement or by law constitutes a waiver of such right or remedy, nor 
+shall it prevent or restrict any future exercise or enforcement of such right or remedy. 
+4. Counterparts.  This Agreement may be executed in any number of separate counterparts, 
+each of which, when so executed and delivered, shall be deemed an original, but all of 
+which, collectively and separately, shall constitute one and the same instrument.  All 
+signatures need not be on the same counterpart.  Furthermore, this Agreement and all 
+documents relating hereto, whether previously or hereafter furnished, may be reproduced 
+by any photographic, photostatic, microfilm, miniature photographic, digital storage or 
+other similar process.  The Parties agree that any such reproduction shall be admissible in 
+evidence as the original itself in any judicial or administrative proceeding, whether or not 
+the original is in existence and whether or not such reproduction was made by a Party in 
+the regular course of business, and that any enlargement, facsimile or further reproduction 
+of such reproduction likewise shall be admissible in evidence.  
+5. Survival.  All obligations and duties under any provisions, which by their nature extend 
+beyond the expiration or termination of this Agreement, including but not limited to 
+warranties, indemnifications, intellectual property (including protection of proprietary 
+information) shall survive the expiration or other termination of this Agreement of which 
+these provisions are made a part. 
+6. Authority.  Service Provider warrants and represents that it is authorized to enter into this 
+Agreement, and that the person signing on its behalf is duly authorized to execute this 
+Agreement, and that no other signatures are necessary. 
+7. Legal Fees.  The Parties agree that the prevailing Party shall be entitled to all costs and 
+expenses including, without limitation, court costs and reasonable attorneys’ fees, in any 
+action commenced relating to a dispute arising under this Agreement.   
+8. Severability.  If any part, term, or provision of this Agreement or any Statement of Work 
+is held by any court or administrative body of a competent jurisdiction to be illegal, invalid 
+or unenforceable, the validity of the remaining portions or provisions shall not be impaired 
+or affected, and the rights and obligations of the Parties shall be construed and enforced as 
+if this Agreement or such Statement of Work did not contain the particular part, term or 
+provision held to be illegal, invalid or unenforceable.  If any invalid, unenforceable or 
+illegal provision would be valid, enforceable or legal if some part of it were deleted, the 
+provision shall apply with the minimum modification necessary to make it legal, valid and 
+enforceable. 
+9. Interpretation. This Agreement and any Statement of Work issued hereunder shall be 
+construed as if drafted jointly by the Parties and no provision in this Agreement shall be 
+interpreted for or against any Party because that Party or that Party’s legal 
+representative drafted the provision. In case of conflict between the English version and a 
+locally translated version of this Agreement, the English version shall prevail 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -31- 
+CBRE Service Agreement 31.03.17 
+10. Currency.  Unless otherwise specified all monetary amounts stated in this Agreement are 
+in (refer to no. 8 of the Schedule table) and all payments hereunder shall be made in such 
+currency unless otherwise included in a Statement of Work.  
+BB. 
+Order of Precedence.  This Agreement, all documents listed therein and subsequently 
+issued amendments are essential parts of this Agreement and all conflicts arising therefrom 
+shall be subject to the following order of precedence: 
+1.  Client Required Contract Flow-Down Provisions as included in the Statement of Work; 
+2. This Service Agreement, Amendments to the Terms and Conditions as listed under Exhibit 
+1 attached herein, and any amendments to the Service Agreement in a Variation Agreement; 
+3. Exhibits, Addenda or Schedules incorporated as part of the Service Agreement; and 
+4. Statement of Works as defined in this Agreement.   
+This Agreement and any Statement of Work issued hereunder shall be subject to these terms 
+and conditions to the exclusion of all other express terms and conditions (including without 
+limitation any terms or conditions which the Service Provider purports to apply in any 
+document whatsoever and whenever).   
+ 
+CC. Client’s Consent; Effectiveness.  In the event that any agreement between CBRE and Client 
+shall require Client’s approval of this Agreement, then the effectiveness of this Agreement 
+shall be expressly subject to such approval.  CBRE shall endeavor to obtain such approval 
+within thirty (30) days after the execution of this Agreement by both CBRE and Service 
+Provider.  In the event Client does not provide such approval within such time, this Agreement 
+shall be null and void and of no force or effect. 
+
+ 
+Page 1 of 7 
+ 
+Amendment Agreement 
+ 
+This Amendment Agreement (hereinafter referred to as the “Amendment 
+Agreement”) is entered into at _______________ on this _____ day of June, 2017; 
+ 
+By And Between; 
+ 
+CBRE South Asia Private Limited a company incorporated under the 
+provisions of the Indian Companies Act, 1956 and having its registered office 
+at PTI Building ,4, Ground Floor , Parliament Street, Delhi- 110001 
+hereinafter referred to as (“First Party”) which expression shall, unless 
+repugnant to or inconsistent with the context or meaning thereof, shall 
+include its successors, affiliates, group companies and assigns, of the ONE 
+PART; 
+ 
+And; 
+ 
+ 
+_______________________________________________________________,  a company 
+incorporated under the provisions of the Indian Companies Act 1956 acting 
+through its Director / authorized official / partner / sole proprietor, Mr. / Ms. 
+_________________________ 
+and 
+having 
+its 
+registered 
+office 
+at 
+___________________________________________________________________________
+______________________ (hereinafter referred to as “Second Party", which 
+expression shall, unless repugnant to the context or meaning thereof, mean 
+and include its successors and permitted assigns etc.) of the OTHER PART. 
+ 
+First Party and the Second Party shall be individually referred to as the “Party” 
+and collectively as the “Parties”. 
+ 
+WHEREAS 
+ 
+1. First 
+Party 
+and 
+the 
+Second 
+Party 
+entered 
+into 
+______________________________ Agreement dated ____________________ 
+(“Agreement”) for the purposes of supply of goods / equipment / 
+provisioning of Services in accordance with the terms thereof; 
+ 
+2. Parties hereto acknowledge that pursuant to the GST Act coming into 
+effect, terms and conditions relating to the taxes in the Agreement is 
+required to be amended and accordingly are entering into this Amendment 
+Agreement capturing the applicable terms relating to GST Act; 
+ 
+3. The Parties have mutually agreed to amend the terms of the Agreement 
+and have agreed to reduce their intentions into writing and accordingly are 
+entering into this Amendment Agreement. 
+ 
+NOW THEREFORE, in consideration of the mutual covenants and 
+promises contained herein, the parties hereto agree as follows: 
+ 
+1. 
+Rules of Interpretation 
+
+ 
+Page 2 of 7 
+ 
+ 
+(a) 
+The Schedule(s) of the Agreement shall form an integral part of 
+this Amendment Agreement. 
+ 
+(b) 
+The headings and sub-headings are inserted for convenience only 
+and shall not affect the interpretation of this Amendment 
+Agreement. 
+ 
+(c) 
+Capitalized words and expressions used herein but not defined 
+herein shall have the same meaning as ascribed to them in the 
+Agreement. 
+ 
+(d) 
+All other terms and conditions of the Agreement, unless modified 
+or amended by this Amendment Agreement, shall be applicable 
+mutatis mutandis in so far as they are applicable to this 
+Amendment Agreement. 
+ 
+2. 
+This Amendment Agreement shall be effective from the date of execution 
+of this Amendment Agreement and the provisions relating to GST shall 
+be effective from the later date of the following, (i) 1st July, 2017; or (ii) 
+such date as may be notified by the Central Government bringing the 
+GST Act into effect. This Amendment Agreement shall remain valid, 
+effective and co-existent during the effective term of the Agreement. 
+ 
+3. 
+Parties hereby agree that from the Effective Date of this Amendment 
+Agreement, the terms relating to GST mentioned in Annexure 1 to this 
+Amendment Agreement shall be read and applicable in precedence over 
+the terms relating to taxes mentioned in the Agreement. Accordingly, 
+taxes wherever appearing in the Agreement shall be construed as 
+reference to taxes under GST. 
+ 
+4. 
+Notwithstanding anything contained in the Agreement or otherwise, the 
+Second Party shall adhere to and shall comply with the requirements 
+under the GST Act, terms of this Amendment Agreement and the GST 
+related terms and conditions in Annexure 1 to this Amendment 
+Agreement.  
+ 
+5. 
+Miscellaneous  
+ 
+This Amendment Agreement, including the relevant Annexures hereto 
+represents the entire agreement between the Parties and supersedes 
+and cancels all previous negotiations, agreements or commitments 
+(whether written or oral) with respect to the subject matter hereof 
+including any memorandum of understanding. This Amendment 
+Agreement is executed by the authorized representatives of both the 
+Parties. Any amendment and or addition to this Amendment 
+Agreement, or related document can be made with the consent of both 
+the Parties and shall be valid only if made in writing, signed by 
+authorized representatives of both the Parties.  
+
+ 
+Page 3 of 7 
+ 
+ 
+Except as otherwise modified herein, all terms and conditions 
+(including, without limiting the generality of the foregoing, all 
+obligations, representations, warranties and covenants of the Parties, 
+scope of the agreement) contained in the Agreement shall remain 
+unaffected and shall continue to be in full force and effect. In an event 
+of any conflict between the terms of this Amendment Agreement, and 
+the terms of the Agreement, the terms of this Amendment Agreement, 
+shall prevail. 
+ 
+IN WITNESS WHEREOF, the Parties hereto have executed this Amendment 
+Agreement, by their duly authorized representatives as of the date and year 
+above written. 
+ 
+ 
+Authorised signatory  
+ 
+ 
+ 
+Authorised signatory  
+For CBRE South Asia Private Limited 
+For _____________________________ 
+ 
+ 
+ 
+________________________ 
+ 
+ 
+________________________ 
+ 
+Name: 
+ 
+ 
+ 
+ 
+ 
+Name: 
+Designation: 
+ 
+ 
+ 
+ 
+Designation: 
+ 
+ 
+Witness 
+ 
+ 
+ 
+ 
+ 
+Witness 
+ 
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+ 
+________________________ 
+ 
+ 
+________________________ 
+Name: 
+ 
+ 
+ 
+ 
+ 
+Name: 
+Designation: 
+ 
+ 
+ 
+ 
+Designation: 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+ 
+________________________ 
+ 
+ 
+________________________ 
+Name: 
+ 
+ 
+ 
+ 
+ 
+Name: 
+Designation: 
+ 
+ 
+ 
+ 
+Designation: 
+ 
+ 
+
+ 
+Page 4 of 7 
+ 
+Annexure 1 
+ 
+GST Terms and Conditions 
+ 
+1. 
+Notwithstanding anything contained in the Agreement, the following 
+provisions in relation to the Goods and Services Tax (“GST”) shall be 
+applicable and required to be adhered to by the Second Party. 
+ 
+2.  
+The term 'GST Act' shall mean and include Central Goods and Service 
+Tax Act, 2017 (CGST Act), State Goods and Service Tax Act, 2017 (SGST 
+Act), Integrated Goods and Service Tax Act, 2017 (IGST Act), Union 
+Territory Goods and Service Tax Act, 2017 (UTGST Act), the Goods And 
+Services Tax (Compensation to States) Act, 2017, rules made 
+thereunder and any other GST related legislation in India for the time 
+being in force including without limitation statutes, rules, regulations, 
+bye-laws, policies made thereunder, along with any revisions, 
+amendments or re-enactments and  judgments, decrees, injunctions, 
+writs, orders  issued by any Court of Record or other requirement or 
+official directive of any Governmental Authority or any person acting 
+under the authority of any Governmental Authority or any statutory or 
+regulatory authority.  
+ 
+3. 
+The Second Party shall: 
+ 
+i. 
+provide First Party, the valid PAN no. and state wise GST registration 
+number(s); 
+ 
+ii. 
+on an annual basis, the Second Party shall provide First Party a self-
+declaration that the Second Party is fully compliant with the GST laws, 
+rules and regulations and the Second Party has not been black listed; 
+ 
+iii. 
+correctly mention all requisite information, on the invoice and the GST 
+portal, as required under the GST laws including but not limited to the 
+correct amount, the place of supply, rate of tax, GSTIN of First Party 
+etc.; 
+ 
+iv. 
+on its invoices, correctly mention the purchase order number issued by 
+First Party; 
+ 
+v. 
+issue invoices, in compliance with the requirements under the GST laws 
+and regulations and in a timely manner. Further it shall be the 
+responsibility of Second Party to declare the details of the debit notes 
+issued to First Party in their returns for the month during which such 
+debit notes have been issued, not later than September following the 
+end of the financial year in which supply or services was made or 
+provided, or the date of furnishing of the relevant annual return, 
+whichever is earlier; 
+ 
+
+ 
+Page 5 of 7 
+ 
+vi. 
+ensure that the invoice raised by Second Party should reach First Party 
+not later than 7 days from the date of issuance of invoice; 
+ 
+vii. 
+ensure that outward supply return (GSTR-1) is filed correctly and shall 
+declare correct information on the invoice raised to First Party and GST 
+portal; in case of any mismatch the Second Party shall promptly make 
+amendments or such corrective measures to ensure that First Party 
+does not suffer any loss of credit due to such mismatch; 
+ 
+viii. 
+upload appropriate invoice details on the GSTN (Goods and Service Tax 
+Network) within the time stipulated by the GST laws or regulations; 
+ 
+ix. 
+where a tax invoice has been issued by Second Party for supply of any 
+goods or services as the case may be, and the taxable value or tax 
+charged in that tax invoice is found to exceed the taxable value or tax 
+payable in respect of such supply, or where the goods supplied are 
+returned by First Party, or where goods or services supplied are found 
+to be deficient, issue to First Party a GST compliant credit note; 
+ 
+x. 
+within the timeline specified under the GST laws and regulations, 
+accept the changes / addition / deletion made by First Party on GSTN 
+portal on account of non-upload or incorrect upload of details on GSTN 
+by the Second Party; 
+ 
+xi. 
+in the case where domestic reverse charge is applicable on supply of 
+goods or services by Second Party to First Party under GST Act, the 
+Second Party shall not charge any tax on invoice raised to First Party; 
+ 
+xii. 
+be solely responsible for performing all compliances and making 
+payments of GST, cesses, interest, penalties or any other tax/ duty/ 
+amount/ charge/ liability arising either out of laws/ regulations 
+applicable in India and overseas or because of a demand/ recovery 
+initiated by any revenue authority under laws/ regulations applicable 
+in India or overseas; 
+ 
+xiii. 
+raise invoice basis purchase order issued by First Party; 
+ 
+xiv. 
+issue GST compliant receipt voucher to First Party, where in terms of 
+the agreement, First Party pays advance amount to the Second Party 
+for supply of goods/ services. Further, the Second Party would be 
+required to issue refund voucher as prescribed under GST Act in case 
+no supply is made and no invoice is raised by Second Party to First 
+Party or the value of goods or services is less than the advance amount 
+paid; 
+ 
+xv. 
+comply with all the requirements related to e-way bill, in case of 
+movement of goods exceeding limit as prescribed under the GST Act; 
+ 
+
+ 
+Page 6 of 7 
+ 
+xvi. 
+share the monthly information of invoices / debit notes / credit notes 
+raised for supply of goods or services during the month, with First Party 
+along with details of tax deposited thereon; 
+ 
+5. 
+Second Party hereby acknowledges that under the Agreement, the place 
+of supply under GST Act shall be the place of supply as determined 
+under purchase order raised by First Party. It shall be the responsibility 
+of the Second Party to intimate First Party well in advance in case of 
+deviation / disagreement with the place of supply as mentioned in the 
+PO and on rate of tax, billing location, HSN code/ SAC code and other 
+particulars stated in PO.  
+ 
+6. 
+In addition to the above, in relation to the invoices, the Second Party 
+shall ensure that: 
+ 
+i. 
+All details relating to the Second Party (name, address, GSTIN, place of 
+supply, SAC/ HSN code etc.) and other mandatory details are correctly 
+mentioned on the invoice; 
+ 
+ii. 
+invoices are raised at the correct registered premise of First Party so 
+that First Party can avail credit and the Second Party shall ensure that 
+the place of supply as per GST law is same as registered premise of First 
+Party; 
+ 
+iii.    in case Second Party raises the invoice on an address other than agreed, 
+it shall be the responsibility of the Second Party to modify and rectify 
+the invoice in a timely manner. 
+ 
+7. 
+The Second Party hereby agrees to pass on the benefit of reduced prices 
+to First Party, arising due to seamless credit admissibility and reduction 
+in rate of tax under the GST regime. In case the Second Party defaults 
+in passing on the benefit to First Party, First Party shall be eligible for 
+and shall recover interest computed @18% p.a. till the time of receipt of 
+amount of benefits accrued to Second Party due to reasons mentioned 
+above. Further, the Second Party shall provide First Party, if requested 
+for, a certificate from a Chartered Accountant certifying the amount of 
+benefit to Second Party accrued on account of the above. 
+ 
+8. 
+Notwithstanding anything contained in the agreement executed 
+between the Parties, First Party will make the payment to the Second 
+Party only after the invoice is uploaded by Second Party in GST outward 
+supply return i.e. GSTR-1 and credit of GST is available (reflected in 
+GSTR-2A) to First Party. Further, the Second Party acknowledges that 
+for claiming its payment the Second Party shall submit the following 
+documents to First Party along with appropriate invoice:  
+ 
+1. E-way bills; 
+2. Delivery challans; 
+6. Any other document as may be informed by First Party. 
+
+ 
+Page 7 of 7 
+ 
+ 
+9. 
+Notwithstanding anything contained in the agreement or any 
+modifications thereof, First Party shall be within its right to deduct tax 
+at source from any payments to the Second Party, as prescribed under 
+GST Act. 
+ 
+10. 
+The Second Party shall indemnify, hold harmless and defend First 
+Party, its Affiliates, directors, officers, employees, and agents 
+(“Indemnified Persons”) from and against any claims, loss, costs, 
+penalties arising out of due to the breach or due to any of the acts or 
+omission on the part of the Second Party to comply any of the 
+obligations mentioned above or otherwise or due to any reasons whereof 
+First Party is not able to avail the tax credit under the GST laws and 
+regulations. 
+ 
+ 
+
+ 
+CBRE Service Agreement 5-26-17 (Rev 3) 
+Exhibit 1 
+ 
+Amendments to the Terms and Conditions 
+ 
+Clause 
+# 
+Clause Description 
+Sub-Clause 
+Revised Clause 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PRIVATE & CONFIDENTIAL 
+ 
+    -1- 
+CBRE Service Agreement 30-11-16 (Rev 2) 
+ 
+Exhibit 2 
+Definition of Services 
+ 
+This is Exhibit 2 to the Services Agreement by and between CBRE and Service Provider (the 
+“Agreement”) and constitutes a profile service description for Services that may be incorporated 
+for performance under one or more Statement of Works.    
+Service Provider will provide the Services as necessary in order to satisfy the Service Levels and 
+in accordance with the Policy and Procedures Manual, the then current CBRE Standards (including 
+CBRE standards, specifications, policies, processes and procedures relating to information 
+technology, data entry, data management, data transmission, data privacy, security and technology, 
+as applicable), applicable Laws, and as directed by CBRE from time to time. 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 1 of 15 
+  
+Exhibit 3 
+STATEMENT OF WORK FOR SERVICE AGREEMENT  
+                                                                      
+                           Statement of Work #:      
+Modification #:       
+SOW Date:      
+This Statement of Work is issued pursuant to Service Agreement No.        ___________ 
+ and 
+all 
+Goods 
+and 
+Services authorized hereunder will be delivered in accordance with the terms and conditions of said Service 
+Agreement with such terms and conditions being incorporated herein by reference with the same force and effect  as 
+if the full text were presented in its entirety.  Except as otherwise expressly provided in this Statement of Work, all 
+capitalized terms shall have the meanings ascribed to them in the Service Agreement. All Exhibits and Addenda of 
+this Statement of Work are Incorporated Documents.  
+CBRE Entity: 
+ 
+CBRE Point of Contact, 
+Title and Contact 
+Information:  
+Name: Amit Verma 
+Title: Director – Sourcing 
+Phone Number: +91 124 - 4659700 
+Email Address: Amit.Verma3@cbre.com 
+Agent/Principal: 
+CBRE is Principal with respect to this Statement of Work. 
+                  (Principal or Agent for Client) 
+Client: 
+Please refer PO 
+Service Provider:  
+ 
+Payment Terms: 
+________ days after receipt of invoice, subject to CBRE has received payment from 
+Client for such Services Provider Fees 
+Governing Law: 
+ 
+Term: 
+Commencing _____________ and ending___________, subject to earlier 
+termination in accordance with the terms of the Service Agreement. 
+Description of Products & Services 
+(Specify Below and include the details  Scope of Services and Price; include all 
+applicable sales tax) 
+ 
+Amount 
+ 
+[Insert General Description of Services] 
+ 
+Attachments: 
+ 
+Addendum 1 – Statement of Works Specific Terms and Conditions  
+Addendum 2 – Scope of Services 
+Addendum 3 – Facility Listing 
+Addendum 4 – Pricing 
+Addendum 5 – Client Required Flow-down Terms and Conditions 
+Addendum 6 – Change Request  
+Addendum 7 – Transition Services  
+Addendum 8 – As per Exhibit 10 Meeting Schedule  
+ 
+ 
+See Addendum 3 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 2 of 15 
+  
+ 
+ 
+This Statement of Work and the referenced Service Agreement represent the entire agreement between CBRE, Inc. 
+and Service Provider concerning the Services provided herein. 
+SIGNATURES ARE ON THE FOLLOWING PAGE 
+CBRE: 
+CBRE, Inc. 
+[Insert Account Address] 
+[Insert Account Address] 
+ 
+ 
+SERVICE PROVIDER: 
+[Service Provider Name]. 
+[Insert Account Address] 
+[Insert Account Address] 
+ 
+By: 
+ 
+ 
+By: 
+ 
+Name: 
+ 
+ 
+Name: 
+ 
+Title: 
+ 
+ 
+Title: 
+ 
+Date: 
+ 
+ 
+Date: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 3 of 15 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Addendum 1 
+Statement of Work Specific Terms and Conditions 
+1. 
+Include the language below in the SOW only if CBRE is acting as Agent for Client with respect 
+to this Statement of Work. 
+Service Provider acknowledges and agrees that CBRE is entering into this Statement of Work 
+solely in its capacity as agent for Client pursuant to the terms of CBRE’s agreement or agreements 
+with Client.  With respect to all contractual obligations, whether express or implied, entered into 
+by and between CBRE and Service Provider, whether pursuant to this Statement of Work or 
+otherwise, Service Provider and CBRE hereby acknowledge and agree that CBRE is entering into 
+such obligations only in its capacity as Client’s agent and with respect to any and all obligations to 
+be discharged on behalf of Client or CBRE, Client shall be, and hereby is acknowledged to be, the 
+exclusive obligor hereunder.  In connection therewith, CBRE shall bear no obligation, express or 
+implied, with respect thereto, and Service Provider shall not seek enforcement of any such 
+obligation against CBRE, in CBRE’s individual capacity or as Client’s agent hereunder. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 4 of 15 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 5 of 15 
+  
+Addendum 2 
+Scope of Services 
+Service Provider shall provide the Services to CBRE and the Eligible Recipients in accordance with 
+the Agreement (including Exhibits and Attachments thereto) as it may be modified and/or 
+supplemented in this Statement of Work (including the Schedules and Attachments hereto).   
+ 
+[include detailed description of Services to be provided, including  
+• 
+Work plan or other document detailing Services, as appropriate 
+• 
+Detail Milestones, including Critical Milestones  that carry Deliverable Credits or 
+payment triggers 
+• 
+Identify if the Services are “Strategic Services” (and if so, define the Direct CBRE 
+Competitors and Restraint Period); 
+• 
+Define any specific infrastructure or security requirements required for Service Provider 
+to have in place prior to performing the services.  
+• 
+Define any Warranty Period for Developed Materials 
+• 
+Define any Eligible Recipients] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 6 of 15 
+  
+Addendum 3 
+Facility Listing 
+Service Provider and its Affiliates and Subcontractors shall provide the Services pursuant to the Statement 
+of Work at or from the Service Provider Facilities described in this Addendum 2.  
+ 
+Service Provider Facilities –  
+Ref # 
+Country 
+Location 
+Site 
+ 
+1 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 7 of 15 
+  
+Addendum 4 
+Pricing 
+STATEMENT OF WORK PRICING 
+Include all pricing documents in the space below  
+1. Pricing Forms  
+2. Resource units  
+3. Termination charges  
+4. Others (please add as relevant) 
+ 
+Upon agreement of the parties for Productivity Savings (Exhibit 4, Clause 6), Service Provider 
+shall have ___ % year on year guaranteed savings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 8 of 15 
+  
+ 
+Addendum 5 
+Client Required Flow-Down Terms and Conditions 
+ 
+All provisions of this Addendum 5 are intended to supplement the Agreement.  Notwithstanding, 
+any language to the contrary contained in the Agreement, in the event of a conflict between the 
+terms of this Addendum 5 with those terms covering the same subject matter in the body of the 
+Agreement, the terms of this Addendum shall prevail. 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 9 of 15 
+  
+Addendum 6 
+Change Request Template 
+CONTRACT NUMBER: CW [XXXX] 
+ ([PROJECT WORK ORDER DESCRIPTION])  
+CHANGE REQUEST #: CR [XXX] 
+This Change Request, dated ____________ involves the request by [enter Requesting Party] for changes 
+to the  Services under a Statement of Work or Project Work Order (Change). 
+This Change Request does not authorize Service Provider to commence any amended Services and CBRE 
+retains the right at all times to withdraw or reject the Change Request until such time as both parties have 
+executed this Change Request or a formal variation to the Statement of Work or Project Work Order.    
+If CBRE approves the Change, and the Parties execute this Change Request, it will form a variation to the 
+relevant Statement of Work or Project Work Order. 
+. 
+To: 
+[enter Requesting Party] 
+From: 
+[enter Receiving Party] 
+ 
+ 
+ 
+ 
+Service 
+Provider 
+Contact: 
+[Service 
+Provider 
+contact 
+name] 
+RT Contact: 
+[RT name] 
+Change Request Details 
+Change 
+Request 
+Name 
+[brief reference name to reflect requirement] 
+Date Raised 
+[dd/mm/yy] 
+Date Required 
+[dd/mm/yy] 
+Importance 
+□High  □Medium  □Low 
+Priority 
+□High  □Medium  □Low 
+Material change to 
+existing Services 
+□Yes   □No 
+New service  
+□Yes   □No 
+Description 
+of 
+proposed Change 
+[provide as much detail as available or reference a separate document; details to include 
+1. the Change proposed and reason for Change 
+2. any risks associated with the proposed Change 
+3. the impact to Service Levels (during and after implementation) 
+4. the impact to technology or infrastructure 
+5. the timeframe to implement  
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 10 of 15 
+  
+6. the roles and responsibilities of the parties ] 
+  
+Charges 
+[define any changes to the Charges ]  
+Assumptions 
+[define any assumptions]   
+Attachments 
+/ 
+References 
+[define] 
+Related 
+Change 
+Requests 
+[define] 
+Approval requirements 
+Service Provider 
+Approval 
+Required By  
+[enter name/position of person 
+with appropriate authority] 
+ 
+CBRE Approval 
+Required By 
+[enter name/position of person 
+with appropriate delegated 
+financial authority or who will 
+be impacted by the Change] 
+Signature 
+ 
+Signature 
+ 
+Date 
+ 
+Date 
+ 
+ 
+ 
+CBRE Approval 
+Required By 
+RT Statement of Work 
+Relationship Manager or their 
+delegated authority 
+ 
+ 
+Signature 
+ 
+ 
+ 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 11 of 15 
+  
+Addendum 7 
+Transition Services 
+ 
+The Transition Plan are an inherent or necessary part of the Transition Services or are required 
+for the proper performance of the Transition Services in accordance with the Statement of 
+Work, they shall be deemed to be included within the scope of the Transition Services to be 
+delivered for no additional charge, as if such services, functions or responsibilities were 
+specifically described in the Transition Plan.  
+ 
+During the Transition Services Period, CBRE will perform those tasks which are designated to 
+be CBRE’s responsibility in  the Transition Plan (which shall be deemed to include any services, 
+functions or responsibilities not specifically described in the Transition Plan that are an inherent 
+or necessary part of, or are required for the proper performance of, what are described in the 
+Transition Plan as CBRE responsibilities) provided, however, CBRE shall not be obligated to 
+perform any tasks during the Transition Services Period that are not set forth in the Transition 
+Plan.  
+ 
+Unless otherwise agreed, CBRE shall not incur any charges, fees or expenses payable to Service 
+Provider or third parties in connection with the Transition Services, other than those charges, 
+fees and expenses specified in the Statement of Work and those incurred by CBRE in 
+connection with its performance of tasks designated in the Transition Plan as CBRE’s 
+responsibility. 
+ 
+1.1 
+Content of Transition Plan.  
+(a) 
+the Service Provider shall include in the summary transition plan the following:   
+(i) 
+a process and set of standards acceptable to CBRE to which Service Provider 
+will adhere in the performance of the Transition Services and that will 
+enable CBRE to determine whether Service Provider has successfully 
+completed the transition and the activities and deliverables associated with 
+each Critical  Milestone, in accordance with the acceptance criteria specified 
+in the Transition Plan; 
+(ii) 
+the contingency or risk mitigation strategies to be employed by Service 
+Provider in the event of disruption or delay;  
+(iii) 
+any transition responsibilities to be performed or transition resources to be 
+provided by CBRE or the Eligible Recipients; and  
+(iv) 
+a detailed work plan identifying the specific transition activities to be 
+performed by individual Service Provider Personnel on a weekly basis 
+during the Transition Services Period.  
+(b) 
+Upon approval by CBRE, the detailed Transition Plan shall be appended as 
+Addendum 7 to the Statement of Work. 
+ 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 12 of 15 
+  
+1.2 
+Performance.  
+ 
+(a) 
+Service Provider shall provide all cooperation and assistance reasonably required 
+or requested by CBRE in connection with CBRE’s evaluation or testing of the 
+deliverables set forth in the Transition Plan.  
+(b) 
+Service Provider shall perform the Transition Services in a manner so as to avoid 
+or minimise to the extent reasonably possible any:  
+(i) 
+disruption or adverse impact on the business or operations of CBRE or the 
+Eligible Recipients;  
+(ii) 
+degradation of the Services then being received by CBRE or the Eligible 
+Recipients;  
+(iii) 
+disruption or interference with the ability of CBRE or the Eligible 
+Recipients to obtain the full benefit of the Services, except as may be 
+otherwise provided in the Transition Plan.  
+(c) 
+Prior to undertaking any transition activity, Service Provider shall discuss with 
+CBRE all known specific material risks and shall not proceed with such activity 
+until CBRE is reasonably satisfied with the plans with regard to such risks 
+(provided, however, that, neither Service Provider’s disclosure of any such risks to 
+CBRE, nor CBRE’s acquiescence in Service Provider’s plans, shall operate or be 
+construed as limiting Service Provider’s responsibilities under this Agreement or a 
+Statement of Work). 
+(d) 
+Service Provider shall identify and resolve, with CBRE’s reasonable assistance, any 
+problems that may impede or delay the timely completion of each task in the 
+Transition Plan that is Service Provider’s responsibility and shall use commercially 
+reasonable efforts to assist CBRE with the resolution of any problems that may 
+impede or delay the timely completion of each task in the Transition Plan that is 
+CBRE’s responsibility. 
+1.3 
+Meetings; Reports.  
+(a) 
+Service Provider shall meet at least weekly or at such other intervals with CBRE to 
+report on its progress in performing its responsibilities and meeting the timetable 
+set forth in the Transition Plan for the Statement of Work. Service Provider shall 
+include Service Provider Personnel in such meetings as and to the extent appropriate 
+or requested by CBRE.  
+(b) 
+Service Provider also shall provide written reports to CBRE at least weekly, 
+regarding such matters, and shall provide oral reports more frequently if reasonably 
+requested by CBRE. Promptly upon receiving any information indicating that 
+Service Provider may not perform its responsibilities or meet the timetable set forth 
+in the Transition Plan, Service Provider shall notify CBRE in writing of material 
+delays and shall identify for CBRE’s consideration and approval specific measures 
+to address such delay and mitigate the risks associated therewith.  
+1.4 
+Suspension or Delay of Transition Activities.  
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 13 of 15 
+  
+(a) 
+CBRE reserves the right, in its sole discretion, to suspend or delay the performance 
+of the Transition Services and/or the transition of any part of the Services under the 
+Statement of Work. If CBRE elects to exercise such right, then, to the extent 
+CBRE’s decision is based on Service Provider’s failure to perform its obligations 
+with respect to the Transition Services under this Agreement or the Statement of 
+Work, CBRE shall not incur any additional Charges, Termination Charges or 
+reimbursable expenses in connection with such decision.  
+(b) 
+To the extent CBRE’s decision is not based on Service Provider’s failure to perform 
+its obligations under this Agreement or the Statement of Work, CBRE shall, in 
+addition to paying any applicable Charges for Services that Service Provider 
+continues to provide, reimburse Service Provider for any additional costs 
+reasonably incurred by Service Provider as a result of such decision (provided that 
+Service Provider notifies CBRE in advance of such costs, obtains CBRE’s approval 
+prior to incurring such costs, establishes a reasonable cap on such costs and uses 
+commercially reasonable efforts to minimise such costs). 
+1.5 
+Failure to Meet Critical Transition Milestones.  
+The Parties acknowledge and agree that each Transition Plan under a Statement of Work 
+may specify various Critical Milestones by which material transition activities and/or 
+deliverables are to be completed. If Service Provider fails to meet a ccritical mmilestone, 
+Service Provider shall pay CBRE the Deliverable Credits to cover the  lost. Neither the 
+Transition Services nor the activities and deliverables associated with individual ccritical 
+mmilestones shall be deemed complete until CBRE’s aacceptance of such activities and 
+deliverables.  
+1.6 
+Termination for Cause.  
+(a) 
+Notwithstanding the foregoing, and in addition to any other termination right CBRE 
+may have under the Agreement or this Statement of Work, CBRE may terminate 
+the Statement of Work in whole or in part for cause if:  
+(i) 
+Service Provider materially breaches its obligations with respect to the 
+provision of Transition Services under the Statement of Work and fails to 
+cure such breach within fifteen (15) days after its receipt of notice;  
+(ii) 
+Service Provider fails to meet a Critical Milestone by the applicable date set 
+out in the Transition Plan and Service Provider fails to cure such failure 
+within fifteen (15) days after its receipt of notice.  
+(b) 
+In all such events, CBRE may recover the damages suffered by CBRE or the 
+Eligible Recipients in connection with such a termination, provided that, if such a 
+termination is based on Service Provider’s failure to meet a Critical Milestone, 
+Service Provider shall be entitled to set-off against such damages any Deliverable 
+Credits Service Provider has paid for the failure to meet such Critical Milestone.  
+ 
+ 
+1. Transition Services Period: 
+a. Start Date: 
+b. End Date: 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 14 of 15 
+  
+2. Transition Services.   
+ 
+a. Description of services: The following Transition Services shall be undertaken by 
+Service Provider 
+[include detailed description of services to be provided] 
+ 
+b. CBRE Responsibilities: 
+[include detailed description of services to be provided] 
+ 
+c. Deliverables.   
+[identify all specific deliverables to be provided; Note – as appropriate, these can 
+be identified in the  attached Transition Plan or other document detailing 
+Transition Services, as appropriate; note these should be tied to Critical 
+Deliverables, as applicable, see below] 
+ 
+ 
+3. Transition Plan.   
+[initially include summary  transition plan which shall be replaced with a detailed final 
+transition plan within 15 days after the Statement of Work Effective Date; ensure Statement 
+of Work Commencement Date is defined;] 
+ 
+# 
+Transition 
+Stream 
+Transition Deliverable 
+Milestone 
+Date 
+Interim/ 
+Final 
+Milestone 
+Critical 
+Transitio
+n 
+Milestone 
+Deliverab
+le Credit 
+1 
+[example] 
+[description] 
+[date] 
+[I/F] 
+[Y/N] 
+[$] 
+ 
+4. Transition meetings.   
+[include type, frequency and attendees] 
+ 
+5. Transition reports.   
+[include details, frequency, media] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Exhibit_3_-_Statement_of_Work_2     Page 15 of 15 
+  
+Addendum 8 
+ 
+(Ref: Exhibit 10.4) 
+ 
+Governance 
+Forum 
+Meeting 
+Frequency 
+CBRE Members 
+Supplier Members 
+Work 
+Statement 
+Relationship 
+Meeting 
+Quarterly  
+Work Statement 
+Relationship Manager 
+Supply Chain Manager  
+Other personnel as 
+required 
+Work Statement 
+Relationship Manager 
+Other personnel as 
+required 
+ 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -1- 
+CBRE Service Agreement 30-11-16 (Rev 2) 
+ 
+Exhibit 4 
+Pricing  
+1. 
+General  
+In addition to the requirements specified in the Service Agreement, this Exhibit 4 contains 
+pricing and financial provisions.  There shall be no charges to CBRE except those expressly 
+provided for in this Exhibit 4 or the applicable Statement of Work(s). 
+2. 
+Assumptions  
+(a) 
+Service Provider will document any key assumptions affecting price, schedule or 
+functionality applicable Statement of Work. If no impacts are specified, then CBRE 
+will assume there are none.   
+(b) 
+Service Provider shall not charge CBRE for on-call or shift differential premiums 
+unless otherwise agreed to in a Statement of Work. 
+(c) 
+Service Provider shall not be entitled to charge for overtime unless agreed by CBRE 
+prior to being incurred. 
+3. 
+Out of Pocket Expenses  
+3.1 
+Immigration, living and equipment 
+Unless otherwise specified in a Statement of Work, the charges include all immigration, 
+living and equipment (including laptop and desktop) expenses.  
+ 
+3.2 
+Travel  
+CBRE shall reimburse Service Provider for Out-of-Pocket Expenses incurred for travel as 
+required to perform the Services specified in a Statement of Work provided that:  
+(a) 
+such expenses (including an estimate of the total cost) have been agreed by the 
+Parties in the Statement of Work or in writing prior to such expenses being incurred;  
+(b) 
+Service Provider complies with applicable CBRE travel expense policies which 
+have been notified in writing to Service Provider.  
+3.3 
+Increases tax costs  
+(a) 
+The Parties acknowledge and agree that, in certain circumstances, Service Provider 
+Personnel performing Services in a single location outside the city, state, province, 
+or country in which such Service Provider Personnel are based may incur increased 
+tax costs for which they are entitled to be reimbursed by Service Provider.   
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -2- 
+CBRE Service Agreement 30-11-16 (Rev 2) 
+ 
+(b) 
+With respect to project work performed by Service Provider on a time & materials 
+basis, CBRE agrees to reimburse Service Provider for such increased tax costs if 
+and to the extent the applicable Statement of Work expressly provides for such 
+reimbursement.  If the applicable Statement of Work does not provide for such 
+reimbursement, but CBRE changes the requirements of the time & materials project 
+in a manner that prolongs the anticipated involvement of Service Provider 
+Personnel then working on the project and thereby triggers the potential for such 
+increased tax costs, Service Provider shall so notify CBRE via a Change Request, 
+and shall use commercially reasonable efforts to propose means of minimising any 
+increased tax costs to the extent legally permissible.  If the Parties are unable to 
+agree on measures to minimise such increased tax costs and CBRE nonetheless 
+wishes to proceed with such changes, CBRE shall reimburse Service Provider for 
+such increased tax costs.  In all events, Service Provider shall use commercially 
+reasonable efforts to minimise to the extent legally permissible any increased tax 
+costs to be reimbursed by CBRE.  For avoidance of doubt, unless otherwise agreed 
+in a specific Statement of Work, CBRE shall not be obligated to reimburse Service 
+Provider for increased tax costs associated with non-project work or project work 
+on a fixed price basis.  
+4. 
+Non chargeable functions 
+The charges shall not include the cost of functions, including overhead functions that are 
+provided as part of overall contract management and administration.  Examples of these 
+functions include:  
+(a) 
+performing Service Provider back office functions; 
+(b) 
+Service Provider account management; 
+(c) 
+Service Provider managers (excluding project managers, project staff, team 
+leaders/supervisors and their immediate managers); 
+(d) 
+all transition/migration-related activities (e.g., project management, training, 
+process implementation, governance, planning, knowledge-transfer) except where 
+expressly listed as chargeable in a Statement of Work; 
+(e) 
+Service Level administration, monitoring, metrics/measurement implementation 
+(other than function point counting and administration), and reporting as required 
+by the Statement of Work; 
+(f) 
+resource management or administration, staffing, HR-related functions; 
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -3- 
+CBRE Service Agreement 30-11-16 (Rev 2) 
+ 
+(g) 
+Service Provider financial teams; 
+(h) 
+all administration-related functions including administrative assistants and/or 
+secretaries, promotion, publicity, internal management; 
+(i) 
+all management reporting to the extent required by the Statement of Work; 
+(j) 
+all planning-related activities (including technology, business, financial/budget, 
+data centre capacity and support);  
+(k) 
+all activities to train Service Provider Personnel (other than training required by 
+CBRE that is specific to CBRE’s businesses and not general to the technology 
+supported by Service Provider); 
+(l) 
+implementation, training of Service Provider Personnel, and customisation of 
+standard project management processes and methodologies; 
+(m) 
+activities and tools implemented by Service Provider either at its discretion or as 
+required to meet its obligations under the Statement of Work; 
+(n) 
+work to develop action plans as a result of any Service Level Default;  
+(o) 
+support of any chargeback or allocation of Service Provider’s invoice to the extent 
+required by the Statement of Work. 
+5. 
+Productivity Savings 
+ 
+5.1 
+Obligation to cooperate  
+From time to time, CBRE may request that the Parties work together to identify ways to 
+achieve reductions in the cost of service delivery and corresponding reductions in the 
+Charges to be paid by CBRE by modifying or reducing the nature or scope of the 
+Services, the applicable Service Levels or other contract requirements.  
+5.2 
+Cost reduction proposal  
+(a) 
+If requested by CBRE, Service Provider shall  
+(i) promptly prepare a proposal at a level of detail sufficient to permit CBRE 
+to make an informed business decision regarding viable ways of 
+achieving the desired reductions without adversely impacting business 
+objectives or requirements identified by CBRE; 
+(ii) give due consideration to any means of achieving such reductions 
+proposed by CBRE; and  
+
+ 
+PRIVATE & CONFIDENTIAL 
+ 
+    -4- 
+CBRE Service Agreement 30-11-16 (Rev 2) 
+ 
+(iii) negotiate in good faith with CBRE about each requested reduction in 
+Charges and, without disclosing the actual cost of providing the Services, 
+shall identify for CBRE if and to what extent the cost of service delivery 
+may be reduced by implementing various changes in the contract 
+requirements.  
+ 
+(b) CBRE shall not be obligated to accept or implement any proposal prepared 
+by the Service Provider in accordance with Section 5.2(a) and Service 
+Provider shall not be obligated to implement any change that affects the terms 
+of this Agreement unless and until such change is reflected in a written 
+amendment to this Agreement. 
+
+PRIVATE & CONFIDENTIAL 
+ 
+    -1- 
+CBRE Master Service Agreement 30-11-16 (Rev 2) 
+ 
+Exhibit 5 
+CBRE Service Provider Code of Conduct 
+POLICY 7.2.1 SERVICE PROVIDER CODE OF CONDUCT 
+ 
+EFFECTIVE DATE: May 20, 2016 
+ 
+REVISED: 
+ 
+CBRE Group, Inc., including each of its divisions, business units, affiliates and subsidiaries, 
+(collectively, “CBRE”) is firmly committed to conducting business with the highest integrity and 
+in compliance with the letter and spirit of the law. As an industry leader and a responsible business, 
+CBRE seeks to use its position to promote the highest standards for ethics and business conduct 
+wherever CBRE operates. As a service provider of products and/or services to CBRE, your 
+company (“Service Provider”) is critical to CBRE’s success, and in order for CBRE to provide 
+superior services in a responsible manner, CBRE requires Service Provider to comply with this 
+Service Provider Code of Conduct (this “Code”). 
+ 
+This Code sets forth CBRE’s fundamental ethical and business conduct requirements for its service 
+providers. This Code is not intended to be an exhaustive list of all requirements to be followed by 
+Service Provider, but is intended to be a high level overview of such requirements. All references 
+in this Code to “Laws” means all applicable laws, regulations, directives, rules, decrees, and 
+governmental orders. 
+ 
+Service Provider is responsible for ensuring that their directors, officers, employees, agents, 
+representatives, service providers, subcontractors, and other business partners understand, and 
+comply with, the requirements set forth in this Code. Service Provider will promptly notify CBRE 
+in writing of any known or suspected violation of this Code. 
+ 
+Anti-bribery/Corruption. Service Provider must compete strictly on the basis of the merits of 
+their products and services. Service Provider must never offer, promise, authorize, or provide, 
+directly or indirectly, anything of value (including, without limitation, business gifts or courtesies) 
+with the intent or effect of inducing anyone (including, without limitation, a CBRE customer, 
+CBRE employee, or higher tier or sub-tier service provider) to forego their duties and provide 
+unfair business advantage to CBRE, Service Provider, or others. Accordingly, Service Provider 
+will, and will cause its employees, representatives, and subcontractors to, comply with all Laws 
+relating to anticorruption and anti-money laundering in all of the countries in which any affiliated 
+business or associate of the Service Provider provides products or services, directly or indirectly, 
+and any other countries in which Service Provider conducts business. 
+ 
+Unfair Business Practices. Service Provider must not engage in any illegal anti-competitive 
+conduct or deceptive trade practice for any reason whatsoever, whether on behalf of CBRE, 
+Service Provider, or others. Accordingly, Service Provider must never rig bids, fix prices, or 
+provide or exchange customers, CBRE’s, Service Provider’s, or others’ competitively sensitive 
+information (including, without limitation, price, cost, and technical data) with CBRE’s 
+competitors or competitors of Service Provider. Service Provider must also refrain from abusing 
+
+PRIVATE & CONFIDENTIAL 
+ 
+    -2- 
+CBRE Master Service Agreement 30-11-16 (Rev 2) 
+ 
+their market power, whether for their benefit or for the benefit of others, by refusing to deal fairly, 
+engaging in predatory or discriminatory pricing practices, conditioning the sale or provision of a 
+particular product or service with that of another 
+product or service, or undertaking similar abusive tactics. Service Provider must not engage in 
+other deceptive or unfair market practices, whether on behalf of CBRE, Service Provider, or others. 
+Further, Service Provider must never make any misrepresentations relating to the products or 
+services of CBRE, Service Provider or others. Similarly, Service Provider must never denigrate 
+CBRE’s competitors or Service Provider’s competitors, or their products or services. 
+ 
+Data Privacy and Information Security. Service Provider must follow all applicable data 
+protection, privacy and information security Laws in the countries in which it operates and be 
+committed to respecting and protecting the privacy of individuals (including, without limitation, a 
+CBRE customer, CBRE employee or other service provider). Service Provider may only collect 
+personal information for business related purposes in connection with the specific services being 
+provided to CBRE. Service Provider shall retain personal information only for as long as necessary 
+to fulfill the business related purposes in connection with the services being provided to CBRE. 
+Service Provider may disclose personal information to third parties only as necessary to provide 
+services to CBRE or as may be 
+required by Laws and Service Provider shall take all appropriate actions to ensure that a third party 
+protects personal information that CBRE discloses to it. Service Provider shall collect, use, 
+maintain, disclose (internally and externally), and destroy personal information in a manner that 
+limits the risk of loss, theft, misuse, or unauthorized access. Service Provider shall dispose of 
+personal information upon the completion of services to CBRE or when no longer needed for the 
+business related purposes. 
+ 
+Conflict of Interest. Service Provider must avoid all conflicts of interest or situations giving the 
+appearance of a conflict of interest when doing business with CBRE. Service Provider must 
+promptly report to CBRE any instances involving actual or apparent conflicts of interest between 
+Service Provider’s interests and those of CBRE, such as a direct personal or financial interests in 
+a business decision or service provider selection. Likewise, Service Provider shall not, without 
+prior written notification thereof to CBRE, enter into any business relationship with any director, 
+employee, or representative of CBRE that may create a conflict with their fiduciary obligations 
+with, or the 
+interests of, CBRE. 
+ 
+Labor. Service Provider must follow all applicable Laws in the countries in which it operates, and 
+be committed to the value of, and respect for, all people. Service Provider is responsible for 
+respecting human rights in its operations, and will comply with the standards set forth in the United 
+Nations Universal Declaration of Human Rights. The standards set forth in this Code apply to all 
+workers, including, without limitation, temporary, migrant, student, contract, direct employees, 
+and any other type of worker of Service Provider. The applicable labor standards are: 
+ 
+1.  Child Labor. Service Provider will not engage in or condone the unlawful employment 
+or exploitation of children in the workplace. Service Provider will be committed to 
+combating the exploitation of children, and therefore prohibit any use of child labor with 
+any vendor, service provider or other third party arrangements. Service Provider will work 
+
+PRIVATE & CONFIDENTIAL 
+ 
+    -3- 
+CBRE Master Service Agreement 30-11-16 (Rev 2) 
+ 
+to raise awareness internally of such exploitation and cooperate with law enforcement 
+authorities to address any such instances of which Service Provider becomes aware.  
+ 
+2.  Human Trafficking, Slavery and the Right to Voluntary Labor. Service Provider will 
+respect the free choice of all persons and strictly prohibit forced or compulsory labor for 
+any employees. Service Provider will not do business with, tolerate, or associate with 
+organizations or entities that condone or are engaged in the practice of coercing or 
+imposing work with little or no freedom of choice. Service Provider will comply with the 
+UN Guiding Principles on Business and Human Rights, and will work to raise awareness 
+within its employee population of Service Provider’s responsibility to protect human rights. 
+Service Provider will cooperate with law enforcement to address such instances that come 
+to the attention of Service Provider. 
+ 
+3.  Freedom Against Prejudice and Discrimination. Service Provider will strive to 
+maintain an inclusive workplace free of harassment and discrimination based on a person’s 
+status such as race, color, religion, national origin, gender, sexual orientation, gender 
+identity, age, disability, veteran or military status or other characteristics protected by Law. 
+Service Provider will ensure that it has requisite policies and practices in place to foster a 
+harassment and retaliation free environment. 
+ 
+4.  Safe and Secure Workplace. Service Provider will be dedicated to providing a safe and 
+safe workplace for all of its employees, and prevent accidents to employees, customers, 
+and visitors. Service Provider’s leadership will ensure compliance with this commitment 
+in every location and facility in which Service Provider operates. 
+ 
+5.  Working Hours and Wages. Service Provider will comply with all Laws dealing with 
+the wages Service Provider pays its employees and the hours they work. As appropriate, 
+Service Provider’s policy will be further defined at the regional and country level to prevent 
+the exploitation of the local workforce. Service Provider will be committed to being an 
+ethical employer that strives to improve labor standards, respects its employees’ 
+contributions, and rewards them fairly. 
+ 
+6.  Freedom of Association. Service Provider will respect the rights of employees and 
+comply with all Laws concerning freedom of association and collective bargaining. 
+ 
+Health and Safety. Service Provider must comply with all health, safety, and security Laws of the 
+jurisdictions in which it does business and limit worker exposure to potential safety hazards 
+(including, without limitation, electrical sources, fire, heat, vehicles, and fall hazards) through 
+proper design, engineering and administrative controls, preventive maintenance and safe work 
+procedures. When necessary to safely perform a job, Suppler will provide workers at no cost and 
+as appropriate the proper personal protective equipment and ensure proper maintenance of the 
+equipment. Service Provider employees must be free to raise safety concerns without fear of 
+retaliation in any form. Service Provider will record, track and report all occupational injuries and 
+illnesses as required by applicable Laws and in a manner which will: (i) encourage worker 
+reporting of job related injuries; (ii) classify and record cases of injury and work related illness; 
+(iii) provide necessary 
+
+PRIVATE & CONFIDENTIAL 
+ 
+    -4- 
+CBRE Master Service Agreement 30-11-16 (Rev 2) 
+ 
+medical treatment; and (iv) investigate and implement corrective actions to eliminate their causes. 
+ 
+Environment and Sustainability. Service Provider recognizes that adverse effects on the 
+community, environment and natural resources must be minimized to safeguard the health and 
+safety of the public. To achieve this objective, Service Provider shall observe and comply with all 
+applicable environmental Laws, including, without limitation, those which relate to (i) obtaining 
+and maintaining required environmental permits, approvals and registrations, as well as complying 
+with applicable operational and reporting requirements; (ii) the handling, removal, transportation 
+and disposal of hazardous materials used by Service Provider; and (iii) monitoring, controlling, 
+treating and sanitizing air emissions, waste water and solid wastes. Service Provider will seek 
+opportunities that 
+promote the efficient use of resources and energy, as well as clean and low energy solutions. 
+ 
+Gifts and Gratuities. Except as otherwise expressly provided herein, Service Provider shall not 
+give to or receive from any director, employee, or representative of CBRE any gift, entertainment, 
+or other favor of material value, or any commission, fee, or rebate. 
+ 
+CBRE Compliance Verification. CBRE does not assume any duty to monitor or ensure 
+compliance with this Code. Service Provider acknowledges and agrees that Service Provider is 
+solely responsible for full compliance with this Code by Service Provider’s directors, officers, 
+employees, representatives, service providers, contractors, and other business partners. Service 
+Provider will nonetheless permit CBRE and/or its representatives to assess Service Provider’s 
+compliance with the expectations set forth in this Code when rendering services or furnishing 
+products for CBRE. Such assessments may include, without limitation, on-site inspection of 
+Service Provider facilities and review of related Service Provider information, including books, 
+records, certifications, permits, and other documentation evidencing Service Provider’s 
+compliance with this Code. Service Provider will also fully cooperate with CBRE in such 
+assessments, and Service Provider will promptly correct any non-conformances identified during 
+such assessments.   
+ 
+In the event that this Code conflicts with the terms of any Service Provider contract with CBRE, 
+and the contract term is more restrictive than this Code, the Service Provider must comply with 
+the more restrictive term of the contract.   
+ 
+For questions or concerns about this Code, including its application to specific circumstances in 
+connection with your organization’s performance of work for CBRE, or to report any suspected 
+violations of this Code, please contact your CBRE representative. 
+ 
+ 
+ 
+
+ 
+CBRE Master Service Agreement 30-11-16 (Rev 2)  
+ 
+ 
+ 
+ 
+Page | 1 
+ 
+Exhibit 6 
+Drug Testing and Background Investigation    
+Requirements for Service Provider Personnel 
+ 
+1. 
+To the extent permitted by Applicable Laws, Service Provider will conduct background 
+investigations consistent with Services Provider’s then-current background investigation 
+policy, which shall as a minimum meet the requirements of this Exhibit, for all newly hired 
+Service Provider Personnel regularly involved in the provision of Services to CBRE or at 
+a Facility. 
+2. 
+Service Provider will provide verification to CBRE that it performed background 
+investigations for all Service Provider Personnel regularly involved in the provision of 
+Services at the time such Service Provider Personnel were hired by Service Provider or at 
+some subsequent time that is prior to their regular involvement in the provision of Services 
+to CBRE; provided however, that CBRE and Service Provider may mutually agree on 
+certain roles that require an updated background investigation at the time of regular 
+involvement in the provision of Services due to the nature of the particular Services to be 
+provided (including security guards, prior to first shift at a Facility). The outcome of such 
+investigations shall be provided to CBRE upon request unless prohibited by Applicable 
+Laws. 
+ 
+3. 
+Service Provider and CBRE may mutually agree on certain roles that do not require any 
+type of background investigation.  Service Provider shall not provide any Service Provider 
+Personnel with access to any Facility prior to the completion of such background 
+investigations under this Exhibit and verification to CBRE of the same.  
+4. 
+Service Provider Personnel who have been providing Services to the Facilities under a 
+predecessor agreement between CBRE or Client and Service Provider shall not be required 
+to undergo background investigations pursuant to this Exhibit unless CBRE indicates 
+otherwise.  Background investigations under this Exhibit will be conducted by Service 
+Provider in accordance with applicable national law and at a minimum shall include the 
+following:  
+(a)  verification of National Insurance Number and eligibility for employment in the 
+country in which the employee will perform the Services;   
+(b)  a search of driving record conducted in the individual’s current place of residence 
+and prior place of residence; and  
+(c)  a criminal history search conducted in the employee’s current place of residence 
+and prior place of residence (if applicable) and current and previous work locations, 
+in each case during the immediately preceding seven (7) year period.  
+5. 
+Where permitted by Applicable Laws, Service Provider will require Service Provider 
+Personnel to successfully pass the following drug testing prior to being allowed access to 
+Client Facilities or performing the Services: a five (5) panel drug test which will include 
+testing for use of marijuana, cocaine, amphetamines, PCP and opiates.  
+ 
+
+CBRE Master Service Agreement 30-11-16 (Rev 2)  
+ 
+ 
+ 
+ 
+ 
+Page | 1 
+Exhibit 7 
+Insurance Requirements  
+ 
+1. 
+Professional Liability (if applicable). Professional Liability coverage with limits of 
+US$1,000,000 for each claim. 
+ 
+
+Exhibit 8 
+As Applicable 
+ 
+
+ 
+ 
+Private and Confidential  
+ 
+ 
+CBRE Master Service Agreement 30-11-16 (Rev 2)  
+ 
+ 
+ 
+ 
+ 
+      -1- 
+ 
+ 
+Exhibit 9 
+ 
+Local Country Agreement 
+ 
+This is not applicable as the service partner does not have any regional contract in place. 
+ 
+ 
+
+CBRE Service Agreement 30-11-16 (Rev 2)  
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 1 
+EXHIBIT 10  
+GOVERNANCE MODEL PRINCIPLES  
+1. 
+Introduction 
+This is Exhibit 10 sets out the governance structure for the Agreement and each Statement 
+of Work; the roles and responsibilities of both Parties to maintain a working relationship; 
+and the type, content and frequency of Agreement review meetings that will be held. 
+2. 
+Attachments 
+The following Attachments are attached to this Exhibit and are hereby incorporated by 
+reference: 
+Attachment A: Governance Framework.  This Attachment sets forth the governance 
+framework, including meetings, agendas, attendees, etc.   
+3. 
+Roles and Responsibilities of Key Governance Team Members 
+The Parties shall agree the roles and responsibilities of key governance team members in 
+relation to a Statement of Work in the applicable Statement of Work.  
+ 
+4. 
+Meetings Schedule Summary 
+The key governance meetings include: 
+ 
+Governance 
+Forum 
+Meeting 
+Frequency 
+CBRE Members 
+Service 
+Provider 
+Members 
+Strategic 
+Management 
+Meeting 
+Annually,  or 
+as required 
+Mr. Pulak BhaumikAmit 
+Verma 
+CBRE Relationship 
+Manager 
+CBRE Relationship 
+Manager 
+CBRE executive  
+personnel as required 
+Mr. ____________ 
+Service Provider 
+Relationship Manager 
+Service Provider 
+executive personnel as 
+required 
+
+CBRE Service Agreement 30-11-16 (Rev 2)  
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 2 
+Global 
+Relationship 
+Meeting 
+Monthly  
+(+ every 
+quarterly mtg 
+includes 
+performance 
+review / 
+contract 
+compliance) 
+CBRE Relationship 
+Manager 
+CBRE Relationship 
+Manager 
+Other personnel as 
+required 
+Service Provider 
+Relationship Manager 
+Other personnel as 
+required 
+Statement 
+of 
+Work 
+Relationship 
+Meeting 
+Quarterly  
+Work Statement 
+Relationship Manager 
+Supply Chain 
+Relationship Manager  
+Other personnel as 
+required 
+Work Statement 
+Relationship Manager 
+Other personnel as 
+required 
+ 
+5. 
+Issue Escalation Procedures 
+(a) 
+From time to time, issues will arise that cannot be resolved at the various levels of 
+management within the CBRE and Service Provider teams. These issues may 
+include the obligations of a Party, performance issues, commercial issues, personnel 
+issue, or other issues. Both Parties’ primary objective and intent is to have issues 
+resolved by the appropriate levels of authority without the need for escalation.  The 
+issue escalation procedure will be defined in the applicable PPM.  
+ 
+ 
+
+CBRE Service Agreement 30-11-16 (Rev 2)  
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 3 
+Attachment A: Governance Framework 
+ 
+Governance 
+Forum 
+Meeting 
+Frequency 
+CBRE Members 
+Service Provider 
+Members 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+1 
+CW2011385 
+Exhibit 11 
+ 
+ Local Terms 
+ 
+The following terms and conditions amend provisions of the Service Agreement to bring the 
+conduct of the parties' or the parties’ Affiliates’ transactions into conformity with local law and 
+practice. 
+1. India. The following amendments apply where the applicable Statement of Work originates in 
+India: 
+1.1. Local Service Provider shall comply with its data protection obligations in Section L of the 
+Agreement in accordance with the Information Technology Act, 2000 and the Information 
+Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or 
+Information) Rules, 2011. 
+1.2. The Statement of Work shall be governed by and construed in accordance with the laws of 
+India. Any dispute in relation to the Statement of Work shall be resolved through arbitration 
+in accordance with the provisions of the ‘Arbitration and Conciliation Act, 1996’. 
+1.3. Section F.2 (Service Provider’s Compensation – Invoicing Instructions) shall have the 
+following additional sub-paragraph: 
+“The Service Provider shall, together with the invoice for the preceding month, submit copies 
+of ESI and PF challans of its staff for the previous month’s salary disbursement in order to 
+receive prompt and timely payment. The ESI/PF details of the salary disbursement made 
+towards the pertaining site shall be produced separately.” 
+1.4. Section G.1.a (Termination for Convenience) shall be revised as underlined below: 
+“G. 
+Termination.   
+1. Termination for Convenience.   
+a. CBRE may terminate this Agreement and/or any Statement of Work, either in whole or in 
+part, and with respect to one or more of the Facilities, without liability, fee or penalty, at any 
+
+ 
+2 
+CW2011385 
+time and without cause upon fifteen (15) days prior written notice to Service Provider.  In the 
+event CBRE’s services have been terminated by Client or CBRE’s agreement with Client 
+expires, and either Client or Client’s designee determines to continue this Agreement and 
+require Service Provider to continue to perform Services hereunder, CBRE will not be subject 
+to any fee, liability or penalty as a result thereof, and CBRE shall have no responsibility to 
+Service Provider whatsoever after the date upon which CBRE shall no longer provide services 
+to Client.” 
+1.5. Section H.2 (Service Provider Representations and Warranties) shall have the following 
+additional sub-clause: 
+“14. it will fulfil all statutory requirements related to labour issues including but not limited 
+to the provisions of The Minimum Wages Act 1948, The Payment of Wages Act 1936, 
+Contract Labour (Regulation & Abolition) Act 1970, Payment of Bonus Act 1965, The 
+Employees’ State Insurance Act 1948, The Employees’ Provident Funds & Miscellaneous Act 
+1952, The Workmen’s Compensation Act 1923, and all other applicable labour laws including 
+any amendments or enactments thereof applicable to the Services at Service Provider’s own 
+risk and cost in respect of persons employed by the Service Provider.  The Service Provider 
+shall comply with, and maintain the required records under, various laws and the authorized 
+representative of CBRE and/or Client shall be entitled to inspect these records at any time. 
+The Service Provider shall be responsible for any loss, suffered by CBRE, due to non-
+compliance of statutory provisions, as detailed by the Service Provider. CBRE shall be entitled 
+to deduct and recover such loss from the amounts payable to the Service Provider under this 
+Agreement and the relevant Statement of Work.” 
+1.6. Section K.2(o) (Data Protection – Service Provider Data Protection Obligations) shall be 
+deleted. 
+1.7. Section N (Taxes) shall be revised as underlined below: 
+“N. Taxes.  Service Provider shall pay any and all Taxes upon receipt of payment for same 
+from CBRE.  CBRE and Client shall be allowed to withhold from amounts payable to Service 
+Provider hereunder all Taxes and other charges required to be withheld by law.  Service 
+Provider shall take such actions and cooperate with CBRE and Client to the extent necessary 
+
+ 
+3 
+CW2011385 
+to ensure that CBRE will be treated as a purchasing agent for Client and that the purchase 
+and/or provision of materials, equipment and Services under this Agreement qualify for any 
+applicable manufacturing, resale, or other tax exemption, and where an exemption is not 
+available, the Taxes thereon are minimized.  Service Provider shall prepare, execute, file as 
+necessary and retain resale, exemption and similar certificates, and reflect dealer, vendor, 
+CBRE and Client exemption or similar numbers on its invoices or billings as necessary to 
+exempt or minimize Taxes on goods and Services provided under this Agreement. The 
+Service Provider undertakes that it has secured the required registration(s), which is/are 
+in full force and effect and no action or claim is pending nor threatened to revoke or 
+terminate such registration(s) or declare such registration(s) as invalid. The Service 
+Provider shall periodically pay its tax liabilities in compliance with the Applicable Laws 
+in connection with the Services performed by the Service Provider under this 
+Agreement, such that CBRE is entitled to claim such credit of input tax with respect to 
+the Services performed by the Service Provider under this Agreement as permitted 
+under the Applicable Laws. The Service Provider hereby undertakes that it will issue 
+the tax invoices within the statutory time limits as prescribed under the Applicable Laws 
+and in the manner and with all the prescribed particulars as are required to be specified 
+as per the Applicable Laws. The Service Provider hereby undertakes that ‘the address / 
+location’ of CBRE to which the invoice will be issued by the Service Provider will be as 
+per the address mentioned in the relevant Statement of Work issued by CBRE. Post 
+performance of Services under this Agreement, the Service Provider shall cooperate 
+with CBRE and provide any information that may be reasonably requested by CBRE in 
+connection with claiming such credit of input tax under the Applicable Laws such as tax 
+invoice or debit note issued by the Service Provider or such other taxpaying document(s) 
+as may be required as proof of payment of applicable Taxes by the Service Provider. 
+Where, transactions in respect of which CBRE has claimed input tax credit are notified 
+as unmatched vis-à-vis the corresponding disclosures made by the Service Provider in 
+its periodic returns, the Service Provider would extend necessary assistance including 
+inter alia carrying out revision/ rectification of its returns, to enable CBRE to retain such 
+claimed credits. Service Provider shall be solely responsible for any penalties or interest 
+resulting from Service Provider’s failure to file proper tax returns or promptly to remit to the 
+
+ 
+4 
+CW2011385 
+appropriate taxing authorities Taxes or other payments made to Service Provider by Client 
+under this Agreement and Service Provider agrees to indemnify on demand, defend (promptly 
+and diligently, at Service Provider’s sole expense with attorneys satisfactory to CBRE and 
+Client) and hold harmless CBRE and Client against any Claims (as hereinafter defined) that 
+any Indemnified Party (as hereinafter defined) may suffer, sustain or incur as a result of 
+Service Provider failing to do so.  CBRE shall be entitled to deduct any such loss from the 
+amounts payable to the Service Provider under this Agreement. This Section shall survive 
+the expiration or termination of this Agreement. 
+1.8. Section V.4 (Mediation, Governing Law, and Jurisdiction) shall be revised as underlined 
+below: 
+“V.4 Jurisdiction.   Subject to Section V.1, each of the Parties agrees to submit to the exclusive 
+jurisdiction of Indian courts.” 
+1.9. Section X (Limitation of Liability) shall add the following sub-clause: 
+“3. CBRE's total liability to the Service Provider, whether in contract, tort (including 
+negligence), for breach of statutory duty, or otherwise, arising under or in connection with the 
+Agreement and/or relevant Statement of Work shall be limited to fees payable by CBRE as at 
+the date of the claim under this Agreement or the relevant Statement of Work, as the case may 
+be.” 
+1.10. Exhibit 6 (Drug Testing and Background Investigation) shall be renamed “Background 
+Investigation”. 
+ 
+

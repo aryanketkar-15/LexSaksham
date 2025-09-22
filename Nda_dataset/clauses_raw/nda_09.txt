@@ -1,0 +1,462 @@
+ 
+ 
+ 
+ 
+   
+ 
+                                                     __________  
+ 
+ 
+ 
+ 
+ 
+ 
+NON – DISCLOSURE AGREEMENT 
+ 
+BETWEEN 
+ 
+BEML LIMITED 
+BENGALURU 
+ 
+AND 
+ 
+_________________________ 
+ 
+ 
+
+             NDA  BEML –XXX                                                    Confidential 
+Page 2 of 8 
+NON – DISCLOSURE AGREEMENT 
+ 
+This Non – Disclosure Agreement (hereinafter referred to as "NDA") is made and 
+entered into between; 
+ 
+M/s. BEML LIMITED, a Government of India Undertaking under the administrative 
+control of Ministry of Defence, Department of Defence Production, Government of 
+India, and a Company incorporated and registered in terms of the laws of the 
+Republic of India and having its Corporate Office at ‘BEML SOUDHA’, 23/1, 4th 
+Main, SR Nagar, Bengaluru – 560027, India (hereinafter referred to as “BEML” 
+which expression shall unless repugnant to the context, means and includes its 
+successors and permitted assigns)of the One Part, 
+ 
+And  
+ 
+M/s. ________________________________ a _____________ incorporated and 
+registered in terms of laws of _____________________ and having its Registered 
+Office at _______________________  (hereinafter referred to as "XXX" which 
+expression shall unless repugnant to the context, means and includes its successors 
+and permitted assigns) of the Other Part  
+ 
+Hereinafter, BEML and XXX are collectively referred to as “Parties” and individually 
+as “Party”. 
+ 
+WHEREAS, BEML a Multi-technology Heavy Engineering Industry inter-alia 
+engaged in the business of design, development and manufacture and supply of 
+equipment, components and spare parts required for Mining and Construction, Rail 
+and Metro, Defence and Aerospace and also providing services in the areas of 
+engineering, design & development and trading, etc. and 
+ 
+WHEREAS, XXX is engaged in the business of ______________________ for 
+_______________  
+  
+WHEREAS, the Parties herein wish to pursue discussions and interactions which 
+could lead to potential Industry-Institute relationship amongst the Parties in the area 
+of _______________ (hereinafter referred to as “Joint Projects”).  
+ 
+WHEREAS, it is the mutual desire of the Parties to disclose certain Confidential 
+Information (as defined later in Clause 2) to each other, and  
+ 
+WHEREAS, the Parties recognise that careful protection and non-disclosure by the 
+Party receiving the Confidential Information (hereinafter referred to as the 
+"Receiving Party") from the Party disclosing such Confidential Information 
+(hereinafter referred to as the "Disclosing Party")  is of vital importance while 
+executing the Joint Projects. 
+ 
+NOW THEREFORE, in consideration of the mutual promises made herein, the 
+Parties agree to disclose and receive certain Confidential Information only 
+under the following terms and conditions: 
+ 
+
+             NDA  BEML –XXX                                                    Confidential 
+Page 3 of 8 
+1. 
+SCOPE  
+ 
+1.1 
+In order to pursue the Joint Projects, both Parties recognise that there 
+is a need to disclose to one another certain Confidential Information. 
+Confidential information is to be used only in the pursuit of the Joint 
+Projects. The confidential information, as defined herein, exchanged 
+between the parties shall be subject to the terms of this NDA. 
+Accordingly, either Party under this NDA may be a Receiving Party 
+and/or a Disclosing Party under the terms hereof. 
+ 
+1.2 
+The following terms and conditions shall apply when the Disclosing 
+Party discloses Confidential Information to the Receiving Party. 
+Nothing contained in this NDA shall be construed as granting rights by 
+the Disclosing Party to the Receiving Party, by license or otherwise, to 
+any of the Confidential Information under any patent, know-how or 
+other rights till now or hereinafter held by the Disclosing Party except 
+as specified in this NDA. The Disclosing Party will provide Confidential 
+Information without warranties of any nature whatsoever. 
+ 
+2. 
+CONFIDENTIAL INFORMATION 
+ 
+2.1 
+The term "Confidential Information" shall mean and refer to all or any 
+information and data of confidential or proprietary in nature which is 
+disclosed by the Disclosing Party to the Receiving Party, including but 
+not limited to, past, current and future customer information, 
+proprietary, technical, financial, personnel, marketing, pricing, sales 
+and/or commercial information with respect to the “Joint Projects” as 
+well as ideas, concepts, designs and inventions, embedded hardware 
+design, data and information, computer source and object code and 
+computer programming techniques; and all record bearing media 
+containing or disclosing such information and techniques which are 
+disclosed pursuant to this NDA. The terms and existence of this NDA, 
+the discussions or negotiations that are taking place concerning a 
+potential Industry-Institute relationship involving the Parties and all of 
+such terms, conditions and other facts with respect thereto (including 
+the status thereof) shall also be considered as Confidential Information 
+and shall be subject to the provisions of this NDA.  
+ 
+2.2 
+The information disclosed as Confidential and which is marked as 
+‘Confidential’ by the Disclosing Party, only shall be treated as 
+Confidential Information by the Receiving Party and shall be disclosed 
+either: 
+ 
+2.2.1 in writing; or 
+2.2.2 by delivery of items; or 
+2.2.3 by initiation of access to Information, such as may be in a 
+data base; or 
+2.2.4 by oral or visual presentation. 
+ 
+
+             NDA  BEML –XXX                                                    Confidential 
+Page 4 of 8 
+2.3 
+If the Confidential Information disclosed by means of document or 
+other tangible form the same shall be marked with a restrictive legend 
+by the Disclosing Party at the time of disclosure. If the Confidential 
+Information is disclosed in oral or visual or other intangible form, the 
+same shall be identified as confidential at the time of such disclosure 
+and shall be provided in writing to the Receiving Party duly marked as 
+“confidential “within fourteen (14) days of such disclosure.  
+ 
+2.4 
+If the Disclosing Party inadvertently fails to mark any information as 
+'Confidential Information' for which it desires confidential treatment, it 
+shall so inform the Receiving Party. The Receiving Party thereupon 
+shall return the unmarked information to the Disclosing Party and the 
+Disclosing Party shall substitute properly marked information. In 
+addition, if the Disclosing Party, at the time of disclosure inadvertently 
+fails to identify as proprietary, confidential or private, oral or visual 
+information for which it desires confidential treatment, it shall so inform 
+the Receiving Party, provided that the Disclosing Party shall 
+summarise the information in writing within ten (10) days thereafter. 
+The Receiving Party's obligation hereunder shall commence upon 
+notice from the Disclosing Party of the failure to properly mark or 
+identify the information. 
+ 
+2.5 
+The Confidential Information shall be considered valuable trade 
+secrets, owned by the Disclosing Party. The Disclosing Party retains all 
+right, title, and interest in the Confidential Information.  
+ 
+3. 
+NON-DISCLOSURE 
+ 
+3.1 
+The Receiving Party may only use the Confidential Information for the 
+purposes stated above. The Receiving Party recognises that this NDA 
+imposes an affirmative duty to hold such information in confidence 
+and protect it from dissemination to and use by unauthorised persons. 
+In the absence of the Disclosing Party’s prior written consent, the 
+Receiving Party shall neither reproduce nor disclose the Confidential 
+Information to any third party. 
+ 
+4. 
+RECEIVING PARTY'S OBLIGATIONS: 
+ 
+4.1 
+The Receiving Party undertakes: 
+ 
+4.1.1 to use the same care and discretion to avoid disclosure, 
+publication or dissemination of the Confidential Information as it 
+uses with respect to its own Confidential Information, but no less 
+than reasonable care;  
+4.1.2 not to use the Confidential Information for any other purpose 
+except for the purpose for which the information has been 
+disclosed.  
+4.1.3 to comply with any other reasonable security measures 
+requested in writing by the Disclosing Party; 
+
+             NDA  BEML –XXX                                                    Confidential 
+Page 5 of 8 
+4.1.4 not to, under any circumstances, copy, replicate, or reverse 
+engineer any products or services of the Disclosing Party by 
+unauthorised use of Confidential Information and shall not 
+infringe the intellectual property rights law applicable to the 
+Disclosing Party; 
+4.1.5 not to, directly or indirectly, make or permit any oral or written 
+communications to the public media regarding the Confidential 
+Information of the Disclosing Party, its business or clients or use 
+the name of the Disclosing Party in any public announcements, 
+promotional, marketing or sales materials or efforts, without the 
+express prior approval of the Disclosing Party. 
+ 
+4.2 
+The Receiving Party must not disclose any Confidential Information to 
+any third party except that the Receiving Party may disclose the 
+Confidential Information to: 
+ 
+4.2.1 its employees, consultants and agents including employees of 
+any legal entity that it controls or controls it or with which it is 
+under common control (the "Representatives"), on a 'need to 
+know' basis for the purpose of this NDA. 
+ 
+4.2.2 Any other party with the Disclosing Party's prior written consent. 
+ 
+4.3 
+The Receiving Party must, prior to disclosing any Confidential 
+Information, enter into a written agreement with the party to whom the 
+information is being disclosed so as to ensure that such party treats the 
+information as 'Confidential Information' in accordance with the terms of 
+this NDA. 
+ 
+4.4 
+The Receiving Party may disclose the Confidential Information to the 
+extent only it is required by law. However, the Receiving Party will give 
+the Disclosing Party prompt notice to allow the Disclosing Party a 
+reasonable opportunity to obtain a protective order. 
+ 
+5. 
+RETURN OF CONFIDENTIAL INFORMATION 
+ 
+5.1 
+Following the request of the Disclosing Party, the Receiving Party will 
+promptly deliver to the Disclosing Party, or certify in writing to the 
+Disclosing Party as to the destruction of (without retaining any copy 
+including the backup copies) all of Confidential Information (and copies 
+and extracts thereof) furnished to, or created by or on behalf of, the 
+Receiving Party within 7 days from such request. Notwithstanding the 
+return or destruction of the Confidential Information, the Receiving Party 
+will continue to be bound by its obligations of confidentiality and other 
+obligations hereunder. 
+ 
+6. 
+EXCEPTIONS  
+ 
+6.1 
+This NDA imposes no obligation upon the Receiving Party with respect 
+to information that:  
+
+             NDA  BEML –XXX                                                    Confidential 
+Page 6 of 8 
+ 
+6.1.1 is now, or hereafter becomes, through no act or failure to act on the 
+part of the Receiving Party, generally known or available to the public; 
+6.1.2 is hereafter rightfully furnished to the Receiving Party by a third party, 
+without restrictions to use or disclosure; 
+6.1.3 is disclosed with the prior written consent of the Disclosing Party; or 
+6.1.4 is required to be disclosed pursuant to law, and then only to the extent 
+ordered by the governmental authority or court of competent 
+jurisdiction, provided the Receiving Party uses reasonable efforts to 
+give the Disclosing Party notice of such disclosure as soon as 
+practicable and cooperate with the Disclosing Party, at the Disclosing 
+Party’s expense, to minimise any such disclosure and shall only 
+disclose that portion of the Confidential Information required by such 
+authority or court. 
+ 
+7. 
+NON-SOLICITATION  
+ 
+7.1 
+No Party shall, either directly or indirectly, on its own behalf or on the 
+behalf of others, solicit or hire for work any person(s) employed by the 
+other Party, whether or not such employment is pursuant to a written 
+contract or is at will, without the express written permission of such 
+other Party, or until such employee has ceased his/her employment 
+with such other Party for at least two (2) years. This clause shall 
+survive for a period of two years even from the date of termination. 
+ 
+8. 
+REMEDIES   
+ 
+8.1 
+The Parties recognise and acknowledge that Confidential Information 
+is of a special, unique and extraordinary character to the Disclosing 
+Party and that disclosure, misappropriation or unauthorized use of 
+such Confidential Information by the Receiving Party cannot be fully 
+compensated and that, further any such disclosure, misappropriation 
+or unauthorized use of the Confidential Information shall cause 
+irreparable injury to the Disclosing Party. The Receiving Party 
+expressly agrees, therefore, that the Disclosing Party, in addition to 
+any rights and remedies it may have under this NDA or at law or in 
+equity, shall be entitled to seek injunctive and other equitable relief to 
+prevent the breach, or the further breach, or any of the terms and 
+provisions hereof. The Receiving Party agrees to reimburse the 
+Disclosing Party for any and all losses, liabilities, damages, costs and 
+expenses (including reasonable attorney’s fees and court costs) 
+incurred and sustained by the Disclosing Party as a result of any 
+breach of this NDA. 
+ 
+9. 
+TERM  
+ 
+ 
+The term of this NDA shall be for ____ (___) years from the date of its 
+signature by the Parties unless it is extended by mutual consent or terminated 
+earlier as per the provisions of this NDA. The obligations of the Receiving 
+Party to protect the Confidential Information under this NDA shall survive for a 
+
+             NDA  BEML –XXX                                                    Confidential 
+Page 7 of 8 
+period of three (3) years from the effective date of expiry or early termination 
+whichever is earlier. Upon the expiry of the term of this NDA or at the earlier 
+request of the Disclosing Party, the Receiving Party shall return all Confidential 
+Information to the Disclosing Party without retaining any copies of such 
+Confidential Information or if so desired by the Disclosing Party, confirm in 
+writing that all such Confidential Information has been destroyed. 
+ 
+10.    TERMINATION   
+ 
+This NDA shall, unless otherwise extended by mutual agreement of the 
+Parties, terminate upon happening of any of the following events:  
+ 
+(a) 
+Termination by mutual consent. 
+ 
+(b) 
+Termination by either Party due to breach of any of the covenants 
+hereof by the other, with three months prior notice in writing to the 
+defaulting Party, unless the breach is cured by the defaulting party 
+within the notice period. 
+ 
+(c) 
+In case of termination, the contents of Article No.7 are obligatory to the 
+full extent. 
+ 
+(d) 
+If any of the Parties is declared insolvent/bankrupt by a competent 
+court of jurisdiction 
+ 
+Notwithstanding the above, termination shall not prejudice any obligation that has 
+arisen prior to the date of effective termination between the Parties and / or 
+obligation of either Party to any other third party. 
+  
+11. 
+GOVERNING LAW & JURISDICTION   
+ 
+This NDA shall be governed by the laws of Republic of India. Any disputes 
+arising out of or in connection with this NDA are subject to the exclusive 
+jurisdiction of the competent courts at Bengaluru.  
+ 
+12 
+DISPUTE SETTLEMENT 
+ 
+Disputes if any, arising between the Parties, in connection with this NDA or 
+any other matters connected therewith, the same will be mutually discussed 
+and amicably settled between the parties. The disputes that are unsettled 
+shall be referred to Arbitration in accordance with the provisions of Arbitration 
+and Conciliation Act, 1996, as may be amended from time-to-time. The place 
+of Arbitration shall be at Bengaluru, India and the Arbitration proceedings 
+shall be conducted in English language.  
+ 
+ 13. MISCELLANEOUS  
+ 
+13.1 Severability and Waiver. If any provision of this NDA is held to be 
+invalid or unenforceable for any reason, the remaining provisions shall 
+continue in full force without being impaired or invalidated in any way. 
+
+             NDA  BEML –XXX                                                    Confidential 
+Page 8 of 8 
+The Parties shall replace any invalid provision with a valid provision, 
+which must closely approximate the intent and economic effect of the 
+invalid provision. The waiver by the Disclosing Party of a breach of any 
+provision of this NDA shall not operate or be interpreted as a waiver of 
+any other or subsequent breach. 
+ 
+13.2 Notices: All notices under this NDA must be in writing and must be 
+either: faxed; mailed by registered or certified mail, postage prepaid and 
+return receipt requested; or delivered by hand to the party to whom such 
+notice is required or permitted to be given at the address set out in the 
+title of this NDA. 
+ 
+13.3 Assignments: The Receiving Party shall have no right to assign its 
+rights under this NDA, whether expressly or by operation of law, without 
+the written consent of the Disclosing Party. This NDA and the Receiving 
+Party’s obligations hereunder shall be binding on the Representatives, 
+permitted assigns and successors of the Receiving Party and shall inure 
+to the benefit of the Representatives, assigns and successors of 
+Disclosing Party. 
+ 
+13.4 Variation& Amendment: No variation or amendment of this NDA shall 
+be valid unless it is in writing and signed by or on behalf of each of the 
+Parties. 
+ 
+13.5 Final Provision: This NDA is solely between BEML and XXX and 
+Government of India or Government of ________ are not parties and 
+shall cast any obligation on them. 
+ 
+IN WITNESS WHEREOF, the Parties hereto have set their respective hands to this 
+NDA on _________ (Day) ____________  (Month) ____________  (Year) at 
+_______  (Place) in the presence of the following witnesses. 
+ 
+ 
+ 
+for BEML LIMITED 
+ 
+ 
+for   XXXX 
+ 
+ 
+ 
+ 
+ 
+ 
+Name: 
+ 
+ 
+Name: 
+ 
+Designation:               
+ 
+Designation:           
+Signature: 
+ 
+ 
+ 
+Signature: 
+ 
+ 
+WITNESSES : 
+ 
+ 
+WITNESSES : 
+ 
+Name: 
+ 
+ 
+Name: 
+ 
+Designation:               
+ 
+Designation:           
+Signature: 
+ 
+ 
+ 
+Signature: 
+ 
+ 
+ 
+           
+  
+               
+ 
+` 
+

@@ -1,0 +1,1508 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTRY OF DEFENCE
+NAVAL HEADQUARTERS
+DIRECTORATE OF AIR PROJECTS AND PLANS
+INVITATION FOR EXPRESSION OF INTEREST (EO!
+
+INDIGENOUS DESIGN, DEVELOPMENT AND MAN( COMBINED
+INDICATOR OF INTEGRATED STAND-BY INSTRUMENT SYSTEM (ISIS)
+
+“T UNDER MAKE Il SCHEME
+
+25 Seph, 004
+File No, 1611/MAKE 1111S
+
+Reference Defence Acquisition Procedure 2020
+. . - .
+
+‘Appendix A Indigenous Content Aspect
+
+Appendix: IPRof Govemment.
+
+‘Appendix ‘Association of Persons Agreement
+
+Appendix D Undertaking to comply with indigenous design.
+Appendix E Evaluation of Technical Capability Criteria
+Appendix F Information Performa
+
+‘Appendix: Certificate.
+
+‘Appendix H: Format for Project Report
+
+‘Appendix J PSQRs of ISIS (PSGRs willbe issued to the interested firms only
+‘post signing of Non- Disclosure Agreement)
+
+Introduction
+
+4. Indian Navy has been focusing on developing indigenous platforms, equipment and
+systems towards achieving enhanced self-reliance. This Expression of Interest (Eo!)
+invites responses from eligible Indian Companies for design, development and
+‘manufacture of Combined Indicator of integrated Stand-by Instrument System (ISIS)
+for fighter aircraft under ‘Make I’ sub category of the Make’ category. Combined indicator
+
+of Integrated Stand-by Instrument System ({SIS) is designed to provide certain operational
+Capabilities to the Navy. The Ministry of Defence (MoD), Govt of india, shall own Project,
+Indigenous Design Development and Manufacture of Integrated Stand-by Instrument
+‘System (ISIS). The information regarding the project will be shared strictly on ‘Need to
+Know’ basis. The prototype (Qty-02) development of indigenous development of
+combined indicator, of Integrated Stand-by Instrument System (SIS) has been approved
+as ‘Make I’ category project. Subsequent procurement will be under the ‘Buy (Indian-
+IDDM)’ category,
+
+Objective
+
+2. The objective of this Eo! is to seek responses from eligible Indian industries and to
+shortlist potential companies. Responses to Eol will be evaluated as per the assessment
+criteria given in the Eol. Project shall be progressed even if only one Eol respondent is
+found meeting eligiblity criteria. However, priority shall be given to MSMEs over other
+respondents.
+
+‘ayout
+3. The Eol has been covered under the following parts:-
+
+(a) Parti = General information
+(e) Parti! = Technical Requirements
+(©) Partill = Critical Technology Areas
+(d) PartIV—- Guidelines for formation of Association of Persons
+(AOP) ie. consortium
+)  PatV == Eligibility Criteria
+() Pati = Assessment Parameters
+(@) PartVil = ~—_ Evaluation Criteria of Assessment Parameters
+(h) Part Vill = Documents to be submitted by EO! Respondents
+@~—-PartIX = Queries and Clarifications,
+(k) PatX = —_- PSQRs of ISIS (PSRs will be issued to the interested
+
+firms only post signing of Non- Disclosure Agreement)
+
+4, The project of design development and Manufacture of Combined Indicator of
+Integrated Stand-by Instrument System (ISIS) for MiG-29K aircraft has been approved
+under the ‘Make I’ category for development of prototype (02 Nos) and for subsequent
+Procurement under the ‘Buy (Indian-IDDM)’ category as per DAP 2020. Details of the
+stages involved in the development process are enumerated in Chapter Il] of DAP 2020.
+‘The progress of the project will be monitored by the Project Facilitation Team (PFT) of
+Indian Navy/ MoD constituted for the purpose. PFT will act as interface between Indian
+Navy and Industry during the design and development stage of the project. No
+reimbursement of development cost is permissible under Make ll scheme.
+
+5. Eligibility to Respond to an Eol as Individual as Consortium. The
+Eol can be responded to, atthe option of an Eol recipient, by any ofthe following entiles:-
+
+(2) Individual Eot Recipient; or
+
+(b) Association of Persons (AoP) i.e. Consortium of Indian Companies
+consisting of two or more than two EOI recipients undertaking joint and several
+liability and an Eol Recipient designated as the lead member through a
+“Association of Persons (AoP) Agreement. All Eo! Recipients as the members
+of the AoP will sign the contract with MoD. This Agreement will be applicable for
+the entire project including but not limited to Production Phase and Lifecycle!
+Technology Refresh Contract placed by MoD, if any.
+
+(©) Definition of Indian Vendor. For defence products requiring industrial
+license, an Indian Vendor (by whatever nomenclature), means an Indian entity,
+‘which could include incorporation’ ownership models as per Companies Act,
+Partnership Firm, Proprietorship and other types of ownership models including
+Societies as per relevant laws, complying with, besides other regulations in force,
+and the quidelinesiiicensing requirements stipulated by the Department for
+Promotion of Industry and intemal Trade (DPIIT) as applicable, unless specifically
+provided for in a clause/ section/ chapter or elsewhere of the DAP. For defence
+products not requiring industrial license, an Indian entity registered under the
+relevant Indian laws and complying with all regulations in force applicable to that
+industry will be classified as an Indian Vendor. The following two additional
+‘conditions will apply to the definition for Make Il
+
+() Ownership by Resident Indian Citizen(s). Further, a company is
+considered as ‘Owned’ by resident Indian citizens if more than fifty percent
+(50%) of the capital in it is directly or beneficially owned by resident Indian
+
+citizens and | or Indian companies, which are ultimately owned and
+controled by resident Indian ciizens. This implies that the maximum
+permitted Foreign Direct Investment (FDI shal be forty nine percent (49%)
+No pyramiding of FDI in Indian holding companies or in Indian entities
+subscribing to shares or securities ofthe Applicant Company or the Strategic
+Partner shall be permitted. Indirect foreign investment shall be accounted for
+in counting the forty-nine percent (49%) FDI
+
+(i) Control_by Resident indian Cit (As_defined_in
+Companies Act 2013). ‘Controf’ shail include the right to appoint majority
+of the directors or to control the management or policy decisions including
+by virtue of their shareholding or management rights or shareholders
+agreements or voting agreements.
+
+6. Indigenous Content. In accordance with Para 8 of Chapter 1 of DAP 2020
+products indigenously designed, developed and manufactured should have minimum of
+50% Indigenous Content (IC) on cost basis of the Base contract Price. Apart from overall
+IC as detailed above, the same percentage of IC will also be required in following costs
+‘taken together at all stages, including trial stage
+
+(a) Basic Cost of Equipment.
+
+(b) Cost of Manufacturers "Recommended List of Spares (MRLS).
+
+(©) Cost of Special Maintenance Tools (SMT) and Special Test Equipment
+(STE).
+
+For IC on cost basis, vendor should ensure compliance as detailed in Appendix A. the
+vendor shall provide an “Undertaking to comply with indigenous design and IC" as per
+Appendix D.
+
+7. Intellectual Property Rights (IPRs). Intellectual Property Rights of Government
+in "Make" projects is placed at Appendix B. Development Agency/ Agencies (DA/ DAs)
+‘shall retain tile or ownership and all other rights in intellectual property generated during
+the development of project. However, the Government shall have March-in rights under
+which the Government can require the contractor to grant, or may itself grant license for,
+inter alia, for the following reasons: -
+
+(2) Where health and safety requirements require the Government to act in
+public interest.
+
+(b) For National Security Reasons.
+
+(©) To meet requirements for public use not reasonably satisfied by the
+contractor.
+
+(@) For failure of the contractor to substantially manufacture the products
+‘embodying the subject invention in India.
+
+(€) _ Forfaiture of the contractor to comply with any of the requirements laid down
+Under these guidelines
+
+8. Foreign Collaboration. If the DA(s) collaborate(s) with a foreign firm as a
+technology provider in a certain technology area for the project, the nature of such
+collaboration and the technology areas being transferred must be clearly stated in the
+response. The contribution of the Indian industry in acquiring, developing and indigenising
+critical technologies shall be one of the key criteria in assessment of various proposals.
+Transfer of Technology guidelines as enumerated in Appendix F to Schedule | to Chapter
+of DAP 20 are to referred for additional references,
+
+8. Inspection. No component or any sub system of indigenous development of
+Combined Indicator of Integrated Stand-by Instrument System (ISIS) shall be
+subjected to any type of inspection or audit by any Foreign Govt or Agency without prior
+approval of MoD, Govt of India.
+
+10. Audit and Supply Chain. A trusted supply chain that will include the engineering
+‘Support requirements would be established for all components of indigenous development
+of Combined Indicator of integrated Stand-by Instrument System (ISIS). All
+documents related to the ‘indigenous design development and manufacture of Combined
+Indicator of Integrated Stand-by Instrument System (ISIS) project are liable to be
+audited by Indian Govt or its nominated agency.
+
+11. Blacklisting. Detailed information about blacklisting ofthe company! consortium
+partners and foreign technology partner by any Govt Agency in India/ any other country
+would be provided as part of he response, Companies cuenty blaclsted by any
+
+for | Any such information not disclosed
+paresis ee tie sage oat nario ce ccnesner tangas ertaner
+participation
+
+12. Time frames_and critical activities. The important time frames and cttical
+activities for the project ‘indigenous design development and manufacture of Combined
+Indicator of Integrated Stand-by Instrument System (ISIS) ae as folows: -
+
+On
+
+
+3
+
+Ser Activity
+
+(0) | Fol Response submission 8
+(c) _ Eol Response Evaluation 6
+()__ Issue of Project Sanction Order 2
+(e) | Protoiype Development including 0
+
+certification by CEMILAC 104 weeks
+(f)_ | Single stage composite trials (24 months)
+
+(0) | Acceptance oft
+
+[toy | Conversion of PSORS to SARs
+
+{thy [Issue
+
+Lo
+iL
+
+i
+
+| Sigr
+Milestones of the Project.
+
+(a) Evaluation of Eol Responses. Eo! responses will be evaluated in
+accordance with assessment parameters and evaluation criteria as given in Part Vi
+
+& Vilof this Eol. All the shortlisted companies will be called Development Agencies
+(DAs). Project shall be progressed ahead even if only one Eol respondent is found
+meeting the eligibility erteria.
+
+(©) Project Sanction Order. PFT will issue Project Sanction Order for the
+development of prototype with Nil financial implication for indian Navy/ MoD. In
+‘case of ony single vendor having offered the prototype within timelines stipulated
+jin the Project Sanction Order, not more than two-time extensions will be accorded
+and thereafter the case willbe progressed as resultant Single Vendor Case (SVC).
+
+(©) Design and Development of Prototype. PFT will act as the primary
+interface between the Indian Navy and the industry during the design and
+development stage under Make-II subcategory projects and facilitate the following:-
+
+(0) Finalisation of trial methodology.
+
+(@) Provision of requisite professional inputs/ documentation to industry
+wherever feasible/ available with IN.
+
+(ii) Providing clarifications related to functional or operational aspects of
+the equipment under development, as may be sought by the DAs from time
+to time, during the design and development of prototype.
+
+(@) Single Stage Composite Trials. User trials would be carried out by the
+Indian Navy to validate the performance of the system, against the parameters/
+specifications approved, after the development of prototype. Indian Navy will
+formulate the trial directives and constitute the Trial Team. The ‘tial directive’ wil
+‘specify the fundamental points that need to be addressed for validating the
+‘essential’ parameters. The validation of the support system and maintainability
+trials, integral to and complimenting the trial programme of the defence equipment!
+upgrades! product! system will be held simultaneously, wherever feasible. The user
+can recommend modification to the system for ease of handling and its
+‘maintainability. Based on the User Trials, the Indian Navy would carry out a Staff
+Evaluation, which gives the compliance of the demonstrated performance of the
+‘equipment vis-a-vis the SQRs. On acceptance of Staff evaluation report, the SQRs
+shall from the basis for the ‘Buy (Indian-IDDM) category of acquisition. If the
+prototype of only a single firmiindividual clears the trials will be progressed as
+resultant single vendor.
+
+(€)* Finalisation of SERs. PFT wil facials the finalisation of SE Rs based on
+inputs from the Development Agencies (DAS) during the development stage, prior
+to commencement of user trials. The SQRs of the equipment would thereafter be a
+part of the trial directives, and only the essential parameters as detailed in the SORs
+wil be tested
+
+()__ Solicitation of Commercial Offers. A commercial ‘Request for Proposal’
+
+(RFP) for ‘Buy (Indian-IDDMY' phase, will be issued to all DAs for submission of
+their commercial offer prior to commencement of User tials.
+
+(9) Award of Contract. Commercial Offers of only those vendors will be
+‘opened whose equipment has been short-listed consequent to Staff Evaluation and
+the L1 bidder would be determined based on the provisions of the Commercial RFP
+‘and awarded the contract for manufacture.
+
+14, Once the prototype is successfully validated, fifty (50) such systems shall be
+procured by MoD, Govt of india under ‘Buy (IDDM) category. Delivery of
+‘indigenous design development and manufacture of Combined Indicator of Integrated
+‘Stand-by Instrument System (ISIS) shall be in a phased manner.
+
+15. Other successful development agencies that have developed the prototype
+‘successfully but have not qualified as L1, would be issued a certificate by DDP indicating
+thal product/ system has been successfully trial evaluated.
+
+16. Multiple Technological Solutions. Not Applicable.
+
+PARTI!
+TECHNICAL Rt
+
+47, The Technical requirements from the project are as per Preliminary Staff Qualitative
+requirements (PSQRs). Considering the confidentiality of system ISIS, the PSRs will be
+issued to the interested firms only post signing of Non- Disclosure Agreement (NDA).
+
+PART lll
+CRITICAL TECHNOLOGY AREAS
+
+18. The capabilty assessment of the Development Agencies (DAs) will largely depend
+‘on their ability to design and develop critical technologies like inertial navigation system,
+‘control systems, high performance batteries, charging systems, software, transducer,
+power amplifiers, associated electronics and the ability to absorb the same if obtained from
+any other agency. It is imperative that the project attains a higher technological threshold
+‘and minimises the dependence on foreign technology partners. The contfibution of the
+Indian industry in acquiring and developing technologies in critical areas shall b
+key criterion in assessment of the proposal.
+
+19, The assessment of critical technologies for the project “Indigenous development of
+Combined Indicator of integrated Stand-by Instrument System (ISIS)' offered by the
+DA(s)/ Consortium must be supported with all Rights and Licenses (IPR) as mentioned at
+Appendix B.
+
+PARTIV
+GUIDELINES FOR FORMATION OF
+ASSOCIATION OF PERSONS (AOP) OR CONSORTIUM
+
+20. Where an AoP/ Group of Eol recipients (‘Consortium’) comes together to
+implement the project in accordance with the mechanisms outlined under Para 18 above,
+there must exist, at the time of responding to Eol, an ‘Association of Persons (AoP)
+Agreement to form an AoP ie. Consortium to execute and implement the complete
+“Make” project.
+
+21. Where the Eol Respondent is an AoP/ Consortium, it shall, while responding to the
+ol, comply with the following additional requirements: -
+
+(@) Number of members in a consortium shall not exceed 05 (five).
+
+(b) The Eol Response should contain requisite information for each member of
+the AoP/ Consortium.
+
+of the AoP/ Consortium shall nominate one member as the Lead
+ead Member")
+
+(©) Men
+‘Member (the "I
+
+() The Eol Response should include a description of the roles and
+responsibilities of individual members, particularly with reference to production
+‘arrangements in India and R&D activities for which IPRs will vest with MoD as per
+Appendix B.
+
+(e) _Anindividual Eo! respondent cannot at the same time be member of an AoP/
+Consortium responding to the Eol. Further, a member of a particular responding
+‘AoP/ Consortium cannot be member of any other Consortium responding to the
+Eol
+
+() Members of the AoP/ Consortium shall enter into a legally binding
+‘Agreement, substantially in the form specified at Appendix C for the purpose of
+responding to the Eol. The Agreement to be submitted along with the Eo!
+Response, shall, inter alia
+
+()_ Form'the basis for the AoP members to enter into a contract and
+perform all the obligations of the Development Agency in terms of the
+contract, in case a development contract to undertake the "Make" Project is
+awarded to the Consortium;
+
+(i) Clearly outine the proposed roles and responsibilities, if any, of each
+member,
+
+(ill) Include a statement to the effect that members of the AoP/
+Consortium shall be liable jointly and severally for all obligations of the
+development agency in relation to the "Make" Project as required under
+these Guidelines.
+
+Change in Membership of s Consortium
+
+Change in the composition of an AoP/ Consortium will not be permitted after the
+
+submission of Eol responses until the award of a Development Contract for Prototype
+Development.
+
+23, Where the Eol Respondent is an AoP/ Consortium, change in the composition of a
+Consortium AoP may be permitted by the Authority after the award of a development
+‘contract only where: -
+
+(2) _ The Lead Member continues to be the Lead Member of the AoP/ Consortium
+and shall not be changed under any circumstances;
+
+(b) The non-ead substitute member(s) shall continue to meet eligibility criteria
+for membership of an AoP/ Consortium:
+
+() The new Member(s) expressly adopt(s) the Eol Response and the
+Development Contract already made on behalf of the AoP/ Consortium as if they
+‘were a party to it originally and is/are not a Member of any other Consortium short-
+listed for the "Make" Project, while undertake the joint and several or joint liabilities
+(as applicable) of the member itthey are replacing,
+
+24. Any change in the composition of an AoP/ Consortium shall require prior approval
+of MoD/ DOP.
+
+25. The approval to such changes shall be at the sole discretion of MoD/ DDP and must
+bbe approved by them in writing for the approval to take effect.
+
+28. The’ modified AoP/Consortium/ Partnars shail submit a revised “Association of
+Persons Agreement.
+
+Miscellaneous Provisions
+
+27. Any Violation of any of the guidelines by any company shall render it liable to
+initiation of proceedings for suspension andlor banning of business dealings as per the
+‘Guidelines for Putting on Hold, Suspension, Debarment and any other penal action on the
+Entities dealing with the Ministry of Defence, as promulgated by Goverment from time to
+time, will be applicable on procurement process and bidders.
+
+1"
+
+PARTY
+ELIGIBILITY CRITERIA
+
+28. Indian entity satisfying all of the following criteria shall be considered as eligible
+‘Indian Vendor for issue of Eol by the PFT:
+
+(a) _AniIndian entity, which could include incorporation, ownership models as per
+Companies Act, Partnership Firm, Proprietorship and other types of ownership
+‘models including societies as per relevant laws, complying with, besides other types
+of ownership models including societies as per relevant laws, complying with,
+besides other regulations in force, and the guidelinestlicensing laws complying with
+besides other regulations requirements stipulated by the Department for promotion
+of industry and intemal trade (DPIIT) as applicable.
+
+(b) Ownership_by Resident Indian Further, a company is
+‘considered ‘owned’ by resident Indian Citizens if more than fity percgnt (50%) of
+the capita in itis directly of beneficially owned by Resident Indian Citizens and/or
+Indian Companies, which are ultimately owned and controlled by resident Indian
+Citizens. This implies that the maximum permitted Foreign Direct Investment (FD!)
+shall be fourty nine (49%). No Pyramiding of FDI in Indian holding companies or in
+Indian entities subscribing to shares or securities of the Applicant Company or the
+Strategic partner shall be permitted. Indirect foreign investment shall be accounted
+{or in counting the fourty nine (49%) FDI.
+
+© resident Indi (s) (as in
+2013). ‘Control’ shall include the right to appoint majority of the directors or to
+Control the management or policy decisions including virtue of their shareholding or
+‘management rights or shareholders agreements or voting agreements.
+
+(d)___ Start-ups recognised by the Department of Industrial Policy & Promotion
+(DIPP) and registered on start-up India portal under Industry domain as
+‘Aeronautics/Aerospace & Defence and under the categories as Engineering and
+Manufacturing
+
+29. This Eol is being published on MoD/ DDP website inviting Company (ies) to
+Participate in the “Make-lI" Project. The Eol is also issued to the DAs) who have indicated
+wilingness to participate in the Development of ‘indigenous design development and
+manufacture of Combined Indicator of Integrated Stand-by Instrument System (ISIS)
+‘since hosting of the requirements on ‘www. makeinindiadefence.com" and/ or firms which
+Participated in Feasibility Study.
+
+ASSESSMENT PARAMETERS
+
+30. The assessment of the EO! responses would be based on the Technical Capability
+‘Assessment criteria only. There will be no Commercial and Financial criteria,
+
+(a) Technical Capability Criteria
+
+31. Financial and Commercial Assessment Criteria. NA
+
+32. Technical Capability Criteria. The project indigenous development of Combined
+Indicator of Integrated Stand-by Instrument System (ISIS) is @ system which will
+require sound knowledge of LCD Display technologies, pressure sensors, acceleration
+‘sensors, aircraft instrumentation wrt air speed indicators and mach indicators etc. The
+developed ISIS shall be compatibje with existing magnetometer and interfacing should be
+undertaken. The contribution of the DA in acquiring and developing technologies in critical
+‘areas shall be an important criterion in assessment of the proposal. The respondents to
+this Eol are required to Yumish information about their technical ‘capabilties as per
+Appendix E.
+
+EVALUATION CRITE! |ENT PARAMETERS
+33. Evaluation Criteria for All Entities. The response to this Eol will be evaluated
+
+based on the assessment parameters given at Appendix E to identify Companies!
+Consortia with proven Technical strengths.
+
+(a) Technical Capability Criteria.
+
+34, The assessment would be done based on following parameter
+
+(@) Financial and Commercial Criteria. NA
+(b) Technical Capability Criteria. Since it is @ project associated with
+development of avionics system for aircraft, meticulous compliance of QT checks
+‘and subsequent certification by CEMILAC would be a criteria for ground and fight
+{tials of the prototype. Domain Expertise in the following fields is desirable: -
+
+{Design and development of avionics system.
+
+(i) LCDY communication technologies.
+
+el
+
+©
+
+(iy
+
+Integration of various technologies
+
+DA shall have and maintain a Quality Management System compliant with
+
+‘AS9100 series or equivalent certified by a Certification body and shall provide on
+request with the copies of all its certificates/ approvals obtained. DA should have
+airworthiness qualification testing (Hardware and Software) experience and
+
+obtained system certification of at least one airborne system for military aircraft
+
+35. MoD, Govt of India reserves the right to disqualify a respondenl/ consortium if he!
+they fail to comply with specific criteria at any stage of the evaluation process by the PFT.
+
+No amendment) change in response to Eol_will be accepted under _any
+circumstances once the Eol response is submitted
+
+Note. Details regarding proposed expenditure/ establishment of facilities/ lab etc,
+are liable to be included in the contract in case the Company/ Consortium get
+shortlisted for development of ‘indigenous design development and manufacture
+
+of Combined Indicator of integrdted Stand-by Instrument System (ISIS).”
+
+Note 2. Company! Consortium giving False/ Misleading information will be barred
+{from participation in the project ‘indigenous design development and manufacture
+‘of Combined indicator of integrated Stand-by Instrument System (ISIS).
+
+36. Following documents are required to be submitted by EO! respondents: -
+
+Pi
+
+PART Vit
+DOCUMENTS TO BE SUBMITTED BY EO! RESPONDENTS
+
+Ser Tovie Reference
+(@) | Certification Of — Indigenous | Annexure Tot Appendix A
+Content
+(b) | Association “of “Persons (AoP) | Appendix C, if applicable 1
+Agreement
+(@|Underiaking to comply with Appendix D
+indigenous design.
+(d) | Technical Capability Assessment | Appendix E
+Criteria
+(e) | Information Performa Appendix F ~
+| Centiicate [Appendix & J
+{g)__| Project Report Appendix H
+
+
+d
+
+14
+
+37. The EO! respondents shall submit three (03) copies of response to EOI, clearly
+‘one copy as ‘Original Copy’ and the remaining two as ‘Copy No 2 and 3°. The
+respondents are also required to submit a soft copy of the response to EO! in a CD/ DVD
+in PDF format and in word format. n the event of any discrepancy between the content in
+copies of documents submitted, the contents in the ‘original copy’ shall govern’ prevail
+Each page of the response will bear the signatures of the authorised signatory of the
+‘Company! Lead Member in a Consortium.
+
+38. Guidelines for Sut Ee ses.
+
+(a) The responses should be submitted strictly as per the formats given in
+respective appendices. Should a Vendor! Consortium need to mention any other
+Information, a separate column may be added as the last column only.
+
+(b) All response appendices should be submitted in a single file or folder
+‘Suppprting documents or additional reference should be submitted in @ separate
+folder with proper reference mentioned against each parameter or sub parameter
+in respective appendices.
+
+(©) Any supporting document! evidence without any reference to specific
+parameter of criteria will not form part of the assessment.
+
+39. The envelopes shall be addresses as under: -
+
+‘Secretary, PFT
+Project, (S18)
+
+Directorate of Air Projects and Plans (DAPP)
+Naval Headquarters:
+
+Room No 511, ‘D’ Block
+
+Defence Officers Complex, Africa Avenue,
+New Delhi 110023,
+
+Tele 011-26771521
+FaxNo — 011-26771388
+Email dapp@navy.gov.in
+
+40. The response to this Eol must be submitted by rs on 2024 at the
+address mentioned above.
+
+41. A Company! Consortium can submit only one response to this Eol. If a company
+‘submits more than one response, then all responses of the Company will be rejected and
+the Company! Consortium, to which the Company belongs, would not be assessed further.
+
+18
+
+42. MoD, Govt of India at its discretion can extend this deadiine for the submission of
+responses to Eol and the same shall be notified in writing.
+
+PART IX
+
+QUERIES AND CLARIFICATIONS
+
+43. Following aspects will govern the procedure for queries and clantications:-
+
+(2) Companies/ Consortium may submit written queries! clarification!
+amplifications on specific issues by_ 2024 Consolidation and examination
+of the queries received will be carried out by the PFT and clarification will be given
+to all the industries during the pre-response meeting,
+
+() Pre-Response Meeting. A pre-respoyse meeting is scheduled on
+2024 at __. _ hrs at location as indicated in Para 39 to clarify the issue/
+queries raised to facilitate submission of response.
+
+(c) If deemed necessary, a written reply may be given to all respondents after
+the meeting.
+
+ART X
+
+MISCELLANEOUS
+
+44. This Eol Is being invited with no financial commitment on part of the Govt. of India
+MoD. Govt of India reserves the right to withdraw or change or vary any part thereof at any
+‘stage. MoD, Govt of India also reserves the right to disqualify any company should it be
+‘so necessary at any stage on grounds of national security
+
+45. — Respondent/ consortium would be disqualified if they make false, incorrect, or
+‘misleading claims in their response to this Eol. A certificate as per the format at
+‘Appendix G would be furnished as part of the response, including respective consortium
+partners, where applicable.
+
+46. DAs shall provide regular update to PFT either in person, through VC or through
+actual factory! workshop visit atleast once every 03 months to ascertain the actual
+progress of the case.
+
+Note. The above guidelines are to be read in conjunction with the guidelines under
+Chapter il and Chapter Ill of DAP 20
+
+}
+
+th 1
+(P Vinayagam)
+Commodore
+Chairman, PFT
+Project, (ISIS)
+
+Enclosure, Appendix ’A'to . .
+
+Distribution. Shortlisted vendors and Hosted on DOP website (without PSQRs),
+
+Note. Vendor downloading Eo! from DDP website requested to contact DAPP as
+per Para 39 (Fax or email only) for copy of PSQRs by _. Entities will be issued
+Eol post execution of Non-Disclosure Agreement (NDA) and Approval of PFT.
+Format for NDA will be issued to interested vendors post receipt of firm request
+from Vendor.
+
+Appendix A
+{Refers to
+
+INDIGENOUS CONTENT ASPECTS
+
+Definitions
+
+1. “indigenous Content’ (IC) for an equipment or an item shall be arrived at by
+‘excluding from the total cost of that equipment/item the following elements at all stages
+(tiers) of manufacturing/production/assembly.
+
+(@) Direct costs (including freighvtransportation and insurance) of all materials,
+‘components, sub-assemblies, assemblies and products imported into India,
+
+(©) Qirect and Indirect costs of all services obtained from non-Indian entities!
+citizens,
+
+(©) _Allllicense fees, royalties, technical fees and other fees/payments of this
+nature paid out of India, by whatever term/phrase referred to in contracts!
+agreements made by vendors/sub-vendors.
+
+(@) Taxes, duties, cesses, octroi and any other statutory levies in India of this
+nature
+
+2. Further, ‘on cost basis for ‘Buy (Indian IDDM)’ cases, shall imply the IC is required
+‘as specified under Para 8 and 21 of Chapter | of DAP 2020 read with additional specific
+requirements in this regard, if any, mentioned in the EOI.
+
+Reporting Requirements
+
+3. _ IC as defined in Para 1 and 2 above shall be mandatorily reported by all stages
+(tiers) of manufacturing! production’ assembly to their higher stages (tiers). All stages
+(tiers) are required to aggregate indigenous content based on certifications and inputs
+from lower tiers, as well as on the basis of their own procurement actions and
+‘manufacturing activities undertaken. The final aggregation of IC shall be undertaken by
+the prime (main) contractor with whom an acquisition contract Is signed by the
+Ministry/SHQ.
+
+4. All contracts, sub-contracts, agreements and MoUs made by prime (main)
+contractors (and their lower tier suppliers/vendors) with their business partners/ suppliers,
+insofar as these contracts, agreements or MoUs relate to the main acquisition contract,
+shall mandatorily incorporate the definition and reporting requirements for IC in terms of
+Para 3. Similarly, these business partners/suppliers shall sequentially incorporate these
+definitions and reporting requirements with their next levels of business partners/suppliers
+‘and So on, tl the lowest tier in the manufacturing/production/assembly chain.
+
+Audit
+
+5. The Ministry of Defence can exercise its right to conduct an auait ofall certifications
+‘and costs relevant to IC at all or any stages (ters) of manufacturing/production/assembly,
+starting from the prime (main) contractor downwards. The audi(s) could be conducted by
+the Ministry itself andior by an agency/institution/officer(s) nominated by the Ministry, as
+‘may be decided by the Ministry
+
+6 ‘All contracts, sub-contracts, agreements and MoUs made by prime (main)
+contractors (and their lower tier suppliers/vendors) with their business partners/suppliers,
+insofar'as these contracts, agreements or MoUs relate to the main acquisition contract,
+‘shall mandatorily incorporate the right of Ministry of Defence to conduct an audit in terms
+of Para 5. Similarly, these business partners/suppliers shall sequentially incorporate these
+definitions and reporting requirements with their next levels of business partners/suppliers
+and s0 on, tl the lowest tier in the manufacturingiproduction/assembly chain.
+
+Certification
+
+7. _Allrolevant deliveries made under contract shall be accompanied by a certificate of
+IC issued by the Chief Financial Officer (CFO). Al final deliveries under contract shall be
+accompanied, in addition to the certificate issued by the CFO of the prime (main)
+contractor as aforesaid, by its Company Auditor's certificate. An Indigenisation Plan for
+Buy (Indian-IDDM), Buy (Indian), Buy & Make (Indian) and Buy & Make cases will be
+required to be submitted by the vendor to meet the requirement of IC as specified in Para
+6 to 9 of Chapter lof DAP20. Further, the equipment offered for trial shall be accompanied
+with a certificate of IC issued by the CFO of the prime (main) bidder. The format for
+ccortfication of IC by the CFO/Company Auditor shall be as per Annexure to this
+Appendix.
+
+8 Final payments shall be released only afer the submission of a certificate of IC
+furnished by the CFO of the prime (main) contractor and a certificate from its Company
+‘Auditor, in addition to any other requirements specified elsewhere in the DPP or in the
+contract.
+
+9 Deliveries at each stage of contract must conform to IC requirements and
+Categorization relevant to that particular stage The Performance-cum-Warranty Bank
+Guarantee shall not be released before completing an audit of the IC in all relevant
+deliveries by the Ministry or its nominated agency/institutionvofficer(s), if such an audit is
+ordered.
+
+Withholding of Payments and Imposition of Penalties
+
+10. _ Incase a particular delivery is deficient in achieving mandatory IC for that stage, an
+amount of 5% of the cost of that stage delivery shall be withheld from payment for that
+stage. However, if the vendor achieves the mandatory IC on a cumulative basis by the
+next stage of delivery, the amount so withheld shall be released to the vendor without
+interest. All such payments withheld above shall be forfeited upon failure to achiove
+required IC by the stage of last delivery of the relevant product. In addition, the
+Performance-cum Warranty Bank Guarantee shall also be forfeited upon failure to
+discharge IC obligations as per contfact.
+
+11. _ Incase mandatory IC.is not achieved by a vendor and/or if a false certificate is
+furnished by a vendor/sub-vendor, the Ministry can initiate proceedings for banning or
+‘suspension of business dealings with the erring Indian vendor/sub-vendor and its allied
+firms for all future contracts for a period upto 5 years. This right can be exercised by the
+Ministry at any point of time; and initiation of banning or suspension proceedings, if
+‘ordered, shall be in addition to any other action that may be takervordered by the Ministry
+against the erring vendor/sub-vendor under any law(s) in force.
+
+‘Miscellaneous
+
+12. In the event of non-incorporation of the definitions and/or audit requirements laid
+‘down under Para 1 to 6 in contracts or agreements vendors with next tier at any stage
+(tier) of manufacturing/production/assembly, it shall be presumed that tems/services
+provided by that stageltier to the next (tier) have no IC for the purposes of the DPP.
+‘Similarly, in the event of non-certfication of IC at any stage (tier) as required herein, it shall
+bbe presumed that items/services provided by that stagefier to the next stage (tier) have
+‘no IC forthe purposes of the DPP. in such cases, the Ministry of Defence can take any of
+the steps under Para 7 to 11 above against erring vendors/sub-vendors.
+
+Annexure | to Appendix A
+FORMAT FOR CERTIFICATION OF INDIGENOUS CONTENT
+
+This is to certify that we, ______ (Name of Prime/Main Vendor) have
+achievediare offering the following IC in the accompanying delivery under
+Contractequipment being offered for trials/prototype, as defined under the Defence
+Procurement Procedure and as required under the RFP/ContracVEo! (tick whichever is
+applicable) No. dated
+
+Signed by.
+‘Responsible Designated Official’ « . ‘Seal of Vendor —-
+-———{Name of Vendor) Date:
+AUDITOR'S CERTIFICATE
+We (legal name of Verification Firm) _. established in
+
+__ (Full address) represented for signature ofthis Verification
+Certificate by
+(Name and designation of Authorised Representative), hereby certify that ~
+
+‘The above mentioned Indigenous Content (IC) proforma has been examined and all
+cchecks of the supporting documentation and accounting records deemed necessary were
+carried out in order to obtain reasonable assurance that, in our opinion, based on our
+Verification, the Indigenous Content percentage % (in numbers and words)
+reflected in the above mentioned proforma has been achieved by
+
+(Name of Vendor) during the manufacture of (Name of Equipment)
+
+Centiied by:
+
+‘Statutory Auditor/ Cost Auditor/Certified or Seal of Verification Firm
+Licensed Cost Accountant / Chartered Accountant
+
+(as applicable) Date:
+
+(Name /Name of Firm)
+
+Membership Number / Registration Number
+
+a
+
+Appendix B
+{Refers to Para 7, 19, 21(d)
+
+Intellectual Property Rights (IPRs)
+DA shall retain title or ownership and all other rights in intellectual property generated
+during the development of project. However, the Government shall have ‘March-in rights’
+under which the Government can ask the contractor to grant, or may itself grant license
+for, inter alia, the following reasons: -
+
+(2) Where health and safety requirements so require the Government to act in public
+intorest.
+
+(b) For National Security Reasons.
+(©) To meet requirements for public use not reasonably satisfied by the contractor.
+
+(2) For fallure of the contractor to substantially manufacture the products embodying
+the subject invention in india or
+
+(@) For failure of the contractor to comply with any of the requirements laid down
+Under these guidelines.
+
+Appendix C
+Refers to Para 21(f), 31 & 36(b)
+
+ILLUSTRATIVE: ‘ASSOCIATION OF PERSONS AGREEMENT:
+
+‘THIS ASSOCIATION OF PERSONS (AOP) AGREEMENT is entered into on this the day
+of 20.
+
+AMONGST
+14 Limited, a company incorporated under the Companies Act) and
+having its registered office at (hereinafter referred to as the "First Part” which
+
+‘expression shall, unless repugnant to the context include its successors and permitted
+assigns) 7
+
+‘AND
+
+24 ..». Limited, a company incorporated under the Companies Act) and having its
+registered office at (hereinafter referred to as the "Second Part’ which expression shall,
+Unless repugnant to the context include its successors and permitted assigns)
+
+3. {u.n» Limited, a company incorporated under the Companies Act and having its
+registered office at (hereinafter referred to as the "Third Part" which expression shall,
+unless repugnant to the context include its successors and permitted assigns)}
+
+‘AND
+
+4h Limited, a company incorporated under the Companies Act and having its
+registered office at (hereinafler referred to as the "Fourth Part” which expression shall,
+unless repugnant to the context include its successors and permitted assigns)}The above
+‘mentioned parties of the FIRST, SECOND, {THIRD and FOURTH} PART are collectively
+referred to as the "Parties" and each is individually referred to as a “Party”
+
+WHEREAS,
+
+(@) The Ministry of Defence, Government of India (hereinafter referred to as the “Buyer”
+‘which expression shall, unless repugnant to the context or meaning thereof, include its
+administrators, successors and assigns) has invited responses (the “responses")o its
+Expression of Interest No........ dated. (the "Eol") for shortlisting of bidders for
+development of- Project (the "Project").
+
+
+(b) The Parties are interested in jointly bidding for the Project as an Association of
+Persons (“AoP") in accordance with the terms and conditions of the Eol document and
+‘other documents in respect of the Project and
+
+(©) It's a necessary condition under the Eol document that the members of the AoP
+shall enter into an Association of Persons Agreement and furnish a copy thereof with
+the Response.
+
+NOW ITIS HEREBY AGREED as follows:-
+
+1. Definitions and Interpretations. In this Agreement, the capitalized terms shall,
+unless the context otherwise requires, have the meaning ascribed thereto under the Eol.
+
+2. Association of Persons/Consortium.
+
+(2) The” Parties do hereby irrevocably coristitute an Association of
+Persons/consortium (the “Consortium") for the purposes of jointly participating in
+the bidding process for the Make Project and executing and implementing the
+‘complete "Make" project upto the completion of the Production Phase or any
+subsequent Lifecycle Support or technology Refresh/Upgrade Contract that MoD
+places on the Lead Member of AoP before completion of the Warranty Period,
+whichever is later.
+
+() The Parties hereby undertake to participate in the "Make" Project only
+through this AoP Agreement and not individually and/or through any other
+‘AoP/consortium constituted for this Project, either directly or indirectly or through
+any of their Associates.
+
+3. Covenants. The Parties hereby undertake that in the event the AoP is deciared the
+‘selected Development Agency and awarded the project, the parties shall enter into a
+Contract with the Buyer for performing all its obligations as the Development Agency in
+terms of the contract for the Project.
+
+4. Role of the Parties. The Parties hereby undertake to perform the roles and
+responsibilities as described below: -
+
+(2) Party of the First Part shall be the Lead member of the Consortium for and
+‘on behalf of the Consortium during the bidding process and until the Appointed Date
+under the Contract.
+
+(b) Party of the Second Part shall be responsible for
+
+
+(©) Party of the Third Part shall be responsible for
+(8) Party of the Fourth Part shall be responsible for
+
+5. Joint and Several Liabilities. The Parties do hereby undertake to be jointly and
+severally responsible for all obligations and liabilities relating to the Project and in
+accordance with the terms of the Eol and subsequently in accordance with the
+development contract, if and when awarded.
+
+6 Lead Member. Without prejudice to the joint and several liabilties of the parties,
+‘each party agrees that it shall communicate with the MoD in matters of the Eol and the
+Development and Production Contract, as applicable through the Lead Member and the
+‘Buyer shall be entitled to communicate with such Lead Member as the representative of
+all the members. Each party agrees and acknowledges that:-
+
+(a) The Lead Member shail take prior written consent by all participating AoP
+members before sending afly communication régarding a dacision {including
+without limitation, any waiver or consent), action or omission, before communicating
+the same to MoD. The AoP Members shall send their responses to the Lead
+Member and ensure that stipulated timelines of MoD are met with by the Lead
+Member;
+
+and;
+
+(b) Any decision (including without limitation, any waiver or consent), action,
+‘omission communicated by the Lead Member on any matters related to the
+Contract shall be deemed to have been on its behalf and shall be binding on it. The
+Buyer shall been titled to rely upon any such action, decision or communication
+from the Lead Member,
+
+and;
+
+(©) Any notice, communication, information or documents to be provided to the
+Development Agency shall be delivered to the authorised representative of the
+Development Agency (as designated pursuant to the Contract) and any such notice,
+‘communication, information or documents shall be delivered to all the Parties by
+the Lead Member.
+
+7. oP Bank Account/ Payments. The Parties will open a separate single bank
+account (“AoP Account’) for payments to be received from the Buyer in the name of the
+‘AoP which account shall be operated jointly by all the AoP members. Each of the Parties
+shail raise separate invoices on Buyer, which will be presented to the Buyer by the Lead
+Member under a Covering Letier. The Buyer shall make the payment(sjito the designated
+‘AOP account and the Buyer shall not in any manner be responsible or Kable forthe inter
+‘80 allocation of payments, works etc. among the Parties. Disbursal ofthe amount lying in
+
+25
+
+the AoP account to each of the Parties shall be made directly to such Party, from the AoP
+‘Account. Each Party shall be responsible for ensuring the Invoice and the accompanying
+documentation is complete and accurate,
+
+8
+
+81
+
+Representation of the Parties
+Each Party represents to the other Parties as of the date of this Agreement that:-
+
+(a) Such Party is duly organized, validly existing and in good standing under the
+laws of its incorporation in india and has all requisite power and authority to enter
+in to this Agreement;
+
+(b) The execution, delivery and performance by such Party of this Agreement
+hhas been authorized by all necessary and appropriate corporate or governmental
+action and a copy of the extract of the charter documents and board
+resolution/power of attorney in favour of the person executing this Ag for
+tha delegation of power and authority to execute this Agreement on behalf of the
+Consortium Member is annexed to this Agreement and will not, to the best of its
+knowledge:-
+
+(Require any consent or approval not already obtained;
+
+(i) Violate any Applicable Law presently in effect and having applicability
+toit;
+
+(ii) Violate the memorandum and articles of association, by-laws or other
+applicable organizational documents thereof;
+
+(iv) Violate any clearance, permit, concession, grant, icense or other
+‘governmental authorization, approval, judgment, order or decree or any
+‘mortgage agreement, indenture or any other instrument to which such Party
+is a party or by which such Party or any ofits properties or assets are bound
+or that is otherwise applicable to such Party; or
+
+(W) Create or impose any liens, mortgages, pledges, claims, security
+interests, charges or Encumbrances or obligations to create a lien, charge,
+pledge, secunty interest, encumbrances or mortgage in or on the property of
+‘such Party, except for encumbrances that would not, individually oF in the
+aggregate, have a material adverse effect on the financial condition or
+prospects or business of such Party so as in all matters before the Buyer,
+signing and execution of all contracts and undertakings consequent to
+acceptance of the Consortium’s proposal and generally dealing with the
+Buyer in all matters in connection with or relating or arising out of the Project.
+
+9
+
+26
+
+Termination. This Agreement shall be effective from the date hereof and shall
+
+Continue in full force and effect until completion of the Make project and in accordance with
+the contract, in case the Project is awarded to the Consortium. However, in case the
+Consortium is either not prequalified for the Project or does not get selected for the award
+
+of the
+
+Project, the Agreement will stand terminated or upon retum of the Bid Security, if
+
+any, by the Buyer to the Bidder, as the case may be. Upon completion of the Development
+Contract, this Agreement may be terminated by the Parties upon written mutual consent,
+if the AOP fails to win Contract from MoD, during the implementation of the ‘Buy (Indian-
+IDDM) Project.
+
+10.
+
+IN Wi
+
+Miscellaneous.
+(a) This Agreement shall be governed by the laws of India.
+
+(©) Inythe event of a dispute, the Parties shall attempt to amicably resolve the
+‘same, failing which the dispute shall be referred to arbitration whichshall be
+resolved in accordance with the Arbitration & Conciliation Act, 1996. The venue for
+dispute resolution shall be New Delhi, India. The arbitration proceedings shall be
+conducted in English language. The arbitration award shail be final and binding
+upon the Parties.
+
+(c) The Parties acknowledge and accept that this Agreement shall not be amended
+by the Parties without the prior written consent of the Buyer.
+
+TH NAMED.
+
+DELIVE! :EMENT AS OF \TE FIRST. N.
+
+‘SIGNED, SEALED AND DELIVERED For and on behaif of Lead Member
+
+by:
+
+(Signature)
+(Name)
+(Designation)
+(Address)
+
+SIGNED, SEALED AND DELIVERED For and on behalf of SECOND PART
+
+(Signature)
+(Name)
+(Designation)
+(Address)
+
+SIGNED, SEALED AND DELIVERED For and on behalf of THIRD PART
+
+(Signature)
+(Name)
+(Designation)
+(Address)
+
+SIGNED, SEALED AND DELIVERED For and on behaif of FOURTH PART
+
+(Signature)
+(Name)
+(Designation)
+(Address)
+
+In the presence of (witness):
+
+Appendix D
+(Refer to Para 6 of Eol)
+
+UNDERTAKING TO COMPLY WITH INDIGENOUS DESIGN
+
+we, ("Name of Vendor’), do hereby certify, undertake and confirm that:
+
+1. The Design of
+response tothe RFPNo___dated
+Indian entity.
+
+(Named Product’), as claimed by us in
+‘owned partly or wholly by us/by an
+
+2. Further, we confirm that the Design of the Named Product, as claimed by us, has
+not been licensed from a foreign third party except for standard software licences such
+‘as, but not limited to OS / Database / (Strikeout / Specify as applicable),
+
+3. The ownership of the Design, as claimed by us, enables us to manufacture, realise,
+sell, provide Thrugh Life Support, mBdify and upgrade thé Named Product witout any
+encumbrances, except @8 specified below: (If any form of encumbrances exist on the
+product or any ofits subsystems these should be elaborated here)
+
+4. We further claim that we own the following Intellectual Property (IP) Rights in
+‘elation to the design of the Named Product: (Specify any Patents, Registration of Designs,
+if any, held by the Vendor)
+
+5. We also undertake to permit MoD/MoD appointed Specialists Committee, to
+inspect! carry out technical verification at our premises of the applicable documents, such
+as Design Reports, Drawings, Specifications, Software Documents & Codes, Gerber files,
+‘etc, as may be reasonably necessary and required to prove the above claim of ownership
+of the Design of the Named Product. (Examination on site at company's premises only.
+Documents, in any form, are not be sought nor required to be submitted for examination
+‘outside the Company's premises)
+
+6. Failure on our part to prove the ownership of the Design of the Named Product by
+us/by an Indian entity or submission of any false undertaking or claim as indicated in the
+response at any post contract stage of the intended procurement may make us lable to
+{forfeiture of the PWBG to the extent of any direct losses or damages suffered by the MoD
+{as a consequence of such false undertaking or failure to prove the owmership of the
+Design,
+
+TECHNICAL CAPABILITY ASSESSMENT CRITERIA
+
+Name of the vendor -
+SL Griteria and Sub- Criteria
+No
+
+[(@) | The company should demonstrate
+| domain expertise in the field of
+avionics design and ability to
+implement critical technology related
+to LCD and associated components
+of product being developed
+
+| acceptance —_to.-—undertake
+Qualification Tests and obtain
+CEMILAC certification for alrbome
+|_| avionics equipment being developed
+towards facilitating ground and fight
+trials on aircraft
+
+|(®) [Design approval Expertise’ |
+
+Appendix E
+Refers to Para 32, 33, 36(d))
+
+ndor Submissions
+
+Partner 1
+
+Partner 2
+
+(© | Qualified team working in the area of
+avionics design, implementation and
+integration.
+
+(@ |Past experience in design and
+development of avionics systems.
+DA should have airworthiness.
+qualification testing (Hardware and
+Software) experience and obtained
+system certification of at least one
+aitborne system for military aircraft
+
+(@) | DA shall have and maintain a Quality
+Management System compliant with
+‘AS9100 series or equivalent certified
+by a Certification Body and shall
+provide on request with the copies of
+all its certificates) approvals
+obtained.
+
+(© _| Infrastructure with availability of test
+instruments to support testing and
+
+oN
+
+
+@
+
+)
+
+30
+
+tuning of avionics systems being
+developed
+‘Availabilty of clean and dust free lab
+environment. ms
+‘Adequate availability or access to
+certified labs to undertake | |
+environmental tests being stipulated
+
+for development of avionics systems
+2s per MIL standards, | |
+
+Place: Signature
+
+Date:
+
+‘Note 1. This case is earmarked for MSMEs only.
+
+3
+
+Refer to Para 36(e))
+
+1. Name of the Company
+
+2 Name of CEO with Designation
+
+3. Address of the Registered Office
+
+4 GIN
+
+5. Address of the Factory/Factories
+
+6 Company Website(s)
+
+7. Date of Incorporation
+
+8, Brief History of the Company
+
+9. Category of industry (Large Scale/Medium Scale/Small Scale)
+
+10. Nature of Corppany (Public Limited/Private Limited)
+
+11. Shareholding pattern
+
+12. Nature of Business (Please give broad product range against each)
+(2) Manufacturer
+
+(b) Trader
+
+(©) Sole Selling or Authorised Agent
+(2) Dealer
+
+(e) Assembler
+
+() Processor
+
+(g) Re packer
+
+(h) Service Provider
+13, Details of Current Products
+
+(2) Type/Description
+
+(b) _Licensed/installed Capacity
+
+(©) _ Annual Production for Preceding 3 Years
+14. Details of Foreign Collaborations
+
+(a) Product
+
+(b) Name and Address of Collaborator
+
+(©) Year of Collaboration
+
+(d) Current Status of the Collaboration (whether expired or current)
+15. Technology Received from Abroad and Assimilated
+16. Technology Transfer MoUs Signed/Under Negotiation
+17. Products Already Supplied
+
+(@) To Indian ArmyiAir Force/Navy
+
+(b) PSUs
+
+(©) DRDO and its Laboratories
+
+(@) Ordnance Factories
+
+() Any other Defence Organisation
+
+
+(f) Toother Principal Customers
+18. Details of Registration Certification held (along with product details)
+
+(a) DGQA
+(b) DGAQA/DGNAI
+(©) CEMILAC
+
+(@) Deseo
+
+(e) Other Defence Departments
+(Other Government Department
+19, Details of ISO Certification (Attach certificate, if any)
+20. Details of PatentPR certificates (Attach certificate i any)
+21. Details of Permanent Man Power (with the details of qualifications)
+(2) Technical
+(b) Administrative
+22. Total Area of Factory
+(2) Covesed (sq, mtrs)
+(b) Uncovered (sq. mirs)
+(6) _ Bonded Space Available (sq, mirs)
+23, Details of Important Faciities available with Eo! respondent
+(@) Production (including Heat Treatment, Dies, jigs and Fixtures)
+() CAD, CAM, ROBOTS and Other Advanced Technology Tools
+(©) Environmental Test Facilites.
+(@) Toot Room, Metrology and Test Equipment and Facilites
+24. Details of Developmental Faciities
+(a) R&D Facilities Available
+(b) Number of Technical Manpower
+(©) Inspection and Quality Control of Raw Material, Components and
+Finished Products.
+(4) Assistance required from Central Agency/Agencies for
+Testing/Calibration
+(€) Laboratory and Drawing Office Facility
+(f) Percentage of Total Turn-Over Spent on R&D during the Last Three
+Years
+28. Area of Interest for Future Expansion/Diversification
+26. Future Plan (if any) In respect of Expansion Program, Installation of Additional
+Machines/Test Facities
+27. Integration capabilities for system-of-systems projects.
+28. _Anyother Relevant information
+29. Contact Details of the Executive Nominated to co-ordinate with the
+Assessment Team (please provide telephone, mobile and e-mail address).
+
+Appendix G
+Refers to Para 36 (f) & 45)
+
+CERTIFICATE
+
+Itis certified that information submitted in the documents as part of the response
+to Expression of Interest for Project ‘indigenous design development and manufacture
+Combined Indicator of Integrated Stand-by instrument System (ISIS) is comect,
+and complete in all respects. It is acknowiedged that the company and / or all
+consortium members will be disqualified from further participation if any information
+provided is found to be incorrect.
+
+Signature with Company Seal
+
+CompanyNot  CompanyNo2 CompanyNo3 Company No4
+
+‘Company No 5
+
+\
+
+34
+
+Appendix H
+{Refers to Para 36{a))
+FORMAT FOR PROJECT REPORT
+1. Overview of the project
+2. Compliance to PSAR.
+3. Compliance to Environmental standards and QA aspects as elucidated in the
+
+PSQRs. (Respondents may indicate if equipment/assemblies/assembly is being
+supplied with any other QA standard! equivalent commercial standards).
+
+._ 4. List of equipment/subcomponents, and assemblies proposed to be fitted on
+
+‘indigenous design development and” manufacture of Combined Indicator “of
+Integrated Stand-by Instrument System (ISIS)with details of following: -
+
+(2) Indigenous / imported.
+(b) __Milstandard or commercial standards
+(©) Short brief on technical capabilities of equipment
+5. Standards under which the ‘indigenous design development and manufacture of
+Combined Indicator of Integrated Stand-by Instrument System (ISiS)will be
+manufacturediested.
+
+6. Acceptance of 102 weeks (24 MONTHS) as prototype development timeline
+which includes CEMILAC certification and trials.
+
+7. Source of Raw Material for the project
+(a) Imported indigenous.
+(b) Brief Description,
+(©) Estimated CIF valve.
+
+(2) Percentage FE content likely in prototype and final product.
+
+35
+
+8. Details of important facilites that will be employed in the project, including but not
+limited to (specifically to be used for this project): -
+
+(4) Production (including Heat Treatment, jigs and fixtures)
+
+(©) CAD, CAM, robotics and other advanced technology tools,
+
+() Environmental Test Facilities.
+
+(9) Tool Room, Metrology and Test Equipment and Facilities,
+
+(h) Types of Instruments, Make and Model, Date of Purchase,
+9. _Indigenisation Criteria with specific reference to ‘indigenous design development
+‘and manufacture of Combined Indicator of Integrated Stand-by Instrument System,
+ASIS) project.
+
+(a) Indigenous design capability.
+
+(b) Indigenous manufacturing capability
+
+(©) Indigenous content in percentage of total cost.
+
+(a) %*age of proprietary items.
+
+(€) Components to be manufactured indigenously.
+
+() Components designed indigenously but likely to be manufactured abroad.
+
+(G) Components likely to be procured from abroad along with country of origi.
+
+(h) Methodology to build up on technologies and experience from current
+project for new deliverables/upgrades.
+
+10, Estimated timelines for various phases of prototype development, total timeframe
+{or implementation of the project and cortical phases most susceptible to slippages.
+‘Some Critical Activities and Milestones envisaged are as follows :- (respondent may
+
+(@) Build specifications/design specifications.
+
+36
+
+(b) _Layout/ General Arrangement Drawing (wit detailed Bil of Material and
+source)
+
+(©) QAP procedure for equipment
+(@) Placing of orders for all components and raw materials.
+(e) Procurement of all critical raw materials.
+(f) Assembly of entical sub-assemblies.
+(9) Assembly of the complete prototype.
+(h) Finalisation and Promulgation of Trial Directive.
+(© tr¥emnal Testing and Trials.” ° .
+{k) Environmental Testing and trials,
+(0) ‘Submission of certifcation/studies as required
+(m) Prototype trials
+(f) Preliminary Design Review (PDR).
+(p) _ Ciftical Design Review (CDR).
+411. Location where the prototype will be manufactured.
+42. Roles Responsibilities and expertise details of consortium members, if any.
+
+13. Role of foreign’ indigenous technology provider, if any, including the agreement
+intended to be entered into on being shortlisted.
+
+14. Method of execution of ToT and key technologies envisaged to be absorbed
+through ToT with timeline (if applicable),
+
+15. Upfront disclosure of details of foreign collaboration, if any including major
+assemblies and sub-assemblies to be defined to include Armament, Power Pack,
+‘Transmission System, Sighting system etc. as Priority | and I
+
+16. Requirement and employment specialised testing assistance where facilties are
+avaitable only with DROO/DGQA/DGAGA/DGNAWSHQ.
+
+37
+
+17. Requirement Utilisation of existing goverment infrastructure for leasing
+‘maintenance and manufacture of components, assemblies and sub-assemblies.
+
+18. Recommended Evaluation process and acceptance criteria for prototype for
+PSQRs (to be divided into simulation, documentation, certification, inspection and
+demonstration )
+
+19. Likely envisaged delivery timelines for production version post placement of
+contract.
+
+20. Recommended methodology for ful life cycle support for production version.
+21. Obsolescence Management Pian for product.
+22, Recommended tfaining and exploitatidh methodology for préduct. 4
+
+23. Recommended methodology for, midlife upgrades or fe extension as applicable.
+

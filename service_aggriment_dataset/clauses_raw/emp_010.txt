@@ -1,0 +1,2416 @@
+ 
+ 
+ 
+ 
+ 
+GENERAL CONDITIONS OF 
+CONTRACT 
+ 
+ 
+FOR  
+ 
+ 
+PROCUREMENT OF SERVICES 
+ 
+ 
+ 
+ 
+ 
+Brahmaputra Cracker and Polymer 
+Ltd. 
+  
+(Rev. 0) 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+2 
+ 
+ 
+Sl. No.  
+Description 
+SECTION – I  
+DEFINITIONS & INTERPRETATIONS 
+1.1 
+Definition of Terms 
+1.2 
+Interpretations & Priority of Contract Documents 
+1.3 
+Special Conditions of Contract 
+SECTION – II  GENERAL INSTRUCTIONS & OBLIGATIONS 
+2.1 
+Formation of Contract  
+2.2 
+Signing of Agreement  
+2.3 
+Addenda/Corrigenda  
+2.4 
+Liability of Government of India 
+2.5  
+Site Visit  
+2.6 
+Action in case of Corrupt/Fraudulent /Collusive /Coercive Practices and Evaluation of 
+Performance    
+2.7 
+Retired Government or Employer‟s Officers   
+2.8 
+Conflict of Interest  
+2.9 
+Abnormal Rates 
+2.10 
+General obligations of Service Provider  
+2.11 
+Service Provider‟s Representative & Personnel  
+2.12 
+Service Provider‟s Employees / Personnel  
+2.13 
+Contract Performance Security  
+2.14 
+Failure by the Service Provider to comply with the provisions of the Contract  
+2.15 
+Service Provider remains liable to pay compensation if action not taken under clause 2.13 
+2.16 
+Change in constitution  
+2.17 
+Termination of Contract  
+2.18 
+Amount Payable in case of Termination  
+2.19 
+Members of the Employer Not Individually Liable  
+2.20 
+Employer not Bound by Personal Representations  
+2.21 
+Force Majeure 
+2.22 
+Price Reduction Schedule 
+2.23 
+Assignment/Sublet 
+2.24 
+Liens 
+2.25 
+Delays by Employer or his Authorised Representative 
+2.26 
+No waiver of rights 
+2.27 
+Certificate not to affect right of employer and liability of Service Provider 
+2.28 
+Language and Measures 
+2.29 
+Release of Information 
+2.30 
+Completion Period, Contract Period and Completion of Contract 
+2.31 
+Independent Capacity 
+2.32 
+Notice 
+2.33 
+Confidentiality 
+2.34 
+Intellectual Property Right  
+SECTION – III PERFORMANCE OF SERVICE 
+3.1 
+Execution of services 
+3.2 
+Changes In Services 
+3.3 
+Action and compensation in case of poor service 
+3.4 
+Suspension of services 
+3.5 
+Defects Liability Period  
+3.6 
+Completion Certificate  
+3.7 
+Final Decision & Final Certificate 
+3.8 
+Limitation of Liability 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+3 
+ 
+TABLE OF CONTENT 
+ECTION – IV 
+PAYMENT, INSURANCE AND TAXES 
+4.1 
+Deduction from the Contract price 
+4.2 
+Schedule of rates and payments 
+4.3 
+Procedure for Billing of Services 
+4.4 
+Notice of claims for additional payments 
+4.5 
+Insurance 
+4.6 
+Taxes and Duties 
+4.7 
+Income tax 
+4.8 
+Statutory variations 
+4.9 
+Damages to Property of any person and third party 
+SECTION – V 
+LAWS, HEALTH, SAFETY & ENVIRONMENT 
+5.1 
+Labour Laws 
+5.2 
+Safety regulations 
+5.3 
+First aid and industrial injuries 
+5.4 
+General rules 
+5.5 
+Care in handling inflammable gas 
+5.6 
+Preservation of place 
+5.7 
+Environment 
+SECTION – VI DISPUTE RESOLUTION AND ARBITRATION 
+6.1 
+Dispute resolution  
+6.2 
+Arbitration  
+6.3 
+Jurisdiction  
+6.4 
+Continuance of The Contract 
+ 
+ 
+3.9 
+Indemnity 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+4 
+ 
+SECTION – I    DEFINITIONS & INTERPRETATIONS 
+1.1 
+Definition of Terms 
+  
+In this Contract (as defined here-in-after), save where the context otherwise requires, the 
+following words and expressions shall have the meanings respectively assigned to them: 
+ 
+"Approved" means approval in writing including subsequent written confirmation of 
+previous verbal approval(s). 
+ 
+The "Bid /Tender/Offer" means the proposal along with required supporting documents 
+submitted by the Bidder/Service Provider for consideration by the Employer. 
+ 
+  
+ The „Bidder/Tenderer” means the person(s) / Firm / company /Corporation 
+/Organization/entity, who participated in the Tender.   
+ 
+“Completion Certificate” means the certificate to be issued by the Engineer In-charge 
+(EIC) when the Services have been completed entirely in accordance with Contract. 
+ 
+“Completion Date” means the date of actual completion of the services by the Service 
+Provider as certified by the Employer. 
+ 
+“Contract” means an agreement between Employer and the Service Provider/Supplier for 
+execution of the Service(s) as per Contract Documents and its subsequent amendment(s), 
+if any in writing thereto. 
+ 
+"Contract Documents" means collectively the Tender Documents, Designs, Drawings, 
+Scope of Services, Specifications, Schedule of Rates (SOR), Letter of Acceptance and 
+agreed variations if any, and such other documents constituting the tender and acceptance 
+thereof. 
+ 
+"Day" means a calendar day of 24 hours from midnight to midnight irrespective of the 
+number of hours serviced in that day. 
+ 
+“Demobilization” means removal of all equipment, machinery, manpower from the site 
+after completion of the services with the due permission of EIC. 
+ 
+“Drawings” means and include all Engineering sketches, general arrangements/ layout 
+drawings, sectional plans, all elevations, etc. related to the Contract together with 
+modification and revision thereto. 
+ 
+The “Employer/Service Receiver/ Company/Owner” means Brahmaputra Cracker and 
+Polymer Ltd. (BCPL), a public limited company, having its Registered office at 1st Floor, 
+House No 6, Bhuban Road, Uzanbazar, Guwahati, Assam, Pin - 781001 and includes its 
+successors, assigns and Site(s)/work center(s). 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+5 
+ 
+The “Engineer-In-Charge" (EIC) means the person designated from time to time by 
+Employer and shall include those who are expressly authorized by him to act for and on 
+his behalf for operation/execution of this Contract for Services. 
+ 
+“Equipment/Materials/Goods” means and include all equipment, machinery, stores, 
+goods which are required under the Contract for satisfactory performance of Services by 
+the Service Provider. 
+ 
+"Fax of Acceptance” means intimation regarding notification of award by the Employer 
+to the successful Bidder/Service Provider through a Fax/ Letter  conveying that the 
+Tender/Bid/Offer has been accepted in accordance with the provisions contained therein. 
+ 
+“Guarantee/Warranty/ Defect Liability Period (DLP)” means the period and other 
+conditions governing the warranty/guarantee/defect liability period of the services as 
+provided in the Contract. 
+ 
+"Metric System": All technical documents are given in the metric system and all service 
+should be carried out according to the metric system. All documents concerning the 
+service shall also be maintained in the metric system. 
+ 
+“Mobilization” means stabilizing adequate infrastructure at designated Site comprising of 
+Equipment, aids, tools, tackles, instruments, Goods & Materials, experienced manpower, 
+supported with supervising personal in order to provide services as per the provision of 
+Contract document. 
+ 
+“Negligence”  means any act or  failure to act (whether sole, joint or concurrent) by a 
+person or an entity which was intended to cause, or which was reckless disregard of or 
+wanton indifference to, avoidable and harmful consequences such person or entity knew, 
+or should have known, would result from such act or failure to act. Notwithstanding the 
+foregoing, negligence shall not include any action taken in good faith for the safeguard of 
+life or property. 
+ 
+The "Service(s)" means and include all services and activities/jobs to be performed by the 
+Service Provider in pursuant to and in accordance with Contract or part thereof as the 
+case may be and shall include all extra, additional, altered or substituted services and 
+approvals from any agency/third party & license(s)/permissions from statutory authorities 
+(if any), as required for purpose of the Contract. 
+ 
+The "Service Provider" means Bidder/Tenderer whose tender has been accepted by the 
+Employer and includes the Service Provider's legal representative(s), his successor(s) and 
+permitted assign(s).  
+ 
+“Service Provider‟s/ Bidder‟s Representative” means such person(s) duly   authorized by 
+the Bidder/Service Provider in writing to the Employer as having authority to act for and 
+on behalf the Bidder /Service Provider in matters affecting the Services and to provide 
+the requisite services to Employer. 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+6 
+ 
+“Site” means the place(s) provided by the Employer where the Services are to be carried 
+out/executed and any other place(s) as may be specifically designated in the Contract as 
+forming part of the site. 
+ 
+“Specifications” means and include detailed description, statements to technical data, 
+performance characteristics, and standards (Indian as well as International) as applicable 
+and as specified in the Contract. 
+ 
+The "Sub-Service Provider" means any person /  firm /  Organization / company /entity 
+(other than the Service Provider) and it‟s legal representatives, successors and permitted 
+assigns  named in the Contract as a Sub-Service Provider for a part of the Services or to 
+whom a part of the Services has been sub-Contracted with the written prior consent of the 
+Employer. 
+ 
+"Value of Contract” or “Total Contract Price” means the sum accepted or the sum 
+calculated in accordance with the prices accepted in the Contract as payable to the 
+Service Provider for the entire execution and full completion of the service, including 
+Amendment(s) to Contract, if any. 
+ 
+"Week" means a period of any consecutive seven Days. 
+ 
+“Willful Misconduct” means intentional disregard of good and prudent standards of 
+performance or proper conduct under the Contract with knowledge that it is likely to 
+result in any injury to any person or loss or damage of property.  
+ 
+“Working Day” means any Day which is not declared by the Employer to be holiday or 
+off-day. 
+ 
+1.2    INTERPRETATIONS & PRIORITY OF CONTRACT DOCUMENTS 
+ 
+1.2.1 The documents forming the Contract are to be read together and interpreted as mutually 
+explanatory of one another. If there is a direct inconsistency in specific obligation(s), then 
+for the purposes of interpretation, and unless otherwise provided in the Contract, the 
+priority of the Contract Documents shall be in accordance with following sequence:  
+ 
+i)  
+The Contract Agreement  
+ii) 
+Detailed Letter of Acceptance along with its enclosures  
+iii) 
+Fax of Acceptance 
+iv) 
+Scope of Works/ Job Specifications (specific to particular job only, wherever 
+provided) 
+v) 
+Drawings 
+vi)  
+Special Conditions of Contract (SCC) 
+vii) 
+Technical Specifications (wherever applicable) 
+viii)  
+Instructions to Bidders (ITB) 
+ix) 
+General Conditions of Contract (GCC) 
+x)  
+Other Documents 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+7 
+ 
+ 
+Works shown in the Drawing but not mentioned in the Specifications or described in the 
+Specifications without being shown in the Drawings shall nevertheless be deemed to be 
+included in the same manner as if they had been specifically shown upon the Drawings 
+and described in the Specifications.  
+ 
+Any amendment/change order issued by Employer upon signing of formal Contract shall 
+take precedence over respective clauses of the formal Contract and its annexures. 
+ 
+ 
+ 
+The higher priority interpretation shall be adopted only to the extent required to deal with 
+an inconsistency. Specific term(s) agreed take priority over general statement(s) and 
+terms in Contract Document created at a later date govern over terms in earlier Contract 
+Document. Subject to foregoing, the terms of the groups of documents set out above have 
+equal importance within their group.  
+  
+1.2.2  Headings and Marginal Notes: All headings and marginal notes to the clauses of these 
+General Conditions of Contract or to the Specifications or to any other Tender Document 
+are solely for the purpose of giving a concise indication and not a summary of the 
+contents thereof, and they shall never be deemed to be part thereof or be used in the 
+interpretation thereof the Contract. 
+ 
+1.2.3 Singular and Plural: In Contract Documents unless otherwise stated specifically, the 
+singular shall include the plural and vice versa wherever the context so requires. 
+ 
+1.2.4  Gender: Where the context so requires, words imparting the masculine gender shall also 
+include the feminine gender and the neuter gender and vice versa. 
+ 
+1.2.5 Severability: Should any provision of this Contract be found to be invalid, illegal or 
+otherwise not enforceable by any court of law, such finding shall not affect the remaining 
+provision(s)/clause(s) hereto and they shall remain binding on the parties hereto. 
+ 
+1.3 
+SPECIAL CONDITIONS OF CONTRACT 
+ 
+1.3.1  Special Conditions of Contract consisting of scope of services, specification of Services & 
+items etc. shall be read in conjunction with the General Conditions of Contract, and any 
+other documents forming part of this Contract wherever the context so requires. 
+ 
+1.3.2  Notwithstanding the sub-division of the documents into these separate sections and 
+volumes every part of each section/volume shall be deemed to be supplementary to and 
+complementary of every other part and shall be read with and into the Contract so far as it 
+may be practicable to do so. 
+ 
+1.3.3  Where any portion of the General Condition of Contract is repugnant to or at variance with 
+any provisions of the Special Conditions of Contract, unless a different intention appears 
+the provisions of the Special Conditions of Contract shall be deemed to over-ride the 
+provisions of the General Conditions of Contract and shall to the extent of such 
+repugnancy, or variations, prevail.  
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+8 
+ 
+1.3.4  Wherever it is mentioned in the Specifications that the Service Provider shall perform 
+certain Service or provide certain facilities, it is understood that the Service Provider shall 
+do so at his cost and the Value of Contract shall be deemed to have included cost of such 
+performance and provisions, so mentioned. 
+ 
+1.3.5  The materials, design and services shall satisfy the relevant Standards, the Job 
+Specifications contained herein and Codes referred to. Where the job specification 
+stipulate requirements in addition to those contained in the standard codes and 
+specifications, these additional requirements shall also be satisfied. 
+ 
+----------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+9 
+ 
+SECTION – II 
+ 
+2.0 
+GENERAL INSTRUCTIONS & OBLIGATIONS 
+ 
+2.1 
+FORMATION OF CONTRACT  
+ 
+2.1.1 Employer will be the sole judge in the matter of award of Contract and the decision of 
+Employer shall be final and binding. 
+ 
+2.1.2 The acceptance of tender will be intimated to the successful Bidder by the Employer 
+either by Fax / E - mail /Letter or like means defined as Fax of Acceptance (FOA).  
+ 
+2.1.3 The Contract shall come into force on the date of FOA and the same shall be binding on 
+Employer and Service Provider.  
+ 
+2.2 
+SIGNING OF AGREEMENT  
+ 
+2.2.1 The successful Tenderer/Service Provider shall be required to execute an Agreement 
+within 15 days of the FOA in the format attached/enclosed with Tender Document. In the 
+event of failure on the part of the Service Provider to sign the Agreement within the 
+aforesaid  stipulated period, the Earnest Money Deposit or initial Security 
+Deposit/Performance Security Deposit (as available, preferably the later) will be forfeited 
+and Employer may consider the Contract as terminated.. 
+ 
+2.3 
+ADDENDA/CORRIGENDA 
+ 
+2.3.1  Addenda/ Corrigenda to the Tender Documents incorporating modification(s) and 
+clarification(s) to the Tender Document issued prior to the due date of bid submission 
+shall become integral part of the Contract. 
+ 
+2.4  
+LIABILITY OF GOVERNMENT OF INDIA  
+ 
+2.4.1 It is expressly understood and agreed by and between Bidder /Service Provider and 
+Employer that Employer is entering into this agreement solely on its own behalf and not 
+on behalf of any other person or entity. In particular, it is expressly understood and 
+agreed that the Government of India is not a party to this agreement and has no liabilities, 
+obligations or rights hereunder. It is expressly understood and agreed that Employer is an 
+independent legal entity with power and authority to enter into Contracts solely on its 
+own behalf under the applicable Laws of India and general principles of Contract Law. 
+The Bidder/Service Provider expressly agrees, acknowledges and understands that 
+Employer is not an agent, representative or delegate of the Government of India. It is 
+further understood and agreed that the Government of India is not and shall not be liable 
+for any acts, omissions, commissions, breaches or other wrongs arising out of the 
+Contract. Accordingly, Bidder/Service Provider hereby expressly waives, releases and 
+foregoes any and all actions or claims, including cross claims, impleader claims or 
+counter claims against the Government of India arising out of this Contract and covenants 
+not to sue to Government of India as to any manner, claim, cause of action or thing 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+10 
+ 
+whatsoever arising of or under this agreement/Contract. 
+ 
+2.5  
+SITE VISIT  
+ 
+2.5.1 The Bidder/Service Provider shall be deemed to have visited the Site(s)/work centre(s) 
+and familiarized itself while submitting the Tender. Non-familiarity with the Site 
+conditions by the Bidder/ Service Provider will not be considered a reason either for extra 
+claim(s) or for any delay in performance or any other claim in this regard. 
+ 
+2.6  
+ACTION IN CASE OF CORRUPT/FRAUDULENT /COLLUSIVE /COERCIVE 
+PRACTICES AND EVALUATION OF PERFORMANCE 
+ 
+ 
+ 
+The Bidder(s)/Service Provider(s) are required to abide by the following provisions: 
+ 
+(i) 
+The procedure for action in case of Corrupt/ Fraudulent/ Collusive/ Coercive Practices 
+containing provisions for putting a Bidder/Service Provider on suspension and/or banning 
+list (as the case may be) if such an agency has indulged in Corrupt/ Fraudulent/ 
+Collusive/ Coercive Practices.  
+ 
+ 
+Detailed Procedure is elaborated in the tender document.  
+ 
+ 
+Further, Bidder(s)/Service Provider(s) accepts and certifies that they would adhere to the 
+Fraud Prevention Policy of BCPL and shall not indulge themselves or allow others 
+(working in BCPL) to indulge in fraudulent activities and that they would immediately 
+apprise the Owner/BCPL/Organization(s) of the fraud/ suspected fraud as soon as it 
+comes to their notice.  
+ 
+(ii) 
+The procedure for evaluation of performance of Service Provider containing provisions 
+for putting a Service Provider on suspension and/or holiday list (as the case may be).  
+ 
+ 
+Detailed Procedure is elaborated in the tender document.  
+ 
+2.7  
+RETIRED GOVERNMENT OR EMPLOYER’s OFFICERS  
+ 
+2.7.1 No Employee/Officer employed in Engineering or Administrative duties in an 
+Engineering Department of the States/ Central Government or of the Employer is allowed 
+to service as a Service Provider for a period of one year after his retirement /resignation 
+/severance from Government Service or from the employment of the Employer without 
+the previous permission of the Employer. The Contract, if awarded, is liable to be 
+terminated if either the Service Provider or any of his employees is found at any time to 
+be such a person, who has not obtained the permission of the State/Central Government 
+or of the Employer as aforesaid before submission of tender, or engagement in the 
+Service Provider's service as the case may be.  
+ 
+2.8 
+CONFLICT OF INTEREST 
+ 
+2.8.1 During the currency of Contract and after its termination, the Service Provider and its 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+11 
+ 
+affiliates, shall be disqualified from providing any goods, works or services for any 
+project resulting from or closely related to the Services.  
+ 
+2.9  
+ABNORMAL RATES  
+ 
+2.9.1 The Tenderer is expected to quote rate for each item after careful analysis of cost 
+involved for the performance of the completed item considering all specifications and 
+Conditions of Contract. In case, it is noticed that the rates quoted by the Tenderer for any 
+item are unusually higher or unusually lower, it will be sufficient cause for the rejection 
+of the tender/bid unless the Employer is convinced about the reasonableness after 
+scrutiny of the analysis for such rate(s) to be furnished by the Tenderer (on demand). 
+ 
+2.9.2   In case of Abnormally High Rated (AHR) item(s), the same shall be dealt as per AHR 
+clause in the SCC (as applicable).  
+ 
+2.10 
+GENERAL OBLIGATIONS OF SERVICE PROVIDER  
+ 
+Service Provider shall, in accordance with and subject to the terms and conditions of this 
+Contract:  
+ 
+2.10.1 perform the services in accordance with the Scope of Services /Specifications and 
+Activity Schedule of the Tender Document and carry out its obligations with all due 
+diligence and efficiency, in accordance with generally accepted professional techniques 
+and practices and shall observe sound management practices and employ appropriate 
+advance technology and safe methods. When completed, the job/services shall be fit for 
+the purpose for which the services are intended as specifically defined in the Contract. 
+ 
+2.10.2 provide all labour as required to provide the Service unless otherwise provided in the 
+Scope of Services or Special Conditions of the Contract.  
+ 
+2.10.3 perform all other obligations, jobs / services which are required by the terms of this 
+Contract or which reasonably can be implied from such terms as being necessary for 
+providing necessary service as per the Contract.  
+ 
+2.10.4 be deemed to have satisfied himself before submitting his bid as to the correctness and 
+sufficiency of its bid for the services required and of the rates and prices quoted, which 
+rates and prices shall, except insofar as otherwise provided, cover all its obligations under 
+the Contract.  
+ 
+2.10.5 give or provide all necessary supervision during the performance of the services and as 
+long thereafter within the warranty period/DLP as Employer may consider necessary for 
+the proper fulfilling of Service Provider's obligations under the Contract.  
+ 
+2.10.6 not disrupt the Services of the Employer being carried out by the Service Provider / and 
+shall provide access for carrying out job/services to: 
+ 
+ 
+- 
+Employer‟s personnel(s), and /or 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+12 
+ 
+- 
+any other Contractor(s) / Service Provider(s) employed by Employer, and /or 
+ 
+- 
+personnel of public authority(ies)/third party(ies) 
+ 
+ 
+Further, the Service Provider shall execute the job carefully without causing damage to 
+the existing facility(ies) and facility(ies) of third party(ies) and in case of such happening 
+shall immediately bring to the notice of EIC..     
+ 
+ 
+Further, the coordination and inspection of the day-to-day job under the Contract shall be 
+the responsibility of the Engineer-in-Charge (EIC). The EIC or his authroised 
+representative including any statutory authority shall at all reasonable times, have full 
+power and authority to access and inspect the Services wherever in progress either on the 
+Site or at the Service Provider‟s premises/workshops and the Service Provider shall 
+afford or procure every facility and assistance to carry out such inspection. Such 
+Inspection shall not release the Service Provider from any obligation under the Contract. 
+ 
+2.11  SERVICE PROVIDER’s REPRESENTATIVE & PERSONNEL   
+ 
+2.11.1 Service Provider shall appoint a person (“Service Provider’s Representative”) who shall 
+be responsible for and authorized to represent it at all times during the progress of the 
+Service and to receive and to act on any request made by Employer in the performance of 
+the Service pursuant to the terms of this Contract. 
+ 
+2.11.2 Service Provider's Representative shall have full authority to represent and bind the 
+Service Provider in relation to any matter concerning the Service Provider‟s performance 
+of the services under the Contract and Employer shall be entitled to rely on all the 
+decisions of the Service Provider‟s Representative as if they were the decisions of the 
+Service Provider. 
+ 
+2.11.3 Service Provider's Representative shall supervise, coordinate and ensure the quality of all 
+aspects of his obligations under this Contract. Service Provider shall not change its 
+Representative without the prior approval of Employer. 
+ 
+2.11.4 Service Provider's Representative shall liaise with Employer for the proper coordination 
+and timely completion of the Services and on any matter pertaining to the same.  
+ 
+2.11.5 Service Provider's Representative shall extend full cooperation to Employer‟s 
+representatives/inspector in the manner required by them for supervision /inspection/ 
+observation of equipment, material, procedures, performance, reports and records 
+pertaining to Services.  
+ 
+2.11.6 Service Provider's Representative shall have complete charge of his personnel engaged in 
+the performance of the Service and to ensure compliance of rules and regulations and 
+safety practice.  
+ 
+2.11.7 If the Service Provider‟s Representative is found not acceptable to the EIC, the Service 
+Provider shall, as soon as practicable, having regard to the requirement of replacing him, 
+after receiving notice of such withdrawal, remove the representative and shall not 
+thereafter employ him again on the Services in any capacity and shall replace him by 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+13 
+ 
+another representative acceptable to the EIC. 
+ 
+2.12 
+SERVICE PROVIDER’S EMPLOYEES / PERSONNEL 
+ 
+The Service Provider in connection with performing the Services and remedying of any 
+defects, shall provide: 
+ 
+(a) 
+only such skilled and experienced personnel(s) in their respective areas; and  
+ 
+(b) 
+such skilled, semi-skilled and un-skilled labour as is necessary for the proper and 
+timely fulfilling of the Service Provider‟s obligations under the Contract. 
+ 
+ 
+The Service Provider shall provide skilled / qualified /experienced personnel, if specified 
+in the SCC /Scope of Work.  
+ 
+While engaging the contractual manpower, Service Provider is required to make effort to 
+provide opportunity of employment to the people belonging to Scheduled Castes and 
+weaker sections of society also in order to have a fair representation of these sections. 
+ 
+2.13  CONTRACT PERFORMANCE SECURITY (CPS) 
+ 
+2.13.1 The Service Provider shall provide Contract Performance Security (CPS) to the Employer, 
+within 30 days from the date of notification of award (i.e. FOA/Letter of Acceptance) or 
+the date specified in the notification of award whichever is earlier, for an amount 
+mentioned therein. The CPS shall be returned/refunded three months after Contract 
+completion period and Defects Liability Period (DLP), if any. All costs associated with 
+CPS shall be borne by the Service Provider. No charges or interest shall be payable by 
+the Employer even if the CPS is in the form of a Demand Draft. 
+ 
+2.13.2 The Service Provider shall furnish the CPS in the form of a Demand Draft or a Bank 
+Guarantee or an irrevocable Letter of Credit from any Indian scheduled bank or a branch 
+of an International bank situated in India and registered with Reserve Bank of India as 
+scheduled foreign bank. However, for other than the Nationalized Indian Banks, the 
+banks whose BGs are furnished, must be commercial banks having net worth in excess of 
+Rs. 100 crores and a declaration to this effect should be made by such commercial bank 
+either in the bank guarantee itself or separately on a letter head. The bank guarantee or 
+the Letter of Credit shall be submitted in the prescribed format. 
+ 
+2.13.3 If the Service Provider or their employees /agents / representatives or Sub-Service 
+Provider (if authorized by Employer) shall damage, break, deface or destroy any property 
+/equipment belonging to the Employer or third party(ies) during the execution of this 
+Contract, the same shall be made good by the Service Provider at his own expenses and 
+in default thereof, the EIC may cause the same to be made good by other agencies and 
+recover expenses plus 15% overhead from the Service Provider. The decision of EIC in 
+this matter shall be final and binding on the Service Provider.  
+ 
+2.13.4 All compensation, claim or other sums of money payable by the Service Provider to the 
+Employer under terms of this  Contract may be deducted from or paid by the encashment 
+of a sufficient part of his Contract Performance Security or from any sums which may be 
+due or may become due to the Service Provider by the Employer on any account 
+whatsoever and in the event of his CPS being reduced by reasons of any such deductions 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+14 
+ 
+or sale of aforesaid, the Service Provider shall within ten days thereafter make good in 
+form of  bank draft(s)/BG/LC (as the case may be) as aforesaid any sum or sums which 
+may have been deducted from or realised by encashment of his CPS, or any part thereof. 
+The Service Provider shall pay to the Employer on demand without protest any balance 
+remaining due. In this regard no interest shall be payable by the Employer to Service 
+Provider for such sum deposited as CPS.  
+ 
+ 
+ 
+2.13.5 The CPS deposit shall cover the entire Contract value including extra jobs/ services. As 
+long as the CPS submitted at the time of award take cares the extra jobs/ services 
+executed and total executed value are within the awarded Contract price, there is no need 
+for additional CPS . As soon as the total executed value is likely to exceed the ceiling of 
+awarded Contract Value, the Service Provider should furnish additional CPS through DD 
+or submit amendment to existing BG/LC to effect the enhancement of CPS. 
+ 
+2.13.6 Failure of the successful bidder to comply with the requirements of Clause 2.13 shall 
+constitute sufficient grounds for the annulment of the award, the forfeiture of CPS and 
+any other actions or remedies available to the Employer. 
+ 
+2.14  FAILURE BY THE SERVICE PROVIDER TO COMPLY WITH THE 
+PROVISIONS OF THE CONTRACT 
+ 
+2.14.1 If the Service Provider refuses or fails to provide the Service or any part thereof with such 
+diligence as will ensure its performance within the time specified in the Contract or 
+extension thereof or fails to perform any of his obligation under the Contract or in any 
+manner commits a breach of any of the provisions of the Contract it shall be open to the 
+Employer at its option by written notice to the Service Provider:  
+ 
+a) 
+TO DETERMINE THE CONTRACT in which event the Contract shall stand 
+terminated and shall cease to be in force and effect on and from the date 
+appointed by the Employer on that behalf, whereupon the Service Provider shall 
+stop forthwith any of the Service then in progress, except such Service as the 
+Employer may, in writing, require to be done to safeguard any property or work 
+or installations from damage, and the Employer, for its part, may take over the 
+Service remaining unfinished by the Service Provider and complete the same 
+through another service provider or by other means, at the risk and cost of the 
+Service Provider, and any of his sureties if any, shall be liable to the Employer for 
+any excess cost occasioned by such service having to be so taken over and 
+obtained by the Employer over and above the cost at the rates specified in the 
+schedule of quantities and rate/prices. 
+ 
+b) 
+WITHOUT DETERMINING THE Contract to take over the Service of the 
+Service Provider or any part thereof and complete the same through other service 
+provider or by other means at the risk and cost of the Service Provider. The 
+Service Provider and any of his sureties are liable to the Employer for any excess 
+cost over and above the cost at the rates specified in the Schedule of Quantities/ 
+rates, occasioned by such services having been taken over and completed by the 
+Employer. 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+15 
+ 
+ 
+2.14.2  In such events of Clause 2.14.1(a) or (b) above, the following shall be applicable:-  
+ 
+a)  
+The whole or part of the Contract Performance Security furnished by the Service 
+Provider is liable to be forfeited without prejudice to the right of the Employer to 
+recover from the Service Provider the excess cost referred to in the sub-clause 
+aforesaid. The Employer shall also have the right of taking possession and 
+utilising in completing the services or any part thereof, such as materials, 
+equipment and plants available at service site belonging to the Service Provider as 
+may be necessary and the Service Provider shall not be entitled for any 
+compensation for use or damage to such materials, equipment and plant. 
+ 
+b)  
+The amount that may have become due to the Service Provider on account of 
+service already executed by him shall not be payable to him until after the expiry 
+of Six (6) calendar months reckoned from the date of termination of Contract or 
+from the taking over of the Service or part thereof by the Employer as the case 
+may be, during which period the responsibility for faulty material or workmanship 
+in respect of such service shall, under the Contract, rest exclusively with the 
+Service Provider. This amount shall be subject to deduction of any amounts due 
+from the Contract to the Employer under the terms of the Contract authorised or 
+required to be reserved or retained by the Employer. 
+ 
+2.14.3 Before taking any action as per Clause 2.14.1(a) or (b) if in the judgment of the Employer, 
+the default or defaults committed by the Service Provider is/are curable and can be cured 
+by the Service Provider if an opportunity given to him, then the Employer may issue 
+Notice in writing calling the Service Provider to cure the default within such time 
+specified in the Notice. 
+ 
+2.14.4 The Employer shall also have the right to proceed or take action as per 2.14.1(a) or (b) 
+above, in the event that the Service Provider becomes bankrupt, insolvent, compounds 
+with his creditors, assigns the Contract in favour of his creditors or any other person(s) or 
+being a company or a corporation goes into voluntary liquidation, provided that in the 
+said events it shall not be necessary for the Employer to give any prior notice to the 
+Service Provider. 
+2.14.5 Termination of the Contract as provided for in sub- clause 2.14.1(a) above shall not 
+prejudice or affect their rights of the Employer which may have accrued upto the date of 
+such termination.  
+ 
+ 
+2.15  SERVICE PROVIDER REMAINS LIABLE TO PAY COMPENSATION IF 
+ACTION NOT TAKEN UNDER CLAUSE 2.14  
+ 
+2.15.1 If in any case in which any of the powers conferred upon the Employer by clause 2.14 
+thereof shall have become exercisable and the same had not been exercised, the non-
+exercise thereof shall not constitute a waiver of any of the conditions hereof and such 
+powers shall notwithstanding be exercisable in the event of any further case of default by 
+the Service Provider for which by any clause or clauses hereof he is declared liable to pay 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+16 
+ 
+compensation amounting to the whole of his Contract Performance Security, and the 
+liability of the Service Provider for past and future compensation shall remain unaffected. 
+In the event of the Employer putting in force the power under above sub-clause 2.14 (a) 
+or 2.14 (b) vested in him under the preceding clause he may, if he so desired, take 
+possession of all or any tools and plants, materials and stores at the site thereof belonging 
+to the Service Provider or procured by him and intended to be used for the execution of 
+the Service or any part thereof paying or allowing for the same in account at the Contract 
+rates or in case of these not being applicable, at current market rates to be certified by the 
+EIC whose certificate thereof shall be final, otherwise the EIC may give notice in writing 
+to the Service Provider or Service Provider‟s Representatives requiring him to remove 
+such tools, plant, materials or stores from the premises (within a time to be specified in 
+such notice). 
+ 
+Failure of any action by the Service Provider for removal of material/tools/plant/store etc. 
+within the period mentioned in notice of EIC, the Employer shall also be entitled to 
+recover handling and storage charges @5% of the estimated value of material 
+tools/plant/store for each month or part of a month without relieving the Servicer 
+Provider from any other related liability. In the event of the Service Provider‟s failure  to 
+remove the same within a  period of 6 months or as decided by the EIC,  the EIC may 
+take action for removal  through auction or private sale on behalf of the Service Provider 
+and at his risk in all respects. The Service Provider shall be liable to pay the Employer the 
+handling & storage charges per month or a part of the month from the date of serving the 
+notice by the EIC to the date of removal of the materials by the Employer plus overhead 
+charges @ 15% of sale value of such materials. In case of negative or zero sale value, the 
+overhead charges shall be applicable on the handling & storage charges. The decision of 
+EIC w.r.t. such removal and the amount of the proceeds shall be final and binding on the 
+Service Provider. 
+ 
+2.16  CHANGE IN CONSTITUTION  
+ 
+2.16.1 Where the Service Provider is a partnership firm, the prior approval of the Employer shall 
+be obtained in writing, before any change is made in the constitution of the firm. Where 
+the Service Provider is an individual or a Hindu undivided family business concern, such 
+approval as aforesaid shall, likewise be obtained before such Service Provider enters into 
+any agreement with other parties, where under, the reconstituted firm would have the 
+right to carry out the service hereby undertaken by the Service Provider. In either case if 
+prior approval as aforesaid is not obtained, the Contract shall be deemed to have been 
+allotted in contravention of clause 2.23 hereof.  
+ 
+2.17  TERMINATION OF CONTRACT  
+ 
+2.17.1 TERMINATION OF CONTRACT FOR DEATH 
+ 
+If the Service Provider is an individual or a proprietary concern and the individual or the 
+proprietor dies or if the Service Provider is a partnership concern and one of the partner 
+dies then unless, the Employer is satisfied that the legal representative of the individual or  
+the proprietary concern or the surviving partners are capable of carrying out and 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+17 
+ 
+completing Contract, the Employer is entitled to cancel the Contract for the uncompleted 
+part without being in any way liable for any compensation payment to the estate of the 
+deceased  Service Provider and/or to the surviving partners of the Service Provider's firm 
+on account of the cancellation of Contract. The decision of the Employer/EIC in such 
+assessment shall be final & binding on the parties. In the event of such cancellation, the 
+Employer shall not hold the estate of the deceased Service Provider and/or the surviving 
+partners of Service Provider's firm liable for any damages for non-completion of the 
+Contract.    
+  
+2.17.2 TERMINATION OF CONTRACT IN CASE OF LIQUIDATION / BANKRUPTCY, 
+ETC 
+ 
+If the Service Provider shall dissolve or become bankrupt or insolvent or cause or suffer 
+any receiver to be appointed of his business of any assets thereof compound with his 
+Creditors, or being a corporation commence to be wound up, not being a member's 
+voluntary winding up for the purpose of amalgamation or reconstruction, or carry on its 
+business under a Receiver for the benefits of its Creditors any of them, Employer shall be 
+at liberty to terminate the Contract forthwith upon coming to know of the happening of 
+any such event as aforesaid by notice in writing to the Service Provider or to give the 
+Receiver or Liquidator or other person, the option of carrying out the Contract subject to 
+his providing a guarantee up to an amount to be agreed upon by the Employer for due and 
+faithful performance of the Contract.  
+ 
+2.17.3 TERMINATION 
+OF 
+CONTRACT 
+FOR 
+CORRUPT 
+/ 
+FRADULENT 
+/ 
+COLLUSIVE / COERCIVE PRACTICES AND NON-PERFORMANCE  
+ 
+If the Bidder/Service Provider is found to have indulged in Corrupt/ Fraudulent 
+/Collusive/Coercive practices, the Contract shall be terminated and the Bidder/ Service 
+Provider shall be banned for future business with BCPL. The detailed procedure for 
+banning including suspension is elaborated in the tender document.  
+ 
+Due to non-performance of the Service Provider leading to termination of the Contract, 
+the Service Provider initially shall be put on suspension list and thereafter on holiday list 
+of Employer for a period mentioned in the detailed procedure, to be reckoned from the 
+date of communication by Owner/Employer. The detailed procedure for evaluation of 
+performance in this regard is elaborated in the tender document. 
+ 
+2.17.4 TERMINATION FOR CONVENIENCE 
+ 
+Notwithstanding anything contained in the Contract, the Employer may, by 30 (Thirty) 
+days written notice, terminate the Contract in whole or in part. In addition to the payment 
+mentioned at clause 2.18, the Service Provider shall be compensated for de-mobilization 
+and other costs incurred at mutually negotiated terms.  
+ 
+In case of such termination, the obligation of the Employer to pay, shall be limited to the 
+extent of work/job completed by the Service Provider as per provision of the Contract 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+18 
+ 
+upto the date of termination, subject to the Service Provider complying with other terms 
+of the Contract. 
+ 
+Notwithstanding the termination of the Contract, the parties shall continue to be bound by 
+the provisions of this Contract that reasonably require some action or forbearance after 
+such termination. 
+ 
+2.18 
+AMOUNT PAYABLE IN CASE OF TERMINATION 
+ 
+2.18.1 In all cases of termination herein set forth, the obligation of the Employer to pay, shall be 
+limited to the extent of service rendered by Service Provider as per provision of the 
+Contract upto the date of termination, subject to the Service Provider complying with 
+other terms of the Contract. Notwithstanding the termination of the Contract, the parties 
+shall continue to be bound by the provisions of this Contract that reasonably require some 
+action or forbearance after such termination.  
+ 
+2.19  MEMBERS OF THE EMPLOYER NOT INDIVIDUALLY LIABLE  
+ 
+2.19.1 No Director, or official or employee of the Employer shall in any way be personally 
+bound or liable for the acts or obligations of the Employer under the Contract or 
+answerable for any default or omission in the observance or performance of any of the 
+acts, matters or things which are herein contained. 
+ 
+2.20  EMPLOYER NOT BOUND BY PERSONAL REPRESENTATIONS  
+ 
+2.20.1 The Service Provider shall not be entitled to any increase on the scheduled rates or any 
+other right or claim whatsoever by reason of any representation, explanation statement or 
+alleged representation, promise or guarantees given or alleged to have been given to him 
+by any person. 
+ 
+2.21  FORCE MAJEURE   
+ 
+2.21.1  In the event of either party being rendered unable by Force Majeure to perform any 
+obligations required to be performed by them under the Contract the relative obligation of 
+the party affected by such Force Majeure shall upon notification to the other party be 
+suspended for the period during which Force Majeures event lasts. The cost and loss 
+sustained by the either party shall be borne by the respective parties. 
+ 
+The term "Force Majeures" as employed herein shall include:  
+  
+(a) 
+act of terrorism;  
+(b)  
+riot, war, invasion, act of foreign enemies, hostilities (whether war be declared or 
+not), civil war, rebellion, revolution, insurrection of military or usurped power;  
+(c)  
+ionising radiation or contamination, radio activity from any nuclear fuel or from 
+any nuclear waste from the combustion of nuclear fuel, radioactive toxic 
+explosive or other hazardous properties of any explosive assembly or nuclear 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+19 
+ 
+component;  
+(d)  
+epidemics, earthquakes, flood, fire, hurricanes, typhoons or other physical natural 
+disaster, but excluding weather conditions regardless of severity; and  
+(e)  
+freight embargoes, strikes at national or state-wide level or industrial disputes at a 
+national or state-wide level in any country where Works/Services are performed, 
+and which affect an essential portion of the Works/Services but excluding any 
+industrial dispute which is specific to the performance of the Works/Services or 
+the Contract.  
+For the avoidance of doubt, inclement weather, third party breach, delay in supply of 
+materials (other than due to a nationwide transporters‟ strike) or commercial hardship 
+shall not constitute a Force Majeure event.  
+ 
+2.21.2  Notification of Force Majeure  
+ 
+The affected party shall notify within 10 (ten) days of becoming aware of or the date it 
+ought to have become aware of the occurrence of an event of Force Majeure giving full 
+particulars of the event of Force Majeure and the reasons for the event of Force Majeure 
+preventing the affected party from, or delaying the affected party in performing its 
+obligations under the Contract.  
+ 
+2.21.3  Right of either party to terminate  
+ 
+If an event of Force Majeure occurs and its effect continues for a period of 180 (one 
+hundred eighty) days or more in a continuous period of 365 (three hundred sixty five) 
+days after notice has been given under this clause, either party may terminate the 
+Contract by issuing a written notice of 30 (thirty) days to the other party.  
+Further, the Service Provider shall with all reasonable diligence remove from the Site all 
+the Service Provider's equipment and shall give similar facilities to his Sub Service 
+Provider to do so. 
+ 
+2.21.4  Payment in case of termination due to Force Majeure  
+ 
+The Contract Price attributable to the Works/Services performed till the date of the 
+commencement of the relevant event of Force Majeure with effective recovery/ retention 
+shall be payable to Service Provider.  
+ 
+The Service Provider has no entitlement and Employer has no liability for:  
+ 
+a)  
+any costs, losses, expenses, damages or the payment of any part of the Total 
+Contract Price during an event of Force Majeure; and  
+ 
+b)  
+any delay costs in any way incurred by the Service Provider due to an event of 
+Force Majeure.  
+ 
+2.21.5 Time for performance of the relative obligation suspended by the Force Majeure shall 
+then stand extended by the period for which such cause lasts. 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+20 
+ 
+2.21.6 Outbreak of War: 
+ 
+If during the currency of the Contract there shall be an out break of war whether declared 
+or not, in that part of the World which whether financially or otherwise materially affect 
+the execution of the Work, the Service Provider shall unless and until the Contract is 
+terminated under the provisions in this clause continue to use his best endeavour to 
+complete the execution of the Work/Services, provided always that the Employer shall be 
+entitled, at any time after such out break of war to terminate or re-negotiate the Contract 
+by giving notice in writing to the Service Provider and upon such notice being given the 
+Contract shall, save as to the rights of the parties under this clause and to the operation of 
+the clauses entitled settlement of Disputes and Arbitration hereof, be terminated but 
+without prejudice to the right of either party in respect of any antecedent breach thereof.  
+ 
+2.22  PRICE REDUCTION SCHEDULE 
+ 
+2.22.1 Time is the essence of the Contract. In case the Service Provider fails to mobilize / deploy 
+the required manpower and the complete equipments so as to commence the Services 
+within Mobilisation Period and complete the Services within the stipulated period, then, 
+unless such failure is due to Force Majeure as defined in Clause 2.21 herein above or due 
+to Employer's defaults, the total Value of Contract shall be reduced by ½ (half) % of the 
+total Value of Contract per complete week of delay or part thereof subject to a maximum 
+of 5 (five) % of the total Value of Contract, by way of reduction in price for delay and not 
+as penalty.  
+ 
+The Employer shall be at liberty to adjust or deduct the said amount from amount due to 
+the Service Provider / it‟s Contract Performance Security payable on demand. 
+ 
+The decision of the EIC with respect to applicability of Price Reduction Schedule shall be 
+final and binding on the Service Provider. 
+ 
+2.22.2 The parties agree that this is a genuine pre-estimate of the loss/damage which will be 
+suffered by the Employer on account of delay on the part of the Service Provider and the 
+said amount will be adjusted for the amount payable to the Service Provider, without 
+there being any proof of the actual loss or damages having been caused by such 
+delay/breach. 
+ 
+2.22.3 The Price Reduction will be calculated on the basis of total Value of Contract / executed 
+Value of Contract (as the case may be) excluding taxes and duties where such taxes and 
+duties have been shown separately in the Contract.   
+ 
+2.22.4 As mentioned above, in case of delay in execution of Contract, Service Provider will 
+raise invoice for reduced value as per Price Reduction Clause. If Service Provider has 
+raised the invoice for full value, then Service Provider will issue Credit Note towards the 
+applicable Price Reduction Schedule amount.  
+ 
+In case Service Provider fails to submit the invoice for reduced value or does not issue 
+credit note as mentioned above, BCPL will release the payment to Service Provider after 
+effecting the Price Reduction Schedule clause.  
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+21 
+ 
+ 
+In the event any financial implication arises on BCPL due to issuance of invoice without 
+reduction in price or non-issuance of Credit Note, the same shall be to the account of 
+Service Provider. 
+ 
+2.23 
+ASSIGNMENT/SUBLET 
+ 
+2.23.1 The Service Provider shall not, save with previous written consent  of the Engineer-in-
+charge, sublet, transfer or assign the Contract or any part thereof or interest therein or 
+benefit or advantage thereof in any manner whatsoever. Provided, nevertheless, that any 
+such consent shall not relieve the Service Provider from any obligation, duty or 
+responsibility under the Contract.  
+ 
+2.23.2 The basic scope of Services cannot be sublet. However, on specific request of the Service 
+Provider and subject to written consent of Employer, the Service Provider may sublet 
+allied/incidental jobs related to the Services. Such consent shall not relieve the Service 
+Provider from any obligation, duty or responsibility under the Contract and Service 
+Provider shall be fully responsible for the Services hereunder and the execution and 
+performance of the Contract. 
+ 
+2.23.3 Sub-letting of whole Contract is prohibited. An undertaking to this effect will be given by 
+Service Provider along with each invoice/ bill. 
+ 
+2.24 
+LIENS  
+ 
+2.24.1 If, at any time there should be evidence of any lien or claim for which the Employer might 
+have become liable and which is chargeable to the Service Provider, the Employer shall 
+have the right to retain out of any payment then due or thereafter to become due an 
+amount sufficient to completely indemnify the Employer against such lien or claim and if 
+such lien or claim be valid, the Employer may pay and discharge the same and deduct the 
+amount so paid from any money which may be or may become due and payable to the 
+Service Provider. If any lien or claim remain unsettled after all payments are made, the 
+Service Provider shall refund or pay to the Employer all money that the latter may be 
+compelled to pay in discharging such lien or claim including all costs and reasonable 
+expenses.  
+ 
+2.24.2 The Employer shall have lien on all materials, equipments including those brought by the 
+Service Provider for the purpose of providing service. 
+ 
+2.24.3 The final payment shall not become due until the Service Provider delivers to the EIC a 
+complete release or waiver of all liens arising or which may arise out of his agreement or 
+receipt in full or certification by the Service Provider in a form approved by EIC that all 
+invoices for labour, materials, services have been paid in lien thereof and if required by 
+the EIC in any case an affidavit that so far as the Service Provider has knowledge or 
+information the releases and receipts include all the labour and material for which a lien 
+could be filled. 
+                               
+2.24.4 Service Provider will indemnify and hold the Employer harmless, for a period of two 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+22 
+ 
+years after the issue of Completion/Execution Certificate, from all liens and other 
+encumbrances against the Employer on account of debts or claims alleged to be due from 
+the Service Provider or his Sub-Service Provider to any person and on behalf of 
+Employer, the Service Provider will defend at his own expense, any claim or litigation 
+brought against the Employer or the Service Provider including Sub-Service Provider in 
+connection therewith. Service Provider shall defend or contest at his own expense, any 
+fresh claim or litigation against the Employer by any person including his Sub-Service 
+Provider, till its satisfactory settlement even after the expiry of two years from the date of 
+issue of Completion/Execution Certificate. 
+2.25   DELAYS BY EMPLOYER OR HIS AUTHORISED REPRESENTATIVE 
+ 
+2.25.1 In case the Service Provider's performance is delayed due to any act or omission on the 
+part of the Employer or his authorized Representative, then the Service Provider shall be 
+given due extension of time for the completion of the Service, to the extent such omission 
+on the part of the Employer has caused delay in the Service Provider's performance of his 
+Services. 
+ 
+2.25.2 No adjustment in Contract Price shall be allowed for reasons of such delays and 
+extensions granted except as provided in Tender Document, where the Employer reserves 
+the right to seek indulgence of Service Provider to maintain the agreed Time Schedule of 
+Completion. In such an event the Service Provider shall be obliged to provide Service for 
+additional time beyond stipulated time including Off-days / Holidays or by enhancing 
+resources to achieve the completion date/interim targets. 
+ 
+2.26  NO WAIVER OF RIGHTS 
+ 
+2.26.1  None of the terms and conditions of this Contract shall be deemed waived by either party 
+unless such waiver is executed in writing by the duly authorized representative of both 
+the parties.  
+ 
+2.27  CERTIFICATE NOT TO AFFECT RIGHT OF EMPLOYER AND LIABILITY 
+OF SERVICE PROVIDER 
+ 
+2.27.1 No interim payment certificate(s) issued by the EIC of the Employer, nor any sum paid 
+on account by the Employer, nor any extension of time for execution of the service 
+granted by Employer shall affect or prejudice the rights of the Employer against the 
+Service Provider or relieve the Service Provider of his obligations for the due 
+performance of the Contract, or be interpreted as approval of the Service done and no 
+certificate shall create liability for the Employer to pay for alterations, amendments, 
+variations or additional services not ordered, in writing, by Employer or discharge the 
+liability of the Service Provider for the payment of damages whether due, ascertained, or 
+certified or not or any sum against the payment of which he is bound to indemnify the 
+Employer. 
+ 
+2.28  LANGUAGE AND MEASURES  
+ 
+2.28.1 All documents pertaining to the Contract including Specifications, Schedules, Notices, 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+23 
+ 
+Correspondence, operating and maintenance Instructions or any other writing shall be 
+written in English/Hindi language. The Metric System of measurement shall be used in 
+the Contract unless otherwise specified. 
+ 
+2.29  RELEASE OF INFORMATION  
+ 
+2.29.1 The Service Provider shall not communicate or use in advertising, publicity, sales 
+releases or in any other medium, photographs, or other reproduction of the Service under 
+this Contract or description of the site dimensions, quantity, quality or other information 
+concerning the Service unless prior written permission has been obtained from the 
+Employer. 
+ 
+2.30  COMPLETION PERIOD, CONTRACT PERIOD AND COMPLETION OF 
+CONTRACT 
+ 
+2.30.1 The Completion Period of Service and Contract Period shall be as mentioned in Special 
+Conditions of Contract.  
+ 
+2.30.2 Unless terminated under the provisions of any other relevant clause, this Contract shall be 
+deemed to have been completed at the expiration of the Defect Liability Period as 
+provided for under the Contract. 
+ 
+2.31  INDEPENDENT CAPACITY 
+ 
+2.31.1 The parties intend that an independent Service Provider relationship will be created by 
+this Contract. The Service Provider and his/her employees or agents performing under 
+this Contract are not employees or agents of the Employer. The Service Provider will 
+neither hold himself/herself out as nor claim to be an officer or employee of the 
+Employer by reasons hereof, nor will the Service Provider make any claim of right, 
+privilege or benefit that would accrue to such employee under law. Conduct and control 
+of work will be solely with the Service Provider.  
+ 
+2.32   NOTICE  
+ 
+2.32.1 TO THE SERVICE PROVIDER: Any notice to be given to the Service Provider or his 
+duly authorised representative at the job Site under the terms of the Contract may be 
+served by the Employer by facsimile / e-mail or through registered post/Courier at the 
+address/contact information furnished by the Service Provider. Proof of issue of any such 
+notice could be conclusive of the Service Provider having been duly informed of all 
+contents therein.   
+ 
+2.32.2  TO THE EMPLOYER: Any notice to be given to the EIC of the Employer under the 
+terms of the Contract may be served by the Service Provider, by facsimile / e-mail or 
+delivering the same through registered post /Courier at the concerned site office. 
+ 
+2.32.3 Either party may change a nominated address to another address in the country where the 
+Services are being provided by prior notice to the other party, with a copy to EIC and the 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+24 
+ 
+EIC may do so by prior notice to both the parties. The decision of EIC in this regard shall 
+be final and binding on the parties.  
+ 
+2.33 
+CONFIDENTIALITY 
+ 
+ 
+The Service Provider, it‟s Sub-Service Provider and their personnel shall not, either 
+during the term or within two (2) years after the expiration of this Contract, disclose any 
+proprietary or confidential information related to Service/project, this Contract, or 
+Employer‟s business or operations without the prior written consent of the Employer.  
+ 
+2.34 
+INTELLECTUAL PROPERTY RIGHT 
+ 
+ 
+The Service Provider shall retain the copy right and other intellectual property rights in 
+the Service Provider‟s document and other design documents made by (or on behalf of) 
+the Service Provider.  
+ 
+ 
+Subject to the confidentiality obligations, by signing the Contract, within the Contract 
+Price, the Service Provider shall be deemed to give to the Employer a non-terminable, 
+transferable, non-exclusive and royalty-free right to copy, use and communicate the 
+Service Provider‟s documents for the operation, maintenance, repair of the Service and 
+Statutory purposes, but not for any other purpose. Such documents of the Service 
+Provider shall not be used, copied or communicated to a third party by or on behalf of the 
+Employer for the purposes other than those permitted, without the Service Provider‟s 
+Consent.  
+ 
+ 
+             ----------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+25 
+ 
+SECTION - III 
+3.0 PERFORMANCE OF SERVICE 
+ 
+3.1  
+EXECUTION OF SERVICES 
+ 
+3.1.1 All Services shall be provided in strict conformity with the provisions of the Contract 
+Documents and with such explanatory detailed specification and instruction as may be 
+furnished from time to time to the Service Provider by EIC. The Service Provider shall 
+undertake to perform all Services under this Contract with all reasonable skill, diligence 
+and care in accordance with sound industry practice or international / national standards, 
+wherever applicable (as the case may be) to the satisfaction of the Employer and accept 
+full responsibility for the satisfactory quality of such services as performed by them. 
+ 
+3.2  
+CHANGES IN SERVICES 
+ 
+3.2.1 During the performance of the Services, EIC / Employer may make a change in the 
+Services within the general scope of this Contract including, but not limited to, changes 
+in methodology and minor additions to or deletions from the Services and Service 
+Provider shall render the service as changed. Changes of this nature will be affected by a 
+written order (i.e. Amendment) by the Employer. The time of completion of the said job 
+may be extended for the part of the particular job at the discretion of Engineer-In-Charge, 
+for only such alterations or substitutions of the Services, as he may consider just and 
+reasonable. 
+ 
+3.2.2 If any change result in an increase in compensation payable to Service Provider or in 
+terms of a credit to be passed on to  Employer, Service Provider shall submit to EIC an 
+estimate of the amount of such compensation or credit in a form prescribed by Employer. 
+Such estimates shall be based on the rates shown in the Schedule of Rates. Upon review 
+of Service Provider's estimate, Employer shall establish and set forth in the written order 
+the amount of the compensation or credit for the change or a basis for determining a 
+reasonable compensation or credit for the change. 
+ 
+3.3  
+ACTION AND COMPENSATION IN CASE OF POOR SERVICE 
+ 
+3.3.1 If it shall appear to the EIC that any service has been rendered with unsound, imperfect or 
+unskilled way, or with materials /manpower of any inferior description, or that any 
+materials / manpower provided by the Service Provider for the execution of the Service 
+are unsound, or of a quality inferior to that Contracted for, or otherwise not in accordance 
+with the Contract, the Service Provider shall on demand in writing from the EIC or his 
+authorized representative specifying the Service, materials or manpower complained of 
+notwithstanding that the same may have been inadvertently passed, certified and paid for, 
+forthwith rectify the service so specified and at his own cost and in the event of failure to 
+do so within the period specified by the EIC in his demand aforesaid, the Service 
+Provider shall be liable to pay compensation at the rate of 1 % (One percent) of the 
+estimated cost of the whole Service, for every week limited to a maximum of 10% (ten 
+percent) of the value of the whole Service, in event of his failure to do so the EIC may on 
+expiry of notice period rectify/re-execute the Service as the case may be at the risk and 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+26 
+ 
+expense in all respects of the Service Provider or may terminate the contract due to non-
+performance. The decision of the EIC as to any question arising under this clause shall be 
+final and conclusive. 
+ 
+3.4  
+SUSPENSION OF SERVICES 
+ 
+3.4.1  Subject to the provisions of sub-para 3.4.2 of this clause, the Service Provider shall, if 
+ordered in writing by the EIC, temporarily suspend the Services or any part thereof for 
+such written order and not proceed with the Service therein ordered to be suspended until, 
+he shall have received a written order to proceed therewith. The Service Provider shall 
+not be entitled to claim compensation for any loss or damage sustained by him by reason 
+of temporary suspension of the Services aforesaid. An extension of time for completion, 
+corresponding with the delay caused by any such suspension of the Services as aforesaid 
+will be granted to the Service Provider should he apply for the same provided that the 
+suspension was not consequent to any default or failure on the part of the Service 
+Provider.  
+ 
+3.4.2  In case of suspensions of entire Service, ordered in writing by EIC, for a period of more 
+than two months, the Service Provider shall have the option to terminate the Contract. 
+ 
+3.5  
+DEFECTS LIABILITY PERIOD 
+ 
+3.5.1  The Service Provider unless otherwise specified elsewhere in the tender document shall 
+guarantee the installation/Service for a period of 12 months from the date of completion 
+of Service mentioned in the Completion Certificate issued by the EIC. Any damage or 
+defect that may arise or lie undiscovered at the time of issue of Completion Certificate, 
+connected in any way with the equipment or materials supplied by him or in the 
+workmanship, shall be rectified or replaced by the Service Provider at his own expense as 
+deemed necessary by the EIC. In case of default, the EIC may carry out such services by 
+other service provider(s) and deduct actual cost incurred towards labour, supervision and 
+materials consumables or otherwise plus 15% towards overheads from any sums that may 
+then be or at any time thereafter, become due to the Service Provider or from his Contract 
+Performance Security, or the proceeds of sale thereof or a sufficient part on thereof. The 
+decision of EIC in this regard shall be final and binding. 
+ 
+3.5.2  If the Service Provider feels that any variation in Service or in quality of materials or 
+proportions would be beneficial or necessary to fulfill the guarantees called for, he shall 
+bring this to the notice of the EIC in writing. If during the period of liability any portion 
+of the Service/Equipment, is found defective and is rectified/ replaced, the period of 
+liability of 12 months for such equipment/ portion of Service shall be operative from the 
+date such rectification/ replacement are carried out and Contract Performance Guarantee 
+shall be furnished separately for the extended period of liability for that portion of 
+Service/ Equipment only. However, in no such case extension will exceed 24 months 
+from the date of initial DLP. Notwithstanding the above provisions the supplier's, 
+guarantees/warrantees for the replaced/rectified Equipment/Service shall also be passed 
+on to the Employer. 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+27 
+ 
+ 
+ 
+ 
+3.6  
+COMPLETION CERTIFICATE  
+ 
+ 
+3.6.1 APPLICATION FOR COMPLETION CERTIFICATE: When the Service Provider 
+fulfills his obligation under the Contract he shall be eligible to apply for Completion 
+Certificate. The EIC shall normally issue to the Service Provider the Completion 
+Certificate within one month after receiving any application thereof from the Service 
+Provider after verifying from the completion documents and satisfying himself that the 
+Service has been rendered in accordance with and as set out in the Contract Documents. 
+The Service Provider, after obtaining the Completion Certificate, is eligible to present the 
+final bill for the Service executed by him under the terms of Contract. 
+ 
+Completion of jobs/services for issuance of completion certificate shall constitute 
+completion of jobs/ services as per provisions of LOA/Contract duly accepted and 
+certified by EIC.  
+ 
+3.6.2  COMPLETION CERTIFICATE: Within one month from receipt of application from 
+Service Provider  after the completion of the Service in all respects as specified above at 
+clause no. 3.6.1, the Service Provider shall be furnished with a certificate by the EIC of 
+such completion, but no certificate shall be given nor shall the Service be deemed to have 
+been rendered until all scaffolding, Equipment(s) & machine(s), surplus materials and 
+rubbish brought for/ generated during execution of service is cleared off the Site 
+completely. EIC‟s certification about completion of service in all aspects shall be binding 
+and conclusive.  
+ 
+3.6.3  COMPLETION CERTIFICATE DOCUMENTS:  For the purpose of Completion, the 
+following documents will be deemed to form the completion documents:  
+ 
+i)  
+The technical documents according to which the Service was carried out. 
+ii)  
+Material appropriation, Statement for the materials issued by the Employer for the 
+Service and list of surplus materials returned to the Employer's store duly 
+supported by necessary documents 
+ 
+3.6.4 EXECUTION CERTIFICATE: 
+Execution Certificate against Rate/ Maintenance contract shall be issued by EIC against 
+written request from Service Provider. 
+  
+3.7 
+ FINAL DECISION & FINAL CERTIFICATE 
+ 
+3.7.1 Upon expiry of the period of liability and subject to the Engineer-in-Charge being 
+satisfied that the Service Provider has in all respect duly made-up any shortfall and 
+performed all his obligations under the Contract, the Engineer-in- Charge shall (without 
+prejudice to the rights of the Employer to retain the provisions of relevant Clause hereof) 
+otherwise give a certificate herein referred to as the Final Certificate to that effect. The 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+28 
+ 
+Service Provider shall not be considered to have fulfilled the whole of his obligations 
+under Contract until Final Certificate shall have been given by the Engineer-In- Charge.  
+ 
+3.8  
+LIMITATION OF LIABILITY 
+ 
+3.8.1 Notwithstanding anything contrary contained herein, the aggregate total liability of 
+Service Provider to Employer under the Contract shall not exceed the Total Contract 
+Value, except that this clause shall not limit the liability of the Service Provider for 
+following:  
+(a) In the event of breach of any Applicable Law;  
+(b) In the event of fraud, willful misconduct or illegal or unlawful acts, or gross 
+Negligence of the Service Provider or any person acting on behalf of the Service 
+Provider; or  
+(c) In the event of acts or omissions of the Service Provider which are contrary to the 
+most elementary rules of diligence which a conscientious Service Provider would have 
+followed in similar circumstances; or  
+(d) In the event of any claim or loss or damage arising out of infringement of Intellectual 
+Property; or  
+(e) For any damage to any third party, including death or injury of any third party caused 
+by the Service Provider or any person or firm acting on behalf of the Service Provider in 
+executing the Works/Services.  
+ 
+However, neither party shall be liable to the other Party for any indirect nor consequential 
+loss or damage like loss of use, loss of profit, loss of production or business interruption 
+which is connected with any claim arising under the Contract. 
+ 
+3.9  
+INDEMNITY  
+ 
+3.9.1 If any action is brought before a Court, Tribunal or any other Authority against the 
+Employer or an officer or agent of the Employer, for the failure, omission or neglect on 
+the part of the Service Provider to perform any acts, matters, covenants or things under 
+the Contract, or damage or injury caused by the alleged omission or negligence on the 
+part of the Service Provider, his agents, representatives or his Sub- Service Provider's, or 
+in connection with any claim based on lawful demands of Sub-Service Provider's 
+servicemen suppliers or employees, the Service Provider, shall in such cases indemnify 
+and keep the Employer and/or their representatives harmless from all losses, damages, 
+expenses or decrees arising out of such action. 
+ 
+             ------------------------------------------------------------------------------------------------------ 
+ 
+ 
+ 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+29 
+ 
+SECTION – IV 
+ 
+4.0  
+PAYMENT, INSURANCE AND TAXES  
+ 
+4.1  
+DEDUCTION FROM THE CONTRACT PRICE 
+ 
+4.1.1 All costs, damages or expenses which Employer may have paid or incurred, which under 
+the provisions of the Contract, the Service Provider is liable to pay to the Employer. All 
+such claims shall be claimed by the Employer from the Service Provider regularly as and 
+when they fall due. Such claims shall be paid by the Service Provider within 15 (fifteen) 
+days of the receipt of the corresponding bills/ claims and if not paid by the Service 
+Provider within the said period, the Employer may, then, deduct the amount from any 
+immediate moneys due to the Service Provider like R.A Bills, Final Bills, Contract 
+Performance Security or any payment becoming due to the Service Provider under the 
+Contract or may be recovered by actions of law or otherwise, if the Service Provider fails 
+to satisfy the Employer of such claims. 
+ 
+4.2  
+SCHEDULE OF RATES AND PAYMENTS  
+ 
+4.2.1  SERVICE PROVIDER'S REMUNERATION 
+ 
+The price to be paid by the Employer to Service Provider for the whole of the Service to 
+be done and for the performance of all the obligations undertaken by the Service Provider 
+under the Contract Documents shall be ascertained by the application of the respective 
+Schedule of Rates (the inclusive nature of which is more particularly defined by way of 
+application but not of limitation, with the succeeding sub-clause of this clause) and 
+payment to be made accordingly for the Services actually executed and approved by the 
+Engineer-in-Charge. The sum so ascertained shall (except only as and to the extent 
+expressly provided herein) constitute the sole and inclusive remuneration of the Service 
+Provider under the Contract and no further or other payment whatsoever shall be or 
+become due or payable to the Service Provider under the Contract.  
+ 
+4.2.2  SCHEDULE OF RATES TO BE INCLUSIVE 
+ 
+The prices/rates quoted by the Service Provider shall remain firm till the issue of Final 
+Certificate and shall not be subject to escalation. Schedule of Rates shall be deemed to 
+include and cover all costs, expenses and liabilities of every description and all risks of 
+every kind to be taken in rendering the services to the Employer by the Service Provider. 
+The Service Provider shall be deemed to have known the nature, scope, magnitude and 
+the extent of the service though the Contract Document may not fully and precisely 
+furnish/specify them. The Tenderer shall deemed to include the requisite services as may 
+be required to complete the Services properly including remedying of any defect therein.  
+ 
+4.2.3 SCHEDULE 
+OF 
+RATES 
+TO 
+COVER 
+CONSTRUCTION 
+EQUIPMENTS, 
+MATERIALS, LABOUR ETC. 
+ 
+Without in any way limiting the provisions of the preceding sub-clause the Schedule of 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+30 
+ 
+Rates shall be deemed to include and cover the cost of all construction equipment, 
+temporary work (except as provided for herein), pumps, materials, labour, insurance, 
+fuel, consumables, stores & appliances and such other items / equipments / materials as 
+required for carrying out the services by the Service Provider and all other matters in 
+connection with each item in the Schedule of Rates and the execution of the Service or 
+any portion thereof finished, complete in every respect and maintained as shown or 
+described in the Contract Documents or as may be ordered in writing during the 
+continuance of the Contract.  
+ 
+4.2.4 SCHEDULE OF RATES TO COVER ROYALTIES, RENTS AND CLAIMS 
+ 
+The Schedule of Rates (i.e., Value of Contract) shall be deemed to include and cover the 
+cost of all royalties and fees for the articles and processes, protected by letters, patent or 
+otherwise incorporated in or used in connection with the Service, also all royalties, rents 
+and other payments in connection with obtaining materials of whatsoever kind for the 
+Service and shall include an indemnity to the Employer which the Service Provider 
+hereby gives against all actions, proceedings, claims, damages, costs and expenses arising 
+from the incorporation in or use in the Service of any such articles, processes or 
+materials, octroi or other municipal or local Board Charges, if levied on materials, 
+equipment or machineries to be brought to site for use for Services shall be borne by the 
+Service Provider. 
+ 
+4.2.5  SCHEDULE OF RATES TO COVER TAXES AND DUTIES 
+ 
+No exemption or reduction of Customs Duties, GST, Works Contract Tax or any port 
+dues, transport charges, stamp duties or Central or State Government or local Body or 
+Municipal Taxes or duties, taxes or charges (from or of any other body), entry tax, 
+whatsoever, will be granted or obtained, all of which expenses shall be deemed to be 
+included in and covered by the Schedule of Rates, unless mentioned specifically 
+elsewhere in the Tender Document. The Service Provider shall also obtain and pay for all 
+permits/licenses or other privileges necessary to complete the Service. 
+ 
+4.2.6  SCHEDULE OF RATES TO COVER RISKS OF DELAY 
+ 
+The Schedule of Rates shall be deemed to include and cover the risk of all possibilities of 
+delay and interference with the Service Provider's conduct/peformance of Services which 
+occurs from any causes including orders of the Employer in the exercise of his power and 
+on account of extension of time granted due to various reasons and for all other possible 
+or probable causes of delay. 
+ 
+4.2.7  SCHEDULE OF RATES CANNOT BE ALTERED 
+ 
+For Service under unit rate basis, no alteration will be allowed in the Schedule of Rates 
+by reason of services or any part of them being modified, altered, extended, diminished 
+or committed. The Schedule of Rates are fully inclusive of rates which have been fixed 
+by the Service Provider and agreed to by the Employer and cannot be altered. For 
+lumpsum Contracts, the payment will be made according to the Service actually carried 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+31 
+ 
+out, for which purpose an item wise, or work wise Schedule of Rates shall be furnished, 
+suitable for evaluating the value of Service provided and preparing running account bill. 
+Payment for any additional Service which is not covered in the Schedule of Rates shall 
+only be released on issuance of Amendment to LOA/Contract by the Employer. 
+ 
+4.3  
+PROCEDURE FOR BILLING OF SERVICES 
+ 
+4.3.1   BILLING PROCEDURE 
+ 
+ 
+Following procedures shall be adopted for billing of services executed by the Service 
+Provider. 
+ 
+4.3.1.1 The Bill(s) complete in all respect with details and enclosure(s) is to be submitted  by 
+Service Provider in line with terms of  the Contract. Employer shall make all endeavour 
+to release payments of undisputed amount of the bills submitted within 15 (Fifteen) days 
+from the date of certification by the Engineer-in-Charge.  
+ 
+4.3.1.2 COMPUTERISED BILLING SYSTEM: Brahmaputra Cracker and Polymer Ltd. has 
+introduced Computerised Billing System whereby whenever the Bill(s) are submitted in 
+BCPL by a Service Provider, a receipt number is usually generated. The Service Provider 
+may also know the status of the Bill through BCPL‟s website. 
+ 
+4.3.2  MODE OF MEASUREMENT 
+ 
+The payment shall be made based on the mode of measurement as specified in the 
+Contract. Otherwise, the mode of measurement shall be adopted as per latest Indian 
+Standard Specifications.  
+ 
+4.4  
+NOTICE OF CLAIMS FOR ADDITIONAL PAYMENTS 
+ 
+4.4.1  Should the Service Provider consider that he is entitled to any extra payment for any 
+extra/additional Job(s)/Service(s) or material change in original Specifications carried out 
+by him in respect of job, he shall forthwith give notice in writing to the Engineer-in-
+Charge that he claims extra payment. Such notice shall be given to the Engineer-in-
+Charge upon which Service Provider bases such claims and such notice shall contain full 
+particulars of the nature of such claim with full details of amount claimed. Irrespective of 
+any provision in the Contract to the contrary, the Service Provider must intimate his 
+intention to lodge claim on the Employer within 10 (ten) days of the commencement of 
+happening of the event and quantify the claim within 30 (thirty) days, failing which the 
+Service Provider will lose his right to claim any compensation/reimbursement/damages 
+etc.. Failure on the part of Service Provider to put forward any claim without the 
+necessary particulars as above within the time above specified shall be an absolute waiver 
+thereof. No omission by Employer to reject any such claim and no delay in dealing 
+therewith shall be waiver by Employer of any of these rights in respect thereof.  
+ 
+4.4.2  Engineer-in-Charge shall review such claims within a reasonable period of time and 
+cause to discharge these in a manner considered appropriate after due deliberations 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+32 
+ 
+thereon. However, Service Provider shall be obliged to carry on with the Jobs/services 
+during the period in which his claims are under consideration by the Employer, 
+irrespective of the outcome of such claims, where additional payments for Services 
+considered extra are justifiable in accordance with the Contract provisions, Employer 
+shall arrange to release the same in the same manner as for normal job payments. Such of 
+the extra services so admitted by Employer shall be governed by all the terms, conditions, 
+stipulations and specifications as are applicable for the Contract. The rates for extra 
+services shall generally be the unit rates provided for in the Contract. In the event unit 
+rates for extra services so executed are not available as per Contract, payments may either 
+be released on day work basis for which daily/hourly rates for workmen and hourly rates 
+for equipment rental shall apply, or on the unit rate for Services executed shall be derived 
+by interpolation/ extrapolation of unit rates already existing in the Contract. In all the 
+matters pertaining to applicability of rate and admittance of otherwise of an extra service 
+claim(s) of Service Provider, the decision of Engineer-in-Charge shall be final and 
+binding on the Service Provider. 
+ 
+4.5  
+INSURANCE  
+ 
+4.5.1 Service Provider shall, at his own expense, arrange appropriate insurance to cover all 
+risks assumed by the Service Provider under this Contract in respect of its personnel 
+deputed under this Contract as well as Service Provider‟s equipment, tools and any other 
+belongings of the Service Provider or their personnel during the entire period of their 
+engagement in connection with this Contract. Employer will have no liability on this 
+account. The Personnel covered must be covered to meet the liability under Employee 
+Compensation Act.  
+ 
+4.5.2 The provisions of this Clause shall in no way limit the liability of the Service Provider 
+under the Contract. 
+ 
+4.5.3 If the Service Provider neglects, fails, or refuses to obtain or maintain insurances required 
+to be effected, or fails to provide certification etc., the Employer has the right to procure 
+and maintain policies at Service Provider‟s expense plus administrative cost of 10% of 
+the amount of Insurance premium.  
+ 
+4.5.4 INSURANCE TYPES 
+ 
+Service Provider shall at all time during the currency of the Contract provide, pay for and 
+maintain the following insurance amongst others:  
+ 
+a. 
+Employee Compensation and Employer‟s common law liability insurance 
+covering liability to employees of the Service Provider under the laws of their 
+place or employment or place or injury, arising out of injury sustained in 
+connection with any of the services. This insurance will be extended where 
+submitted by law, to indemnify the Employer against any statutory liability which 
+it may incur towards injured employees of the Service Provider. A proof of the 
+same should be submitted to EIC for liability in line with Employees 
+Compensation Act. 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+33 
+ 
+ 
+b. 
+General Public Liability Insurance covering liabilities including contractual 
+liability for bodily injury, including death of persons, and liabilities for damage of 
+property. This insurance must cover all operations of Service Provider required to 
+fulfill the provisions under this Contract. 
+ 
+c. 
+Service Provider's Equipment/Materials/Goods used for execution of the work 
+hereunder shall have an insurance cover with a suitable limit (as per international 
+standards).  
+ 
+d. 
+Automobile Public Liability Insurance covering owned, non-owned and hired 
+automobiles used in the performance of the work hereunder, with bodily injury 
+limits and property damage limits as governed by Indian Insurance regulations.  
+ 
+e. 
+Public Liability Insurance as required under Public Liability Insurance Act 1991.  
+ 
+4.5.5   Service Provider shall obtain additional insurance or revise the limits of existing 
+insurance as per Employer‟s request in which case additional cost shall be to Service 
+Provider‟s account.  
+ 
+ 
+Further, the Service Provider shall ensure the adequacy of Insurance at all time in 
+accordance with the nature of the Service(s), terms of the Contract and Statutory 
+requirements.  
+ 
+4.5.6  CERTIFICATE OF INSURANCE 
+ 
+Before commencing performance of the services, Service Provider shall on request 
+furnish EIC/Employer with certificates of insurance indicating:   
+ 
+i) 
+type and amounts of insurance as required herein; 
+ii) 
+insurance company or companies carrying the aforesaid coverage;  
+iii) 
+effective and expiry dates of policies;  
+iv) 
+that the Employer may give advance notice for any material change in the policy. 
+waiver of subrogation endorsement has been attached to all policies; and  
+v) 
+the territorial limits of all policies.  
+ 
+4.5.7 If any of the above policies expire or are cancelled during the terms of the service, and 
+Service Provider fails for any reason to renew such policies, the Employer may replace 
+same and recover the charges towards  premium plus administrative charges from Service 
+Provider. Should there be a lapse in any insurance required to be carried out by the 
+Service Provider hereunder for any reason, losses & penalty, if any resulting there from 
+shall be to the sole account of the Service Provider.  
+ 
+4.5.8 Service Provider shall require all its Sub-Service Providers to provide such foregoing 
+insurance cover as the Service Provider is obligated to provide under the Contract. 
+ 
+4.5.9 WAIVER OF SUBROGATION: All insurance policies of the Service Provider with 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+34 
+ 
+respect to the operations conducted hereunder, shall be endorsed by the underwriter in 
+accordance with the following policy wording:“ The insurers hereby waive their rights of 
+subrogation against any individual, Employer, affiliates or assignees for whom or with 
+whom the assured may be operating to the extent of the Contractual indemnities 
+undertaken by the Service Provider”.  
+ 
+4.5.10 Deductible: That portion of any loss not covered by insurance provided for in this article 
+solely by reason of deductible provision in such insurance policies shall be to the account 
+of the Service Provider.  
+ 
+4.6  
+TAXES AND DUTIES  
+ 
+4.6.1 The Service Provider, unless specified otherwise elsewhere in the Contract agrees to and 
+does hereby accept full and exclusive liability for the payment of any and all Taxes, 
+Duties, including GST now or hereafter imposed, increased, modified from time to time 
+in respect of Services and materials and all contributions and taxes for unemployment 
+compensation, insurance and old age pensions or annuities now or hereafter imposed by 
+any Central or State Government authorities which are imposed with respect to or 
+covered by the wages, salaries, or other compensations paid to the persons employed by 
+the Service Provider and the Service Provider shall be responsible for the compliance of 
+all Sub-Service Providers, with all applicable Central, State,  Municipal and local law and 
+regulation and requirement of any Central, State or local Government agency or 
+authority. Service Provider further agrees to defend, indemnify and hold Employer 
+harmless from any liability or penalty which may be imposed by the Central, State or 
+Local authorities by reason or any violation by Service Provider or Sub- Sub-Service 
+Provider of such laws, suits or proceedings that may be brought against the Employer 
+arising under, growing out of, or by reason of the service provided for by this Contract, 
+by third parties, or by Central or State Government authority or any administrative sub-
+division thereof. Tax deductions will be made as per the rules and regulations in force in 
+accordance with acts prevailing from time to time. 
+ 
+4.6.2 Service Provider shall ensure timely submission of correct invoice(s) with all required 
+supporting document(s) as per Contract within a period specified in Contracts to enable 
+Employer to avail Input Tax Credit. 
+ 
+If Input Tax credit with respect to GST is not available to Employer for any reason which  
+is not attributable to Employer, then Employer shall not be obligated or liable to pay or 
+reimburse GST charged in the invoice(s)  and shall be entitled to / deduct/ setoff /recover 
+the such GST together with all penalties and interest if any, against any amounts paid or 
+payable by Employer to Service Provider. 
+ 
+4.6.3 Where Employer has the obligation to discharge tax liability under reverse charge 
+mechanism and Employer has paid or is /liable to pay GST to the Government on which 
+interest or penalties becomes payable as per rules (as amended from time to time) for any 
+reason which  is not  attributable to Employer or Input Tax credit with respect to such 
+payments  is  not available to Employer for any reason which  is not  attributable to 
+Employer, then Employer shall be entitled to  deduct/ setoff / recover such  amounts  
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+35 
+ 
+against any amounts paid or payable by Employer to Service Provider.   
+ 
+ 
+4.7  
+INCOME TAX 
+ 
+4.7.1  Income Tax deduction shall be made from all payments of the Service Provider as per 
+rules and regulation in force in accordance with the Income Tax Act prevailing from time 
+to time. As per the provisions of the income Tax Act, 1961, Permanent Account No. 
+(PAN) is compulsorily required to be mentioned in Tax Deduction at Source (TDS) 
+certificate issued to the payee. Therefore, the bidder must submit the details of PAN / the 
+copy of application filed for allotment of PAN (if PAN no. not available) to EIC 
+immediately on receipt of FOA/Contract Document, failing which, TDS will be applied 
+as per applicable law and TDS certificate will not be issued. Therefore, in case the 
+Service Provider does not furnish PAN, EMPLOYER shall deduct at source as provided 
+in the Income Tax Act 1961, or in the relevant Finance Act, or as directed in the orders 
+u/s 195(3) or 197 or 195(2), as the case may be, or at such higher rate as may be required 
+by Section 206AA of Income Tax Act 1961, from time to time. 
+ 
+4.7.2  In case of foreign bidder, the Service Provider must apply through the local embassy / 
+consulate of India for obtaining PAN card. In case, foreign Service Provider don‟t have 
+the PAN, then amount will be deducted and deposited as per law and TDS certificate will 
+also not be provided. Further, such Service Provider shall comply all other provisions 
+mentioned elsewhere in the Tender Document related to making remittances to non-
+residents including Permanent Establishment, Tax Residency Certificate (TRC) if non-
+resident desire to avail benefits available under Double Tax Avoidance Agreement 
+(DTAA), Withholding Tax etc., as per Income Tax Act, 1961 (as amended from time to 
+time). 
+ 
+4.8  
+STATUTORY VARIATIONS 
+ 
+4.8.1  All duties, taxes (except where otherwise expressly provided in the Contract) as may be 
+levied / imposed in consequences of execution of the Jobs/Services or in relation thereto 
+or in connection therewith as per the Acts, Laws, Rules, Regulations in force on the due 
+date of submission of Bid for this Contract shall be to Service Provider‟s account. Any 
+increase / decrease in such duties, taxes after the due date of submission of bid but within 
+the Contractual completion date as stipulated in the Contract will be to the account of 
+Employer subject to submission of documentary proof to the satisfaction of Employer.  
+ 
+4.8.2  Any increase in the duties and taxes after the Contractual completion period will be to the 
+Service Provider‟s account, where delay in completion /mobilization period is 
+attributable to the Service Provider and the taxes & duties are not cenvatable (i.e. Input 
+Tax Credit (ITC) not available). In case of applicability of ITC / cenvatable taxes & 
+duties, payment shall be made as per the prevailing rates during the currency of the 
+Contract. However, any benefit of decrease in duties and taxes after the Contractual 
+completion will be passed on to the Employer. 
+4.8.3 In the event of introduction of any new legislation or any change or amendment or 
+enforcement of any Act or Law, rules or regulations of Government of India or State 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+36 
+ 
+Government(s) or Public Body which becomes effective after the due date of submission 
+of Bid for this Contract but within the Contractual completion period (including extended 
+period allowed due to reasons attributed to Employer) and which results in increased cost 
+of the jobs/services under the Contract through increased liability of taxes, (other than 
+personnel and Corporate taxes), duties, the Service Provider shall be indemnified for any 
+such increased cost by the Employer subject to the production of documentary  proof to 
+the satisfaction of the Employer to the extent which directly is attributable to such 
+introduction of new legislation or change or amendment as mentioned above and 
+adjudication by the competent authority & the courts wherever levy of such taxes / duties 
+are disputed by Employer. 
+ 
+4.8.4  Similarly, in the event of introduction of new legislation or any change or amendment or 
+enforcement of any Act or Law, rules or regulations of Government of India or State 
+Government(s) or Public Body which becomes effective after the due date of submission 
+of Bid for this Contract and which results in any decrease in the cost of the services/ jobs 
+through reduced liability of taxes, (other than personnel and Corporate taxes) duties, the 
+Service Provider shall pass on the benefits of such reduced cost, taxes or duties to the 
+Employer, to the extent which is directly attributable to such introduction of new 
+legislation or change or amendment as mentioned above. 
+ 
+4.9 
+DAMAGES TO PROPERTY, ANY PERSON AND THIRD PARTY 
+ 
+i)   
+Service Provider shall be responsible for making good to the satisfaction of the 
+Employer any loss or any damage to structures and properties belonging to the 
+Employer or being executed or procured or being procured by the Employer or of 
+other agencies within in the premises of the Employer, if such loss or damage is 
+due to fault and/or the Negligence or Willful Misconduct or omission of the 
+Service Provider, his employees, agents, representatives or Sub-Service Providers.  
+ 
+ii)   
+The Service Provider shall take sufficient care in moving his equipments and 
+materials from one place to another so that they do not cause any damage to any 
+person or to the property of the Employer or any third party including overhead 
+and underground cables and in the event of any damage resulting to the property 
+of the Employer or of a third party during the movement of the aforesaid 
+equipment or materials the cost of such damages including eventual loss of 
+production, operation or services in any plant or establishment as estimated by the 
+Employer or ascertained or demanded by the third party shall be borne by the 
+Service Provider. Third party liability risk shall be Rupees One lakh for single 
+accident and limited to Rupees Ten lakhs.   
+ 
+iii)   
+The Service Provider shall indemnify and keep the Employer harmless of all 
+claims for damages to property other than Employer's property arising under or by 
+reason of this agreement, if such claims result from the fault and/or Negligence or 
+Willful Misconduct or omission of the Service Provider, his employees, agents, 
+representative of Sub-Service Provider. 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+37 
+ 
+SECTION – V 
+ 
+5.0 
+LAWS, HEALTH, SAFETY & ENVIRONMENT 
+ 
+5.1  
+LABOUR LAWS  
+ 
+i) 
+No labour below the age of 18 (eighteen) years shall be employed on the Job. 
+ 
+ii)  
+The Service Provider shall not pay less than what is provided under law to 
+labourers engaged by him on the Job. 
+ 
+iii)  
+The Service Provider shall at his expense comply with all labour laws and keep 
+the Employer indemnified in respect thereof. 
+ 
+iv)  
+The Service Provider shall pay equal wages for men and women in accordance 
+with applicable labour laws. 
+ 
+v)  
+If the Service Provider is covered under the Contract labour (Regulation and 
+Abolition) Act, he shall obtain a license from licensing authority (i.e. office of the 
+labour commissioner) by payment of necessary prescribed fee and the deposit, if 
+any, before starting the Job under the Contract. Such fee/deposit shall be borne by 
+the Service Provider.  
+ 
+vi)  
+The Service Provider shall employ labour in sufficient numbers either directly or 
+through Sub- Service Provider's to maintain the required rate of progress and of 
+quality to ensure workmanship of the degree specified in the Contract while also 
+ensuring that workman is not stressed due to long hour of working and to the 
+satisfaction of the EIC.  
+ 
+vii)  
+The Service Provider shall furnish to the EIC the distribution return of the number 
+and description, by trades of the service people employed on the services. The 
+Service Provider shall also submit on the 4th and 19th of every month to the EIC 
+a true statement showing in respect of the second half of the preceding month and 
+the first half of the current month (1) the accidents that occurred during the said 
+fortnight showing the circumstances under which they happened and the extent of 
+damage and injury caused by them and (2) the number of female workers who 
+have been allowed Maternity Benefit as provided in the Maternity Benefit Act 
+1961 on Rules made thereunder and the amount paid to them. 
+ 
+viii)  
+The Service Provider shall comply with the provisions of the payment of Wage 
+Act 1936, Employee Provident Fund Act 1952, Minimum Wages Act 1948. 
+Employers Liability Act 1938. Servicemen's Compensation Act 1923, Industrial 
+Disputes Act 1947, the Maternity Benefit Act 1961 and Contract Labour 
+Regulation and Abolition Act 1970, Employment of Children Act 1938 or any 
+modifications thereof or any other law relating thereto and rules made thereunder 
+from time to time. 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+38 
+ 
+ix)  
+The EIC shall on a report having been made by an Inspecting Officer as defined 
+in Contract Labour (Regulation and Abolition) Act 1970 have the power to deduct 
+from the money due to the Service Provider any sum required or estimated to be 
+required for making good the loss suffered by a worker or workers by reason of 
+non- fulfilment of the Conditions of the Contract for the benefit of workers, non-
+payment of wages or of deductions made from his or their wages which are not 
+justified by the terms of the Contract or non-observance of the said regulations. 
+ 
+x)  
+The Service Provider shall indemnify the Employer against any payments to be 
+made under and for the observance of the provisions of the aforesaid Acts without 
+prejudice to his right to obtain indemnity from his Sub-Service Provider's. In the 
+event of the Service Provider committing a default or breach of any of the 
+provisions of the aforesaid Acts as amended from time to time, of furnishing any 
+information or submitting or filling and Form/ Register/ Slip under the provisions 
+of these Acts which is materially incorrect then on the report of the inspecting 
+Officers, the Service Provider shall without prejudice to any other liability pay to 
+the Employer a sum not exceeding Rs.10000.00 as Liquidated Damages for every 
+default, breach or furnishing, making, submitting, filling materially incorrect 
+statement as may be fixed by the EIC and in the event of the Service Provider's 
+default continuing in this respect, the Liquidated Damages may be enhanced to 
+Rs.5000.00 per day for each day of default subject to a maximum of one percent 
+of the estimated cost of the Services put to the Contract. The EIC shall deduct 
+such amount from bills or Contract Performance Security of the Service Provider 
+and credit the same to the Welfare Fund constitute under these acts. The decision 
+of the EIC in this respect shall be final and binding. 
+ 
+5.2  
+SAFETY REGULATIONS 
+ 
+i) 
+In respect of all labour, directly employed in the Service for the performance of 
+Service Provider's part of this agreement, the Service Provider shall at his own 
+expense arrange for all the safety provisions as per safety codes of C.P.W.D., 
+Indian Standards Institution. The Electricity Act, The Mines Act and such other 
+acts as applicable. 
+ 
+ii) 
+The Service Provider shall observe and abide by all fire and safety regulations of 
+the Employer. Before starting service, Service Provider shall consult with 
+Employer's safety Engineers or EIC and must make good to the satisfaction of the 
+Employer any loss or damage due to fire to any portion of the service done or to 
+be done under this agreement or to any of the Employer's existing property. 
+ 
+5.3  
+FIRST AID AND INDUSTRIAL INJURIES 
+ 
+i)  
+Service Provider shall maintain first aid facilities for its employees and those of 
+its Sub-Service Provider. 
+ 
+ii)  
+Service Provider shall make outside arrangements for ambulance service and for 
+the treatment of industrial injuries. Names of those providing these services shall 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+39 
+ 
+be furnished to Employer prior to start and their telephone numbers shall be 
+prominently posted in Service Provider's field office. 
+ 
+iii) 
+All critical industrial injuries shall be reported promptly to Employer, and a copy 
+of Service Provider's report covering each personal injury requiring the attention 
+of a physician shall be furnished to the Employer. 
+ 
+5.4  
+GENERAL RULES  
+ 
+5.4.1 Smoking within the battery area, tank farm, dock limits or any such area identified by 
+EIC or mentioned in SCC or any guideline, is strictly prohibited. Violators of the no 
+smoking rules shall be discharged immediately after imposing the applicable penalty(ies). 
+Decision of EIC in the matter shall be final and binding on the Service Provider. 
+ 
+5.5  
+CARE IN HANDLING INFLAMMABLE GAS 
+ 
+5.5.1 The Service Provider has to ensure all precautionary measures and exercise utmost care 
+in handling the inflammable gas cylinder/inflammable liquids/paints etc. as required 
+under the law and/or as advised by the fire Authorities of the Employer. 
+ 
+5.6  
+PRESERVATION OF PLACE 
+ 
+5.6.1 The Service Provider shall take requisite precautions and use his best endeavors to 
+prevent any riotous or unlawful behavior by or amongst his worker / personnel employed 
+for the services and for the preservation of peace and protection of the inhabitants and 
+security of property in the neighborhood of the Site. In the event of the Employer 
+requiring the maintenance of a Special Police Force at or in the vicinity of the site during 
+the tenure of services, the expenses thereof shall be borne by the Service Provider and if 
+paid by the Employer shall be recoverable from the Service Provider. 
+ 
+5.7  
+ENVIRONMENT 
+ 
+5.7.1 Employer acknowledges their commitment to conduct their respective operations in a 
+manner which not only complies with all relevant environmental protection and pollution 
+control legislation but also such operations do not cause environmental damage or 
+pollution and in a manner which acknowledges other cultural and associated 
+considerations. In recognition of this commitment, the Service Provider shall perform the 
+services in such a way as to avoid or minimize environmental damage or pollution and 
+fully recognize the special aspects of the environment as communicated by Employer or 
+as applicable. Service Provider shall comply with, and the Service Provider shall ensure 
+compliance with all applicable environmental protection and pollution control legislation 
+as it relates to the services. 
+ 
+5.7.2 In the furtherance of any laws, regulations and rules promulgated by the Government of 
+India, Service Provider shall: 
+ 
+- 
+Employ good international oil & gas  industry practices, including as required, 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+40 
+ 
+advanced techniques, practices and methods of operation for the prevention of 
+environmental damage in conducting the job; 
+ 
+- 
+Take necessary and adequate steps to prevent environmental damage and, where 
+some adverse impact on the environment is unavoidable, minimize such damage and 
+the consequential effects thereof of property and people; and 
+ 
+- 
+Adhere to the guidelines, limitations or restrictions, if any, imposed by the 
+environmental clearance as applicable. 
+ 
+5.7.3 If during the Service Provider's performance of the services, the Employer is of the 
+opinion that the Service Provider is either not conducting the services in strict compliance 
+with this Contract or is conducting the services in such a way as to endanger the 
+environment or in such a way as to risk being in breach of any environmental protection 
+or pollution control legislation, then the Employer shall notify the Service Provider in 
+writing of the conduct involved and the Service Provider shall initiate corrective action to 
+the reasonable satisfaction of the Employer within twenty four (24) hours of the conduct 
+so notified or as decided by EIC. Employer may, require Service Provider to discontinue 
+the Service in whole or in part until Service Provider has taken such action. 
+ 
+5.7.4 The Service Provider shall notify the Employer as soon as reasonably practicable of any 
+spillage or potential spillage of petroleum or any act of pollution or potentially polluting 
+event. For each and any such event the Service Provider shall record the relevant 
+information on the incident report form and shall deliver the completed form to the 
+Employer forthwith. 
+ 
+5.7.5 After completion of the entire job as per this Contract and prior to Demobilization, 
+Service Provider shall at its expense satisfactorily dispose off all rubbish, remove all 
+temporary work, equipment and materials belonging to Service Provider and return to 
+Employer warehouse all surplus spares and salvageable Employer supplied materials. 
+Further, the Service Provider can take away the brought out Service Provider supplied 
+surplus Material (i.e. Materials brought by the Service Provider for work/Services at site 
+under Contract, not used by them for work/Services and leftover at the Site) subject to 
+prior written consent of the EIC. The payment made, if any, towards such surplus 
+Material will be recovered from the payment of Service Provider.  
+ 
+Service Provider shall leave the premises in a neat and safe condition. Service Provider 
+shall be required to leave all, sites and surrounding area as it existed at the 
+commencement of Contract.  
+ 
+5.7.6 Service Provider shall: 
+ 
+Ensure that the pertinent completed environmental impact studies including the Rapid 
+Environmental Impact Assessment carried out by Employer are made available to its 
+Personnel and to its Sub-Service Providers to develop adequate and proper awareness of 
+the measures and methods of environmental protection to be used in carrying out the job;  
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+41 
+ 
+Ensure and maintain at his own cost all lights, guards, fencing, warning signs and 
+watching, when and where necessary or required by the EIC, for the protection of the 
+Services or for the safety and convenience of the public or others.  
+ 
+Ensure that the Contracts entered into between Service Provider and its Sub Service 
+Providers (if allowed) relating to the Services shall include the provisions stipulated 
+herein; 
+ 
+- 
+be responsible for the removal from the Site or for otherwise making safe in 
+accordance with applicable Indian laws and directives any materials generated or 
+released by Service Provider during its activities at the Site which are toxic or 
+similarly hazardous to the health or safety of persons or to the environment;  
+ 
+- 
+be liable for and shall indemnify, protect, defend and hold harmless Employer from 
+and against any and all demands, claims, suits and causes of action and any and all 
+liability, costs, expenses, settlements and judgments incurred in connection therewith 
+(including court costs and attorney‟s fees incurred by Employer) arising out of such 
+toxic or hazardous materials for which the Service Provider is responsible pursuant to 
+this Clause. 
+ 
+----------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+42 
+ 
+SECTION – VI 
+6.0  
+DISPUTE RESOLUTION AND ARBITRATION 
+ 
+ 
+    
+ 
+ 
+ 
+6.1  
+DISPUTE RESOLUTION 
+1.  
+PRE-LITIGATION GRIEVANCE/DISPUTE REDRESSAL MECHANISM: 
+i)   
+Any issue should be first referred to EIC (for LOA/contracts)/Dealing C&P 
+Executive (for Purchase Orders). 
+(ii)   In case issue is not resolved by above, Vendor/Supplier/Contractor/Consultant 
+may submit their issue to “Samadhan Committee”. The same will be addressed by 
+Samadhan Committee within 15days from the date of issue raised. 
+(iii)  In case, Vendor/Supplier/ Contractor/Consultant is not satisfied with the decision 
+of the Samadhan Committee, there is a provision of escalation of issue to higher 
+authority in BCPL. This option is available two times only, one is at Chief General 
+Manager (O&M) and the other one is Chief Operating Officer. 
+(iv)  
+However, in case no mutual settlement is arrived at after exercising all pre-
+litigation grievance/dispute redressal mechanism as above, the matter shall be 
+settled by arbitration in accordance with the provision of arbitration of the Indian 
+Arbitration & Conciliation Act, 1996 and any statutory modification or re-
+enactment thereof and the Rules made there under and for the time being in force 
+as stated below: 
+2. 
+ARBITRATION 
+All issue(s)/dispute(s) excluding the matters that have been specified as excepted 
+matters and listed at clause no. 2.6 and which cannot be resolved through pre-
+litigation grievance/dispute redressal mechanism, such issue(s)/dispute(s) shall be 
+referred to arbitration for adjudication by Sole Arbitrator. 
+The party invoking the Arbitration shall have the option to either opt for Ad-hoc 
+Arbitration as provided at Clause 2.1 below or Institutionalized Arbitration as 
+provided at Clause 2.2 below, the remaining clauses from 2.3 to 2.7 shall apply to 
+both Ad-hoc and Institutional Arbitration:- 
+2.1  
+On invocation of the Arbitration clause by either party, BCPL shall suggest a 
+panel of three independent and distinguished persons (Retd. Supreme Court & 
+High Court Judges only) to the other party from the Panel of Arbitrators 
+maintained by „Delhi International Arbitration Centre (DIAC) to select any one 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+43 
+ 
+among them to act as the Sole Arbitrator. In the event of failure of the other party 
+to select the Sole Arbitrator within 30 days from the receipt of the communication 
+from BCPL suggesting the panel of arbitrators, the right of selection of the sole 
+arbitrator by the other party shall stand forfeited and BCPL shall appoint the Sole 
+Arbitrator from the suggested panel of three Arbitrators for adjudication of 
+dispute(s). 
+The decision of BCPL on the appointment of the sole arbitrator shall be final and 
+binding on the other party. The fees payable to Sole Arbitrator shall be governed 
+by the fee Schedule of „„Delhi International Arbitration Centre‟. 
+OR 
+2.2  
+If a dispute arises out of or in connection with this contract, the party invoking the 
+Arbitration shall submit that dispute to any one of the Arbitral Institutions i.e 
+ICADR/ICA/DIAC/SFCA and that dispute shall be adjudicated in accordance with 
+their respective Arbitration Rules. The matter shall be adjudicated by a Sole 
+Arbitrator who shall necessarily be a Retd. Supreme Court/High Court Judge to be 
+appointed/nominated by the respective institution. The cost/expenses pertaining to 
+the said Arbitration shall also be governed in accordance with the Rules of the 
+respective Arbitral Institution. The decision of the party invoking the Arbitration 
+for reference of dispute to a specific Arbitral institution for adjudication of that 
+dispute shall be final and binding on both the parties and shall not be subject to 
+any change thereafter. The institution once selected at the time of invocation of 
+dispute shall remain unchanged. 
+2.3  
+The cost of arbitration proceedings shall be shared equally by the parties. 
+2.4  
+The Arbitration proceedings shall be in English language and the seat, venue and 
+place of Arbitration shall be New Delhi, India only. 
+2.5  
+Subject to the above, the provisions of Arbitration & Conciliation Act 1996 and 
+any amendment thereof shall be applicable. All matter relating to this Contract and 
+arising out of invocation of Arbitration clause are subject to the exclusive 
+jurisdiction of the Court(s) situated at New Delhi. 
+2.6  
+List of Excepted matters: 
+a)  Dispute(s)/issue(s) involving claims below Rs.25 lakhs and above Rs.25 
+crores. 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+44 
+ 
+b)  Dispute(s)/issue(s) relating to indulgence of Contractor/Vendor/Bidder in 
+corrupt/fraudulent/ collusive/coercive practices and/or the same is under 
+investigation by CBI or Vigilance or any other investigating agency or 
+Government. 
+c)  Dispute(s)/issue(s) wherein the decision of Engineer-In-Charge/owner/BCPL 
+has been made final and binding in terms of the Contract. 
+2.7.  Disputes involving claims below Rs 25 Lakhs and above Rs. 25 crores:- Parties 
+mutually agree that dispute(s)/issue(s) involving claims below Rs 25 Lakhs and 
+above Rs 25 crores shall not be subject matter of Arbitration and are subject to the 
+exclusive jurisdiction of the Court(s) situated at Dibrugarh. 
+3. 
+GOVERNING LAW AND JURISDICTION:  
+The Contract shall be governed by and construed in accordance with the laws in 
+force in India. The Parties hereby submit to the exclusive jurisdiction of the 
+Competent Courts of Dibrugarh having territorial & pecuniary jurisdiction for 
+adjudication of disputes, injunctive reliefs, actions and proceedings, if any, arising 
+out of this Contract other than those covered under the arbitration clause as stated 
+herein above. 
+4. 
+DISPUTES BETWEEN CPSE’S/ GOVERNMENT DEPARTMENT’S/ 
+ORGANIZATIONS: 
+Subject to pre litigation grievance/dispute redressal mechanism as provided above, 
+in the event of any dispute or difference relating to the interpretation and 
+application of the provisions of commercial contract(s) between Central Public 
+Sector Enterprises (CPSEs/ Port Trusts inter se and also between CPSEs and 
+Government Departments /Organizations (excluding disputes concerning 
+Railways, Income Tax, Customs & Excise Departments), such dispute or 
+difference shall be taken up by either party for resolution through AMRCD as 
+mentioned in OPE OM No. 4(1)/2013-DPE(GM)/FTS-1835 dated 22-05-2018. 
+Any party aggrieved with the decision of the Committee at the First level (tier) 
+may prefer an appeal before the Cabinet Secretary at the Second level (tier) within 
+15 days from the date of receipt of decision of the Committee at First level, 
+through it's administrative Ministry/Department, whose decision will be final and 
+binding on all concerned. 
+
+General Conditions of Contract - Services 
+ 
+------------------------------------------------------------------------------------------------------------------------------ 
+45 
+ 
+The above provisions shall supersede provisions relating to Conciliation, 
+Arbitration, Governing Law & Jurisdiction and Disputes between CPSE‟s/ 
+Government Department‟s/ Organizations mentioned in General Conditions of 
+Contract (GCC) and elsewhere in tender document. 
+ 
+ 
+ 
+

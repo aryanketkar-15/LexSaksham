@@ -1,0 +1,226 @@
+ 
+ 
+ 
+ 
+ 
+Format of Non-Disclosure Agreement (NDA) 
+ 
+(To be typed on Rs.100/- non-judicial stamp paper) 
+ 
+ 
+This Agreement is made as of the ------------- 2022 between Telecommunications Consultants 
+India Limited (TCIL) a Government of India Enterprise, having its Corporate office at TCIL Bhawan, 
+Greater Kailash-1, New Delhi 
+which expression shall unless repugnant to the subject or the context mean and included its 
+successors, nominees or assigns and M/s    ---------------------------- 
+------------------------ 
+-------------- a company incorporated under the Indian Companies Act, 1956, and having its registered 
+office at - -                            -             -          -          -                -             -     - 
+-------------- Herein after called “----------------------” which expression shall unless repugnant to the 
+subject or the context mean and include its successors, nominees or assigns. 
+ 
+Whereas in order to pursue the mutual business purpose of this particular project as specified in 
+Exhibit A (the “Business Purpose”), TCIL and M/s----------------------------- 
+---------------------------------------------------------------- recognize that there is a 
+need to disclose to one another certain information, as defined in para 1 below, of each party to be 
+used only for the Business Purpose and to protect such confidential information from unauthorized use 
+and disclosure. 
+In consideration of the other party’s disclosure of such information, each party agrees as follows: 
+ 
+1. This Agreement will apply to all confidential and proprietary information disclosed by one party to 
+the other party, including information listed in Exhibit A attached hereto and other information 
+which the disclosing party identifies in writing or otherwise as confidential before or within thirty 
+days after disclosure to the receiving party (“Confidential Information”). Information consists of 
+certain specifications, designs, plans, drawings, software, prototypes and/or technical information, 
+and all copies and derivatives containing such Information, that may be disclosed to one another 
+for and during the Purpose, which a party considers proprietary or confidential (“Information”). 
+Information may be in any form or medium, tangible or intangible, and may be 
+communicated/disclosed in writing, orally, or through visual observation or by any other means to 
+one party (hereinafter referred to as the receiving party) by the other party (hereinafter referred 
+to as one disclosing party). Information shall be subject to this Agreement, if it is in tangible form, 
+only if clearly marked as proprietary or confidential as the case may be, when disclosed to the 
+receiving party or, if not in tangible form, its proprietary nature must first be announced, and it 
+must be reduced to writing and furnished to the receiving party within thirty(30) days of the initial 
+disclosure. 
+2    M/s  
+ 
+and TCIL hereby agreed at during the Confidentiality Period: 
+a) The receiving party shall use Information only for the Purpose, shall hold Information in 
+confidence using the same degree of care as it normally exercises to protect its own proprietary 
+information, but  not  less  than  reasonable care, taking into  account the  nature of  the 
+Information, and shall grant access to Information only to its employees who have a need to 
+know, but only to the extent necessary to carry out the business purpose of this project as 
+defined in exhibit A, shall cause its employees to comply with the provisions of this Agreement 
+applicable to the receiving party, shall reproduce Information only to the extent essential to 
+fulfilling the Purpose, and shall prevent disclosure of Information to third parties. The receiving 
+party may, however, disclose the Information to its consultants and contractors with a need to 
+know; provided that by doing so, the receiving party agrees to bind those consultants and 
+contractors to terms at least as restrictive as those stated herein, advise them of their 
+obligations, and indemnify the disclosing party for any breach of those obligations. 
+b) Upon the disclosing party's request, the receiving party shall either return to the disclosing 
+party all Information or shall certify to the disclosing party that all media containing
+
+ 
+ 
+ 
+ 
+ 
+Information have been destroyed. Provided, however, that an archival copy of the Information 
+may be retained in the files of the receiving party's counsel, solely for the purpose of proving 
+the contents of the Information. 
+ 
+3    The foregoing restrictions on each party's use or disclosure of Information shall not apply to 
+Information that the receiving party can demonstrate: 
+ 
+a)    was independently developed by or for the receiving party without reference to the 
+Information, or was received without restrictions; or 
+ 
+b) 
+has  become  generally  available  to  the  public  without  breach  of  confidentiality 
+obligations of the receiving party; or 
+ 
+c) 
+was in the receiving party's possession without restriction or was known by the 
+receiving party without restriction at the time of disclosure; or 
+ 
+d)  is the subject of a subpoena or other legal or administrative demand for disclosure; 
+provided, however, that the receiving party has given the disclosing party prompt notice 
+of such demand for disclosure and the receiving party reasonably cooperates with the 
+disclosing party's efforts to secure an appropriate protective order; or 
+ 
+e)    is disclosed with the prior consent of the disclosing party; or 
+ 
+f) 
+was in its possession or known to it by being in its use or being recorded in its files or 
+computers or other recording media prior to receipt from the disclosing party and was 
+not previously acquired by the receiving party from the disclosing party under an 
+obligation of confidence; or 
+ 
+g) 
+the receiving party obtains or has available from a source other than the 
+disclosing party without breach by the receiving party or such source of any 
+obligation of confidentiality or non-use towards the disclosing party. 
+ 
+4 
+Each party agrees not to remove any of the other party’s Confidential Information from the 
+premises of the disclosing party without the disclosing party’s prior written approval. Each party 
+agrees to exercise extreme care in protecting the confidentiality of any Confidential Information 
+which is removed, only with the disclosing party’s prior written approval, from the disclosing party’s 
+premises. Each party agrees to comply with any and all terms and conditions the disclosing party 
+may impose upon any such approved removal, such as conditions that the removed Confidential 
+Information and all copies must be returned by a certain date, and that no copies are to be make 
+off of the premises. 
+ 
+5 
+Upon the disclosing party’s request, the receiving party will promptly return to the disclosing party 
+all tangible items containing or consisting of the disclosing party’s Confidential Information all 
+copies thereof. 
+6 
+Each party recognizes and agrees that all of the disclosing party’s Confidential Information is owned 
+solely by the disclosing party (or its licensors) and that the unauthorized disclosure or use of such 
+Confidential Information would cause irreparable harm and significant injury, the degree of which 
+may be difficult to ascertain. Accordingly, each party agrees that the disclosing party will have the 
+right to obtain an immediate injunction enjoining any breach of this Agreement, as well as the right 
+to pursue any and all other rights and remedies available at law or in equity for such a breach. 
+ 
+7 
+Access to Information hereunder shall not preclude an individual who has seen such Information 
+for the purposes of this Agreement from working on future projects for the receiving party which 
+relate to similar subject matters, provided that such individual does not make reference to the 
+Information and does not copy the substance of the Information during the Confidentiality Period. 
+Furthermore, nothing contained herein shall be construed as imposing any restriction on the 
+receiving party's disclosure or use of any general learning, skills or know-how developed by the
+
+ 
+ 
+ 
+ 
+receiving party's personnel under this Agreement, if such disclosure and use would be regarded by 
+a person of ordinary skill in the relevant area as not constituting a disclosure or use of the 
+Information. 
+ 
+8 
+As between the parties, all Information shall remain the property of the disclosing party. By 
+disclosing Information or executing this Agreement, the disclosing party does not grant any license, 
+explicitly or implicitly, under any trademark, patent, copyright, mask work protection right, trade 
+secret or any other intellectual property right. THE DISCLOSING PARTY DISCLAIMS ALL 
+WARRANTIES REGARDING THE INFORMATION, INCLUDING ALL WARRANTIES WITH RESPECT TO 
+INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS AND ALL WARRANTIES AS TO THE 
+ACCURACY OR UTILITY OF SUCH INFORMATION. Execution of this Agreement and the disclosure 
+of Information pursuant to this Agreement does not constitute or imply any commitment, promise, 
+or inducement by either party to make any purchase or sale, or to enter into any additional 
+agreement of any kind. 
+ 
+9    Either party’s failure to enforce any provision, right or remedy under this agreement shall not 
+constitute a waiver of such provision, right or remedy. 
+ 
+10  This Agreement will be construed in, interpreted and applied in accordance with the laws of India. 
+ 
+11  That in case of any dispute or differences, breach & violation relating to the terms of the Agreement. 
+The said matter or dispute, difference shall be referred to sole arbitration of Chairman and Managing 
+Director (CMD) of TCIL or any other person appointed by him. That the award of the arbitrator 
+shall be final and binding on both the parties. In the event of such Arbitrator to whom the matter 
+is originally referred to is being transferred or vacates his office on resignation or otherwise or 
+refuses to do work or neglecting his work or being unable to act as Arbitrator for any reasons what 
+so ever, the CMD TCIL shall appoint another person to act as Arbitrator in place of outgoing 
+Arbitrator and the person so appointed shall be entitled to proceed further with the reference from 
+the stage at which it was left by his predecessor. M/s 
+……………………………………………………………………………………………………………….. will have no Objection in any 
+such appointment, that arbitrator so appointed is employee of TCIL. The said Arbitrator shall act 
+under the Provisions of the Arbitration and conciliation Act, 1996 or any statutory modifications or 
+re-enactment there of or any rules made thereof. 
+ 
+12  This Agreement and Exhibit A attached hereto constitutes the entire agreement of the parties with 
+respect to the parties' respective obligations in connection with Information disclosed hereunder 
+and supersedes all prior oral and written agreements and discussions with respect thereto. The 
+parties can amend or modify this Agreement only by a writing duly executed by their respective 
+authorized representatives. Neither party shall assign this Agreement without first securing the 
+other party's written consent. 
+ 
+13  This Agreement will remain in effect for Six years from the date of the last disclosure of Confidential 
+Information, at which time it will terminate, unless extended by the disclosing party in writing. 
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement by their duly authorized 
+officers or representatives. 
+ 
+ 
+M/s                                                         Telecommunications Consultants 
+India Limited 
+Signature:                     _                                   Signature:  
+ 
+Printed Name:                                                     Printed 
+Name: 
+ 
+Title: 
+Title :
+
+ 
+ 
+ 
+ 
+ 
+Exhibit A 
+ 
+1.  Business Purpose: Tender for Supply, Installation, Testing, Commissioning, AMC of Fixed 
+Wire line - SMS Monitoring and Fraud Detection/Prevention Solution 
+(SCP, SRP) and successfully migrate existing subscriber base to 
+new system with upgraded servers and applications vide T.E.No.-- 
+-----------------. 
+ 
+2.      Confidential Information of M/s -   
+ 
+ 
+ 
+3.      Confidential Information of Telecommunications Consultants India 
+Limited (TCIL): 
+ 
+ 
+●    All information shared, in oral or in written form, by TCIL with M/s 
+ 
+ 
+ 
+●    Number of subscriptions, consumption pattern etc 
+M/s              _  
+ 
+Signed 
+

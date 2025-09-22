@@ -1,0 +1,43 @@
+Wholesale Order/Delivery Form Template Guide
+
+Overview
+You may prepare your own order/delivery form starting with the template below to fit your business needs and use it as the agreement you enter into with your clients.
+
+How to Use the Order/Delivery Template 
+When you see Purple text delete the purple and input the information it requests. 
+
+The Red text lists options you need to select from to detail the agreement with your client or provides optional text for you to include. Remove any clauses that are not relevant for your final agreement.
+
+The tables created are intended to serve as a template for you to populate the items available for order from your business. If you require additional line items in a particular table, insert as many rows as applicable. If your customer is filling out this order form, then please be sure to provide them with the necessary supplementary information to do so (e.g. catering menu). 
+
+Tips
+
+Change all font colors back to “black.”
+If you are attaching this contract to a Square Invoice, you will have to save the finalized agreement in PDF format locally on your system. 
+Once it is saved as a PDF file, you can attach the file to the Square Invoice to send to your customer using the “Add Attachment” button under “More Options” in the invoice. 
+You should obtain your client’s initials in each designated space.
+You and your client should both sign and date the agreement.
+
+Within the contract template, there is a section in the header prompting you for your business contact information. We highly recommend always including this information so that your customer can sign the document and return it to you since they are unable to re-upload the attachment back to the invoice for return.
+
+Legal Disclaimer
+Square is not a law firm, an attorney or a professional advisor in any industry. Square provides this template to individuals who choose to prepare their own contractual documents. Square services and related documents and materials provided by Square do not constitute legal advice and are for your private use. Square does not review the information you provide for legal accuracy or sufficiency. If you need legal advice as to specific contract terms or have questions regarding a term’s applicability or enforceability, you should consult with a licensed attorney. 
+
+
+
+
+
+Your Business Name Here Order Form
+Your Business/Contact Email Here
+Your Business Phone Number Here
+
+
+
+
+
+Refund and Cancellation Policy: The Caterer will issue a choose either full or partials applicable [full or partial refund] of choose how much you are willing to refund [$X amount] to the Clientif the Client provides enter the allowable amount of time to cancel the order in return for a refund days prior to the Event. Delete the following sentence if it is not applicable: The only other situation in which a refund of $enter the % of total order amount eligible for an issued refund is in the event write in reason eligible for an issued refund here. Client Initial Here _________
+
+The Parties have both reviewed the order and confirm that everything is correct as evidenced by their signatures below.
+
+Date _______	__________________		Date _______      __________________
+			Caterer Name, Owner				       Client Name, Client

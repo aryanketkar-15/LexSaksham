@@ -1,0 +1,7 @@
+file_name,txt_path,text
+clauses_raw,C:\Users\aryan\LexShaksham\Lexsham_2.0_AfterChetan\lexsaksham\rental-dataset\clauses_raw\clauses_raw.txt,
+commercial,C:\Users\aryan\LexShaksham\Lexsham_2.0_AfterChetan\lexsaksham\rental-dataset\clauses_raw\commercial.txt,
+land,C:\Users\aryan\LexShaksham\Lexsham_2.0_AfterChetan\lexsaksham\rental-dataset\clauses_raw\land.txt,
+metadata,C:\Users\aryan\LexShaksham\Lexsham_2.0_AfterChetan\lexsaksham\rental-dataset\clauses_raw\metadata.txt,
+residential,C:\Users\aryan\LexShaksham\Lexsham_2.0_AfterChetan\lexsaksham\rental-dataset\clauses_raw\residential.txt,
+text_cleaned,C:\Users\aryan\LexShaksham\Lexsham_2.0_AfterChetan\lexsaksham\rental-dataset\clauses_raw\text_cleaned.txt,

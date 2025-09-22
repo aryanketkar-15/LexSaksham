@@ -1,0 +1,355 @@
+Non-Disclosure Agreement Form 
+ 
+ 
+ 
+ 
+On bond Paper Value Rs 100/- 
+This Non-Disclosure Agreement made and entered into at …………………. this…….day of 
+……………….. 2020 BY AND BETWEEN ………………………………… Company Limited, a company 
+incorporated under the Companies Act, 1956 having its registered office at ….………. 
+(hereinafter referred to as the Implementation partner, which expression unless repugnant to 
+the context or meaning thereof be deemed to include its permitted successors) of the ONE 
+PART;  
+AND  
+National Bank for Agriculture and Rural Development, a body corporate established under an 
+act of Parliament, viz., National Bank for Agriculture and Rural Development Act, 1981 having 
+its registered office at NABARD Head Office, C-24, “G” Block, Bandra Kurla Complex, Bandra 
+(East), Mumbai- 400051 (hereinafter referred to as “NABARD” which expression shall unless 
+repugnant to the context or meaning thereof be deemed to include its successors and assigns) 
+of the OTHER PART.  
+The System Integrator and NABARD are hereinafter collectively referred to as “the Parties 
+“and individually as “the Party”  
+WHEREAS:  
+1. 
+NABARD is engaged in Banking business and   floated a Request for Proposal to 
+appoint an System Integrator for Request for Proposal for Supply, Installation, Configuration, 
+Testing, Commissioning and Maintenance of VC Endpoints at NABARD’s various Regional 
+Offices/ 
+Training 
+Establishments, 
+the 
+scope 
+of 
+which 
+is 
+specified 
+in 
+________________________ 
+and 
+whereas 
+_________________________________ (Name of Vendor) has  through an RFP 
+process, bid for the work.  In the course of such assignment, it is anticipated that NABARD or 
+any of its officers, employees, officials, representatives or agents may disclose, or deliver, to 
+the System Integrator some Confidential Information (as hereinafter defined), to enable the 
+System Integrator to carry out the aforesaid exercise (hereinafter referred to as " the 
+Purpose").  
+2. 
+The System Integrator is aware and confirms that the information, data and other 
+documents made available in the Agreement /Contract and thereafter regarding the services 
+delivered in this RFP or otherwise shall remain confidential.  
+3. 
+The System Integrator is aware that all the confidential information under the Bid 
+documents or those shared under the terms of this Agreement or Contract is privileged and 
+strictly confidential and/ or proprietary to NABARD.  
+4. 
+For the purpose of advancing their business relationship, the parties would need to 
+disclose certain valuable confidential information to each other. Therefore, in consideration 
+of covenants and agreements contained herein for the mutual disclosure of confidential 
+information to each other, and intending to be legally bound, the parties agree to terms and 
+conditions as set out hereunder. 
+5. 
+Receiving Party means who receives the confidential information. 
+6. 
+Disclosing Party means who discloses the confidential information.  
+NOW, THEREFORE THIS AGREEMENT WITNESSETH THAT in consideration of the above 
+premises and NABARD granting the System Integrator and or his agents, representatives to 
+
+have specific access to NABARD property / information and other data it is hereby agreed by 
+and between the parties hereto as follows:  
+1. Confidential Information 
+(i)“Confidential Information” means all information disclosed/furnished by NABARD or any 
+such information which comes into the knowledge of the System Integrator during the course 
+of engagement, whether orally, in writing or in electronic, magnetic or other form for the 
+limited purpose of enabling the System Integrator to carry out the assignment, and shall mean 
+and include data, documents and information or any copy, abstract, extract, sample, note or 
+module thereof, explicitly designated as "Confidential";  
+Confidential Information” also includes, without limitation, information relating to installed 
+or purchased Disclosing Party material or hardware products, the information relating to 
+general architecture of Disclosing Party’s network, information relating to nature and content 
+of data stored within network or in any other storage media, Disclosing Party’s business 
+policies, practices, methodology, policy design delivery, and information received from others 
+that Disclosing Party is obligated to treat as confidential. Confidential Information disclosed 
+to Receiving Party by any Disclosing Party Subsidiary and/ or agents is covered by this 
+agreement. 
+(ii) 
+Information such as (i) intellectual property information; (ii) technical or business 
+information or material not covered in (i); (iii) proprietary or internal information relating to 
+the current, future and proposed products or services of NABARD including, financial 
+information, process/flow charts, business models, designs, drawings, data information 
+related to products and services, procurement requirements, purchasing, customers, 
+investors, employees, business and contractual relationships, business forecasts, business 
+plans and strategies, information the Parties provide regarding third parties; (iv) information 
+disclosed pursuant to this agreement including but not limited to  Information Security policy 
+and procedures, internal policies and plans and Organization charts etc.; and (v) all such other 
+information which by its nature or the circumstances of its disclosure is confidential  
+(iii) 
+“Intellectual Property Rights” means any patent, copyright, trademark, trade name, 
+design, trade secret, permit, service marks, brands, propriety information, knowledge, 
+technology, licenses, databases, computer programs, software, know-how or other form of 
+intellectual property right, title, benefits or interest whether arising before or after the 
+execution of this Contract and the right to ownership and registration of these rights.  
+iv) The System Integrator may use the Confidential Information solely for and in connection 
+with the Purpose and shall not use the Confidential Information or any part thereof for any 
+reason other than the Purpose stated above.   
+Confidential Information in oral form must be identified as confidential at the time of 
+disclosure and confirmed as such in writing within fifteen days of such disclosure.  
+Confidential Information does not include information which:  
+(a)  Is or subsequently becomes legally and publicly available without breach of this 
+Agreement.  
+ (b) was rightfully in the possession of the System Integrator without any obligation of 
+confidentiality prior to receiving it from NABARD, or prior to entering into this agreement, 
+the recipient shall have the burden of proving the source of information herein above 
+mentioned and are applicable to the information in the possession of the recipient.  
+(c) was rightfully obtained by the System Integrator from a source other than NABARD 
+without any obligation of confidentiality,  
+
+(d) was developed by for the System Integrator independently and without reference to any 
+Confidential Information and such independent development can be shown by documentary 
+evidence.  
+(e) the recipient knew or had in its possession, prior to disclosure, without limitation on its 
+confidentiality;  
+(f) is released from confidentiality with the prior written consent of the other party.  
+The recipient shall have the burden of proving hereinabove are applicable to the information 
+in the possession of the recipient.  
+Confidential Information shall at all times remain the sole and exclusive property of NABARD. 
+Upon termination of this Agreement, Confidential information shall be returned to NABARD 
+or destroyed at its directions. The destruction of information if any, shall be witnessed and so 
+recorded, in writing, by an authorised representative of each of the Parties.  Nothing contained 
+herein shall in any manner impair or affect rights of NABARD in respect of the Confidential 
+Information.  
+In the event System Integrator is legally compelled to disclose any Confidential Information, 
+System Integrator shall give sufficient notice of 45 days to NABARD to prevent or minimize to 
+the extent possible, such disclosure. System Integrator shall disclose to third party i.e. any 
+Confidential Information or the contents of this Agreement without the prior written consent 
+of NABARD. The obligations of this Clause shall be satisfied by handling Confidential 
+Information with the same degree of care, which the System Integrator will apply to its own 
+similar confidential information but in no event less than reasonable care. The obligations of 
+this clause shall survive the expiration, cancellation or termination of this Agreement.  
+2. Non-disclosure 
+The System Integrator shall not commercially use or disclose any Confidential Information or 
+any materials derived there from to any other person or entity other than persons in the direct 
+employment of the System Integrator who have a need to have access to and knowledge of the 
+Confidential Information solely for the Purpose authorized above. The System Integrator shall 
+take appropriate measures by instruction and written agreement prior to disclosure to such 
+employees to prevent unauthorized use or disclosure.  The System Integrator agrees to notify 
+NABARD immediately if it learns of any use or disclosure of the Confidential Information in 
+violation of terms of this Agreement.  
+Notwithstanding the marking and identification requirements above, the following categories 
+of information shall be treated as Confidential Information under this Agreement irrespective 
+of whether it is marked or identified as confidential:  
+a) 
+Information regarding ‘NABARD’ and any of its Affiliates, customers and their 
+accounts (“Customer Information”). For purposes of this Agreement, Affiliate means a 
+business entity now or hereafter controlled by, controlling or under common control. Control 
+exists when an entity owns or controls more than 50% of the outstanding shares or securities 
+representing the right to vote for the election of directors or other managing authority of 
+another entity; or  
+b) 
+any aspect of NABARD’s business that is protected by patent, copyright, trademark, 
+trade secret or other similar intellectual property right; or  
+c) 
+Business processes and procedures; or  
+d) 
+Current and future business plans; or  
+e) 
+Personnel information; or  
+
+f) 
+Financial information.  
+g) 
+Capital adequacy computation workings  
+3. Publications  
+The System Integrator shall not make news releases, public announcements, give interviews, 
+issue or publish advertisements or publicize in any other manner whatsoever in connection 
+with this Agreement, the contents / provisions thereof, other information relating to this 
+Agreement, including references whether through media, social network or otherwise, the 
+Purpose, the Confidential Information or other matter of this Agreement, without the prior 
+written approval of NABARD.  
+4. Term 
+This Agreement shall be effective from the date hereof and shall continue till expiration of the 
+Purpose or termination of this Agreement by NABARD, whichever is earlier.  The System 
+Integrator hereby agrees and undertakes to NABARD that immediately on termination of this 
+Agreement it would forthwith cease using the Confidential Information and further as directed 
+NABARD promptly return or destroy, under information to NABARD, all information received 
+by it from NABARD for the Purpose, whether marked Confidential or otherwise, and whether 
+in written, graphic or other tangible form and all copies, abstracts, extracts, samples, notes or 
+modules thereof. The System Integrator further agrees and undertake to NABARD to certify 
+in writing to NABARD that the obligations set forth in this Agreement have been fully 
+complied with.  
+Obligation of confidentiality contemplated under this Agreement shall continue to be binding 
+and applicable without limit in point in time. The System Integrator agrees and undertake to 
+treat Confidential Information as confidential for a period of [five (5)] years from the date of 
+receipt and in the event of earlier termination of the Contract/Agreement, the Parties hereby 
+agree to maintain the confidentiality of the Confidential Information for a further period of 
+[two (2)] years from the date of such early termination.  
+5.Title and Proprietary Rights  
+Notwithstanding the disclosure of any Confidential Information by NABARD to the 
+Implementation partner, the title and all intellectual property and proprietary rights in the 
+Confidential Information shall remain with NABARD.  
+6.Return of Confidential Information  
+Upon written demand of the Disclosing Party, the Receiving Party shall (i) cease using the 
+Confidential Information, (ii) return the Confidential Information and all the copies, abstracts, 
+extracts, samples, notes, modules thereof to the Disclosing Party within seven (07) days after 
+receipt of notice, and (iii) upon request of Disclosing Party, certify in writing that the Receiving 
+Party has complied with the obligations set forth in this paragraph.  
+7.Remedies 
+7.1. The System Integrator acknowledges the confidential nature of Confidential Information 
+and breach of any provision of this Agreement by the System Integrator will result in 
+irreparable damage to NABARD for which monetary compensation may not be adequate and 
+agrees that, if it or any of its directors, officers or employees should engage or cause or permit 
+any other person to engage in any act in violation of any provision hereof. NABARD shall be 
+entitled, in addition to other remedies for damages & relief as may be available to it, to an 
+injunction or similar relief prohibiting the Implementation partner, its directors, officers etc. 
+from engaging in any such act which constitutes or results in breach of any of the covenants of 
+
+this Agreement. Any claim for relief to NABARD shall include NABARD’s costs and expenses 
+of enforcement (including the attorney's fees). 
+7.2. Receiving Party shall notify Disclosing Party immediately upon discovery of any 
+unauthorized used or disclosure of Confidential Information and/ or Confidential Materials, 
+or any other breach of this Agreement by Receiving Party, and will cooperate with Disclosing 
+Party in every reasonable way to help Disclosing Party regain possession of the Confidential 
+Information and/ or Confidential Materials and prevent its further unauthorized use.  
+7.3. Receiving Party shall return all originals, copies, reproductions and summaries of 
+Confidential Information or Confidential Materials at Disclosing Party’s request, or at 
+Disclosing Party’s option, certify destruction of the same.  
+7.4. Receiving Party acknowledges that monetary damages may not be the only and / or a 
+sufficient remedy for unauthorized disclosure of Confidential Information and that disclosing 
+party shall be entitled, without waiving any other rights or remedies (as listed below), to 
+injunctive or equitable relief as may be deemed proper by a Court of competent jurisdiction.  
+a. Suspension of access privileges 
+b. Change of personnel assigned to the job  
+c. Financial liability for all direct damages which disclosing party has incurred as a result of a 
+finally determined breach of the terms of this agreement by the Recipient or its employees or 
+advisors or representatives.  
+d. Termination of contract  
+7.5. Disclosing Party may visit Receiving Party’s premises, with reasonable prior notice and 
+during normal business hours, to review Receiving Party’s compliance with the term of this 
+Agreement. 
+8. Entire Agreement, Amendment, Assignment 
+This Agreement constitutes the entire agreement between the parties relating to the matters 
+discussed herein and supersedes any and all prior oral discussions and/or written 
+correspondence or agreements relating to non-disclosure between the parties. The Agreement 
+may be amended or modified only with the mutual written consent of the parties. Neither this 
+Agreement nor any right granted hereunder shall be assignable or otherwise transferable.  
+9. Miscellaneous  
+9.1. Any software, material and documentation provided under this Agreement is provided 
+with RESTRICTED RIGHTS.  
+9.2. Neither party grants to the other party any license, by implication or otherwise, to use the 
+Confidential Information, other than for the limited purpose of evaluating or advancing a 
+business relationship between the parties, or any license rights whatsoever in any patent, 
+copyright or other intellectual property rights pertaining to the Confidential Information.  
+9.3. The terms of Confidentiality under this Agreement shall not be construed to limit either 
+party’s right to independently develop or acquire product without use of the other party’s 
+Confidential Information. Further, either party shall be free to use for any purpose the 
+residuals resulting from access to or work with such Confidential Information, provided that 
+such party shall maintain the confidentiality of the Confidential Information as provided 
+herein. The term “residuals” means information in non-tangible form, which may be retained 
+by person who has had access to the Confidential Information, including ideas, concepts, 
+know-how or techniques contained therein. Neither party shall have any obligation to limit or 
+
+restrict the assignment of such persons or to pay royalties for any work resulting from the use 
+of residuals. However, the foregoing shall not be deemed to grant to either party a license 
+under the other party’s copyrights or patents.  
+9.4. For the purpose of avoiding any ambiguity it is clarified that the services / solution or 
+other deliverables provided or to be provided by the consultants to Bank shall be the property 
+of the Bank and shall not be considered as confidential information to the Bank. However, 
+such service / solutions or other deliverables shall be considered as confidential information 
+by the consultant and shall not be disclose such details to any third parties without having the 
+express written permission of the Bank.  
+9.5. This Agreement constitutes the entire agreement between the parties with respect to the 
+subject matter hereof. It shall not be modified except by a written agreement dated 
+subsequently to the date of this Agreement and signed by both parties. None of the provisions 
+of this Agreement shall be deemed to have been waived by any act or acquiescence on the part 
+of Disclosing Party, its agents, or employees, except by an instrument in writing signed by an 
+authorized officer of Disclosing Party. No waiver of any provision of this Agreement shall 
+constitute a waiver of any other provision(s) or of the same provision on another occasion.  
+9.6. In case of any dispute, both the parties agree for sole arbitration. The said proceedings 
+shall be conducted in English language at Mumbai and in accordance with the provisions of 
+Indian Arbitration and Conciliation Act 1996 or any Amendments or Re-enactments thereto.  
+9.7. Subject to the limitations set forth in this Agreement, this Agreement will inure to the 
+benefit of and be binding upon the parties, their successors and assigns.  
+9.8. If any provision of this Agreement shall be held by a court of competent jurisdiction to be 
+illegal, invalid or unenforceable, the remaining provisions shall remain in full force and effect.  
+9.9 All obligations created by this Agreement shall survive change or termination of the 
+parties‟ business relationship.  
+10. Suggestions and Feedback  
+10.1 Either party from time to time may provide suggestions, comments or other feedback to 
+the other party with respect to Confidential Information provided originally by the other party 
+(hereinafter “feedback”). Both party agree that all Feedback is and shall be entirely voluntary 
+and shall not in absence of separate agreement, create any confidentially obligation for the 
+receiving party. However, the Receiving Party shall not disclose the source of any feedback 
+without the providing party’s consent. Feedback shall be clearly designated as such and, except 
+as otherwise provided herein, each party shall be free to disclose and use such Feedback as it 
+sees fit, entirely without obligation of any kind to other party. The foregoing shall not, 
+however, affect either party’s obligations hereunder with respect to Confidential Information 
+of other party. 
+11.Governing Law  
+The provisions of this Agreement shall be governed by the laws of India and the competent 
+court at Mumbai shall have exclusive jurisdiction in relation thereto even though other Courts 
+in India may also have similar jurisdictions.  
+12.General  
+NABARD discloses the Confidential Information without any representation or warranty, 
+whether express, implied or otherwise, on truthfulness, accuracy, completeness, lawfulness, 
+and merchantability, fitness for a particular purpose, title, non-infringement, or anything else.  
+
+In witness whereof, the Parties hereto have executed these presents the day, month and year 
+first herein above written.  
+ 
+ 
+BUYER 
+ 
+ 
+ 
+ 
+ 
+ 
+BIDDER 
+Name of the Officer 
+ 
+ 
+ 
+ 
+ 
+Chief Executive Officer 
+Designation   
+ 
+ 
+ 
+ 
+ 
+Organisation  
+NABARD 
+ 
+Witness 
+ 
+ 
+ 
+ 
+ 
+ 
+Witness 
+1.____________________ 
+ 
+ 
+ 
+1.___________________ 
+ 
+2.____________________ 
+ 
+ 
+ 
+2.___________________ 
+ 
+
+ 
+

@@ -1,0 +1,149 @@
+BEL
+Supplier has to submit the below NDA if order is placed
+CONFIDENTIALITY AGREEMENT
+   This Agreement is made on this 18th day of December 2021 between SUPPLIER NAME, with
+its Registered Office at  (Hereinafter referred to as "buyer”) which shall include its successors
+and permitted assigns
+AND
+Bharat Electronics Limited, with its Registered Office at Outer Ring Road, Nagavara, Bangalore
+- 560045, Karnataka, India through its EW&A SBU located at Jalahalli, Bangalore -560 013
+(Hereinafter referred to as "BEL") which shall include its successors and permitted assigns
+(" M/s SUPPLIER NAME and "BEL" hereinafter also referred to as "Party" or "Parties" as
+per the context)
+Whereas “M/s SUPPLIER NAME and BEL wish to enter into contract for the purpose of Design
+And Development of WIC Relay and PSU Module Test Jig ” (such purpose is hereinafter
+referred to as "the Purpose)".
+Whereas in the course of the discussions, the Parties may require to disclose information of a
+proprietary or confidential nature.
+Whereas The Parties wish to define the terms and conditions under which they will disclose such
+information in pursuit of the Purpose.
+NOW THEREFORE, it is hereby agreed as follows:
+1. "Proprietary Information" means:
+1
+
+BEL
+a) Any information in any medium in tangible or visible form, and
+b) Any information communicated orally, declared at the time of communication as “Proprietary
+Information or confidential Information”, and subsequently confirmed in writing within a period
+of thirty (30) days thereafter to have been communicated in confidence, and 
+c) Any copies and extracts of information as aforesaid, any documents or other media to which
+the same is translated or transferred. And which is identified as being confidential or proprietary,
+and owned or controlled by either Party hereto disclosing the same or is entrusted to such Party,
+and disclosed to the other Party in relation to the Purpose.
+2. For five (5) years from the Effective Date of this Agreement, each Party undertakes:
+a) to keep the other Party's Proprietary/confidential Information as confidential using the same
+degree of care as the receiving Party uses to protect its own Proprietary/confidential Information
+against public disclosure but in no case any less degree than reasonable care; and
+b) Not to make any disclosure of the other Party's Proprietary/confidential Information to any
+third party and to use the same only for the Purpose; and
+c) Not to make any copies of the other Party's Proprietary/confidential Information, or translation
+or transfer of the same to other documents or media nor to disseminate the same within its own
+organization, save as is strictly necessary for the Purpose; and
+d) Not to assign the rights and obligations of the Parties without their prior written consent
+thereto.
+3. provided, however, that the foregoing restrictions and obligations shall not apply to any
+information which it can be shown:
+2
+
+BEL
+(a) Is already or hereafter becomes published otherwise than through the fault or negligence of
+the receiving Party; or
+(b) is lawfully obtained by the recipient from a third party having rights to disclose to the
+receiving Party, without restrictions as to use or disclosure, or
+(c) is already known to the receiving Party at the date of receipt of the information pursuant to
+this Agreement, or
+(d) is independently developed by the receiving Party.
+(e) is required to be disclosed under any law, judicial order or Government order or regulation
+provided  receiving  Party  gives  disclosing  Party  timely  notice,  where  possible,  of  the
+contemplated disclosure so as to give the disclosing Party an opportunity to intervene to preserve
+the confidentiality of the information.
+4. Both Parties undertake to observe all requirements of security regulations of the Governments
+of India to the extent they apply to Proprietary Information disclosed pursuant hereto.
+5. All Proprietary/confidential Information submitted by one Party to the other shall remain the
+property of the Party from which it originates. Each Party shall return to the other all the
+Proprietary Information received from the other Party and any copies thereof promptly upon
+request and one copy may be retained for archival purpose.
+6. The return of documentation under Clause 5 shall not be deemed to release either Party from
+its obligations contained in Clause 2 above.
+7. Term & Termination:
+a) This agreement may be terminated by either Party by giving thirty (30) days' written notice to
+the other Party.
+3
+
+BEL
+b) Either Party has the Option of terminating the Agreement without notice, if any legal
+proceedings/investigations are initiated against the other party in India by any Govt. Agency.
+c) This agreement will automatically terminate:-
+i) If either Party is prohibited under prevalent rules or notifications or laws of India, from
+participating in its share of work in the Tender/RFP as applicable.
+OR
+ii)  Either  Party  becomes  ineligible/  suspended  for  receiving  or  performing  the  contract
+anticipated by this agreement in accordance with applicable Governmental rules or notifications
+issued or under applicable Laws of India.
+OR
+iii) Notification by Customer that either Party is not acceptable for the Project.
+d) The Agreement unless terminated sooner as mentioned hereinabove, shall automatically
+terminate after one (1) year from the Effective Date or such extended period as the Parties may
+agree in writing. Each Party's obligation to protect previously received Proprietary Information
+shall survive any such termination as provided in Clause 2.
+8. No patent, copyright or other intellectual property rights are transferred by this Agreement nor
+is any right or license under any invention or patent granted hereunder.
+9. The Parties shall each designate a single address and person in their organization to receive
+written disclosures and identifications of Proprietary information hereunder and to be responsible
+for ensuring the observance of this agreement.
+4
+
+BEL
+For SUPPLIER NAME
+       ADDRESS
+For BEL:
+EW&A SBU
+Bharat Electronics Ltd.,
+Jalahalli Post,
+Bangalore – 560 013
+India
+10. This Agreement shall be construed and interpreted in accordance with the Laws of India.
+Any disputes arising between the Parties hereto out of or in connection with this agreement shall
+be amicably settled between the Parties. Where the Parties hereto fail to settle the disputes
+amicably, within ninety (90) days of the written notice of its existence given by either Party to
+the other, then such dispute shall be settled by arbitration in accordance with the rules of
+Arbitration of the International Centre for Alternate Dispute Resolution (ICADR), New Delhi,
+and the award  made  in pursuance  thereof shall be final and binding on the Parties. The
+arbitration proceedings shall take place in Bangalore and be conducted in the English Language.
+The Arbitration proceedings will be administered by the ICADR. The award may be entered into
+a court of competent jurisdiction for its execution forthwith.
+11. IMMUNITY: (this clause is applicable only for foreign partners) It is expressly understood
+and agreed by and between <<<“insert the name of the “The Company>>>” and BEL, that BEL
+is entering into this agreement solely on its own and not on behalf of any other person or entity.
+In particular, it is expressly understood and agreed that the Government of India is not a party to
+this Agreement and has no liabilities, obligations or rights hereunder. It is expressly understood
+and agreed that BEL is an independent legal entity with power and authority to enter into
+contracts solely on its own behalf under the applicable laws of India and general principles of
+Contract Law <<<<insert the name of the “The Company” >>>> expressly agrees, acknowledges
+5
+
+BEL
+and understands that BEL is not an agent, representative or delegate of the Government of India.
+It is understood and agreed that the Government of India is not and shall not be liable for any
+acts, omissions and commissions, breaches or other wrongs arising out of this Agreement.
+Accordingly <<< insert the name of the “The Company”>>>> hereby expressly waives, releases
+and forgoes any and all actions or claims including cross claims, impeder claims or counter
+claims against the Government of India arising out of this Agreement and covenants not to sue
+the Government of India, as to any manner, claim, cause or action, or thing whatsoever arising
+out of or under this Agreement.
+12. This Agreement shall come into effect from the Effective Date.
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be signed by their duly
+authorized representatives on the date first above written.
+For and on behalf of: 
+For and on behalf of:
+BHARAT ELECTRONICS LIMITED                                              SUPPLIER NAME
+Signature : ................................ 
+Signature :..........................
+Name :....................................... 
+Name :.............................
+Title :.......................................... 
+Title :..............................
+Date :........................ 
+            Date :...............................
+6
+
