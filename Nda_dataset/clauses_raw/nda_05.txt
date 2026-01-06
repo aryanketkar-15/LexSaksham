@@ -1,0 +1,371 @@
+1 
+ 
+NON-DISCLOSURE AND PROPRIETARY INFORMATION AGREEMENT 
+                                             
+BETWEEN  
+  
+_________________(Name  
+of  the  Vendor).,  having  its  registered  offices  
+in  
+__________________(Address of Vendor), registered under the no. ______________________ of 
+the Companies' register of ______________________(Name of Place and Country), capital stock of 
+_________(Value), with a place of business in _____________________(Name of Place and 
+Country) (hereinafter referred to as "__________________(Name of Vendor)" which expression 
+shall unless repugnant to the context shall include its successors & assigns.  
+                                                      
+                                                                     AND  
+  
+Bharat Heavy Electricals Ltd a company incorporated under the Indian Companies Act 1956 having 
+its registered offices at BHEL House, Siri Fort, New Delhi -110 049 and having one of its works at 
+Heavy Electrical Equipment Plant, Ranipur, Haridwar-249403 (Uttarakhand), India registered under 
+the No. 4281 of 1964-65 of the companies register of Delhi, capital stock of Rs 4895.2 million with a 
+place of registered office in New Delhi (hereinafter referred to as “BHEL”) which expression shall 
+unless repugnant to the context shall include its successors & assigns.  
+hereinafter also referred to individually as “the Party” or collectively as “the Parties”.  
+  
+BACKGROUND  
+This Agreement sets forth the rights and obligations of the Parties with respect to the use, handling, 
+protection and safeguarding of Proprietary Information that is disclosed by and between the Parties.  
+  
+WHEREAS  
+  
+A) 
+the Parties wish to pursue exploratory discussions concerning a possible collaboration between 
+them in relation to the Tender Enquiry No…………………………………  also mentioned in  
+Exhibit 1;  
+ 
+B) 
+It is anticipated that during the possible discussions it may be necessary for BHEL to share 
+certain confidential and proprietary information in written, oral, visual and/or physical/sample/ form 
+to the other party (collectively “Proprietary Information”, more fully detailed in clause 1 herein 
+below) for the purpose of enabling the parties to interact and deliberate the aforementioned order and 
+take it further (hereinafter referred to as “Purpose”) 
+The parties desire to protect such Proprietary Information and ensure that it is not disclosed to any third 
+party without the permission of the party disclosing such Proprietary Information;  
+ 
+NOW, THEREFORE, the Parties have agreed as follows:  
+ANNEXURE-NDA
+
+2 
+ 
+  
+1. 
+The term “Proprietary Information” shall mean any information or data of whatsoever kind of 
+a confidential or proprietary nature disclosed by BHEL (hereinafter called the “Disclosing Party”) to 
+the vendor ) hereinafter called the “Receiving Party”), including but not limited to, commercial 
+information, knowhow and technical information in the form of designs, drawings, concepts, 
+requirements, specifications, trade secrets, IPR, brand name, marketing plans & all other non-public 
+information,  software, interfaces, components, processes, or the like, that have been or will be 
+disclosed by the Disclosing Party to the Receiving Party pursuant to this Agreement, either in writing, 
+orally or other form, which is designated as “Proprietary” or “Confidential” by the Disclosing Party by 
+means of formal declaration or an appropriate stamp, legend or any other written or orally notice . 
+Notwithstanding anything to the contrary contained hereinabove, all the drawings and other technical 
+information shared regarding the above mentioned order by the Disclosing Party shall be considered 
+Proprietary Information with or without being marked as confidential/proprietary at the time of sharing 
+the same. 
+  
+2. 
+Proprietary Information may be conveyed, without limitation, through any written or printed 
+documents, samples, models, electronic form on disk, tape, other storage media or any other means of 
+disclosing such Proprietary Information that Disclosing Party may elect to use during the life of this 
+Agreement, but if Disclosing Party originally discloses information orally or visually, the Receiving 
+Party will protect such information as Proprietary Information to the extent that the Disclosing Party :  
+ 
+- identifies the Information as Proprietary at the time of original disclosure,  
+- summarizes the Proprietary Information in writing.  
+  
+Information stored in electronic form on disk, tape, other storage media will be adequately marked if 
+a proprietary legend displays when the information originally runs on a computer system and when the 
+information is printed from its data file. Proprietary Information also includes any information which 
+can be obtained by examination, testing or analysis of any hardware or material substance or any 
+component part of such hardware or material substance provided by the Disclosing Party even though 
+the requirements in Clause 1 for marking and designation have not been fulfilled.  
+ 
+3. 
+The Disclosing Party, to the extent of its rights to do so, shall disclose to the other only the 
+Proprietary Information which the Disclosing Party deems appropriate to fulfil the objectives of this 
+Agreement. The Parties hereby represent that the disclosure of Proprietary Information by and between 
+themselves shall be made in compliance with, and subject to the Indian laws and regulations.  
+  
+4. 
+The Receiving Party hereby agrees and covenants that, from the effective date of this 
+Agreement until the expiry date as per article 11 and the following period as per article 12, the 
+Proprietary Information that it receives from the Disclosing Party shall:  
+  
+
+3 
+ 
+a) be protected and kept in strict confidence by the Receiving Party which must use the same degree 
+of care it uses to protect its own confidential information and in no case less than a reasonable care;  
+b) be only disclosed to and used by those persons within the Receiving Party's organization who have 
+a need to know and solely for the purposes specified in this Agreement, and be treated by such 
+persons or entities with the same degree of care and subject to the same restrictions;  
+c) to procure that each third party to whom Proprietary Information is disclosed under this Agreement 
+is made aware of the provisions of this Agreement prior to such disclosure to it and that each such 
+third party is bound by obligations of confidentiality which are no less onerous than those contained 
+in this Agreement;  
+d) neither be disclosed nor caused to be disclosed or made available, either directly or indirectly, to 
+any third Party or persons other than those mentioned in subparagraph b) above or other persons 
+upon which both of the contractual Parties shall agree in an amendment to this Agreement;  
+e) not to reverse engineer, disassemble or decompile any prototypes, software or other 
+tangible objects which embody the Propietary Information and which are provided to the 
+Receiving Party hereunder; 
+f) not to copy, reproduce or reduce to writing any part of such Proprietary Information except 
+as may be reasonably necessary for the purpose referred to in the Recitals of this 
+Agreement  
+  
+PROVIDED THAT the Receiving Party shall be entitled to make any disclosure required by court 
+order or government or regulatory requirement of the Disclosing Party's Proprietary Information 
+subject to notifying the Disclosing Party as soon as possible of such requirement. 
+ 
+5. 
+Any Proprietary Information and copies thereof disclosed by the Disclosing Party to the other 
+shall remain the property of the Disclosing Party and shall be immediately returned or destroyed by 
+the Receiving Party upon request or upon expiry of this Agreement.  
+  
+6. 
+The Receiving Party shall have no obligations or restrictions with respect to any Proprietary 
+Information for which the Receiving Party can prove that:  
+a) is in or which comes into the public domain otherwise than as a result of a breach of this Agreement 
+by any person to whom a disclosure of Proprietary Information is made as permitted under this 
+Agreement or of any other duty of confidentiality relating to the Proprietary Information of which 
+the Receiving Party has knowledge; or  
+b) it has been in its possession without restriction at the time of the disclosure, as evidenced by written 
+documentation in its files; or  
+c) it has been lawfully received from a third Party without breach of this Agreement; or  
+d) it has been or is published without violation of this Agreement; or  
+e) disclosure of such proprietary information is required by Law or by a court of competent jurisdiction.  
+  
+
+4 
+ 
+7.  With respect to any exchange of Proprietary Information which may occur as a result of this 
+Agreement, it is expressly understood and agreed that the persons listed in Exhibit 2 shall, on behalf 
+of the respective Parties, be the exclusive individuals authorized to receive from and transmit to the 
+other Party Proprietary Information under this Agreement. Each Party may replace at any time its 
+respective authorized individuals identified in such Exhibit 2, within its own organization. Any 
+such new designation by a Party shall be made by written notice to the other at the address indicated 
+in such Exhibit 2.  
+  
+8. Any Proprietary Information which is identified as “Classified Information”, or whose export is 
+subject to an export license, shall be identified as such by the Disclosing Party at the time of 
+disclosure and the disclosure, protection, use and handling thereof, shall remain subject to the 
+security procedures and restrictions imposed by the Disclosing Party's Government.  
+  
+9. The disclosure of Proprietary Information under this Agreement by the Disclosing Party to the 
+Receiving Party shall not be construed as granting to the Receiving Party any right, whether express 
+or implied by licence or otherwise, on the matters, inventions or discoveries to which such 
+information pertains, or as granting any trademark, patents, copyrights, trade secret right or other 
+form of intellectual property right.  
+  
+10. This Agreement covers the exchange of Proprietary Information which may be made by the 
+Disclosing Party to the Receiving Party until ten years from signing of the agreement or any 
+extension thereto which may be agreed upon by the Parties in writing. Proprietary information 
+relevant to the Program detailed in Exhibit 1, already made available to the Receiving Party before 
+the effective date, shall also be protected under this Agreement.   
+  
+It is understood by the parties that, prior to disclosure, the Disclosing Party shall have obtained any 
+government authorisation needed for the export of the Proprietary Information  
+  
+11. The expiry of the period contemplated in Article 10 of this Agreement shall not relieve the 
+Receiving Party from complying with the obligations imposed by Article 4 here above with respect 
+to the use and protection of the Proprietary Information, received prior the date of such expiry, for 
+a period of ten (10) years after such expiry.  
+  
+12. The Parties are independent contractors. Each will bear all costs and expenses in connection with 
+this Agreement. This Agreement is intended to facilitate only the exchange of Proprietary 
+Information in connection with the contract entered between both the parties and is not intended to 
+be, and shall not be construed to create a teaming agreement, joint venture, association, partnership, 
+or other business organisation or agency arrangement and no Party shall have the authority to bind 
+the other without the other Party's separate prior written agreement. 
+ 
+
+5 
+ 
+13. The Receiving Party shall indemnify the Disclosing Party for all costs, expenses or damages that 
+Disclosing Party incurs as a result of any violation of any provisions of this Agreement. This 
+obligation shall include court, litigation expenses, and actual, reasonable attorney’s fees. The 
+Receiving Party also agrees that monetary damages may be inadequate compensation to the 
+Disclosing Party in the event the Receiving Party breaches any provision of this Agreement. 
+Therefore, the parties agree that in the event of a breach or threatened breach of confidentiality, the 
+Disclosing Party shall also be entitled to specific performance and injunctive or other equitable 
+relief as a remedy for any such breach or anticipated breach. 
+ 
+14. This Agreement shall be governed by and shall be interpreted in accordance with the substantive 
+Indian laws. Irrespective of the foregoing each Party shall remain bound by the provisions of its 
+own national laws and regulations with respect to the transfer or use of Classified Information or 
+information whose export is subject to an export license.  
+  
+15. All disputes among the Parties, in connection with or arising out of the existence, validity, 
+construction, performance and termination of this Agreement (or any terms thereof), which the 
+Parties are unable to resolve among themselves, shall be finally settled by an Arbitration as per the 
+Arbitration & Conciliation Act, 1996. The Arbitration shall be held in Haridwar (India), in English 
+language, in accordance with the rules laid down in the Arbitration and Conciliation act of India 
+1996, of a sole arbitrator mutually appointed by both the parties. The courts of Haridwar shall have 
+exclusive jurisdiction.  
+  
+16. The foregoing constitutes the entire Agreement among the Parties with respect to the subject matter 
+hereof and supersedes and cancels all prior representations, negotiations, commitments, 
+undertakings, communications, either oral or written, acceptances, understandings and agreements 
+among the Parties with respect to or in connection with any of the matters to which such Agreement 
+applies or refers.  
+ 
+17. Notices to _________________(Name of Vendor) shall be made at the following address:  
+  
+(Complete Address of Vendor)  
+Attention: Mr. ________________(Name of the Authorised Person of Vendor)  
+  
+Notices to BHEL shall be made at the following address:  
+BHARAT HEAVY ELECTRICALS LIMITED,  
+HEAVY ELECTRICAL EQUIPMENT PLANT,  
+Ranipur, Haridwar-249403 (Uttarakhand), India ] 
+ 
+Attention:                                                              (Name of the PPX Incharge)  
+  
+
+6 
+ 
+ 
+18. The effective date of this Agreement shall be the date of the last signature appearing herein.  
+  
+IN WITNESS WHEREOF, each of the Parties has caused this Agreement, to be executed by its duly 
+authorized officer.  
+  
+Date :  
+  
+Signed for and on behalf of                                             Signed for and on behalf of  
+(Name of Vendor)                                                           BHEL  
+By:                                                                                    By:  
+Title:                                                                                 Title:  
+Signature:                                                                         Signature:  
+ 
+ 
+19. No failure or delay by either party in exercising on enforcing any right, remedy or power here under 
+shall operate as a waiver hereof. 
+ 
+20. In the event that any provision of this Agreement shall be held by a court of competent jurisdiction 
+to be unenforceable, the remaining portion hereof shall remain in full force & effect. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+7 
+ 
+ 
+ 
+EXHIBIT 1  
+to the  
+NON-DISCLOSURE AGREEMENT  
+between  
+______________(Name of Vendor) and  
+BHARAT HEAVY ELECTRICALS LIMITED  
+  
+dated:  
+__________________________________  
+  
+The Non Disclosure Agreement covers the exchange of Proprietary Information which may occur 
+during the discussions and negotiations in view of a possible cooperation between the Parties in the 
+following programs:  
+  
+-Description of Material or Services …………………………………..for which the Enquiry issued  
+/ Purchase order to be placed   
+  
+______________(Name of Vendor) list of products that require an exchange of Proprietary 
+Information which may be occur during the discussions and negotiations in view of a possible 
+cooperation for the above programs :  
+                   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+
+8 
+ 
+ 
+ 
+EXHIBIT 2  
+to the  
+NON-DISCLOSURE AGREEMENT  
+between  
+___________________(Name of Vendor) and  
+Bharat Heavy Electricals Ltd.  
+  
+dated:  
+  
+Personnel of the Parties authorized to receive and/or transmit Proprietary Information under this 
+Agreement:  
+  
+For (Name of Vendor)                                                 For Bharat Heavy Electricals Ltd.  
+(Name of Person)                                                         Mr.  
+Tel.                                                                                 Tel. 01334  
+Fax                                                                                  Fax 01334  
+Address.   
+  
+  
+  
+  
+  
+Address. Main Administration Building  
+BHEL, HEEP, Haridwar  
+                                                            India  
+  
+ Mr.  
+Tel.   
+  
+  
+  
+  
+  
+  
+Tel. 01334  
+Fax   
+  
+  
+  
+  
+  
+  
+Fax 01334  
+Address.   
+  
+  
+  
+  
+  
+Address. Main Administration Building  
+BHEL, HEEP, Haridwar  
+                                                            India  
+
+Annexure- Sub vendor questionnaire format
+
+
+

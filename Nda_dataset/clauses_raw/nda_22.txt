@@ -1,0 +1,321 @@
+NON DISCLOSURE AGREEMENT - VENDOR / SERVICES 
+ 
+           (To be on a non-judicial stamp paper of Rs.100/-) 
+ 
+This agreement, made this ____ day of _________, 20___, at _________ 
+BETWEEN 
+COMPANY Rajdhani Power Limited, a power utility Company incorporated under the 
+provisions of the Companies Act, 1956 and having its registered office at COMPANY Bhawan, 
+behind DTC Bus Terminal, Nehru Place, New Delhi-110019(hereinafter referred to as "BRPL"), 
+which expression shall, unless it be repugnant to the context or meaning thereof, be deemed to 
+mean and include its successors-in-business and assigns) and 
+AND 
+<Client Company Name>......................................................,  a Company incorporated under the 
+provisions of the Companies Act, <Year>............  and having its registered office at <Client 
+Company Address> .............................................................................................., (hereinafter 
+referred to as "<Vendor"), which expression shall, unless it be repugnant to the context or 
+meaning thereof, be deemed to mean and include its successors-in-business and assigns) of the 
+Other Part; 
+WHEREAS: 
+ 
+"BRPL" a power utility Company is engaged in the business of Distribution of Electricity 
+A. 
+"BRPL" requires the services of "<Client Company Name>........................" for providing 
+solutions which shall broadly focus on <purpose>............................ (hereinafter referred to as the 
+"Purpose") 
+B. 
+In the process of providing the services / proof of Concept for the purpose, COMPANY 
+would provide and hand over to the "<Client Company Name>"............................  the personal, 
+sensitive, confidential data, and Proprietary Information and Data relating to business operations 
+of COMPANY, its customers and business associates and also technical and technological 
+information and secrets belonging to COMPANY, its customers and business associates 
+C. 
+BRPL desires to protect the said confidential and proprietary information and data as the 
+disclosure of confidential information of BRPL to the industry, general public, or third parties 
+could seriously jeopardize the intellectual property rights/ any other rights of BRPL. 
+ 
+NOW THIS AGREEMENT WITNESSETH AND IT IS HEREBY AGREED BY AND 
+BETWEEN THE PARTIES HERETO AS FOLLOWS: 
+1. 
+The term "PERSONAL INFORMATION" and "SENSITIVE PERSONAL DATA" shall 
+have the meaning as provided in The Information Technology (Reasonable Security Practices 
+and Procedures and Sensitive Personal Data or Information) Rules, 2011 or as assigned in any 
+other law in India and as amended from time to time. 
+2. 
+The term "CONFIDENTIAL INFORMATION" shall include any confidential / 
+proprietary / non-public information relating to the business of the respective parties, including 
+but not limited to samples, formulae, manufacturing/development processes, specifications, 
+drawings and schematics, however, the "Confidential Information" shall mean and include the 
+technical and technological information and secrets relating to software, computer system, 
+equipment, local area network and wide area network, network infrastructure and equipment, 
+network designs/architecture, system passwords, login-ID's and commercial , marketing, 
+financial and other information, data, ideas, programs, operations, processes and documents 
+
+relating to the business or technology of (the "BRPL") or any of its affiliates which is disclosed 
+either prior to or after the date of this Agreement by parties i) to each other ii) either of its 
+affiliates or iii) a third party on or behalf of the BRPL or any of its affiliates, to the other party 
+(the "Vendor") either in oral or written form, or through any other form of communication, and 
+which was designated to be confidential and proprietary and shall include this Agreement as well 
+as the intention of parties to explore the entering into of a business relationship with each other. 
+3. 
+ACCEPTANCE TO BRPL INFORMATION SECURITY POLICY 
+i. 
+BRPL (COMPANY Rajdhani Power Limited) has legal ownership of the contents of all 
+files created, processed, stored on its computers/ network systems as well as the data/ email/  
+messages transmitted in its network. 
+ii. 
+BRPL reserves the right to access the information given to the Vendor/ Consultant for 
+processing without prior notice whenever there is a genuine need. 
+iii. 
+BRPL may in order to ensure cyber security/ protection of its data/ resources monitor, 
+access, retrieve and read the information originating/ transmitted/ terminating in its network 
+irrespective of user. 
+iv. 
+All the users accessing the network of BRPL are encouraged not to share their personal 
+information on the computer/ network of BRPL computers, resouces and removable disks. If 
+Users choose to share such personal information, the information may be monitored at the risk of 
+Users. 
+v. 
+All users/vendors/consultants must return or ensure secure destruction of BRPL 
+information, storage media, documentation, and computer/networking equipment in a 
+permissible manner, before they leave a particular assignment, either on transfer or on the end of 
+the contract or resignation. 
+vi. 
+The undersigned has read the Information security policies and procedures and 
+understand the policies and procedures of BRPL. The undersigned agreed to abide by the 
+information security policies and procedures described therein as a condition of continued 
+employment / contract. The Vendor undertakes to abide by all the rules and regulations 
+applicable to Personal/ Sensitive/ Confidential Data under the Information Technology Act, 
+2000, or any other law as applicable from time to time and also the direction issued by the 
+Regulator, Delhi Electricity Regulatory Commission. 
+ 
+vii. 
+The BRPL has all the rights to claim damages for any loss of Personal/ Sensitive/ 
+Confidential data including any liability arising to the third party due to the default/ failure of the 
+Vendor to protect such data in terms of present agreement. The liability arising out of such 
+default shall include the litigation cost, liability payable to third party and also any loss of 
+reputation/ goodwill caused to the BRPL. 
+viii. 
+That the Vandor agrees that the Non-compliance of the terms of this agreement and/or 
+any of the policy of BRPL associated with the privacy policy, can result in disciplinary actions, 
+revocation of systems privileges and includes  termination of agreements/services, if any, claim 
+of damages and such other actions as specified in other clauses of this agreement or the principle 
+agreement. 
+ 
+ 
+4. 
+EXCLUSIONS TO THE CONFIDENTIALITY AGREEMENT: 
+
+Notwithstanding anything contained herein, the obligation as to confidentiality herein shall not 
+apply to the following, provided the VENDOR can establish the same with a competent proof, 
+that: 
+a) 
+the CONFIDENTIAL INFORMATION was already in the knowledge of the VENDOR, 
+before its disclosure by the BRPL; 
+b) 
+the CONFIDENTIAL INFORMATION, at the time of its disclosure by the BRPL to the 
+VENDOR, was in public domain; 
+c) 
+the CONFIDENTIAL INFORMATION became a part of public domain, after its 
+disclosure by the BRPL to the VENDOR, either by publication or otherwise, except through the 
+breach of this Agreement. 
+d) 
+the CONFIDENTIAL INFORMATION was received by the VENDOR from a third party 
+who was in possession of the same without violation of the obligation as to confidentiality; 
+e) 
+the CONFIDENTIAL INFORMATION was independently developed by the VENDOR, 
+without the breach of this Agreement; 
+f) 
+the CONFIDENTIAL INFORMATION was required to be disclosed under the law; 
+The Information shall not be deemed to be in the public domain merely by the reason that it is 
+known to a few members of the public to whom it might be of commercial interest.  Further, a 
+combination of two or more parts of the information shall not be deemed to be in the public 
+domain merely by the reason of each separate part thereof being so available in public domain. 
+5. 
+OBLIGATIONS OF THE VENDOR 
+a. 
+The VENDOR shall use the CONFIDENTIAL INFORMATION exclusively for its own 
+purposes and shall not share the same otherwise to any third party, directly or indirectly, without 
+the express consent of the BRPL (which consent may be withheld arbitrarily, and shall keep the 
+same strictly confidential. 
+b. 
+The VENDOR shall ensure that the CONFIDENTIAL INFORMATION is not accessible 
+to any one other than those who are required to have such access for the purpose of the 
+EVALUATION. 
+c. 
+The VENDOR may disclose the CONFIDENTIAL INFORMATION to such of its 
+employees or associates as are directly involved for the purpose of fulfilling the business 
+association entered into between the parties on a need-to-know basis, provided that the 
+VENDOR shall bind effectively such employees and / or such associates with a corresponding 
+obligation. In any event, the VENDOR shall be responsible for any breach of this Agreement by 
+any such employee or associate. 
+d. 
+The VENDOR shall notify the BRPL upon its becoming aware of the occurrence of any 
+breach of this Agreement due to any unauthorised use of CONFIDENTIAL INFORMATION. 
+e. 
+The VENDOR shall not, without the written permission of the BRPL, make copies of the 
+CONFIDENTIAL INFORMATION, or any part thereof. 
+f. 
+In the event the VENDOR becomes legally compelled to disclose any CONFIDENTIAL 
+INFORMATION, it shall promptly notify the BRPL about the same, so as to enable the BRPL to 
+obtain appropriate protective order, if any. The VENDOR will exercise its best efforts to obtain 
+assurance that confidential treatment will be accorded to the CONFIDENTIAL INFORMATION 
+so disclosed, and shall make best efforts to diminish losses to the BRPL arising out of such 
+disclosure.  In any event, the VENDOR shall disclose only such part of the CONFIDENTIAL 
+INFORMATION, as is legally mandatory. 
+g. 
+The Vendor having access to Personal/ Sensitive/ Confidential data of BRPL shall apply 
+security standards in a manner compatible to reasonable security standards as applied by the 
+
+BRPL including ISO 27001 and other security policies and also in terms of Rule 8 of The 
+Information Techonology (Resonable Sercurity Practices and Procedures and Sensitive Personal 
+Data or Information) Rules, 2011. The Vendors shall be responsible to ensure adherence to the 
+security standards of all the access by their employees/ consultants etc 
+h. 
+The Vendor shall securely delete the Personal/ Sensitive/ Confidential data which comes 
+into its possession by virtue of this agreement and also sanitize the digital media as per the 
+Security Policy of the BRPL. 
+i. 
+The Vendor undertake to acquaint itself with the Information security policies and 
+procedures and understand the policies and procedures therein which are published in the 
+intranet. The undersigned agreed to abide by the information security policies and procedures 
+described therein as a condition of continued engagement/ contract. 
+ 
+6. 
+RETURN OF CONFIDENTIAL INFORMATION 
+Immediately upon the decision by the VENDOR to not to continue with any any arrangement/ 
+agreement or immediately upon the request of the BRPL, the VENDOR shall promptly return 
+and/or procure the return of the CONFIDENTIAL INFORMATION, and all copies (whether or 
+not lawfully made or obtained) of the same or any part of thereof, as well as all analysis, 
+computations, studies or other documents or information prepared, which is based upon, contains 
+or refers to or to any part of, the CONFIDENTIAL INFORMATION, to the BRPL or to any 
+party designated by the BRPL in this behalf, or destroy the same as may be advised by the 
+BRPL, and shall confirm by way of a written certificate to that effect to the BRPL, and also 
+further confirm that the VENDOR has not reproduced or retained any samples, originals or 
+copies of any part of the CONFIDENTIAL INFORMATION; except that the VENDOR could 
+keep a single copy of the CONFIDENTIAL INFORMATION solely for the purposes of 
+determining compliance with obligations as to confidentiality hereunder. 
+7. 
+TENURE OF THE AGREEMENT 
+The Agreement shall be valid for a period of __________ years from the date thereof, or till 
+parties enter into definitive Agreement of business relationship arising out of the or any earlier 
+determination of this Agreement effected by the BRPL by requisitioning the return of the 
+CONFIDENTIAL INFORMATION, whichever is earlier.  The Vendor shall continue to be 
+liable for any breach of Personal/ Sensitive/ Confidential data given by the BRPL even after the 
+termination of main agreement. 
+8. 
+WARRANTY AS TO ACCURACY OR COMPLETENESS OF THE INFORMATION 
+The BRPL makes no representation or warranty as to the accuracy or completeness of the 
+CONFIDENTIAL INFORMATION disclosed to the VENDOR, and accordingly no liability 
+accrues to the BRPL for any damage, injury or loss resulting from the use of the 
+CONFIDENTIAL INFORMATION. 
+9. 
+RELATIONSHIP PRESUMPTIONS 
+a. 
+The VENDOR understands and acknowledges that nothing herein creates any 
+presumptions about any proposed transaction or relationship with the BRPL. 
+b. 
+This Agreement does not grant to the VENDOR any proprietary rights to the 
+CONFIDENTIAL INFORMATION or any licence under any patents, trade marks, copyrights or 
+any other intellectual property, and all right, title and interest in and to the CONFIDENTIAL 
+INFORMATION shall remain the exclusive property of the BRPL. 
+c. 
+Nothing in this Agreement shall be construed by implication or otherwise, as establishing 
+any relationship of principal and agent or employer and employee between the parties hereto, or 
+
+creating or authorising any party to create any commitment on behalf of the other party or any 
+charge on the other party. 
+10. 
+INJUNCTIVE RELIEF AND SPECIFIC PERFORMANCE 
+The VENDOR understands and acknowledges that, due to the unique nature of the 
+CONFIDENTIAL INFORMATION of the BRPL, any unauthorised disclosure of any portion 
+thereof shall cause irreparable damage / injury to the interest of the BRPL and that monetary 
+relief will not be adequate or complete remedy to compensate for such damage/injury. 
+Accordingly, the VENDOR hereby acknowledges that the BRPL shall be entitled to injunctive 
+relief and / or a remedy of specific performance in the event of any unauthorised disclosure by 
+the VENDOR or by any of its said employees or the said associates, in addition to whatever 
+remedies it might have in law or in equity. 
+11. 
+ENTIRE AGREEMENT 
+This Agreement represents the intentions of the parties hereto, in entirety, on the subject matter 
+hereof, and shall supersede anything outside this Agreement relating to the subject matter hereof. 
+12. 
+SEVERABILITY 
+If any part of this Agreement becomes or is discovered to be unlawful and / or unenforceable, 
+and if the remaining Agreement could be separated from such part, then the remaining 
+Agreement shall be deemed to continue in such reduced form. 
+Non-assignment - Save as expressly agreed by the parties hereto in writing, no right or obligation 
+under this Agreement can be assigned to any other party. 
+ 
+Waiver - No waiver or modification of this Agreement will be binding upon the parties unless 
+made in writing and signed by a duly authorised representative of such parties.  Further, failure 
+or delay in enforcing any right under this Agreement shall not amount to a waiver of such right. 
+ 
+Modifications - This Agreement may not be modified except in writing, signed by the parties 
+hereto, through their duly authorised representatives. 
+ 
+Jurisdiction & Arbitration - This Agreement shall be governed by and construed in accordance 
+with the Laws of India   (without reference to the rules relating to the conflict of laws), under the 
+jurisdiction of the Courts at Delhi. 
+Any dispute or difference with respect to the construction or interpretation of any of the clauses 
+hereof, or as to the meaning or effect thereof, which could not be resolved amicably between the 
+parties hereto, shall be referred to arbitration.  The arbitration shall be governed by the 
+Arbitration and Conciliation Act, 1996, as amended or re-enacted.  Each party hereto shall 
+appoint one arbitrator.  Both these arbitrators shall jointly appoint a third arbitrator.  The Venue 
+of arbitration shall be Delhi.   The fees of the arbitrators shall be shared equally. 
+ 
+Related Party Acts - 
+a. 
+Any act or omission which if it were an act or omission of the VENDOR would be a 
+breach of this Agreement on its part, be deemed to be such an act or omission for which the 
+VENDOR is responsible when done or omitted to be done by a third party, if - 
+i) 
+such third party is controlled by or controls, the VENDOR, or 
+ii) 
+both, such third party and the VENDOR, are under the common control of any other 
+party 
+ 
+
+Two originals 
+This Agreement shall be executed in three copies, each of which shall constitute an original, and 
+both of which together shall constitute one and the same instrument. 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement by their duly 
+authorised representatives, as on the date hereof. 
+ 
+For ___________________________________ 
+ 
+ 
+ 
+______________________________________ 
+(name & title) 
+ 
+Witnesses: 
+ 
+1. 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+For <Client Company> __________________________________________ 
+ 
+ 
+ 
+_______________________________________ 
+(name & title) 
+ 
+Witnesses: 
+ 
+1. 
+ 
+ 
+2. 
+ 
+ 
+ 
+****** End of BRPL NDA (Services) ****** 
+ 
+

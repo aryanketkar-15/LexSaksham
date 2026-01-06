@@ -1,0 +1,1752 @@
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+Service Level Agreement 
+ 
+ 
+This agreement is made at Mumbai on this --------------------------- day of _______ 
+2021. 
+ 
+BETWEEN 
+ 
+State Bank of India, a statutory body constituted under the State Bank of India 
+Act, 1955 having its Corporate Centre at State Bank Bhavan, Madame Cama 
+Road, Nariman Point, Mumbai-21, through its Marketing & Communication 
+Department hereinafter referred to as “the Bank/SBI/Client” which expression 
+shall, unless it be repugnant to the context or meaning thereof, be deemed to mean 
+and include its successors in title and assigns of the First Part: 
+ 
+AND 
+ 
+_______________________________, private/public limited company/LLP/Firm <strike 
+off whichever is not applicable> the  provisions of the  Companies Act, 2013/ Limited 
+Liability Partnership Act 2008/ Indian Partnership Act 1932 <strike off whichever is not 
+applicable>, having its registered office at __________________________________ 
+hereinafter referred to as “Service Provider/ Consultant/Vendor” which expression 
+shall unless repugnant to the context or meaning thereof shall include its successor, 
+executor & permitted assigns of the Second Part. 
+ 
+The Bank and Service Provider are sometimes individually referred to as a “Party” and 
+collectively as “Parties” throughout this Agreement, and the words Party and Parties 
+shall be construed accordingly. 
+ 
+
+ 
+ 
+2 
+WHEREAS 
+ 
+(i) “The Bank” is carrying on business in banking in India and overseas and is 
+desirous to avail creative  services for online and offline platform  
+ 
+(ii) 
+Service Provider, is in the business of creative designing  services and  has 
+agreed to supply the services as per the scope of work defined in the 
+Annexure A of this agreement  and as defined  in the  RFP no: 
+CC/M&C/2020-21/06 dated 17.02.2021 issued by the Bank along with its 
+clarifications/ corrigenda, referred hereinafter as a “RFP” and same shall be 
+part of this Agreement and the Bank has agreed to engage ‘Service Provider’ 
+for such Services, on a mutually non-exclusive basis. 
+ 
+NOW THEREFORE, in consideration of the mutual covenants, undertakings and 
+terms and conditions set forth below, and for other valid consideration the 
+acceptability and sufficiency of which are hereby acknowledged, the Parties with 
+the intent to be legally bound hereby agree to the following terms and conditions 
+hereinafter contained: - 
+ 
+1. 
+DEFINITIONS & INTERPRETATION 
+ 
+1.1 
+Definition 
+ 
+Certain terms used in this Agreement are defined hereunder. Other terms used in 
+this Agreement are defined where they are used and have the meanings there 
+indicated. Unless otherwise specifically defined, those terms, acronyms and 
+phrases in this Agreement that are utilized in the information technology services 
+industry or other pertinent business context shall be interpreted in accordance with 
+their generally understood meaning in such industry or business context, unless 
+the context otherwise requires/mentions, the following definitions shall apply: 
+ 
+(a) ‘The Bank/SBI/Client’ shall mean the State Bank of India (including its 
+domestic branches and foreign offices), and subsidiaries. 
+
+ 
+ 
+3 
+(b) “Documentation” will describe in detail and in a completely self-contained 
+manner how the User may access and use the software/service including, but not 
+limited, to the tracker/dashboard to be employed by the agency and any other 
+technology based platform used for all tasks assigned to the Agency such that any 
+reader of the Documentation can access, use and maintain all of the functionalities, 
+maintenance and upgradation of the software tool/service without the need for any 
+further instructions. 
+(c) ‘Services’ shall mean and include the Services offered by the Agency to the 
+Bank, including but not limited to creative services for offline and digital medium 
+for SBI as more particularly described in Statement of Work annexed to this 
+Agreement as Annexure A and the RFP.  
+(d) “Confidential Information” shall have the meaning set forth in Clause 15.1. 
+(e) “Intellectual Property Rights” shall mean, on a worldwide basis, any and 
+all: 
+(i) Rights associated with works of authorship, including copyrights &  moral 
+rights;  
+(ii) Trademarks;  
+(iii) Trade secret rights;  
+(iv) Patents, designs, algorithms and other industrial property rights;  
+(v) Other intellectual and industrial property rights of every kind and nature, 
+however designated, whether arising by operation of law, contract, license or 
+otherwise; and  
+(vi) Registrations, initial applications, renewals, extensions, continuations, 
+divisions or reissues thereof now or hereafter in force (including any rights in 
+any of the foregoing). 
+f. “Territory” shall mean the entire country of India. 
+g. “Effective Date” shall mean the date on which this Agreement takes effect. 
+h. “Service Provider/ Agency/Vendor” shall mean the successful Bidder found 
+eligible as per eligibility criteria set out in the RFP no: CC/M&C/2020-21/06 dated 
+17.02.2021 whose Bid has been accepted and who has emerged as the 
+Successful Bidder(s) as per the selection criteria set out in the RFP and to whom 
+notification of award has been given by Bank.  
+
+ 
+ 
+4 
+i. “Reports” shall mean the reports, materials, presentations or other 
+communications, written or otherwise, in draft or final form, provided by Service 
+Provider in terms of this Agreement. 
+j. “Request for Proposal (RFP)” shall mean RFP No. CC/M&C/2020-21/06 dated 
+17.02.2021 along with its clarifications/corrigenda/addenda issued by the bank 
+from time to time. 
+k. “Agreement/Contract” shall mean this agreement including all its Annexure. 
+Schedules, Appendix and all amendments therein agreed by the Parties in writing. 
+ 
+ 
+1.2 
+“Interpretations: 
+In construing the Agreement: 
+1.2.1 Reference to a person includes any individual, firm, body corporate, 
+association (whether incorporated or not) and authority or agency (whether 
+government, semi government or local). 
+1.2.2 The singular includes the plural and vice versa. 
+1.2.3 Reference to any gender includes each other gender. 
+1.2.4 The provisions of the contents table, headings, clause numbers, italics, bold 
+print and underlining is for ease of reference only and shall not affect the 
+interpretation of this Agreement. 
+1.2.5 The Schedules, Annexures and Appendices to this Agreement shall form 
+part of this Agreement. 
+1.2.6 A reference to any documents or agreements (and, where applicable, any 
+of their respective provisions) means those documents or agreements as 
+amended, supplemented or replaced from time to time provided they are amended, 
+supplemented or replaced in the manner envisaged in the relevant documents or 
+agreements. 
+1.2.7 A reference to any statute, regulation, rule or other legislative provision 
+includes any amendment to the statutory modification or re-enactment or, 
+legislative provisions substituted for, and any statutory instrument issued under 
+that statute, regulation, rule or other legislative provision. 
+1.2.8 Any agreement, notice, consent, approval, disclosure, or communication 
+under or pursuant to this Agreement is to be in writing. 
+
+ 
+ 
+5 
+1.2.9 The terms not defined in this agreement shall be given the same meaning 
+as given to them in the RFP. If no such meaning is given technical words shall be 
+understood in technical sense in accordance with the industry practices. 
+ 
+1.3 
+Commencement, Term & Change in Terms 
+1.3.1 This 
+Agreement 
+shall 
+be 
+deemed 
+to 
+have 
+commenced 
+from 
+______________(Effective Date) 
+ 
+1.3.2 
+This Agreement shall be in force for an initial period of one year and may be 
+extended further for a period of one year at a time for up to three years at the sole 
+discretion of the Bank, if the services provided by the Agency, are  found to be 
+satisfactory. Notwithstanding the foregoing, the agreement may be terminated by 
+either Party by notice in writing in accordance with the termination clauses of this 
+Agreement. 
+ 
+1.3.3 
+Either party can propose changes to the scope, nature or time schedule of 
+services being performed under this Service Level Agreement. Such changes can 
+be made only upon mutually accepted terms & conditions maintaining the spirit 
+(Purpose) of this Service Level Agreement. 
+ 
+2. 
+SCOPE OF WORK 
+The scope of work is detailed in the Statement of Work annexed below as 
+Annexure A (“Services”) and in the RFP.  
+ 
+If Client requests Agency to provide services other than or in addition to the 
+Services (“Additional Services”), the parties agree that the Additional Services 
+may be subject to separate terms and conditions, including commercial terms. 
+Where the Additional Services include programmatic trading services, such 
+services shall be treated as services provided by an independent third party from 
+Agency and the provision of such services shall be solely upon separate terms and 
+conditions.  
+Any Client Affiliate in the Territory may avail Services to from the Agency by 
+entering into a Statement of Work. Each such Statement of Work will be governed 
+by the terms of this Agreement and Client agrees to procure the adherence of each 
+
+ 
+ 
+6 
+such Affiliate to the terms of this Agreement and the performance of the Client 
+Affiliate of its obligations under the applicable Statement of Work. Solely in relation 
+to Services provided under a Statement of Work to any Client Affiliate, any 
+references to Client in such Statement of Work shall be deemed to be a reference 
+to the Client Affiliate. 
+The Client acknowledges that the performance of Services shall be subject to the 
+rules/guidelines as laid down by the industry bodies like Advertising Agencies 
+Association of India (AAAI), Indian Broadcasting Federation (IBF), Indian Outdoor 
+Advertising Association (IOAA), Indian Newspaper Society (INS), Prasar Bharati – 
+Doordarshan (DD), Internet & Mobile Association of India (IAMAI), All India Radio 
+(AIR) and the rules laid down by the Joint Working Committee of AAAI-IBF and 
+AAAI-INS. 
+ 
+3. COMPLIANCE   
+ 
+3.1 Time shall be the essence of this Agreement. The agency shall therefore fully 
+abide by various time limits as prescribed for different assignments and the 
+performance of the agency shall be judged as per the adherence to such quality 
+and time parameters as laid down for the respective work. The agency shall align 
+its team as per the working days/time of the client and as and when required in 
+case of exigency of the work. 
+ 
+3.2 The agency will also be responsible to provide innovative ideas/concepts which 
+can be executed as per requirements of the bank. 
+ 
+3.3 Correction of Deficiencies in Deliverables (as mentioned in Annexure-A). 
+If Service provider is unable to correct all Deficiencies preventing Acceptance of 
+a Deliverable for which Service provider is responsible after a reasonable number 
+of repeated efforts, the Bank may at its discretion: 
+      a) Allow Service provider to continue its efforts to make corrections; or 
+b) Accept the Deliverable with its Deficiencies and reach agreement with 
+Service provider on an equitable reduction to Service provider’s Charges 
+for developing such Deliverable to reflect the uncorrected Deficiencies; 
+or 
+c) Terminate this Agreement for cause in accordance with Clause 16
+ except 
+that the Bank is under no obligation to provide Service provider any 
+
+ 
+ 
+7 
+further opportunity to cure and recover its damages as set forth in this 
+agreement. 
+Client may request Agency to cancel or amend any creatives , campaign 
+schedules or work in progress forming part of the Services.  
+ 
+3.4  Risk Management 
+ 
+The Service Provider shall identify and document the risk in delivering the services. 
+Service Provider shall identify the methodology to monitor and prevent the risk, 
+and shall also document the steps taken to manage the impact of the risks. 
+ 
+3.5 Service Request 
+Service Provider shall dispense the service request in accordance with terms 
+mentioned in Annexure B (TAT Chart) under this agreement. 
+ 
+ 
+3.6  Service Management Tool 
+List the tools/applications to be used for service support/service delivery 
+processes, if any, this may also include the customer tools/ applications to be used 
+for provision of service support/service delivery. 
+_______________________ 
+ 
+_______________________ 
+ 
+3.7 Service Complaints 
+The service complaint shall be addressed as enclosed in Annexure C. 
+The complaint shall be acknowledged by the Service Provider in 24 Working Hours. 
+In case of re-occurrence of the service complaint, the outlined actions in clause 24 
+will be triggered 
+ 
+Service Provider shall be solely liable & responsible for compliance of applicable 
+Labour Laws in respect of its employee, agents, representatives and sub-Contractors 
+(if allowed) and in particular laws relating to terminal benefits such as Pension, 
+Gratuity, Provident Fund, Bonus or other benefits to which they may be entitled and 
+the laws relating to Contract Labour, Minimum Wages, etc., and the Bank shall have 
+no liability in these regards. Further, the Service Provider would indemnify/make good 
+for the losses to the Bank for non-compliance or any claims against the Bank arising 
+out of any non-compliance as above. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+8 
+4. Retainership Fees 
+The agency will be paid retainership fees at the end of every month. All the 
+payments shall be subject to deduction of deduction of TDS/any other statutory 
+levies as applicable. 
+ 
+The Bank has the sole discretion to pay only for the services they undertake and 
+may choose to discontinue services for any one or all jobs listed in the scope of 
+work. However, this clause shall not apply to those Services that have already been 
+rendered by the Service Provider and payments for the same must be duly made 
+by the Bank based on the agreed timelines, terms and conditions detailed under 
+this Agreement. 
+4.1 All duties and taxes, if any, which may be levied, shall be borne by the 
+Service Provider and Bank shall not be liable for the same. All expenses, stamp 
+duty and other charges/expenses in connection with execution of this 
+Agreement shall be borne by Service Provider. 
+4.2 Service Provider shall provide a clear description quantifying the service 
+element and goods element in the invoices generated by them. 
+4.3 Payments: The Bank will pay properly submitted valid invoices within 
+reasonable period but not exceeding 60 days after its receipt thereof. If the 
+Bank defaults and/or delays in making timely payments towards invoices raised 
+by the Agency for a consecutive period of 3 months, the Agency has the right 
+to pause the campaigns without any prior notice. All payments shall be made 
+in Indian Rupees 
+4.4 The Agency will submit the invoices complete in all respects, on the last 
+working day of every month for necessary payment of the commission/agency 
+fee. The invoice should be supported with the list of work initiated /complete 
+during the month. There will be no additional remuneration towards the delayed 
+payments.  
+4.4.1 The Agency will submit all supporting documents and bills as well 
+as copies of the supplier bills where relevant.   
+4.4.2 A reconciliation sheet pertaining to the bills will be submitted every 
+month as well as all necessary supporting documents for which the bills 
+are submitted. The Tax component shall be payable as applicable and as 
+per actuals. 
+
+ 
+ 
+9 
+4.4.3 The Bank may withhold payment of any charges that it disputes in 
+good faith and may set-off penalty amount and any other amount which 
+Service provider owes the Bank against charges payable to Service 
+ 
+provider under this Agreement post consultation with the Service 
+Provider and as mutually agreed between the Parties. 
+ 
+5. 
+Performance Guarantee and Penalties 
+ 
+5.1 
+The Service Provider shall furnish a performance guarantee for an 
+amount   of INR. 20,00,000/- (Twenty Lakh Only) from a Scheduled Commercial 
+Bank other than State Bank of India in a format provided/ approved by the Bank. 
+ 
+5.2 
+If at any time during performance of the Contract, the Service Provider 
+shall encounter unexpected conditions impeding timely completion of the 
+Services under the Agreement and performance of the services, the Service 
+Provider shall promptly notify the Bank in writing of the fact of the delay, its likely 
+duration and its cause(s). As soon as practicable, after  receipt of the Service 
+Provider’s notice, the Bank shall evaluate the situation and may at its discretion 
+extend the Service Provider’s time for performance, in which case the extension 
+shall be ratified by the Parties by amendment of the Agreement. 
+ 
+5.3 
+Performance of the obligations under the Agreement shall be made by 
+the Service Provider in accordance with the time schedule specified in this 
+Agreement. 
+ 
+5.4 
+The Service Provider shall be liable to pay penalty as per Clause 24 and 
+the mutually agreed TAT sheet (annexed hereto and as updated from time to 
+time).in respect of any delay beyond the permitted period in providing the 
+Services and which are solely attributable to the Service Provider. No penalty 
+shall be levied in case of delay(s) in deliverables or performance of the contract 
+for the reasons not attributable to the Service Provider.  
+ 
+ 
+ 
+
+ 
+ 
+10 
+6. 
+LIABILITIES/OBLIGATION 
+ 
+6.1 The Bank’s Duties /Responsibility  
+(i) 
+Processing and Authorizing invoices 
+(ii) Providing Brand Guidelines 
+(iii) Approving creatives for online and offline media  etc.  
+(iv) Client Materials, Data and all information supplied to Agency in relation to 
+Client’s products and services before and during the Term will be true, accurate, 
+complete, up-to-date and not misleading. 
+ 
+Without prejudice to Client’s responsibility and Agency’s other rights and remedies, 
+Agency and clients are to advise each other if, any one is of the opinion, that such 
+action may result in violation of any applicable law, regulation, guideline or code of 
+practice. 
+ 
+6.2 Service Provider Duties 
+(i) Service Delivery responsibilities 
+(a) To adhere to the service levels documented in this Agreement and the attached 
+SOW.  
+(b) Abide by all reasonable directives issued by the Bank, including those set forth 
+in the Bank’s then-current standards, policies and procedures (to the extent 
+applicable), all on- site rules of behavior, work schedules, security procedures and 
+other standards, policies and procedures as established by the Bank from time to 
+time. 
+(ii) Security Responsibility 
+(a) To maintain the confidentiality of the Bank's resources and other intellectual 
+property rights.
+
+ 
+ 
+11 
+7. 
+REPRESENTATIONS & WARRANTIES 
+ 
+7.1 Service Provider shall assume responsibility under all applicable including, 
+Labour Laws for its employees, and also hold the Bank harmless from any direct and 
+actual loss, expense, damage or personal injury, death and any claim for payment 
+of compensation of its employees, salary, retirement benefits, or any other benefits   
+asserted   by   an employee  of the Service Provider, and/or any claim arising out 
+of alleged infringement of intellectual property rights or other proprietary right of any 
+third party arising out of ‘Service Provider’s performance of Services hereunder. 
+ 
+7.2 Each party represents and warrants that it has all requisite power and 
+authorization to enter into and perform this Agreement and that nothing contained 
+herein or required in the performance hereof conflict or will conflict with or give rise 
+to a breach or default under, or permit any person or entity to terminate, any contract 
+or instrument to which the party is bound. 
+ 
+7.3 Service Provider warrants the Bank against any license or IPR violations on its 
+part or on the part of subcontractor, wherever permitted, in use of any technology 
+/software /product for performing services or developing software for the Bank as 
+part of this Agreement. 
+ 
+7.4 The Service Provider shall perform the Services and carry out its obligations 
+under the Agreement with due diligence, efficiency and economy, in accordance with 
+generally accepted techniques and practices used in the industry and with 
+professional standards recognized by international professional bodies and shall 
+observe sound management practices. It shall employ appropriate advanced 
+technology and safe and effective equipment, machinery, material and methods. 
+ 
+7.5 The Service Provide has the requisite technical and other competence, sufficient, 
+suitable, qualified and experienced manpower/personnel and expertise in providing 
+the Services to the Bank. 
+ 
+7.6 The Service Provider shall duly intimate to the Bank immediately, the changes, 
+if any in the constitution of the Service Provider.  
+
+ 
+ 
+12 
+ 
+7.7 The   Services   and   products   provided   by   the Service Provider to the Bank 
+do not violate or infringe any patent, copyright, trademarks, trade secrets or other 
+intellectual property rights of any third party. 
+ 
+7.8 The Service Provider shall ensure that all persons, employees, workers and 
+other individuals engaged by or sub-contracted by the Service Provider in rendering 
+the Services under this Agreement have undergone proper background check, 
+police verification and other necessary due diligence checks to examine their 
+antecedence and ensure their suitability for such engagement. No person shall be 
+engaged by the Service Provider unless such person is found to be suitable in such 
+verification and the Service Provider shall retain the records of such verification and 
+shall produce the same to the Bank as when requested. 
+ 
+8. 
+GENERAL INDEMNITY 
+8.1 Service provider agrees and hereby keeps the Bank indemnified against all 
+direct and actual claims, actions, loss, damages, costs, expenses, charges, including 
+reasonable legal expenses (Attorney, Advocates fees included) which the Bank may 
+suffer or incur directly on account of any misuse of data /information or deficiency in 
+Services or breach on any obligations mentioned in clause 6 herein, including without 
+limitation of confidentiality obligations, from any acts of Commission / omission on 
+the part of employees, agents, representatives or    Sub-Contractors    of  Service   
+Provider. 
+ 
+8.2 Service provider further undertakes to promptly notify the bank in writing any 
+breach of obligation of the agreement by its employees or representatives including 
+confidentiality obligation and in such an event, the Bank will in addition to and without 
+prejudice to any other available remedies be entitled to immediate equitable relief in 
+a Court of competent jurisdiction to protect its interest including injunctive relief. 
+ 
+8.3 The Service provider shall indemnify and keep fully and effectively indemnified 
+the Bank against any fine or penalty levied on the Bank for improper payment of tax 
+for the reasons solely attributable to the Service provider. 
+ 
+
+ 
+ 
+13 
+8.4 The Service provider hereby undertakes the responsibility to take all possible 
+measures, at no cost, to avoid or rectify any issues which thereby results in non-
+performance of software within reasonable time. The Bank shall report as far as 
+possible all material defects to the Service provider without undue delay. The Service 
+provider also undertakes to co-operate with other service providers thereby ensuring 
+expected performance covered under scope of work. 
+ 
+8.5 Nothing contained in this agreement shall impair the Bank’s right to claim 
+damages without any limitation for an amount equal to the loss suffered for non-
+performance of software. 
+ 
+8.6 Client shall indemnify and hold harmless Agency from and against any and all 
+costs, expenses, charges, damages, liabilities, claims or actions of any kind which 
+may be incurred, suffered, brought or threatened against Agency arising out of (and 
+only to the extent of) a breach by Client of its representations and warranties under 
+this Agreement or and/or for breach of applicable laws or due to non-payment of 
+amounts payable to any third parties for the Services which were pre-approved by 
+the Client. 
+ 
+The party entitled to an indemnity under this Agreement shall take all reasonable 
+steps to mitigate the applicable costs, expenses, charges, damages, liabilities, 
+claims or actions. 
+ 
+9. 
+CONTINGENCY PLANS. 
+The Service provider shall arrange and ensure proper Data Recovery Mechanism, 
+Attrition Plan and other contingency plans to meet any unexpected obstruction to 
+the service provider or any employees or sub-contractors of the service provider 
+in rendering the Services or any part of the same under this Agreement to the 
+Bank. The Service Provider at Bank’s discretion shall co- operate with the bank in 
+case on any contingency. 
+ 
+10. 
+TRANSITION REQUIREMENT 
+In the event of failure of the Service Provider to render the Services or in the event 
+of termination of agreement or expiry of term or otherwise, without prejudice to any 
+
+ 
+ 
+14 
+other right, the Bank at its sole discretion may make alternate arrangement for 
+getting the Services contracted with another vendor. In such case, the Bank shall 
+give prior notice to the existing Service Provider. The existing Service Provider 
+shall continue to provide services as per the terms of contract until a ‘New Service 
+Provider’ completely takes over the work. During the transition phase, the existing 
+Service Provider shall render all reasonable assistance to the new Service 
+Provider within such period prescribed by the Bank, at a cost as mutually agreed 
+between the Parties in writing, for ensuring smooth switch over and continuity of 
+services. The Bank may also require the Service Provider to enter into a Transition 
+& Knowledge Transfer Agreement. 
+ 
+11. 
+RELATIONSHIP BETWEEN THE PARTIES 
+a. It is specifically agreed that the Service Provider shall act as independent 
+service provider and shall not be deemed to be the Agent of the Bank except 
+in respect of the transactions/services which give rise to Principal – Agent 
+relationship by express agreement between the Parties. 
+b. Neither the Service Provider nor its employees, agents, representatives, Sub-
+Contractors shall hold out or represent as agents of the Bank. 
+c. None of the employees, representatives or agents of Service Provider shall 
+be entitled to claim any absorption or any other claim or benefit against the 
+Bank. 
+d. This Agreement shall not be construed as joint venture. Each Party shall be 
+responsible for all its obligations towards its respective employees. No 
+employee of any of the two Parties shall claim to be employee of other Party. 
+e. All the obligations towards the employees of a Party including that on account 
+of personal accidents occurred while working in the premises of the other 
+Party shall be with the respective employer and not on the Party in whose 
+premises the accident occurred. 
+f. For redressal of complaints of sexual harassment at workplace, Parties agree 
+to comply with the policy framed by the Bank (including any amendment 
+thereto) in pursuant to the Sexual Harassment of Women at Workplace 
+(Prevention, Prohibition and Redressal) Act, 2013 including any amendment 
+thereto 
+ 
+
+ 
+ 
+15 
+ 
+12. SUB CONTRACTING 
+ 
+12.1 Service provider has to obtain written permission from the Bank before 
+contracting any work to subcontractors. Bank at its own discretion may permit or 
+deny the same. 
+ 
+12.2 Even in cases wherein subcontracting has been permitted by the Bank, Service 
+Provider shall continue to be responsible for all the services provided to the Bank 
+regardless of which entity is conducting the operations. Service Provider is also 
+responsible 
+for 
+ensuring 
+that 
+the 
+sub-contractor 
+comply 
+with 
+all 
+security/confidentiality requirements and other terms and conditions as applicable 
+to Service provider mentioned in this Agreement. Bank reserves the right to conduct 
+independent audit in this regard, by appointing a third party independent external 
+auditor at its own cost, with prior written notice to the Service Provider. 
+ 
+12.3 Before engaging Sub-Contractor, the Service Provider shall carry out due 
+diligence process on sub-contracting/ sub-contractor to the satisfaction of the Bank 
+and Bank shall have access to such records. 
+ 
+12.4 In the event of sub-contracting the Service Provider shall ensure that suitable 
+documents including confidentiality agreement are obtained   from   the   sub-
+contractor   and   the Service Provider shall ensure that the secrecy and faith of 
+Bank’s data / processes is maintained. 
+ 
+12.5 Service Provider shall provide subcontracting details to the Bank and if 
+required, Bank may evaluate the same. Notwithstanding approval of the Bank for 
+sub-contracting, the Service Provider shall remain liable to the Bank for all 
+acts/omissions of sub- contractors. 
+ 
+12.6 
+The Bank reserves the right to ask Service Provider and Service provider 
+shall change/ amend the clause(s), as mutually agreed between the Parties, entered 
+between Service Provider and Subcontractor for Bank’s suitability. 
+ 
+12.7 No subcontracting/purchases is permitted from the selected agency’s group 
+companies/subsidiaries. 
+ 
+ 
+ 
+
+ 
+ 
+16 
+13. INTELLECTUAL PROPERTY RIGHTS 
+ 
+13.1 For any technology / software / product developed/used/supplied by Service 
+provider for performing services or developing software for the Bank as part of this 
+Agreement, service provider shall have right to use as well right to license for the 
+outsourced services or third party software development. Any license or IPR 
+violation on the part of Service provider shall not put the Bank at risk. 
+ 
+13.2 Without the Bank’s prior written approval, Service provider will not use or 
+incorporate in performing the Services link to or call or depend in any way upon, any 
+software or other intellectual property that is subject to an Open Source or Copy 
+right license or any other agreement that may give rise to any third-party claims or 
+to limit the Bank’s rights under this Agreement. 
+ 
+13.3 Service provide shall, at their own expenses without any limitation, defend and 
+indemnify the Bank against all third party claims or infringement of Intellectual 
+Property Right, including Patent, trademark, copyright, trade secret or industrial 
+design rights arising from use of the technology / software / products or any part 
+thereof in India or abroad, for software developed as part of this engagement. In 
+case of violation/ infringement of patent/ trademark/ copyright/ trade secret or 
+industrial design, Service provider shall, after due inspection and testing, get the 
+solution redesigned for the Bank at no extra cost. 
+ 
+13.4 
+Service provider shall expeditiously extinguish any such claims and shall 
+have full rights to defend it there from. 
+13.5 The Bank will give notice to Service provider of any such claim without 
+delay/provide reasonable assistance to Service provider in disposing of the claim 
+and will at no time admit to any liability for or express any intent to settle the claim. 
+ 
+13.6 Service provider hereby grants the Bank a fully paid-up, irrevocable, non-
+exclusive license throughout the territory of India or abroad to access, replicate, 
+modify and use software developed including its upgraded versions available during 
+the    term  of  this  agreement  by service provider as part of this engagement, 
+including all inventions, designs and trademarks embodied therein perpetually 
+ 
+14. INSPECTION AND AUDIT 
+ 
+14.1 The Bank has the right after providing advance notice of 15 days to inspect, 
+and test the infrastructure, software, and procedures being followed which inter- alia 
+
+ 
+ 
+17 
+cover security aspect of the service provider for this engagement at any time, by 
+appointing a third party independent external auditor or its own staff at its own cost.  
+ 
+14.2 The Bank may conduct audit of the Service Provider’s records by appointing 
+third party or Bank staff for any or all campaigns both media and commercial during 
+normal business hours only related to the Services covered under this Agreement. 
+Should any discrepancies or fraud be established as an outcome of this audit, SBI 
+will have all the right to this audit, SBI will have all rights to claim all monthly 
+retainership paid from beginning and pursue legal action. 
+ 
+14.3 Service provider shall, whenever required by the Bank, furnish all relevant 
+information, records/data to such Bank’s appointed auditors and/or inspecting 
+officials of the Bank/Reserve Bank of India and or any regulatory authority. The Bank 
+reserves the right to call and/or retain for any relevant material information / reports 
+including audit or review reports undertaken by the service provider (e.g., financial, 
+internal control and security reviews) and findings made on Service provider in 
+conjunction with the services provided to the Bank. 
+ 
+14.4 Where any deficiency has been observed during audit of the service provider 
+in its processing facilities and operating practices, the Service Provider shall 
+correct/resolve the same at the earliest and shall provide all necessary documents 
+related to resolution thereof and shall further certify in respect with resolution of the 
+deficiencies. 
+ 
+15. SECURITY AND CONFIDENTIALITY 
+ 
+15.1 “Confidential Information” mean all information which is material to the 
+business operations of either party or its affiliated companies, in any form including, 
+but not limited to, proprietary information and trade secrets, whether or not 
+protected under any patent, copy right or other intellectual property laws, in any 
+oral, photographic or electronic form, whether contained on computer hard disks 
+or floppy diskettes or otherwise without any limitation whatsoever. Without 
+prejudice to the generality of the foregoing, the Confidential Information shall 
+include all information  about the party and its customers, costing and technical 
+data, studies, consultants reports, financial information, computer models and  
+programs, software, contracts, drawings, blue prints, specifications, operating 
+techniques, processes, models, diagrams, data sheets, reports and other 
+information with respect to any of the foregoing matters. All and every information 
+received by the parties and marked confidential hereto shall be assumed to be 
+confidential information unless otherwise proved. It is further agreed that the 
+
+ 
+ 
+18 
+information relating to the Bank and its customers is deemed confidential whether 
+marked confidential or not. All information relating to the accounts of the Bank’s 
+customers shall be confidential information, whether labeled as such or otherwise. 
+ 
+15.2 All information relating to the infrastructure and Applications (including 
+designs and processes) shall be deemed to be Confidential Information whether 
+labeled as such or not. Service provider personnel/resources responsible for the 
+project are expected to take care that their representatives, where necessary, have 
+executed a Non- Disclosure Agreement as per the format attached in the Annexure 
+J of the RFP. 
+ 
+15.3 Each party agrees that it will not disclose any Confidential Information 
+received from the other to any third parties under any circumstances without the 
+prior written consent of the other party unless such disclosure of Confidential 
+Information is required by law, legal process or any order of any government 
+authority. Service provider, in this connection, agrees to abide by the laws 
+especially applicable to confidentiality of information relating to customers of Banks 
+and the banks per-se, even when the disclosure is required under the law. In such 
+event, the Party must notify the other Party that such disclosure has been made 
+in accordance with law; legal process or order of a government authority. 
+ 
+15.4 Each party, including its personnel, shall use the Confidential Information 
+only for the purposes of achieving objectives set out in this Agreement. Use of the 
+Confidential Information for any other purpose shall constitute breach of trust of the 
+same. 
+ 
+15.5 Each party may disclose the Confidential Information to its personnel solely 
+for the purpose of undertaking work directly related to the Agreement. The extent 
+of Confidential Information disclosed shall be strictly limited to what is necessary 
+for those particular personnel to perform his/her duties in connection with the 
+Agreement. Further each party shall ensure that each personnel representing the 
+respective party agree to be bound by the terms of this Agreement. 
+ 
+15.6 The non-disclosure obligations herein contained shall not be applicable only 
+under the following circumstances: 
+ 
+15.7 Where Confidential Information comes into the public domain during or after 
+the date of this Agreement otherwise than by Disclosure by a Party in breach of 
+the terms hereof. 
+ 
+
+ 
+ 
+19 
+15.8 Where any Confidential Information was disclosed after receiving the written 
+consent of the other Party. 
+15.8.1 Where if a Party is requested or required by law or by any Court or 
+governmental agency or authority to disclose any of the confidential 
+information, then that Party will provide the other party with prompt notice of 
+such request or requirement prior to such disclosure. 
+15.8.2 Where any Confidential Information was received by the Party from a 
+third party which does not have any obligations of confidentiality to the other 
+Party. 
+ 
+15.9 Service provider shall abide with the Bank’s IT and IS policy in key concern 
+areas relevant to the project as notified by the Bank from time to time. Specific 
+requirements will be shared upfront before the start of the work. 
+ 
+15.10 Service provider shall ensure to filter all phishing / spamming / overflow 
+attacks in order to ensure availability and integrity on continuous basis Service 
+provider shall also implement any enhanced solutions mandated by security 
+requirements for any / all types of Software/ support. 
+ 
+15.11 The security aspect of the solution/software will be comprehensively 
+reviewed periodically by the Bank, and Service provider shall carryout 
+modifications / updates based on the security review recommendations on case 
+to case basis. 
+ 
+15.12 The Service Provider shall not, without the Bank’s prior written consent, 
+make use of any document or information received from the Bank except for 
+purposes of performing the services and obligations under this Agreement. 
+ 
+15.13 Any document received from the Bank shall remain the property of the 
+Bank and shall be returned (in all copies) to the Bank on completion of the 
+Service Provider’s performance under the Agreement. 
+ 
+15.14 Upon expiration or termination of the Agreement and on all amounts as 
+due and payable to Service provider under the Agreement having been received 
+by service provider, all proprietary documents, software documentation, 
+programs partially or wholly completed, or materials which are directly related to 
+any project under the Agreement shall be delivered to the Bank or at the Bank’s 
+written instruction destroyed, and no copies shall be retained by Service provider 
+without the Bank’s written consent. 
+ 
+
+ 
+ 
+20 
+15.15 Service Provider agrees to indemnify and hereby keeps the Bank indemnified 
+against all actions, claims, loss, damages, Costs, Charges, expenses (including 
+Attorney / Advocate fees and legal expenses) which the Bank may suffer or incur 
+on account of breach of confidentiality obligations as per this Agreement by 
+Service Provider or its employees, agents, representatives, Sub-Contractors. 
+Service Provider further agrees to make good the loss suffered by the Bank upon 
+first demand by the Bank which shall be final, conclusive and binding on Service 
+Provider. 
+ 
+ 
+16. 
+OWNERSHIP 
+ 
+16.1 Service provider will provide /digital assets/creatives/videos developed 
+specifically for the Bank, without any cost to the Bank, and it will be treated as 
+the Property of the Bank, on full payment of the professional fees. 
+ 
+16.2 Service provider agrees that the Bank owns the entire right, title and interest 
+to any inventions, designs, discoveries, writings and works of authorship, 
+including all intellectual property rights, copyrights. 
+ 
+16.3 Any work made under this agreement shall be deemed to be ‘work made for 
+hire’ under any Indian applicable copyright laws. 
+ 
+17. 
+TERMINATION FOR DEFAULT AND LIQUIDITATED DAMAGES 
+ 
+17.1 
+The Bank, without prejudice to any other remedy for breach of contract, shall 
+have the right to terminate the contract in whole or part, if service provider, at any 
+time, by giving a written notice of one month: 
+i. fails to deliver any or all of the deliverables within the period(s) specified in 
+this Agreement, or within any extension thereof granted by the Bank pursuant 
+to conditions of Agreement or 
+ii. if service provider fails to perform any other obligation(s) under the 
+Agreement provided a cure period of not less than 30 days is given to service 
+provider to rectify the defects or 
+iii. Laxity in following security standards laid down by the Bank or 
+iv. Excessive delay in execution of orders placed by the Bank or 
+v. Discrepancies / deviations in the agreed processes and/or products or 
+vi. Violation of terms & conditions stipulated in this Agreement 
+ 
+17.2 
+In the event the bank terminates the Agreement in whole or in part for the 
+breaches attributable to the Service Provider, the bank may procure, upon such 
+
+ 
+ 
+21 
+terms and in such manner, as it deems appropriate, software or services 
+similar 
+to those undelivered. However, service provider in case of part termination, shall 
+continue the performance of the Agreement to the extent not terminated. 
+ 
+17.3 In the event of termination of the Agreement, service provider shall be 
+entitled to receive payment for the Services rendered (delivered) up to the effective 
+date of termination. 
+ 
+17.4 The Bank may at any time terminate the Agreement without giving written 
+notice to Service provider if Service provider becomes bankrupt or otherwise 
+insolvent. In this event termination will be without compensation to Service 
+provider, provided that such termination will not prejudice or affect any right of 
+action or remedy, which has occurred or will accrue thereafter to the Bank on 
+payment to the Service Provider for the services rendered. 
+ 
+17.5 In the event of the termination of the Agreement Service Provider shall be liable 
+and responsible to return to the Bank all records, documents, data and information 
+including Confidential Information pertains to or relating to the Bank in its 
+possession. 
+ 
+17.6 In the event of termination of the Agreement for material breach by service 
+provider, Bank shall have the right to give suitable publicity to the same including 
+advising the Indian Bank’s Association. 
+ 
+17.7 The Bank and the agency shall have the right to terminate the contract by way 
+of issuing three months’ notice during the currency of the engagement without 
+assigning any reason. 
+ 
+17.8 
+Upon termination or expiration of this Agreement, all rights and obligations of 
+the Parties hereunder shall cease, except such rights and obligations as may have 
+accrued on the date of termination or expiration; the obligation of indemnity; 
+obligation of payment; confidentiality obligation; Governing Law clause; Dispute 
+resolution clause ; and any right which a Party may have under the Applicable Law. 
+ 
+18 
+DISPUTE REDRESSAL MECHANISM & GOVERNING LAW 
+18.1 All disputes or differences whatsoever arising between the parties out of or 
+in connection with this Agreement (including dispute concerning interpretation) 
+or in discharge of any obligation arising out of the Agreement (whether during 
+the progress of work or after completion of such work and whether before or 
+
+ 
+ 
+22 
+after the termination of this Agreement, abandonment or breach of this 
+Agreement, shall be settled amicably. 
+ 
+18.2 If the parties are not able to solve them amicably, either party shall give 
+written notice to other party clearly setting out there in, specific dispute(s) and/or 
+difference(s), and shall be referred to a sole arbitrator mutually agreed upon, 
+and the award made in pursuance thereof shall be binding on the parties. 
+ 
+18.3 In the absence of consensus about the single arbitrator, the dispute may be 
+referred to an arbitration panel; one to be nominated by each party and the said 
+arbitrators shall nominate a presiding arbitrator, before commencing the 
+arbitration proceedings. The arbitration shall be settled in accordance with the 
+applicable Indian Laws. 
+ 
+18.4 Service provider shall continue work under the Agreement during the 
+arbitration proceedings and the Bank shall make timely payments for the same, 
+unless agreed otherwise in writing between the Parties or unless the matter is 
+such that the work cannot possibly be continued until the decision of the 
+arbitrator is obtained, or unless the same is so ordered by the 
+arbitrator/arbitration panel, as the case may be. 
+ 
+18.5 Arbitration proceeding shall be held at Mumbai, India, and the language of 
+the arbitration proceedings and that of all documents and communications 
+between the parties shall be in English. 
+ 
+18.6 This Agreement shall be governed by laws in force in India. Subject to the 
+arbitration clause above, all disputes arising out of or in relation to this 
+Agreement, shall be subject to the exclusive jurisdiction of the courts at Mumbai 
+only. 
+ 
+18.7 In case of any change in applicable laws that has an effect on the terms of 
+this Agreement, the Parties agree that the Agreement may be reviewed, and if 
+deemed necessary by the Parties, make necessary amendments to the 
+Agreement by mutual agreement in good faith, in case of disagreement 
+obligations mentioned in this clause shall be observed. 
+ 
+19 
+POWERS TO VARY OR OMIT WORK 
+ 
+19.1 No alterations, amendments, omissions, additions, suspensions or 
+variations of the work (hereinafter referred to as variation) under the Agreement 
+
+ 
+ 
+23 
+shall be made by Service provider except as directed in writing by Bank. The 
+Bank shall have full powers, subject to the provision herein after contained, from 
+time to time during the execution of the Agreement, by notice in writing to instruct 
+Service provider to make any variation without prejudice to the Agreement. 
+Service provider shall carry out such variations and be bound by the same 
+conditions, though the said variations occurred in the Agreement documents. If 
+any suggested variations would, in the opinion of Service provider, if carried out, 
+prevent them from fulfilling any of their obligations under the Agreement, they 
+shall notify the Bank, thereof, in writing with reasons for holding such opinion 
+and Bank shall instruct Service provider to make such other modified variation   
+without prejudice to   the   Agreement. Service provider shall carry out such variations 
+and be bound by the same conditions, though the said variations occurred in the 
+Agreement documents.   If   Bank   confirms   their   instructions Service provider’s 
+obligations will be modified to such an extent as may be mutually agreed. If such 
+variation is substantial and involves considerable extra cost, any agreed difference in 
+cost occasioned by such variation shall be mutually agreed between the parties. In any 
+case in which Service provider has received instructions from the Bank as to the 
+requirement of carrying out the altered or additional substituted work, which either then 
+or later on, will in the opinion of Service provider, involve a claim for additional 
+payments, such additional payments shall be mutually agreed in line with the terms and 
+conditions of the order. 
+ 
+19.2 
+If any change in the work is likely to result in reduction in cost, the parties 
+shall agree in writing so as to the extent of reduction in payment to be made   to  
+Service Provider, before Service Provider proceeding with the change. 
+ 
+20 
+NO WAIVER OF BANK RIGHTS OR SERVICE PROVIDER’S LIABILITY 
+No delay, failure or omission (in whole or in part) in exercising or pursuing any 
+right or remedy under this Agreement will be construed as a waiver of that right 
+or remedy. 
+ 
+21 LIMITATION OF LIABILITY 
+ 
+21.1 For breach of any obligation mentioned in this agreement, in no event shall 
+the Service Provider be held liable for damages to the Bank arising under or in 
+connection with this agreement for an amount exceeding the total cost of the 
+project. 
+ 
+21.2 Service provider will ensure Bank’s data confidentiality and shall be 
+responsible for liability arising in case of breach of any kind of security and/or 
+
+ 
+ 
+24 
+leakage of confidential customer/Bank’s related information to the extent of loss 
+so caused and solely attributable to the Service Provider. 
+ 
+21.3 The limitations set forth in Clauses 21.1 shall not apply with respect to: 
+ Damage(s) occasioned by the gross negligence or wilful misconduct 
+of Service Provider, 
+ Loss/Damages suffered by the Bank due to Non-Compliance of 
+Statutory or Regulatory Guidelines by Service Provider. 
+ When a dispute is settled by the Court of Law in India. 
+ 
+21.4 Nothing in this Agreement seeks to limit or exclude liability for death or 
+personal injury caused by negligence, for fraud or for any other type of liability 
+that cannot be limited or excluded under applicable laws. 
+ 
+21.5 To the maximum extent permitted by law, neither party shall be liable to the 
+other for any: 
+ 
+Loss of actual or anticipated income; 
+ 
+Loss of actual or anticipated profits; 
+ 
+Loss of contracts; or 
+ 
+Special, indirect or consequential loss or damage of any kind,  
+howsoever arising in connection with this Agreement, whether in 
+contract, tort (including negligence), breach of statutory duty, breach 
+of data privacy laws and including under the indemnity obligations 
+under this Agreement. 
+ 
+21.6 Nothing in this Agreement shall exclude or limit either Party’s liability for 
+claims for payments due but unpaid. 
+ 
+22 FORCE MAJEURE 
+ 
+22.1  Any failure or delay by either parties in performance of its obligation, to the 
+extent due to any failure or delay caused by fire, flood, earthquake or 
+similar elements of nature, or act of God, war, terrorism, riots, civil 
+disorders, rebellions or revolutions, acts of government authorities, 
+pandemic or other events beyond the reasonable control of non-performing 
+Party shall not be deemed as default. 
+ 
+22.2 If Force Majeure situation arises, the non-performing party shall promptly 
+notify within 15 days (Term, in days) to the other party in writing of such 
+
+ 
+ 
+25 
+conditions and the cause(s) thereof. Unless otherwise agreed in writing, 
+the non-performing party shall continue to perform its obligations under the 
+Agreement as far as is reasonably practical, and shall seek all reasonable 
+alternative means for performance not prevented by the Force Majeure 
+event. 
+ 
+22.3 If the Force Majeure situation continues beyond 30 days, the either parties 
+shall have the right to terminate the Agreement by giving a notice to the 
+other party. Neither party shall have any penal liability to the other in 
+respect of the termination of this Contract as a result of an event of Force 
+Majeure. However, Service Provider shall be entitled to receive payments 
+for all services actually rendered up to the date of the termination of this 
+Agreement. 
+
+ 
+ 
+26 
+ 
+23 NOTICES 
+ 
+23.1 Any notice or other communication under this Agreement given by either 
+party to the other party shall be deemed properly given if in writing and; 
+i. When hand delivered during normal business hours of the recipient, 
+acknowledgment taken. 
+ii. If transmitted by facsimile during normal business hours of the recipient; 
+proof of delivery taken. A copy sent by registered mail/ first class courier, 
+return receipt requested shall follow all fax notices, to any Fax number of 
+Service provider’s office at Mumbai, or any other place advised by Service 
+provider to the Bank from time to time. 
+iii. If mailed by registered mail/ first class courier, return receipt requested, 
+within five working days of posting, properly addressed and stamped with the 
+required postage, to the intended recipient at its address specified below its 
+signature at the end of this Agreement. 
+ 
+23.2 The Addresses for Communications to the parties are as under. 
+(a) In the case of the Bank 
+ 
+General Manager 
+(CC&M) 
+Marketing and Communication Dept. 
+9th Floor State Bank Bhavan 
+Madame Cama Road 
+Nariman Point 
+Mumbai-400021 
+ 
+(b) 
+In case of service provider 
+          ________________ 
+          ________________ 
+          ________________ 
+          ________________ 
+ 
+23.3 In case there is any change in the address of one party, it shall be 
+communicated in writing to the other party with in 3 (days). 
+ 
+ 
+ 
+
+ 
+ 
+ 27 
+24 PENALTY CLAUSE 
+24.1 Month on month delivery of the solution and performance of the services 
+made by the Service Provider shall be in accordance with the time schedule, 
+technical specification, scope of the project, achievement of at least 90% 
+deliverables 
+of 
+campaign, 
+publishing 
+FLR, 
+publishing 
+authorized 
+content/creatives and other terms & conditions as specified in the Contract and 
+the attached SOW, TAT sheet (Annexure B). Any instances in failure of 
+performing the obligation or defect, solely attributable to any act/omission by 
+the Service Provider, in its performance may result in deduction from the 
+retainership fee of that particular job list/month (as more particularly defined in 
+Clause 3.1 of the Agreement) , as penalty which a sum equivalent to 2% of the 
+payable agency commission/fees for that particular Job list/month  or part 
+thereof, maximum up to 10% of the agency commission/ fee for the particular 
+job list/month. For avoidance of doubt, it is hereby clarified that this clause does 
+not apply to any third-party payments including but not limited to media spends, 
+made by the Service Provider to third parties on behalf of the Bank and no 
+penalty shall be levied on such amount. 
+ 
+24.2 The Bank shall, without prejudice to its other remedies under the contract 
+invoke the Performance Bank Guarantee which the Service Provider has 
+furnished in favor of the Bank. Once the maximum is reached, SBI may 
+consider termination of Contract pursuant to the conditions of contract and 
+amicable discussion with the Service Provider. 
+ 
+24.3 In the event SBI terminates the Contract in whole or in part, SBI may 
+procure, upon such terms and in such manner, as it deems appropriate, 
+services similar to those not delivered by the Service Provider. However, the 
+Service Provider shall continue the performance of the contract to the extent 
+not terminated. 
+ 
+25 CONFLICT OF INTEREST 
+25.1 Service Provider shall not receive any remuneration in connection with the 
+assignment except as provided in the Contract.  
+25.2 Service Provider shall provide professional, objective and impartial advice and 
+at all times hold the Bank’s interests paramount, strictly avoiding conflicts with 
+other assignment(s)/job(s) or their own corporate interests, and act without any 
+expectation/ consideration for award of any future assignment(s) from the 
+Bank. Service Provider shall avoid any conflict of interest while discharging 
+
+ 
+ 
+ 28 
+contractual obligations and bring, before-hand, any possible instance of 
+conflict of interest to the knowledge of the Bank, while rendering Services 
+under the Agreement. 
+25.3 
+Service Provider further undertakes to promptly notify the bank in writing any 
+breach of obligation of the agreement by its employees or representatives 
+including confidentiality obligation and in such an event, the Bank will in 
+addition to and without prejudice to any other available remedies be entitled to 
+immediate equitable relief in a Court of competent jurisdiction to protect its 
+interest including injunctive relief. 
+25.4 
+The Service Provider shall be directly and vicariously liable to indemnify the 
+Bank in case of any misuse of data/information of the Bank by the Service 
+Provider, deliberate or otherwise. 
+ 
+25.5 
+The Service Provider shall indemnify and keep fully and effectively 
+indemnified the Bank against all costs, claims, damages, demands, expenses 
+and liabilities of whatsoever nature arising out of or in connection with all 
+claims of infringement of trade mark, patent, copyright, industrial design or any 
+other intellectual property rights of any third party arising from the Services or 
+use of software or any other product under this Agreement 
+ 
+26 GENERAL TERMS & CONDITIONS 
+ 
+26.1 
+PUBLICITY: Service provider may make a reference of the services 
+rendered to the Bank covered under this Agreement on Service provider’s Web 
+Site or in their sales presentations, promotional materials, business plans or 
+news releases etc., only after prior written approval from the Bank. 
+ 
+26.2 
+SUCCESSORS AND ASSIGNS: This Agreement shall bind and inure to 
+the benefit of the parties, and their respective successors and permitted 
+assigns. 
+ 
+26.3 
+NON-HIRE AND NON-SOLICITATION: During the term of this 
+Agreement and for a period of one year thereafter, neither party shall (either 
+directly or indirectly through a third party) employ, solicit to employ, cause to 
+be solicited for the purpose of employment or offer employment to any 
+employee/s or sub-contractor/s of the other party, or aid any third person to do 
+so, without the specific written consent of the other party. However nothing in 
+
+ 
+ 
+ 29 
+this clause shall affect the Bank’s regular recruitments as per its recruitment 
+policy and not targeted to the employees of Service provider. 
+ 
+26.4 
+SEVERABILITY: The invalidity or unenforceability of any provision of 
+this Agreement shall not in any way effect, impair or render unenforceable this 
+Agreement or any other provision contained herein, which shall remain in full 
+force and effect. 
+ 
+26.5 MODIFICATION: This Agreement may not be modified or amended 
+except in writing signed by duly authorized representatives of each party with 
+express mention thereto of this Agreement. 
+ 
+26.6 
+ENTIRE AGREEMENT: This Agreement, including all Work orders, 
+Exhibits, Annexures,  RFP and other documents or communications 
+incorporated herein, represents the entire agreement for the services of 
+between the parties and supplements all prior negotiations, understandings 
+and agreements, written or oral, relating to the subject matter herein. 
+ 
+26.7 
+PRIVITY: Neither this Agreement nor any provision hereof is intended 
+to confer upon any person/s other than the Parties to this Agreement any rights 
+or remedies hereunder. 
+ 
+26.8 
+EFFECTIVE DATE: This Agreement shall be effective from the date 
+mentioned at the beginning of this Agreement. 
+ 
+26.9 
+DUE AUTHORISATION: Each of the undersigned hereby represents to 
+the other that she/ he is authorized to enter into this Agreement and bind the 
+respective parties to this Agreement. 
+ 
+26.10 COUNTERPART: This Agreement is executed in duplicate and each 
+copy is treated as original for all legal purposes. 
+ 
+26.11 The agency will provide all creative and publicity & promotional material 
+in necessary formats as would be required and conveyed by the Bank. 
+ 
+26.12 
+The agency will be responsible for copy right issues concerning 
+usage of images, footage, text material, etc. obtained through various sources. 
+SBI will not be a party to any disputes arising out of copyright violation by the 
+
+ 
+ 
+ 30 
+agency, unless the images or creatives are provided by the Bank to the 
+Agency. 
+ 
+26.13 
+The agency will be responsible for obtaining any permission that may 
+be required for undertaking work as detailed in this Agreement and the 
+attached SOW. SBI may assist the agency in this regard, wherever possible. 
+ 
+26.14 
+The agency will at no time resort to plagiarism. ‘SBI’ will not be a party 
+to any dispute arising on account of plagiarism resorted to by the agency, 
+unless the content is provided to the Agency by the Bank. 
+ 
+26.15 
+Fee/commission for executing various ads/campaigns/contests 
+would be a part of agency commission. However, cost of media buying/image 
+purchase, etc. including Taxes/GST will be borne by SBI subject to prior 
+approval. 
+ 
+26.16 
+DATA PROTECTION 
+To the extent that one party (“Data Supplier”) passes to the other party 
+(“Data Receiver”) any Personal Information or Sensitive Personal 
+Information (as defined in the IT Act 2000) pursuant to this Agreement: 
+ 
+The Data Supplier represents and warrants that: 
+ it has notified the individuals of the circumstances and purposes of 
+collection or has obtained such permissions and consents required to 
+enable both parties to use, disclose or transfer such Personal Information 
+or Sensitive Personal Information including disclosure and transfers to third 
+parties as required to provide the Services and transfers to territories 
+outside of the Territory in connection with the Services and any other 
+purposes as stipulated in this Agreement; and 
+ if the Data Supplier receives any requests as described in clause below 
+which may be relevant to the Data Receiver, it shall notify the Data 
+Receiver of any such requests in a timely manner and must ensure its 
+websites include adequate privacy policies at all times. 
+ 
+The Data Receiver agrees that it shall: 
+ Process the Personal Information in accordance with Data Supplier’s 
+reasonable instructions. 
+ Provide reasonable assistance to Data Supplier to respond to a data 
+subject’s request to correct an error or omission in Personal Information or 
+
+ 
+ 
+ 31 
+to withdraw consent to the collection, use or disclosure of Personal 
+Information under this Agreement. 
+ Take all appropriate steps to implement and maintain reasonable security 
+arrangements for the protection of Personal Information in accordance with 
+the IT Act 2000. 
+ 
+26.17 
+ANTI-BRIBERY 
+Each party warrants and undertakes that:  
+ It will comply with all applicable laws, statutes, regulations and codes 
+relating to anti-bribery and anti-corruption including but not limited to the 
+Prevention of Corruption Act 1988 of India (“Relevant Requirements”); and 
+ It has and shall maintain in place throughout the Term all policies and 
+procedures necessary to ensure compliance with the Relevant 
+Requirements. 
+ 
+26.18 
+RFP Terms: Notwithstanding anything contrary provided in this 
+agreement, all the terms and conditions and obligations to be complied with 
+and discharged by the agency in terms of the RFP no CC/M&C/2020-21/06 
+dated 17.02.2021 shall be binding upon the agency as if such terms and 
+conditions and obligation constitute an integral part of this agreement. Any 
+default or breach of those terms and conditions by the agency will be 
+constituted as a default breach of this agreement by the agency. In the event 
+of any conflict or inconsistency between this Agreement and the RFP, the 
+terms of RFP shall prevail. 
+ 
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be 
+executed by their duly authorized representatives as of the date and day first 
+mentioned above. 
+ 
+ 
+State Bank of India                                                       (Service Provider)                                   
+ 
+ 
+By: 
+ By: 
+Name:  
+  
+ 
+Name: 
+Designation:  
+  
+ 
+Designation: 
+Date:  
+  
+ 
+Date: 
+
+ 
+ 
+ 32 
+  ANNEXURE A 
+ 
+ 
+SERVICE PROVIDER’S SCOPE OF WORK 
+  
+This Statement of Work (“SOW”) dated the last date of signature below, is made 
+pursuant to and is governed by the Services Level Agreement  dated: 
+_____________________, effective from …….. (“SLA”) entered between State 
+Bank of India (“Client”) and _____________________ (“Agency”).   
+The parties hereby agree as follows: 
+1. 
+Effect of SOW 
+ 
+1.1 
+Client wishes to obtain and Agency has agreed to provide the Services as 
+described in this SOW in accordance with the terms of the SLA/PFP. 
+1.2 
+Any conflict between the terms and conditions of this SOW and the terms of 
+the SLA and RFP shall be dealt with in accordance with the clauses of the SLA & 
+RFP, subject to any express written statement in this SOW that states that a part 
+of this SOW prevails over the SLA’s Terms and Conditions.  
+1.3 
+Unless the context requires otherwise, capitalized terms undefined in this 
+SOW will have the meaning given to them in the SLA/RFP. 
+ 
+2. 
+Services and Deliverables  
+ 
+Sl.NO 
+Particulars  
+Job description 
+1 
+Content 
+creations for all 
+mediums    
+ 
+To design comprehensive content for all traditional media (TV, 
+Print, Radio, Outdoor, Cinema) & Digital media (OTT, 
+emailers, interactive banners etc.). 
+2 
+Scripting 
+& 
+Verification 
+of 
+content 
+for 
+Audio / Video 
+creatives 
+  
+a. Scripting & Verification of content for Audio / Video 
+creatives. 
+b. Monitoring & quality check of these creatives.  
+
+ 
+ 
+ 33 
+3. 
+Brand 
+Enhancements 
+ 
+a. Visual identity harmonization of all product in lines with SBI 
+brand guidelines.  
+b. Establish the brand story/ positioning / language / message 
+/ tone / promise /identity / Mogo that will be common across 
+campaigns, both internal & external to the organization.   
+c. Using semiotic approach for the brands through brand 
+communications and formulating creative propositions for 
+all mediums. 
+4. 
+Content 
+Translation into 
+Regional 
+languages, 
+Vetting 
+& 
+Adaptations.  
+ 
+a. Translation of creatives into various Regional languages 
+i.e., Hindi, English, Tamil, Malayalam, Telegu, Kannada, 
+Bengali, Assamese, Gujarati, Marathi, Punjabi, Urdu, Odia 
+and any other local Indian languages. 
+b. Vetting of such translated content. 
+c. Adaptation of creative content across all communication 
+channels.  
+5. 
+       Internal 
+Communication 
+Planning and designing Calendars, Cover designs, Booklets, 
+Hand-outs, Annual & Quarterly Bank results, Balance sheet, 
+Newsletters & Presentations. 
+6. 
+Analysis 
+of 
+content 
+creation trends 
+in the market 
+The agency will provide latest advertisement format prevailing 
+in the market. Staying one step ahead of competition by 
+researching current market trends. 
+ 
+7. 
+Collaboration 
+with 
+other 
+Agency 
+partners 
+Collaborate with other agency partners to conceptualize and 
+implement the campaigns. Develop creatives for release of 
+advertisements across major Indian languages i.e. Hindi, 
+English, Tamil, Malayalam, Telegu, Kannada, Bengali, 
+Assamese, Gujarati, Marathi, Punjabi, Urdu, Odia and any 
+other local Indian languages as per the requirements of SBI 
+from time to time. 
+8 
+Copy 
+Writing 
+Services  
+Copywriting of the content to be hosted on Bank‘s corporate 
+website along with content creation for offline & online 
+marketing channels. 
+9 
+Reports 
+and 
+MIS 
+Agency to submit regular MIS reports on Job status on periodic 
+frequency. 
+
+ 
+ 
+ 34 
+3. 
+Term of SOW 
+Start date of Services ________ 
+End date of Services: ___________ 
+4. 
+Fees & Payment Terms 
+As defined in clause 4 of this agreement. 
+The Client shall be responsible for the payment of the entire media cost payable 
+to the media vendors and the Fee payable to the Agency, irrespective of the 
+success of the campaign. 
+The parties agree to the terms of this SOW, read with the terms of the SLA 
+and RFP. 
+ 
+ 
+Agreed to and accepted by: 
+ 
+ 
+ 
+Agreed to and accepted by: 
+     
+ 
+ 
+Name: 
+   
+  
+ 
+ 
+        Name:  
+ 
+Title:  
+ 
+  
+ 
+ 
+ 
+Title:  
+Date of signature:   
+ 
+ 
+ 
+Date of signature: 
+State Bank of India   
+ 
+ 
+                            (Service Provider) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 35 
+ANNEXURE B 
+ 
+TAT SHEET 
+ 
+Particulars 
+Timelines 
+Creatives delivery for both 
+online and offline platform  
+To be decided based on mutual 
+discussion between the client and the 
+service provider 
+Reports and MIS 
+Agency to submit regular MIS reports 
+on Job status on periodic frequency. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 36 
+ANNEXURE C 
+ 
+ 
+TEAM STRUCTURE AND ESCALATION 
+The Service Provider to provide the Team structure and the Escalation matrix  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 37 
+ANNEXURE D 
+ 
+NON-DISCLOSURE AGREEMENT 
+ 
+ 
+This agreement made and entered into at ____________ this___________ day 
+of______          2021   . 
+ 
+BETWEEN 
+ 
+STATE BANK OF INDIA, a corporation constituted under State Bank Of India 
+Act,1955 and having its Central Office at Corporate Centre, Madam Cama Road, 
+Nariman Point, Mumbai-400 021 (hereinafter referred to as “SBI” or the “Disclosing 
+Party” which expression unless repugnant to the context or meaning thereof be 
+deemed to include its successors and assigns) of the ONE PART; 
+ 
+AND 
+ 
+________________________________________ (hereinafter referred to as the 
+“Receiving Party” which expression unless repugnant to the context or meaning 
+thereof be deemed to include its successors and permitted assigns) of the OTHER 
+PART 
+ 
+The Receiving Party and SBI are hereinafter collectively referred to as “The Parties” 
+and individually as “the Party” 
+ 
+WHEREAS: 
+ 
+The Parties intend to engage in discussions concerning the possible establishment of 
+a business relationship between themselves and the Receiving Party is seeking to be 
+engaged as _________________ in relation to the Request for Proposal issued by 
+the Disclosing Party for the said engagement (“Transaction”). In the course of such 
+discussions and negotiations, it is anticipated that the Disclosing Party may disclose 
+
+ 
+ 
+ 38 
+or deliver to the Receiving Party certain or some of its trade secrets or confidential or 
+proprietary information, for the purpose of enabling the other party to understand the 
+business of the Disclosing Party and evaluate the feasibility and/or submit their 
+proposals for such Transaction (hereinafter referred to as “the Purpose”). 
+ 
+NOW, THEREFORE THIS AGREEMENT WITNESSETH AND IT IS HEREBY 
+AGREED BY AND BETWEEN THE PARTIES HERETO AS FOLLOWS: 
+ 
+1. Confidential Information: “Confidential Information” means all information 
+disclosed/furnished by the Disclosing Party to the Receiving Party in connection 
+with the Transaction. Confidential Information shall include any copy, abstract, 
+extract, sample, note or module thereof. 
+The Receiving Party may use the Confidential Information solely for and in 
+connection with the Purpose. Upon execution of this Agreement, the Disclosing 
+Party agrees to first disclose the names of the Credits for clearance with the 
+Receiving Party’s compliance team, prior to disclosure of any other Information. 
+ 
+Notwithstanding the foregoing, “Confidential Information” shall not include any 
+information which the Receiving Party can show :  (a) is now or subsequently 
+becomes legally and publicly available without breach of this Agreement by the 
+Receiving Party, (b) is rightfully in the possession of the Receiving Party without 
+any obligation of confidentiality prior to receiving it from the Disclosing Party, (c) is 
+rightfully obtained by the Receiving Party from a source other than the Disclosing 
+Party without any obligation of confidentiality, (d) is developed by or for the 
+Receiving Party independently and without reference to any Confidential 
+Information and such independent development can be shown by documentary 
+evidence, or   is disclosed pursuant to an order of a court or governmental agency 
+or regulatory authority as so required by such order , provided that the Receiving 
+Party shall, to the extent permitted by law or regulation, promptly notify the 
+Disclosing Party of such order and afford the Disclosing Party the opportunity to 
+seek appropriate protective order relating to such disclosure. 
+ 
+
+ 
+ 
+ 39 
+2. Non-disclosure: The Receiving Party shall not disclose any Confidential 
+Information or any materials derived therefrom to any other person or entity other 
+than persons in the direct employment of the Receiving Party, or its affiliates, or 
+their directors, auditors who have a need to have access to and knowledge of the 
+Confidential Information solely for the Purpose authorized above. The Receiving 
+Party may disclose Confidential Information to its advisors, consultants, financiers, 
+co-investors only for the Purpose mentioned hereinabove and only if such persons 
+have executed a Non-Disclosure Agreement with the Receiving Party or owe a 
+professional duty of obligation to the Receiving Party. The Receiving Party shall 
+take appropriate measures by instruction prior to disclosure to such employees to 
+assure against unauthorized use or disclosure. The Receiving Party agrees to 
+notify the Disclosing Party promptly if it learns of any use or disclosure of the 
+Disclosing Party’s Confidential Information in violation of terms of this Agreement. 
+ 
+3. Publications: Except as permitted herein, neither party shall make news 
+releases, public announcements, give interviews, issue or publish advertisements 
+or publicize in any other manner whatsoever in connection with this Agreement, 
+the contents/provisions thereof, other information relating to this Agreement, the 
+Purpose, the Confidential Information or other matter of this Agreement, without 
+the prior written approval of the other Party. 
+ 
+Term: This Agreement shall be effective from the date hereof and shall continue in 
+perpetuity or till the execution of a definitive agreement is relation to the 
+Transaction with the selected agencies. Upon expiration or termination as 
+contemplated herein the Receiving Party shall immediately cease any or all 
+disclosures of Confidential Information; and at the request of the Disclosing Party, 
+the Receiving Party shall promptly return or destroy all written, graphic or other 
+tangible forms of the Confidential Information and all copies, abstracts, extracts, 
+samples, notes or modules thereof save to the extent required to be retained 
+pursuant to applicable law and regulation. The Receiving Party shall continue to 
+treat Confidential Information as confidential until such information enters the 
+public domain  
+ 
+
+ 
+ 
+ 40 
+4.  Title and Proprietary Rights: Notwithstanding the disclosure of any 
+Confidential Information by the Disclosing Party to the Receiving Party, the 
+Disclosing Party shall retain title and all intellectual property and proprietary rights 
+in the Confidential Information.  
+ 
+5. Remedies: The Receiving Party acknowledges that if the Receiving Party fails 
+to comply with any of its obligations hereunder, the Disclosing Party may suffer 
+irreparable harm for which monetary damages may not be adequate. The 
+Receiving Party agrees, in addition to all other remedies provided at Law or in 
+equity, the Disclosing Party shall be entitled to seek injunctive relief hereunder. 
+ 
+6.  Entire Agreement, Amendment, and Assignment: This Agreement 
+constitutes the entire Agreement between Parties relating to the matters discussed 
+herein and supersedes any and all prior oral discussions and / or written 
+correspondence or agreements between the parties. This Agreement may be 
+amended or modified only with the mutual written consent of the parties. Neither 
+this Agreement nor any right granted here under shall be assignable or otherwise 
+transferable.  
+ 
+7. Governing Law and Jurisdiction: The provisions of this Agreement shall be 
+governed by the laws of India and subject to the jurisdiction of the competent courts 
+at Mumbai. 
+ 
+8.  General: In no event shall the Disclosing Party be liable for the inaccuracy or 
+incompleteness of the Confidential Information. None of the Confidential 
+Information disclosed by the parties constitutes any representation, warranty, 
+assurance, guarantee or inducement by either party to the other with respect to the 
+fitness of such Confidential Information for any particular purpose or infringement 
+of trademarks, patents, copy rights or any right of third persons. 
+ 
+In witness whereof, the Parties hereto have executed these presents the day, month 
+and year first herein above written. 
+ 
+
+ 
+ 
+ 41 
+ 
+ For and on behalf of State Bank of India 
+ 
+ 
+ (Designation) 
+ 
+ 
+ 
+For and on behalf of (Agency) 
+ 
+ 
+(Designation)    
+ 
+

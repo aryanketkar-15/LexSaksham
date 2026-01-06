@@ -1,0 +1,104 @@
+Catering Contract Template Guide
+
+Overview
+You may prepare your own contract starting with the template below to fit your business needs and use it as the agreement you enter into with your clients.
+
+How to Use the Contract Template 
+When you see Purple text delete the purple and input the information it requests. 
+
+The Red text lists options you need to select from to detail the agreement with your client or provides optional text for you to include. Remove any clauses that are not relevant for your final agreement.
+
+Tips
+
+Change all font colors back to “black.”
+If you are attaching this contract to a Square Invoice, you will have to save the finalized agreement in PDF format locally on your system. 
+Once it is saved as a PDF file, you can attach the file to the Square Invoice to send to your customer using the “Add Attachment” button under “More Options” in the invoice. 
+You should obtain your client’s initials in each designated space.
+You and your client should both sign and date the agreement.
+
+Within the contract template, there is a section in the header prompting you for your business contact information. We highly recommend always including this information so that your customer can sign the document and return it to you since they are unable to re-upload the attachment back to the invoice for return.
+
+Legal Disclaimer
+Square is not a law firm, an attorney or a professional advisor in any industry. Square provides this template to individuals who choose to prepare their own contractual documents. Square services and related documents and materials provided by Square do not constitute legal advice and are for your private use. Square does not review the information you provide for legal accuracy or sufficiency. If you need legal advice as to specific contract terms or have questions regarding a term’s applicability or enforceability, you should consult with a licensed attorney. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your Business Name Here
+Your Business/Contact Email Here
+Your Business Phone Number Here
+
+The CATERING/EVENT TITLE goes here
+
+This Catering Contract is entered into as of write the date here (the “Effective Date”) by and between enter your name here (the “Caterer”), and enter client name here (the “Client”) (the “Caterer” and the “Client” together, “Parties”) and sets forth the agreement between the Parties relating to catering services to be provided by the Caterer for the Client for the event identified in this Contract (“Event”).
+
+Services: 
+Event Description: Caterer shall perform for Client certain catering services at the Event, as further defined in Exhibit A attached to this agreement, which might include providing food and beverages, utensils, dishes, and containers, bar services, staffing, and rentals and decorations.
+
+Event Details: The event is scheduled for: write the Event Date here (Optional) The Services are ongoing, and shall be completed (specify ongoing cadence): [daily] [semi-weekly] [weekly] [etc.], starting on enter date services start here.
+Event Start Time (for guests): write the Event Start Time here 
+Event End Time (for guests): write the Event End Time here
+Location: write the Event Venue and Address here
+Estimated Number of Guests: write the Guest Count Estimate (note: a more precise guest count is routinely confirmed closer to the actual event date and will be addressed in subsequent clauses in this contract)
+Food and Beverages: The parties have agreed on the menu of food and beverages attached to this Contract as Exhibit A. The Caterer reserves the right to make small changes to the menu if key ingredients are unable to be sourced due to reasons beyond the control of the Parties.
+(Optional) Outside Food and Beverages: Neither the Client nor any of its guests may bring in or remove any food or beverages from the Event Location without prior written agreement of the Caterer.
+Number of Attendees: 
+ Initial Estimated Attendance.  The initial estimated attendance of the Event is [INITIAL ESTIMATED ATTENDANCE] of adults and [INITIAL ESTIMATED ATTENDANCE] of children under the age of enter the age of children where the menu or cost would differ (if applicable). 
+Final Estimated Attendance
+Notice [Five] Days in Advance. Client shall give Caterer written notice of the final estimated attendance of the Event [five] Business Days before the Event (the "Final Estimated Attendance").
+Failure to Notify. If Client fails to notify Caterer of the Final Estimated Attendance, Caterer may consider the estimated attendance as the Final Estimated Attendance when preparing to provide the serviced detailed in Exhibit A.
+Services above Final Estimated Attendance.  If the actual number in attendance at the Event is greater than the stated amount, the Caterer cannot guarantee that sufficient food and beverage will be available for all persons in attendance of the Event. If the actual number of guests in attendance is less than the stated amount, the Client will still be charged for the total guest amount confirmed by the Client.
+
+Payment Terms: 
+Initial Estimate: At least enter the number of days before the Event the Client must complete a copy of the Catering Information Sheet (Exhibit A) weeks before the Event, the Client must confirm and complete the information detailed in Exhibit A. Within enter the number of days between receiving confirmation of details in Exhibit A you will provide an initial cost estimate days of its receipt of the Catering Information Sheet, the Caterer shall provide an initial estimate of its charges for the Event. The Initial Estimate shall include an itemization of all costs and fees for services requested by the Client. Client Initial Here _________
+(Optional) Deposit: On or before the Effective Date, the Client must provide a nonrefundable deposit to the Caterer to secure the date of the Event of $enter the required deposit amount.
+Final Invoice: Within enter the number of days after the Event the Client must submit final payment days after the Event, the Caterer shall provide the Client with a final invoice, which shall provide an itemized list of all costs and fees actually incurred by the Company in connection to the Event. The Company shall pay the Caterer the balance of the Final Invoice (less any payments, including any Deposits, previously made) within enter the number of days after sending the final invoice the Client must submit payment days of its receipt thereof. 
+Client Initial Here _________
+Refund and Cancellation Policy: The Caterer will issue a choose from the following as applicable full or partial refund to the Client for the deposit amount if the Client provides enter the allowable amount of time to cancel the reservation in return for a refund days prior to the Event. The only other situation in which a refund of $enter the % of total contract amount eligible for an issued refund is in the event write in reason eligible for an issued refund here. Client Initial Here _________
+
+Venue Details: The Caterer will need to have access to the Venue no later than enter the amount of time required for advance prep time prior to Event start time hours in advance of the Start Time for the Event, and enter the amount of time required for clean up time after the Event end time hours after the End Time for clean up. The Client is responsible to make all necessary arrangements, at Client’s expense, to get this access arranged.
+Responsibilities for Related Costs: The Client is solely responsible for all costs and/or deposits relating to the use of the Venue, and for obtaining any necessary permissions, authorizations, or other requirement of Caterer providing services at the Venue.
+
+Licensing: The Caterer warrants that the Caterer currently holds a valid license under the laws of the State of specify your state to perform the work. Work performed will be done so in compliance with all applicable local, state, or federal statutes and regulations.
+Compliance with Food and Beverage Laws. Caterer shall ensure that all federal, state, and local Laws related to food and beverage purchases and consumption are strictly enforced.
+Insurance Requirement. Caterer shall maintain the insurance necessary to cover its obligations and responsibilities under this agreement, or any amount required by Law.
+Representations:Authority to Sign: Each party promises to the other party that it has the authority to enter into this Contract and to perform all of its obligations under this Contract.
+General: 
+Modification(s): To change anything in this Contract, the Client and the Caterer must agree to the change in writing and sign a document showing their contract.
+Signatures: The Client and the Caterer must sign the document either electronically or in hard copy. If this document is signed in hard copy, it must be returned to the Caterer for valid record. Electronic signatures count as originals for all purposes.
+
+Term and Termination: This Contract ends on write the contract end date here, unless the Client or the Caterer ends the contract before that time. If one of the parties chooses to end the Contract prior to project completion, the Client is responsible for paying for all work and costs incurred up until that date.
+
+The Parties hereto agree to the foregoing as evidenced by their signatures below.
+
+Date _______	__________________		Date _______      __________________
+			Caterer Name, Owner				       Client Name, Client
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit A (Catering Information Sheet)
+
+
+Cardholder Signature_________________________  Date:_______________

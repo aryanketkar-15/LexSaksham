@@ -1,0 +1,309 @@
+Instructions and Guidelines for Use:
+
+This Agreement may be used for the procurement of services when a Purchase Order cannot be used and it is prudent to detail the services in a Statement of Work (see Exhibit A).  PLEASE NOTE THAT ALL PROCUREMENT PROCEDURES MUST BE FOLLOWED PRIOR TO USING THIS AGREEMENT.  See Summary of Purchasing Authority at http://www.utexas.edu/admin/purchasing/fhdbk.html#authority.
+
+This Agreement may not be used when contracting with a company.   Instead use “Services Agreement, Business” located at http://www.utexas.edu/business/vp/contracts_agreements/contract_std_agrmnt.html. 
+
+If the contractor is a resident of a foreign country:  Compliance with immigration law and tax law is required for all foreign individuals or company who perform work inside the United States.  If the service is being performed in the United States by an individual or company from a foreign country, please refer to International Tax Compliance and Section 12.5 of the Handbook of Operating Procedures prior to initiating the agreement. Prior to entering into any agreement, please contact Independent Contractor/Tax Services via tax.ic@austin.utexas.edu. Departments must receive an authorization from IC/Tax Services for each individual by sending a separate email request for each one that includes the individual’s name, EID, location the services will be performed, and their citizenship country. This email authorization must be included in the payment supporting documentation that is imaged with payment voucher.
+
+Once you have completed the requested information, please delete the highlights for fill-in information and instructions in red text before printing the agreement. 
+
+When you are ready to submit the Agreement for review, approval and signature, please refer to the “Procedure for Submitting Business Contracts” at http://www.utexas.edu/business/vp/contracts_agreements/contract_procedure.html.
+
+Please call the Business Contracts Office at 471-4412 if you have any questions about the use of this template for your specific arrangement or the information requested within the template.
+
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   
+
+SERVICES AGREEMENT
+
+
+This Agreement between University and Contractor ("Agreement") is made and entered into by and between The University of Texas at Austin, an agency and institution of higher education established under the laws of the State of Texas ("University"), for and on behalf of the ____________ (insert College/School and/or budgeted department name) (“Department”), and _______________ (insert legal name of Contractor), a _______________ (insert “individual” or “sole proprietorship”) with their principal place of business at ___________ (insert street address, city, state, zip code) ("Contractor").
+
+University and Contractor hereby agree as follows:
+
+1.	Contractor Services.
+
+Contractor will provide the services as set forth in Exhibit A, Statement of Work, attached hereto and incorporated for all purposes (“the Services”), to the satisfaction of University. 
+
+2.	Compensation.
+
+University will compensate Contractor for services in accordance with Exhibit B, Payment for Services.  Total compensation to Contractor will not exceed _____ (insert written amount) dollars ($_____ (insert numerical amount)) (note: this amount should be inclusive of all fees and expenses) for the term of the agreement.  Payment for services performed will be processed within thirty (30) days of receipt and approval of invoice in accordance with Exhibit B.
+
+An “Employee/Independent Contractor Classification Checklist” is attached as Exhibit C.  If University determines that Contractor is classified as a casual employee for federal tax purposes under federal Internal Revenue Service Regulations, University shall deduct from compensation federal withholding income taxes and social security taxes.
+
+<Include if the Contractor is a resident of a foreign country performing services in the United States:>
+Contractor certifies that the individual(s) performing the services have the appropriate VISA status to perform the services specified in this Agreement.  Contractor certify that they are aware that the fees specified in this Agreement are subject to a 30% U. S. federal income tax deduction unless the Contractor has obtained exemption under a specific U.S. Tax Treaty  (http://www.irs.gov/publications/p901/index.html ).  Contractor must provide proof of tax treaty benefit to University prior to any payment being made by University.
+
+3.		Term.
+
+This Agreement is effective as of the later of (Insert month/day/year) or date the agreement is fully executed by both parties ("Effective Date") and will terminate on (Insert month/day/year) unless earlier terminated in accordance with Section 8.  [OPTIONAL:  The following renewal term may be incorporated if a renewal option was included in the original bid specification.  University will have the option to renew this Agreement for  	  (  ) additional ___ (  ) year terms.]
+
+4.	Licenses, Permits, Taxes, Fees, Laws and Regulations.
+
+4.1	Contractor warrants that it will obtain, maintain in effect, and pay the cost for all licenses, permits, or certifications that may be necessary for Contractor's performance of this Agreement.
+
+4.2	Contractor will be responsible for the payment of all taxes, excises, fees, payroll deductions, employee benefits (if any), fines, penalties or other payments required by federal, state, or local law or regulation in connection with Contractor's performance of this Agreement.
+
+4.3	Contractor will comply with, and will be responsible for requiring its officers and employees to comply with, all applicable federal, state, and local laws and regulations; the Rules and Regulations of the Board of Regents of The University of Texas System; and the rules and regulations of the University.
+
+5.	Ownership and Use of Work Material.
+
+5.1	All drawings, specifications, plans, computations, sketches, data, records, photographs, tapes, renderings, models, publications, statements, accounts, reports, studies, and other materials prepared by Contractor or any Contractor’s subcontractor in connection with the Services (collectively, "Work Material"), whether or not accepted or rejected by University, are the sole property of University and for its exclusive use and re-use at any time without further compensation and without any restrictions. 
+
+5.2	Contractor grants and assigns to University all rights and claims of whatever nature and whether now or hereafter arising in and to the Work Material and will cooperate fully with University in any steps University may take to obtain or enforce patent, copyright, trademark or like protections with respect to the Work Material. 
+
+5.3	Contractor will deliver all Work Material to University upon expiration or termination of this Agreement.  University will have the right to use the Work Material for the completion of the Services or otherwise. University may, at all times, retain the originals of the Work Material. The Work Material will not be used by any person or organization other than University on other projects unless expressly authorized by University in writing.
+
+5.4	The Work Material will not be used or published by Contractor or any other party       unless expressly authorized by University in writing. Contractor will treat all Work Material as confidential.
+
+OR 	[If Contractor owns instruction/presentation material, delete Sections 5.1 through 5.4 and replace with the following provision.
+
+	Contractor warrants that it is the sole owner of the instruction/presentation materials or has obtained permission from the copyright holder to use the instruction/presentation materials and has full power and authority to make this agreement; that the instruction/presentation materials do not infringe any copyright, violate any property rights, or contain any scandalous, libelous, or unlawful matter.  Contractor will defend, indemnify, and hold harmless the University and/or its licensees against all claims, suits, costs, damages, and expenses that the University and/or its licensees may sustain by reason of any scandalous, libelous, or unlawful matter contained or alleged to be contained in the instruction/presentation materials or any infringement or violation by the instruction/presentation materials of any copyright or property right; and until such claim or suit has been settled or withdrawn, the University may withhold any sums due to Contractor under this Agreement.]
+  
+6.	Confidentiality and Safeguarding of University Records; Press Releases; Public Information.  
+
+6.1	Under this Agreement, Contractor may (1) create, (2) receive from or on behalf of University, or (3) have access to, records or record systems (collectively, “University Records”). Among other things, University Records may contain social security numbers, credit card numbers, or data protected or made confidential or sensitive by applicable federal, state and local, laws, regulations, and ordinances, including the Gramm-Leach-Bliley Act (Public Law No: 106-102) and the Family Educational Rights and Privacy Act, 20 U.S.C. §1232g (“FERPA”). If University Records are subject to FERPA, (1) University designates Contractor as a University official with a legitimate educational interest in University Records, and (2) Contractor acknowledges that its improper disclosure or redisclosure of personally identifiable information from University Records will result in Contractor’s exclusion from eligibility to contract with University for at least five (5) years. Contractor represents, warrants, and agrees that it will: (1) hold University Records in strict confidence and will not use or disclose University Records except as (a) permitted or required by this Agreement, (b) required by law, or (c) otherwise authorized by University in writing; (2) safeguard University Records according to commercially reasonable administrative, physical and technical standards (such as standards established by (i) the National Institute of Standards and Technology and (ii) the Center for Internet Security, the Gramm-Leach-Bliley Act, as well as the Payment Card Industry Data Security Standards) that are no less rigorous than best practices in the data security industry; (3) continually monitor its operations and take any action necessary to assure that University Records are safeguarded and the confidentiality of University Records is maintained in accordance with all applicable federal, state and local, laws, regulations, and ordinances, including FERPA and the Gramm-Leach Bliley Act, and the terms of this Agreement; and (4) comply with the University’s rules, policies, and procedures regarding access to and use of University’s computer systems. Contractor represents, warrants and certifies that it complies with University’s Vendor Access Requirements, Section 22, at https://security.utexas.edu/policies/irusp#standard22. At the request of University, Contractor agrees to provide University with a written summary of the procedures Contractor uses to safeguard and maintain the confidentiality of University Records.
+                                                                                                                
+6.1.1  		Notice of Impermissible Use.  If an impermissible use or disclosure of any University Records occurs, Contractor will provide written notice to University within one (1) business day after Contractor’s discovery of that use or disclosure. Contractor will promptly provide University with all information requested by University regarding the impermissible use or disclosure. 
+   
+6.1.2  	Return of University Records. Contractor agrees that within thirty (30) days after the expiration or termination of this Agreement, for any reason, all University Records created or received from or on behalf of University will be (1) returned to University, with no copies retained by Contractor; or (2) if return is not feasible, destroyed. Twenty (20) days before destruction of any University Records, Contractor will provide University with written notice of Contractor’s intent to destroy University Records. Within five (5) days after destruction, Contractor will confirm to University in writing the destruction of University Records.
+                    
+6.1.3 	Disclosure. If Contractor discloses any University Records to a permitted subcontractor or agent, Contractor will require the permitted subcontractor or agent to comply with the same restrictions and obligations as are imposed on Contractor by this Section.       
+
+6.1.4  	Press Releases. Except when defined as part of the Services, Contractor will not make any press releases, public statements, or advertisement referring to the Project or the engagement of Contractor as an independent contractor of University in connection with the Project, or release any information relative to the Project for publication, advertisement or any other purpose without the prior written approval of University. 
+
+6.1.5 	Public Information. University strictly adheres to all statutes, court decisions and the opinions of the Texas Attorney General with respect to disclosure of public information under the Texas Public Information Act (“TPIA”), Chapter 552, Texas Government Code. In accordance with Section 552.002 of TPIA and Section 2252.907, Texas Government Code, and at no additional charge to University, Contractor will make any information created or exchanged with University pursuant to this Agreement (and not otherwise exempt from disclosure under TPIA) available in a format reasonably requested by University that is accessible by the public.
+
+6.1.6  	Texas Public Information Act – Subchapter J Requirements. Pursuant to Section 552.372, Texas Government Code, for agreements with a total value in excess of $1,000,000, Contractor must: (1) preserve all contracting information (ref. Section 442.003(7), Texas Government Code) related to this Agreement as provided by the records retention requirements applicable to University for duration of this Agreement; (2) promptly provide to the University any contracting information related to this Agreement that is in the custody or possession of Contractor on request of the University; and (3) on completion of this Agreement, either (A) provide at no cost to the University all contracting information related to this Agreement that is in the custody or possession of Contractor, or (B) preserve the contracting information related to this Agreement as provided by the records retention requirements applicable to the University. 
+
+6.1.7	Termination.  In addition to any other termination rights set forth in this Agreement and any other rights at law or equity, if University reasonably determines that Contractor has breached any of the restrictions or obligations set forth in this Section, University may immediately terminate this Agreement without notice or opportunity to cure. 
+
+6.1.8  	Duration. The restrictions and obligations under this Section will survive expiration or termination of this Agreement for any reason. 
+
+7.	Independent Contractor. 
+
+For all purposes of this Agreement and notwithstanding any provision of this Agreement to the contrary, Contractor is an independent contractor and is not a state employee, partner, joint venturer, or agent of University. Contractor will not bind nor attempt to bind University to any agreement or contract. As an independent contractor, Contractor is solely responsible for all taxes, withholdings, and other statutory or contractual obligations of any sort, including but not limited to workers’ compensation insurance.
+
+8.	Termination.
+
+8.1	If either party is in default of performance of any material obligation under this Agreement, the party that is not in default may give written notice of the default to the other party and if the party notified fails to correct the default within thirty (30) days or within such period fails to satisfy the party giving notice that the default does not exist, the party giving notice may terminate this Agreement upon expiration of the thirty (30) day period.
+
+8.2	University may terminate this Agreement immediately in the event of the filing by or against Contractor of a petition for relief in bankruptcy or for receivership, or in the event that Contractor becomes insolvent.
+
+8.3	The termination of this Agreement will not affect any right or remedy that has accrued to either party at the time of termination.
+
+8.4	Upon termination of this Agreement, Contractor will deliver to the appropriate representative of University all Work Material related to the services performed by Contractor in the format requested by the University together with any keys, identification badges, or equipment owned by University.
+
+8.5	Termination under Sections 6.1, 8.1 or 8.6 will not relieve Contractor from liability for any default or breach under this Agreement or any other act or omission of Contractor. 
+
+8.6	University may terminate this Agreement, without cause, upon ____ days (insert # of days) written notice to Contractor.
+
+9.	Indemnification.
+
+Contractor will indemnify and hold harmless University and The University of Texas System, and their respective  affiliated enterprises, regents, officers, directors,  attorneys, employees, representatives and agents from all claims, demands, causes of action, and judgments for taxes, license fees, excises, fines, and penalties; for supplies, services, or merchandise purchased by Contractor; for wages and fringe benefits of Contractor's employees; and for injury or death of any person or damage to property that result directly or indirectly from the negligent or intentional acts or omissions of Contractor or its officers, agents, or employees in the performance of this Agreement.  
+
+10.	Insurance.
+
+10.1	Contractor agrees to maintain, at Contractor’s sole expense, and to cause its agents, suppliers and permitted subcontractors (if any) to maintain, at their sole expense, the following insurance coverage in at least the amounts specified:
+ 
+ 10.1.1	Workers Compensation: Statutory Limits
+ 10.1.2	Employer's Liability: $1,000,000 per accident and employee
+ 10.1.3	Commercial General Liability (including contractual liability):
+     		$1,000,000 per occurrence
+ 10.1.4	Product/Completed Ops: $2,000,000 aggregate
+ 10.1.5	Auto Liability: $1,000,000 combined single limit
+ 10.1.6	All other insurance required by state or federal law
+
+10.2	All policies (except Workers' Compensation) will name University as an Additional Insured. A Waiver of Subrogation in favor of University and thirty (30) day notice of cancellation is required on all policies. Certificates of insurance verifying the foregoing requirements will be provided to University prior to commencement of any services under this Agreement.  If a policy contains deductible provisions, Contractor will be responsible for payment of the deductible amount for any claim(s) or the pursuit of any claim(s) or asserted claim(s) against University, its agents, employees or representatives.
+
+10.3	Verification of Insurance Coverage will be forwarded to:  
+
+[Insert University Contact Name (such as Department Contract Administrator) and complete address.]
+
+OR	[Delete Sections 10.1 through 10.3 and include the following provision if this is a short term, low risk agreement and the Contractor‘s presence is not required on campus in order to complete the work.   
+
+Contractor will obtain and maintain in force for the duration of this Agreement and any extensions thereof, at Contractor's sole expense, all insurance: including but not limited to workers' compensation, unemployment insurance and automobile liability insurance as well as all insurance which is required by state and/or federal law.  Upon University’s request, Contractor will supply evidence of such insurance to University prior to performing services.]
+
+11.	Breach of Contract Claims.
+
+To the extent that Chapter 2260, Texas Government Code, is applicable to this Agreement and is not preempted by other applicable law, the dispute resolution process provided for in Chapter 2260 and the related rules adopted by the Texas Attorney General pursuant to Chapter 2260, will be used by University and Contractor to attempt to resolve any claim for breach of contract made by Contractor that cannot be resolved in the ordinary course of business. The chief business officer of University will examine Contractor's claim and any counterclaim and negotiate with Contractor in an effort to resolve such claims. The parties specifically agree that (i) neither the execution of this Agreement by University nor any other conduct, action or inaction of any representative of University relating to this Agreement constitutes or is intended to constitute a waiver of University’s or the state's sovereign immunity to suit; and (ii) University has not waived its right to seek redress in the courts.
+
+12.	Miscellaneous.
+
+12.1	Assignment.  Neither party may assign this Agreement, in whole or in part, without the prior written consent of the other party.
+
+12.2	Representations and Warranties by Contractor.  If Contractor is a corporation or a limited liability company, Contractor warrants, represents, covenants, and agrees that it is duly organized, validly existing and in good standing under the laws of the state of its incorporation or organization and is duly authorized and in good standing to conduct business in the State of Texas, that it has all necessary power and has received all necessary approvals to execute and deliver this Agreement, and the individual executing this Agreement on behalf of Contractor has been duly authorized to act for and bind Contractor.
+
+12.3	Tax Certifications.  If Contractor is a taxable entity as defined by Chapter 171, Texas Tax Code (“Chapter 171”), then Contractor certifies that it is not currently delinquent in the payment of any taxes due under Chapter 171, or that Contractor is exempt from the payment of those taxes, or that Contractor is an out-of-state taxable entity that is not subject to those taxes, whichever is applicable.
+
+12.4	Texas Family Code Child Support Certification.  Pursuant to Section 231.006, Texas Family Code, Contractor certifies that it is not ineligible to receive the award of or payments under this Agreement and acknowledges that this Agreement may be terminated and payment may be withheld if this certification is inaccurate.
+
+12.5	Payment of Debt or Delinquency to the State.  Pursuant to Sections 2107.008 and 2252.903, Texas Government Code, Contractor agrees that any payments owing to Contractor under this Agreement may be applied directly toward any debt or delinquency that Contractor owes the State of  or any agency of the State of  regardless of when it arises, until such debt or delinquency is paid in full.
+
+12.6	Loss of Funding.  Performance by University under this Agreement may be dependent upon the appropriation and allotment of funds by the Texas State Legislature (the "Legislature") and/or allocation of funds by the Board of Regents of The University of Texas System (the "Board"). If the Legislature fails to appropriate or allot the necessary funds, or the Board fails to allocate the necessary funds, then University will issue written notice to Contractor and University may terminate this Agreement without further duty or obligation hereunder. Contractor acknowledges that appropriation, allotment, and allocation of funds are beyond the control of University.
+
+12.7	Entire Agreement; Modifications. This Agreement supersedes all prior agreements, written or oral, between Contractor and University and will constitute the entire Agreement and understanding between the parties with respect to the subject matter hereof. This Agreement and each of its provisions will be binding upon the parties and may not be waived, modified, amended or altered except by a writing signed by authorized representatives of University and Contractor. 
+
+12.8	State Auditor’s Office.  Contractor understands that acceptance of funds under this Agreement constitutes acceptance of the authority of the Texas State Auditor's Office, or any successor agency (collectively, “Auditor”), to conduct an audit or investigation in connection with those funds pursuant to Sections 51.9335(c), 73.115(c) and 74.008(c), Texas Education Code. Contractor agrees to cooperate with the Auditor in the conduct of the audit or investigation, including without limitation providing all records requested. Contractor will include this provision in all contracts with permitted subcontractors.
+
+12.9	Force Majeure. Neither party hereto will be liable or responsible to the other for any loss or damage or for any delays or failure to perform due to causes beyond its reasonable control including, but not limited to, acts of God, strikes, epidemics, war, riots, civil unrest, flood, fire, tsunami, volcano, sabotage, air space closure, ground stop(s), a U.S. Department of State Travel Warning or any other circumstances of like character (“force majeure occurrence”).
+
+12.10	Venue; Governing Law.  Travis County, Texas, will be the proper place of venue for suit on or in respect of this Agreement. This Agreement and all of the rights and obligations of the parties hereto and all of the terms and conditions hereof will be construed, interpreted and applied in accordance with and governed by and enforced under the laws of the State of Texas.
+
+12.11	Ethics Matters; No Financial Interest.  Contractor and its employees, agents, representatives and subcontractors have read and understand University’s Conflicts of Interest Policy available at https://secure2.‌compliance‌bridge.‌com/‌utexas/‌public/getdoc.php?file=5-2011, State of Texas Standards of Conduct and Conflict of Interest Provisions available at https://statutes.capitol.texas.gov/‌Docs/‌GV/‌htm/‌GV.572.htm#572.051, and applicable state ethics laws and rules available at https://www.utsystem.edu/offices/systemwide-compliance/ethics. Neither Contractor nor its employees, agents, representatives or subcontractors will assist or cause University employees to violate University’s Conflicts of Interest Policy, provisions described by State of Texas Standards of Conduct and Conflict of Interest Provisions, or applicable state ethics laws or rules. Contractor represents and warrants that no member of the Board of Regents of The University of Texas System has a direct or indirect financial interest in the transaction that is the subject of this Agreement.
+
+12.12	Waivers. No delay or omission in exercising any right accruing upon a default in performance of this Agreement will impair any right or be construed to be a waiver of any right. A waiver of any default under this Agreement will not be construed to be a waiver of any subsequent default under this Agreement.
+
+12.13	Access by Individuals with Disabilities.  Contractor represents and warrants (the “EIR Accessibility Warranty”) that the electronic and information resources and all associated information, documentation, and support that it provides to University under this Agreement (collectively, the “EIRs”) comply with the applicable requirements set forth in Title 1, Chapter 213 of the Texas Administrative Code and Title 1, Chapter 206, Rule §206.70 of the Texas Administrative Code (as authorized by Chapter 2054, Subchapter M of the Texas Government Code.)  To the extent Contractor becomes aware that the EIRs, or any portion thereof, do not comply with the EIR Accessibility Warranty, then Contractor represents and warrants that it will, at no cost to University, either (1) perform all necessary remediation to make the EIRs satisfy the EIR Accessibility Warranty or (2) replace the EIRs with new EIRs that satisfy the EIR Accessibility Warranty.  In the event that Contractor fails or is unable to do so, then University may terminate this Agreement and Contractor will refund to University all amounts University has paid under this Agreement within thirty (30) days after the termination date.]
+
+[OPTIONAL:  Include the following provision if Contractor will have access to FERPA protected student information: 
+
+12.14	Confidential Student Information.  “Confidential Student Information” is defined as information that is personally identifiable to a student who is or was enrolled at University by any of the following means: the student’s name, the name of the student’s parent or other family members; the address of the student or student’s family; a personal identifier, such as a identification number, or biometric record; other indirect identifiers, including but not limited to the student’s date of birth, place of birth, and mother’s maiden name; or  any other information that, alone or in combination, is linked or linkable to a specific student that would allow a reasonable person in the school community to identify the student with reasonable certainty and includes information supplied to Contractor by University as well as any information provided by University’s students and third parties to the Contractor.
+ 
+Contractor acknowledges that this Agreement allows the Contractor access to Confidential Student Information, and that access to and disclosure of Confidential Student Information is restricted by University policy and federal law, namely the Family Educational Rights and Privacy Act (“FERPA”).
+
+Contractor agrees to hold Confidential Student Information in strict confidence.  Contractor will not use or disclose Confidential Student Information received from or on behalf of University (or its students) except as permitted or required by this Agreement, as required by law, or as otherwise authorized in writing by University.  Contractor agrees not to use Confidential Student Information for any purpose other than the purpose for which the disclosure was made. Contractor agrees that only Contractor’s employees who have a legitimate business need in performing this Agreement will have access to the Confidential Student Information.
+
+Upon termination, cancellation, expiration or other conclusion of the Agreement, Contractor will return all Confidential Student Information to University within thirty (30) days or, if return is not feasible, destroy any and all Confidential Student Information. Twenty (20) days before destruction of any Confidential Student Information, Contractor will provide University with written notice of Contractor’s intent to destroy Confidential Student Information.  Within seven (7) days after destruction, Contractor will confirm to University in writing the destruction of Confidential Student Information. 
+
+Contractor agrees that Contractor is under the direct control of University with respect to the use and maintenance of Confidential Student Information. If University reasonably determines in good faith that Contractor has materially breached any of its confidentiality obligations under this Agreement or has violated FERPA, University, in its sole discretion, will have the right to require Contractor to submit to a plan of monitoring and reporting; provide Contractor with a fifteen (15) day period to cure the breach; or terminate the Agreement immediately.   Before exercising any of these options, University will provide written notice to Contractor describing the violation and the action it intends to take. If the Family Policy Compliance Office of the U.S. Department of Education determines that the Contractor improperly disclosed personally identifiable information obtained from University’s education records, University may not allow the Contractor access to education records for at least five years. 
+ 
+Contractor will develop, implement, maintain and use appropriate administrative, technical and physical security measures to preserve the confidentiality, integrity and availability of all electronically maintained or transmitted Confidential Student Information received from, or on behalf of University or its students.  These measures will be extended by contract to all subcontractors used by Contractor.   
+ 
+Contractor will, within one day of discovery, report to University any use or disclosure of Confidential Student Information not authorized by this Agreement or in writing by University. Contractor’s report will identify:  (i) the nature of the unauthorized use or disclosure, (ii) the Confidential Student Information used or disclosed, (iii) who made the unauthorized use or received the unauthorized disclosure, (iv) what Contractor has done or will do to mitigate any deleterious effect of the unauthorized use or disclosure, and (v) what corrective action Contractor has taken or will take to prevent future similar unauthorized use or disclosure.  Contractor will provide such other information, including a written report, as reasonably requested by University.  
+ 
+Contractor will defend and hold University harmless from all claims, liabilities, damages, or judgments involving a third party, including University’s costs and attorney fees, which arise as a result of Contractor’s failure to meet or breach any of its obligations under this Agreement. 
+
+	The restrictions and obligations under this Section will survive expiration or termination of this Agreement for any reason.] 
+  
+12.15	Undocumented Workers.  The Immigration and Nationality Act (8  Code 1324a) (“Immigration Act”) makes it unlawful for an employer to hire or continue employment of undocumented workers. The United States Immigration and Customs Enforcement Service has established the Form I-9 Employment Eligibility Verification Form (“I-9 Form”) as the document to be used for employment eligibility verification (8 Code of Federal Regulations 274a). Among other things, Contractor is required to: (1) have all employees complete and sign the I-9 Form certifying that they are eligible for employment; (2) examine verification documents required by the I-9 Form to be presented by the employee and ensure the documents appear to be genuine and related to the individual; (3) record information about the documents on the I-9 Form, and complete the certification portion of the I-9 Form; and (4) retain the I-9 Form as required by law. It is illegal to discriminate against any individual (other than a citizen of another country who is not authorized to work in the ) in hiring, discharging, or recruiting because of that individual's national origin or citizenship status. If Contractor employs unauthorized workers during performance of this Agreement in violation of the Immigration Act then, in addition to other remedies or penalties prescribed by law, University may terminate this Agreement in accordance with Section 8. Contractor represents and warrants that it is in compliance with and agrees that it will remain in compliance with the provisions of the Immigration Act. 
+
+12.16	Responsibility for Individuals Performing Services; Criminal Background Checks. Each individual who is assigned to perform the Services under this Agreement will be an employee of Contractor or an employee of a subcontractor engaged by Contractor. Contractor is responsible for the performance of all individuals performing the Services under this Agreement. Prior to commencing the Services, Contractor will (1) provide University with a list ("List") of all individuals who may be assigned to perform the Services, and (2) have an appropriate criminal background screening performed on all the individuals on the List. Contractor will determine on a case-by-case basis whether each individual assigned to perform the Services is qualified to provide the services. Contractor will not knowingly assign any individual to provide services who has a history of criminal conduct unacceptable for a university campus or healthcare center, including violent or sexual offenses. Contractor will update the List each time there is a change in the individuals assigned to perform the Services. 
+ 
+Prior to commencing performance of the Services under this Agreement, Contractor will provide University a letter signed by an authorized representative of Contractor certifying compliance with this Section. Contractor will provide University an updated certification letter each time there is a change in the individuals on the List. ]
+
+12.17	Certification regarding Business with Certain Countries and Organizations. Pursuant to Subchapter F, Chapter 2252, Texas Government Code, Contractor certifies Contractor is not engaged in Business with Iran, Sudan, or a foreign terrorist organization. Contractor acknowledges this Agreement may be terminated and payment withheld if this certification is inaccurate.
+
+12.18	Contractor Certification regarding COVID-19 Vaccination.  Pursuant to Section 161.0085, Texas Health and Safety Code (enacted by SB 968, 87th Texas Legislature, Regular Session (2021)), Contractor certifies that it does not require a customer to provide any documentation certifying the customer's COVID-19 vaccination or post-transmission recovery on entry to, to gain access to, or to receive service from Contractor’s business. Contractor acknowledges this Agreement may be terminated and payment withheld if this certification is inaccurate.
+
+12.19	Federal Requirements for Telecommunications Equipment or Services. Contractor represents that it will not provide covered telecommunications equipment or services, as defined in 2 CFR § 200.216, to University in the performance of this Agreement or any contract, subcontracts, or other contractual instrument resulting from this Agreement. In the event Contractor identifies covered telecommunications equipment or services, as defined in 2 CFR §200.216, used as a substantial or essential component of any system, or as critical technology as part of any system, during performance of this Agreement, or Contractor is notified of such by a subcontractor at any tier or by any other source, Contractor shall report information about the contract, equipment item, and mitigation measures to University within one (1) business day, and provide University with an update within ten (10) business days that includes measures to prevent recurrence. 
+
+12.20	Debarment and Suspension. Under Presidential Executive Order 12549 and Executive Order 12689, The University of Texas at Austin may not contract with parties listed on the governmentwide Excluded Parties List System in the General Services Administration's System for Award Management (SAM). SAM identifies (via active exclusions) entities that have been debarred, suspended, or excluded from receiving federal contracts, subcontracts, or federal assistance and benefits. In compliance with the Code of Federal Regulations (CFR) Section 180.300, the university includes suspension/debarment provisions in its purchase orders. By accepting the university’s purchase order, the supplier is certifying that, to the best of its knowledge, the supplier and/or any of its principals are not suspended or debarred. Contractor certifies that it is not subject to debarment or suspension by the U.S. government and the Texas government. Further, Contractor certifies that it is not subject to a vendor hold by the State of Texas. Contractor certifies that it is not subject to debarment or suspension by the Texas Comptroller.
+
+12.21	Cybersecurity Training Program. If Contractor has access to University’s computer(s), then, pursuant to Section 2054.5192, Texas Government Code, Contractor and its subcontractors, officers, and employees must complete a cybersecurity training program certified under Section 2054.519, Texas Government Code and selected by the University.  The cybersecurity training program must be completed by Contractor and its subcontractors, officers, and employees during the term and any renewal period of this Agreement.  Contractor shall verify completion of the program to the University.
+
+[OPTIONAL:  Include the following provision if Contractor will be granted direct or remote access to or control of critical infrastructure, including communication infrastructure systems, cybersecurity systems, electric grid, hazardous waste treatment systems, or water treatment facilities: 
+12.22	Contractor Certification Relating to Critical Infrastructure.  Pursuant to Chapter 2275, Texas Government Code (enacted by SB 2116, 87th Texas Legislature, Regular Session (2021), Contractor certifies (A) it is neither owned by nor is the majority of stock or other ownership interest of the Contractor held or controlled by (i) individuals who are citizens of China, Iran, North Korea, Russia, or a country designated by the Governor of Texas as a threat to critical infrastructure under Section 2275.0103 of the Texas Government Code (a “designated country”) or (ii) a company or other entity, including a governmental entity, that is owned or controlled by citizens of or is directly controlled by the government of China, Iran, North Korea, Russia, or a designated country; and (B) it is not headquartered in China, Iran, North Korea, Russia, or a designated country.  Contractor understands that the prohibitions set forth in the preceding sentence apply regardless of whether (1) Contractor’s or its parent company's securities are publicly traded or (2) Contractor or its parent company is listed on a public stock exchange as either (a) a Chinese, Iranian, North Korean, or Russian company or (b) a company of a designated country. Contractor acknowledges that this Agreement may be terminated and payment withheld if this certification is inaccurate.]
+
+12.23	Certification Required by Texas Governor Executive Order GA-48. Contractor certifies that during the entire length of the agreement, neither Contractor nor any of its holding companies or subsidiaries are: 
+
+Listed in Section 889 of the 2019 National Defense Authorization Act (NDAA); or
+Listed in Section 1260H of the 2021 NDAA; or
+Owned by the government of a country on the U.S. Department of Commerce's foreign adversaries list under 15 C.F.R. § 791.4; or
+Controlled by any governing or regulatory body located in a country on the U.S. Department of Commerce's foreign adversaries list under 15 C.F.R. § 791.4.
+
+Contractor agrees to notify University immediately of any change of its status as it relates to this certification. Contractor also acknowledges that this Agreement may be terminated by University immediately if Contractor does not comply with this requirement or this Section. Contractor agrees that this certification will apply to all agreements that were based upon a bid or proposal for goods or services submitted by Contractor to the University.
+
+
+University and Contractor have executed and delivered this Agreement to be effective as of the Effective Date.
+
+<Insert Contractor’s complete legal name>		The  of  at 
+
+
+By:								By:					
+
+Name:								     Linda Shaunessy
+
+Title:								     Business Contracts Administrator
+
+Date:								Date:					
+
+Attached:
+Exhibit A – Statement of Work
+Exhibit B – Payment for Services
+Exhibit C – Employee/Independent Contractor Classification Checklist 
+Exhibit A
+Statement of Work
+
+This is your opportunity, in a legally binding document, to inform the Contractor of its obligations and your expectations.  University and Contractor will refer to this Statement of Work in order to determine what is required to justify the compensation outlined in Exhibit B.
+
+Your department is entering into this Agreement in order to obtain the Contractor’s expertise and services.  Since Contractor is the expert, it is not necessary to include every possible detail relating to the project.  However, this Statement of Work should contain sufficient detail regarding the services and/or deliverables to insure that your department receives what it is expecting.  Keep in mind that the Agreement and this Statement of Work will be used to resolve any disputes.
+-   -   -   -   -   -   -
+[Optional.  Include the following provision if an RFP or other bid document was issued.  
+
+Notwithstanding any other provision in this Agreement, Contractor’s performance of the Services will (1) conform to the specifications and requirements of that certain Request for Proposal related to ________________ for The University of Texas at Austin, RFP No. _____________ (the “RFP”), which is incorporated by reference for all purposes, and (2) to the extent consistent with the RFP, will conform with Contractor’s proposal, dated _________ (“Contractor’s Proposal”) which was submitted by Contractor in response to the RFP and is incorporated by reference for all purposes.  To the extent that the RFP or Contractor’s Proposal conflict with the terms of this Agreement, the terms of this Agreement will control.]
+
+
+I. Project: Insert a brief statement regarding the history and/or objective of this project.
+
+This section provides the Contractor and interested third parties with a broad overview of your department’s objective. (“the Project”.)
+-   -   -   -   -   -   -
+
+II. Services and/or Deliverables.  Contractor will provide the following services and/or deliverables in support of the Project:
+
+The services to be provided by the Contractor may be divided into major phases (deliverables, tasks, items, etc).  Each phase (deliverable, task, item, etc) may then be subdivided into important requirements within each phase.  Consideration should be given to the inclusion of due dates for each.
+
+THIS IS AN EXAMPLE ONLY.  Please contact the Business Contracts Office if you have questions on how to structure the Statement of Work.
+
+Example:
+Deliverable 1:  Insert description of major phase.  Insert due date.
+	1.1  Insert description of components applicable to completing this phase.
+	1.2  etc….
+
+Exhibit B
+Payment for Services
+
+This Exhibit B should correspond with the services to be provided in Exhibit A.  If you use deliverables (tasks or items) in Exhibit A, assign a specific dollar amount for the successful completion of the deliverable.  If paying an hourly rate, list the maximum number of hours permitted to successfully complete the specific deliverable.
+
+SERVICE FEES:  University will compensate Contractor for successful completion of each deliverable (task, item, etc), outlined in Exhibit A, as follows: 
+
+THIS IS AN EXAMPLE OF PAYMENT STRUCTURE.  Please contact the Business Contracts Office if you have questions on how to structure the payment schedule.
+
+EXAMPLES:
+
+Deliverable 1: $__________		or	Phase 1:  $___ per hour, maximum ___ hours
+Deliverable 2: $__________		or	Phase 2:  $___ per hour, maximum ___ hours
+
+Or
+
+	Flat fee of $			upon completion of the project.
+
+[OPTIONAL: Include the following if Contractor is paid on hourly fee basis.
+Contractor agrees to furnish efficient business administration and coordination and perform the services in an expeditious and economical manner consistent with the interests of University.]
+
+Notwithstanding the foregoing, the cumulative amount of Service Fees remitted by University to Contractor will not exceed $_______________ (“Fee Cap”) without the prior written approval of University.
+
+[Delete the following Expenses and Disbursements section if not applicable.]
+
+Expenses and disbursements:  Contractor will be reimbursed without mark-up for reasonable expenses, including meals (when traveling from _____________ to the _______________ area), lodging (when traveling to the ______________ area), and coach class airfare for travel to the _______________ area, validly incurred directly and solely in support of the Services and approved by University in advance.  Contractor and University anticipate ____________ (___) trips by Contractor to ___________________.  Provided, however, Contractor agrees and acknowledges that Contractor will be subject to The University of Texas at Austin Handbook of Business Procedures Travel Reimbursements Section 11.5 at http://www.utexas.edu/business/accounting/hbp/11_trav/trav5-1.html with regard to meals, lodging, mileage and all other expenses related to travel.  Further, Contractor agrees and acknowledges that Contractor will not be reimbursed by University for expenses which are prohibited or which exceed the allowable amounts set forth in the Handbook of Business Procedures.  As a condition precedent to receiving reimbursement for expenses and disbursements, Contractor will submit to University receipts, invoices, and other documentation as required by University. Notwithstanding the foregoing, reimbursement for expenses and disbursements will not exceed a maximum of $_____________ (“Expense Cap”) without the prior written approval of University.
+
+The Fee Cap and the Expense Cap are sometimes collectively referred to as the “Contract Amount.”  The total Contract Amount will not exceed $___________ [Insert the total of the Service Fees + Expenses and Disbursements.].
+
+INVOICING:  [Choose one paragraph and delete the other.]
+
+Upon completion of a deliverable (task, item, etc) and acceptance by University, Contractor will submit an invoice setting forth amounts due to Contractor.  Each invoice will be accompanied by documentation that University may reasonably request to support the invoice amount.  University will, within thirty (30) days from the date it receives an invoice and supporting documentation, approve or disapprove the amount reflected in the invoice. If University approves the amount or any portion of the amount, University will promptly pay to Contractor the amount approved so long as Contractor is not in default under this Agreement. If University disapproves any invoice amount, University will give Contractor specific reasons for its disapproval in writing.  Contractor will submit invoices to University as follows:
+
+	[Insert University contact name and complete address.]
+
+OR
+
+[Use the following if Contractor is paid on an hourly or flat fee basis.]
+Contractor will submit monthly invoices to University. The invoices must be accompanied by a Time/Work Schedule for each Contractor employee contributing to hours billed.  
+
+The Time/Work Schedule will contain the following information:
+A. Name of individual performing the work;
+B. Description of work performed and related Objective in Exhibit A; and
+C. Date and number of hours worked.
+
+Each invoice will be accompanied by documentation that University may reasonably request to support the invoice amount.  University will, within thirty (30) days from the date it receives an invoice and supporting documentation, approve or disapprove the amount reflected in the invoice. If University approves the amount or any portion of the amount, University will promptly pay to Contractor the amount approved so long as Contractor is not in default under this Agreement. If University disapproves any invoice amount, University will give Contractor specific reasons for its disapproval in writing.  Contractor will submit invoices to University as follows:
+
+	[Insert University contact name and complete address.]
+
+
+Exhibit C
+Employee/Independent Contractor Classification Checklist
+
+
+Department Instructions:
+
+Go to http://www.utexas.edu/business/accounting/pubs/eiccc.pdf, complete the information, print form, sign, and attach to this Agreement as “Exhibit C.”

@@ -1,0 +1,132 @@
+Instructions and Guidelines for Use:
+
+This Agreement may be used for the procurement of services when a Purchase Order cannot be used and it is prudent to detail the services in a Statement of Work (see Exhibit A).  PLEASE NOTE THAT ALL PROCUREMENT PROCEDURES MUST BE FOLLOWED PRIOR TO USING THIS AGREEMENT.  See Summary of Purchasing Authority at http://www.utexas.edu/admin/purchasing/fhdbk.html#authority.
+
+Once you have completed the requested information, please delete the highlights for fill-in information and instructions in red text before printing the agreement. 
+
+When you are ready to submit the Agreement for review, approval and signature, please refer to the “Procedure for Submitting Business Contracts” at http://www.utexas.edu/business/vp/contracts_agreements/contract_procedure.html.
+
+Please call the Business Contracts Office at 471-4412 if you have any questions about the use of this template for your specific arrangement or the information requested within the template.
+
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   
+
+SERVICES AGREEMENT
+
+
+This Agreement between University and Contractor (“Agreement”) is made and entered into by and between The University of Texas at Austin, an agency and institution of higher education established under the laws of the State of Texas (“University”), for and on behalf of the ____________ (insert College/School and/or budgeted department name) (“Department”), and _______________ (insert legal name of Contractor), a _______________ (insert type of business structure such as corporation, limited liability company, or partnership) with its principal place of business at ___________, (insert street address, city, state, zip code) Tax ID Number __________(Tax ID Number) (“Contractor”).
+
+University and Contractor hereby agree as follows:
+
+1.	Contractor Services.
+
+Contractor will provide the services as set forth in Exhibit A, Statement of Work, attached hereto and incorporated for all purposes (“the Services”), to the satisfaction of University. 
+
+2.	Compensation.
+
+University will compensate Contractor for services in accordance with Exhibit B, Payment for Services.  Total compensation to Contractor will not exceed _____ (insert written amount) dollars ($_____ (insert numerical amount)) (including any travel expenses), (note: this amount should be inclusive of all fees and expenses, including any travel expense) for the term of the Agreement. Payment for services performed will be processed within thirty (30) days of receipt and approval of invoice in accordance with Exhibit B.
+
+3.		Term.
+
+This Agreement is effective as of the later of (Insert month/day/year) or date the agreement is fully executed by both parties (“Effective Date”) and will terminate on (Insert month/day/year) unless earlier terminated in accordance with Section 6 of The University of Texas at Austin Service Agreement Terms and Conditions. [OPTIONAL:  The following renewal term may be incorporated if a renewal option was included in the original bid specification.  University will have the option to renew this Agreement for  	  (  ) additional ___ (  ) year terms.]
+
+4.	Governing Terms and Conditions.
+
+This Agreement is governed by The University of Texas at Austin Service Agreement Terms and Conditions, incorporated by reference, and found at: https://utexas.box.com/s/7fnckfmdtp1azkziwswlo9e8fic83q0m.
+ 
+
+
+
+University and Contractor have executed and delivered this Agreement to be effective as of the Effective Date.
+
+<Insert Contractor’s complete legal name>		The  of  at 
+
+
+By:								By:					
+
+Name:								     Linda Shaunessy
+
+Title:								     Business Contracts Administrator
+
+Date:								Date:					
+
+Attached:
+Exhibit A – Statement of Work
+Exhibit B – Payment for Services
+Exhibit A
+Statement of Work
+
+This is your opportunity, in a legally binding document, to inform the Contractor of its obligations and your expectations.  University and Contractor will refer to this Statement of Work in order to determine what is required to justify the compensation outlined in Exhibit B.
+
+Your department is entering into this Agreement in order to obtain the Contractor’s expertise and services.  Since Contractor is the expert, it is not necessary to include every possible detail relating to the project.  However, this Statement of Work should contain sufficient detail regarding the services and/or deliverables to insure that your department receives what it is expecting.  Keep in mind that the Agreement and this Statement of Work will be used to resolve any disputes.
+-   -   -   -   -   -   -
+[Optional.  Include the following provision if an RFP or other bid document was issued.  
+
+Notwithstanding any other provision in this Agreement, Contractor’s performance of the Services will (1) conform to the specifications and requirements of that certain Request for Proposal related to ________________ for The University of Texas at Austin, RFP No. _____________ (the “RFP”), which is incorporated by reference for all purposes, and (2) to the extent consistent with the RFP, will conform with Contractor’s proposal, dated _________ (“Contractor’s Proposal”) which was submitted by Contractor in response to the RFP and is incorporated by reference for all purposes.  To the extent that the RFP or Contractor’s Proposal conflict with the terms of this Agreement, the terms of this Agreement will control.]
+
+
+I. Project: Insert a brief statement regarding the history and/or objective of this project.
+
+This section provides the Contractor and interested third parties with a broad overview of your department’s objective. (“the Project”.)
+-   -   -   -   -   -   -
+
+II. Services and/or Deliverables.  Contractor will provide the following services and/or deliverables in support of the Project:
+
+The services to be provided by the Contractor may be divided into major phases (deliverables, tasks, items, etc).  Each phase (deliverable, task, item, etc) may then be subdivided into important requirements within each phase.  Consideration should be given to the inclusion of due dates for each.
+
+THIS IS AN EXAMPLE ONLY.  Please contact the Business Contracts Office if you have questions on how to structure the Statement of Work.
+
+Example:
+Deliverable 1:  Insert description of major phase.  Insert due date.
+	1.1  Insert description of components applicable to completing this phase.
+	1.2  etc….
+
+Exhibit B
+Payment for Services
+
+This Exhibit B should correspond with the services to be provided in Exhibit A.  If you use deliverables (tasks or items) in Exhibit A, assign a specific dollar amount for the successful completion of the deliverable.  If paying an hourly rate, list the maximum number of hours permitted to successfully complete the specific deliverable.
+
+SERVICE FEES:  University will compensate Contractor for successful completion of each deliverable (task, item, etc), outlined in Exhibit A, as follows: 
+
+THIS IS AN EXAMPLE OF PAYMENT STRUCTURE.  Please contact the Business Contracts Office if you have questions on how to structure the payment schedule.
+
+EXAMPLES:
+
+Deliverable 1: $__________		or	Phase 1:  $___ per hour, maximum ___ hours
+Deliverable 2: $__________		or	Phase 2:  $___ per hour, maximum ___ hours
+
+Or
+
+	Flat fee of $			upon completion of the project.
+
+[OPTIONAL: Include the following if Contractor is paid on hourly fee basis.
+Contractor agrees to furnish efficient business administration and coordination and perform the services in an expeditious and economical manner consistent with the interests of University.]
+
+Notwithstanding the foregoing, the cumulative amount of Service Fees remitted by University to Contractor will not exceed $_______________ (“Fee Cap”) without the prior written approval of University.
+
+[Delete the following Expenses and Disbursements section if not applicable.]
+
+Expenses and disbursements:  Contractor will be reimbursed without mark-up for reasonable expenses, including meals (when traveling from _____________ to the _______________ area), lodging (when traveling to the ______________ area), and coach class airfare for travel to the _______________ area, validly incurred directly and solely in support of the Services and approved by University in advance.  Contractor and University anticipate ____________ (___) trips by Contractor to ___________________.  Provided, however, Contractor agrees and acknowledges that Contractor will be subject to The University of Texas at Austin Handbook of Business Procedures Travel Reimbursements Section 11.5 at http://www.utexas.edu/business/accounting/hbp/11_trav/trav5-1.html with regard to meals, lodging, mileage and all other expenses related to travel.  Further, Contractor agrees and acknowledges that Contractor will not be reimbursed by University for expenses which are prohibited or which exceed the allowable amounts set forth in the Handbook of Business Procedures.  As a condition precedent to receiving reimbursement for expenses and disbursements, Contractor will submit to University receipts, invoices, and other documentation as required by University. Notwithstanding the foregoing, reimbursement for expenses and disbursements will not exceed a maximum of $_____________ (“Expense Cap”) without the prior written approval of University.
+
+The Fee Cap and the Expense Cap are sometimes collectively referred to as the “Contract Amount.”  The total Contract Amount will not exceed $___________ [Insert the total of the Service Fees + Expenses and Disbursements.].
+
+INVOICING:  [Choose one paragraph and delete the other.]
+
+Upon completion of a deliverable (task, item, etc) and acceptance by University, Contractor will submit an invoice setting forth amounts due to Contractor.  Each invoice will be accompanied by documentation that University may reasonably request to support the invoice amount.  University will, within thirty (30) days from the date it receives an invoice and supporting documentation, approve or disapprove the amount reflected in the invoice. If University approves the amount or any portion of the amount, University will promptly pay to Contractor the amount approved so long as Contractor is not in default under this Agreement. If University disapproves any invoice amount, University will give Contractor specific reasons for its disapproval in writing.  Contractor will submit invoices to University as follows:
+
+	[Insert University contact name and complete address.]
+
+OR
+
+[Use the following if Contractor is paid on an hourly or flat fee basis.]
+Contractor will submit monthly invoices to University. The invoices must be accompanied by a Time/Work Schedule for each Contractor employee contributing to hours billed.  
+
+The Time/Work Schedule will contain the following information:
+A. Name of individual performing the work;
+B. Description of work performed and related Objective in Exhibit A; and
+C. Date and number of hours worked.
+
+Each invoice will be accompanied by documentation that University may reasonably request to support the invoice amount.  University will, within thirty (30) days from the date it receives an invoice and supporting documentation, approve or disapprove the amount reflected in the invoice. If University approves the amount or any portion of the amount, University will promptly pay to Contractor the amount approved so long as Contractor is not in default under this Agreement. If University disapproves any invoice amount, University will give Contractor specific reasons for its disapproval in writing.  Contractor will submit invoices to University as follows:
+
+	[Insert University contact name and complete address.]
+
+
