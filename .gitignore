@@ -1,0 +1,129 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+env/
+ENV/
+.venv
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-debug.log*
+dist/
+dist-ssr/
+*.local
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+*.jsonl
+
+# ML Models (large files - add to git-lfs if needed)
+*.pt
+*.bin
+*.safetensors
+*.index
+*.npy
+*.pkl
+
+# Datasets (large files)
+*.pdf
+*.docx
+*.doc
+datasets/
+*.csv
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Build outputs
+build/
+dist/
+out/
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# React
+react-frontend/dist/
+react-frontend/.vite/
+frontend/dist/
+frontend/.vite/
+
+# Backend
+backend/ai_service/logs/
+backend/ai_service/results/
+backend/ai_service/__pycache__/
+backend/venv/
+
+# Frontend
+react-frontend/node_modules/
+frontend/node_modules/
+
+# Large model files (use Git LFS for these)
+backend/ai_service/models/**/*.pt
+backend/ai_service/models/**/*.bin
+backend/ai_service/models/**/*.safetensors
+backend/ai_service/indexes/*.index
+backend/ai_service/indexes/*.npy
+
+# Keep model metadata
+!backend/ai_service/models/**/*.json
+!backend/ai_service/models/**/*.txt
+!backend/ai_service/indexes/*.json
+
