@@ -1,0 +1,127 @@
+{
+  "employment": {
+    "termination": [
+      "termination", "terminate", "termination of employment",
+      "end of employment", "cessation of service", "resignation",
+      "dismissal", "fired", "layoff", "redundancy", "expiry of contract"
+    ],
+    "notice_period": [
+      "notice period", "notice", "advance notice", "days prior",
+      "written notice", "resignation notice", "termination notice",
+      "two weeks notice", "30 days notice"
+    ],
+    "obligations": [
+      "obligation", "responsibility", "shall", "duty",
+      "undertake", "commitment", "employee must", "employer must"
+    ],
+    "probation_period": [
+      "probation", "trial period", "initial period", "confirmation",
+      "probationary", "training period"
+    ],
+    "leave_policy": [
+      "leave", "holiday", "vacation", "absence",
+      "paid time off", "sick leave", "annual leave",
+      "casual leave", "earned leave", "maternity leave"
+    ],
+    "severance": [
+      "severance", "gratuity", "final settlement",
+      "redundancy payment", "exit compensation", "termination benefits"
+    ],
+    "non_compete": [
+      "non-compete", "non solicitation", "restrictive covenant",
+      "restraint of trade", "competition restriction"
+    ],
+    "confidentiality": [
+      "confidential", "non-disclosure", "privacy", "secrecy",
+      "company information", "trade secret", "proprietary"
+    ]
+  },
+  "rental": {
+    "rent_terms": [
+      "rent", "monthly rent", "lease amount", "license fee",
+      "tenancy amount", "rent payable"
+    ],
+    "rent_increment": [
+      "rent increase", "rent escalation", "annual increment",
+      "yearly increase", "rent hike"
+    ],
+    "security_deposit": [
+      "security deposit", "advance deposit", "refundable deposit",
+      "caution deposit", "rental deposit"
+    ],
+    "maintenance": [
+      "maintenance", "repair", "utilities",
+      "electricity bill", "water charges", "maintenance charges",
+      "common area maintenance", "CAM"
+    ],
+    "property_usage": [
+      "sublet", "commercial use", "residential only",
+      "usage restriction", "permitted use", "occupancy"
+    ],
+    "termination": [
+      "termination", "vacate", "end of tenancy",
+      "eviction", "lease expiry", "surrender possession"
+    ]
+  },
+  "nda": {
+    "confidentiality": [
+      "confidential", "non-disclosure", "privacy", "secrecy",
+      "proprietary information", "restricted information"
+    ],
+    "nda_exclusions": [
+      "exclusions", "not confidential", "public domain",
+      "independently developed", "already known"
+    ],
+    "confidentiality_duration": [
+      "confidentiality period", "term of confidentiality",
+      "duration of secrecy", "period of confidentiality",
+      "timeframe for confidentiality"
+    ],
+    "return_of_materials": [
+      "return of materials", "destruction of materials",
+      "return documents", "destroy confidential", "hand over documents"
+    ],
+    "intellectual_property": [
+      "intellectual property", "IP rights", "ownership",
+      "patent", "copyright", "trademark"
+    ]
+  },
+  "service": {
+    "scope_of_work": [
+      "scope of work", "services", "deliverables",
+      "responsibilities", "statement of work", "SOW"
+    ],
+    "service_levels": [
+      "service level", "SLA", "uptime", "response time",
+      "performance standards", "availability"
+    ],
+    "payment_terms": [
+      "payment", "fees", "compensation", "remuneration",
+      "charges", "billing", "invoice"
+    ],
+    "warranties": [
+      "warranty", "guarantee", "representation",
+      "assurance", "service warranty"
+    ],
+    "indemnity": [
+      "indemnity", "indemnify", "hold harmless",
+      "liability", "compensate for damages"
+    ],
+    "limitation_of_liability": [
+      "limitation of liability", "liability cap",
+      "maximum liability", "limit damages"
+    ],
+    "force_majeure": [
+      "force majeure", "act of god", "natural disaster",
+      "war", "pandemic", "unforeseen event"
+    ],
+    "dispute_resolution": [
+      "dispute", "arbitration", "conciliation",
+      "mediation", "litigation", "court proceedings"
+    ],
+    "governing_law": [
+      "governing law", "jurisdiction", "courts of",
+      "arbitration rules", "applicable law"
+    ]
+  }
+}
