@@ -200,14 +200,20 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. **Download ML Models**
-   - Ensure `legalbert_clause_classifier` model is in `backend/ai_service/models/`
-   - Ensure `legal_t5_summarizer` model is in `backend/ai_service/models/`
-   - Ensure `legalbert_judgment_finetuned` model is in `backend/ai_service/models/`
+4. **Download ML Models from Hugging Face**
+   The fine-tuned model weights are hosted on Hugging Face:
+   - [aryanketkar02/lexsaksham-legalbert-clause-classifier](https://huggingface.co/aryanketkar02/lexsaksham-legalbert-clause-classifier)
+   - [aryanketkar02/lexsaksham-legal-t5-summarizer](https://huggingface.co/aryanketkar02/lexsaksham-legal-t5-summarizer)
+   - [aryanketkar02/lexsaksham-legalbert-judgment-finetuned](https://huggingface.co/aryanketkar02/lexsaksham-legalbert-judgment-finetuned)
+
+   You can download all models automatically with one command:
+   ```bash
+   python scripts/download_models_from_hf.py
+   ```
 
 5. **Set up FAISS Index**
-   - Place `judgments.index` in `backend/ai_service/indexes/`
-   - Place `judgments_meta.json` in `backend/ai_service/indexes/`
+   - Place `supreme_judgment_index.faiss` / `judgments.index` in `backend/ai_service/indexes/` (included in repository)
+   - Place `judgments_meta.json` in `backend/ai_service/indexes/` (included in repository)
 
 6. **Configure Environment Variables**
 ```bash
@@ -508,6 +514,7 @@ For complete API documentation, see [API_DOC.md](./API_DOC.md)
 
 ### 1. **Legal-BERT Classifier**
 
+- **Hugging Face Hub**: [`aryanketkar02/lexsaksham-legalbert-clause-classifier`](https://huggingface.co/aryanketkar02/lexsaksham-legalbert-clause-classifier)
 - **Model**: Fine-tuned Legal-BERT for clause classification
 - **Task**: Multi-class classification (25+ clause types)
 - **Input**: Clause text (max 512 tokens)
@@ -523,6 +530,7 @@ For complete API documentation, see [API_DOC.md](./API_DOC.md)
 
 ### 2. **T5 Summarizer**
 
+- **Hugging Face Hub**: [`aryanketkar02/lexsaksham-legal-t5-summarizer`](https://huggingface.co/aryanketkar02/lexsaksham-legal-t5-summarizer)
 - **Model**: Fine-tuned T5-base for legal text summarization
 - **Task**: Text-to-text generation (summarization)
 - **Input**: Complex legal clause
@@ -537,6 +545,7 @@ For complete API documentation, see [API_DOC.md](./API_DOC.md)
 
 ### 3. **Sentence-BERT / Judgment Embedding Model**
 
+- **Hugging Face Hub**: [`aryanketkar02/lexsaksham-legalbert-judgment-finetuned`](https://huggingface.co/aryanketkar02/lexsaksham-legalbert-judgment-finetuned)
 - **Model**: Fine-tuned Legal-BERT for semantic embeddings
 - **Task**: Text-to-vector conversion
 - **Input**: Judgment text or query
