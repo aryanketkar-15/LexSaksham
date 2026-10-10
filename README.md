@@ -209,6 +209,8 @@ pip install -r requirements.txt
    You can download all models automatically with one command:
    ```bash
    python scripts/download_models_from_hf.py
+   # Or from the project root:
+   # python download_models.py
    ```
 
 5. **Set up FAISS Index**
