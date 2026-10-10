@@ -1,0 +1,767 @@
+  
+ 
+Professional Services Agreement 
+ 
+THIS PROFESSIONAL SERVICES AGREEMENT (this “Agreement”)  is made by and 
+between Cornell University, a New York not-for-profit education corporation, (“Cornell”) on behalf of its 
+____________________________________________________________________ (“College/Unit”), 
+and ____________________________________________________________________ (“Consultant”) 
+as of the Effective Date.  
+ 
+For good and valuable consideration, the parties agree as follows: 
+ 
+1. 
+General Purpose. The general purpose of this Agreement is to engage the services of Consultant 
+to perform the services and provide the deliverables described in Schedule A (the “Services” or “Scope of 
+Services”). The surrounding facts and circumstances are more fully set out in the attached: 
+Schedule A (Scope of Services), Schedule B (Project Timetable and Task Description), Schedule C 
+(Payment Amount and Schedule), Schedule D (Consultant’s Personnel), and Appendix 1 (Insurance 
+Requirements), all of which are incorporated by this reference. 
+ 
+2. 
+General Duties of Consultant.  
+ 
+2.1 
+Consultant shall perform the Services in accordance with the attached Schedules and in 
+accordance with professional standards for performing services of a similar kind. Consultant warrants that 
+all persons assigned by Consultant to the performance of this Agreement (or any specified subcontractor) 
+are fully qualified to perform the Services required. Cornell has assigned a representative (“Cornell’s 
+Representative”) to provide direction to Consultant with respect to the Services. Consultant’s personnel 
+who will perform the Services are listed in Schedule D. Consultant may not replace or reassign such 
+personnel without the prior written consent of Cornell’s Representative. If applicable, Consultant shall 
+replace personnel with a person having at least equivalent experience and qualifications. Cornell shall 
+have the right to review and approve such replacement personnel. 
+2.2 
+Subject to Section 2.1 above, Consultant may assign the performance of any portion of the 
+Services to a subcontractor; provided that Consultant shall be fully responsible for any and all acts and 
+omissions of any subcontractor in connection with the performance of this Agreement. All terms, 
+conditions and requirements of this Agreement will apply without qualification to any services performed 
+or goods provided by any subcontractor. 
+ 
+3. 
+Period of Performance. Consultant agrees that all Services provided under this Agreement shall 
+commence on ________________, 20____ and be completed no later than ________________, 20____ 
+(the “Term”). Consultant shall adhere to the timetable in Schedule B unless such period is otherwise 
+extended by Cornell in writing. Consultant shall be responsible to Cornell for any damage caused by its 
+failure to comply with the timetable. 
+ 
+4. 
+Compensation. Subject to the terms and conditions of this Agreement, Cornell shall pay 
+Consultant an amount not to exceed $____________________ in exchange for the Services. The schedule 
+of payments is contained in Schedule C. Consultant shall submit all invoices to Cornell Accounts 
+Payable, 377 Pine Tree Road, Ithaca, NY 14850 or emailed to dfa-4040_invoice@cornell.edu, referencing 
+the purchase order number. Notwithstanding any other provisions of this Agreement, the total amount 
+payable by Cornell for the Services will be determined by applying the stated rate of compensation to the 
+services actually performed by Consultant. Consultant will not render the Services and Cornell will not be 
+required to pay for any services in excess of the amount stipulated above, unless Consultant has first 
+secured prior written approval from Cornell through a contract amendment. 
+ 
+
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+2 
+5.
+Payment Terms. Consultant shall be paid after Cornell’s receipt from Consultant of properly
+prepared invoices in accordance with Cornell’s invoicing instructions as further set forth below in this
+Section. Cornell may make adjustments to Consultant’s invoice due to shortages, rejection, or other
+failure to comply with the provisions of this Agreement. Discount periods, if any, shall commence after
+the latest of final acceptance, delivery, receipt of any required documentation, or receipt of invoice.
+Delays in receiving the invoice, errors or omissions on the invoice, or lack of supporting documentation
+required by the terms of this Agreement will be cause for withholding settlement without losing prompt
+payment discount privilege. Invoices must be accompanied by transportation receipt if transportation is
+payable as a separate item. Consultant shall submit an original invoice to Cornell promptly after each
+shipment, if applicable, in accordance with the instructions on the purchase order. If Consultant elects to
+use paper or email invoices, all payments are due either (i) within sixty (60) days following Cornell’s
+receipt of the invoice if receiving check payments, or (ii) forty-five (45) days following Cornell’s receipt
+of the invoice if Consultant is enrolled to receive direct deposit payments. If Consultant elects to register
+for electronic invoicing and direct deposit payments through the Automated Clearing House (ACH), then
+all payments are due Net 30 days after the receipt of invoice.
+6.
+Tax Withholding for Domestic and Foreign Consultants. All payments from Cornell to
+Consultant under this Agreement may be subject to tax withholding. Cornell reserves the sole right and
+discretion to withhold tax where it believes it is required to do so under the tax laws of any jurisdiction.
+By accepting this Agreement, the Consultant is relinquishing all claims against Cornell for any amounts
+withheld and remitted by Cornell to a tax authority. It is the Consultant’s sole responsibility to provide
+Cornell with timely, complete, accurate, and legible forms and/or documents necessary to claim a
+reduction or elimination of withholding taxes (e.g., Form W-8BEN). Cornell reserves the sole right and
+discretion to make the determinations as well as whether such forms and/or documents are sufficient to
+reduce or eliminate withholding tax on any payment to the Consultant.
+7.
+Independent Contractor Status. Consultant is an independent contractor and not an employee,
+partner, or joint venturer of Cornell. Consultant is not an agent of Cornell, nor is it authorized to transact
+business, enter into agreements, or otherwise make commitments on behalf of Cornell, unless expressly
+authorized in writing by an authorized representative of Cornell. Cornell will not pay or withhold federal,
+state, or local income tax or other payroll tax of any kind on behalf of Consultant or its employees.
+Consultant is not eligible for, not entitled to, and shall not participate in any of Cornell’s pension, health,
+or other benefit plans. Consultant is solely responsible for the payment of all required payroll taxes,
+whether federal, state, or local in nature, including, but not limited to income taxes, Social Security taxes,
+Federal Unemployment Compensation taxes, and any other fees, charges, licenses, or payments required
+by law.
+8.
+Use of Cornell Data. Cornell shall retain, as between the parties, exclusive ownership of all data,
+material, books, records, and information in any format or medium (including provided orally) submitted
+or made available to Consultant by Cornell or by any other person acting on behalf of Cornell
+(collectively, “Cornell Data”), unless otherwise publicly available. Subject to terms and conditions
+contained in Section 11. Intellectual Property, Consultant is granted a limited, non-transferable, non-
+sublicensable, nonexclusive license to use such Cornell Data solely for the purpose of performing its
+obligations under this Agreement. Consultant will provide access to Cornell Data only to those Consultant
+employees, subcontractors and agents who need to access the data to fulfill Consultant’s obligations under
+this Agreement. Consultant shall not access or use Cornell Data to create aggregated or de-identified
+data nor use Cornell Data as training data in generative artificial intelligence systems unless
+directed by Cornell. Upon expiration or termination of this Agreement, Consultant will return to Cornell
+in a readily usable format, remove, or securely delete or destroy, as directed by Cornell, all Cornell Data.
+
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+3 
+9.
+Access to Data, Response to Legal Demands or Requests for Data.
+9.1 
+Cornell shall have the right, at all times during the Term of this Agreement, to access, copy and/or 
+remove any and all Cornell Data and information from Consultant. In addition, in connection with 
+Cornell’s response to an e-discovery request or other legal proceeding, governmental request, or other a 
+claim or demand upon receipt of written request from Cornell, Consultant will provide Cornell with any 
+existing logs or other Cornell Data and information upon receipt of a written request from Cornell. 
+9.2  
+If Consultant (a) files a petition seeking to take advantage of any law relating to bankruptcy or 
+insolvency, (b) is adjudicated to be bankrupt, (c) is the subject of a petition seeking liquidation, 
+reorganization, winding-up, dissolution or adjustment of indebtedness, (d) becomes insolvent or makes an 
+assignment for the benefit of creditors, or (e) has a receiver appointed on its behalf, Consultant will return 
+in a readily usable format, remove, or destroy, as directed by Cornell, all Cornell Data and information. 
+9.3  
+Upon receipt of valid legal process (the “Legal Request”) seeking Cornell Data, Consultant will 
+attempt to redirect the requesting third party to Cornell and/or request that the third party notify Cornell of 
+its Legal Request. If Consultant’s redirecting efforts are unsuccessful, and provided Consultant is not 
+prohibited by law from doing so, Consultant will provide commercially reasonable notice to Cornell of 
+the Legal Request, prior to disclosure of any Cornell Data, which would include, to the extent permitted 
+by law, a copy of the Legal Request received by Consultant from the third party. Consultant will 
+thereafter respond to the Legal Request in the time permitted unless Cornell has taken appropriate legal 
+steps (e.g., Motion to Quash or Motion for a Protective Order) to stop or limit Consultant’s response. 
+9.4 
+If any legal process is served on Cornell to which Cornell intends to respond, then Consultant will 
+provide Cornell with access to any Cornell Data in Consultant’s possession together with any necessary 
+encryption keys. If Cornell is unable to access any Cornell Data using the tools and documentation 
+provided by Consultant, then, upon request, Consultant will provide commercially reasonable assistance 
+to enable Cornell to obtain the Cornell Data. 
+10.
+Confidentiality.
+10.1 
+Consultant shall not directly or indirectly disseminate or otherwise disclose, deliver, or make 
+available to any person outside its organization any Confidential Information (as defined below) without 
+Cornell’s prior, express, written consent or as otherwise expressly permitted by this Agreement. 
+Consultant shall protect Confidential Information with the same degree of care used to protect its own 
+proprietary or confidential information from unauthorized use or disclosure, which shall not be less than a 
+reasonable degree of care. Consultant shall use Confidential Information solely for purposes of its 
+performance of the Services and shall not use Confidential Information for any other purpose without the 
+prior written consent of Cornell. Consultant may disclose Confidential Information only to persons within 
+its organization who have a need to receive such Confidential Information in order to perform 
+Consultant’s obligations under this Agreement and who are bound by confidentiality and non-use 
+obligations with respect to the Confidential Information in a manner that is consistent with the terms of 
+this Section.  
+10.2 
+Notwithstanding the foregoing, Consultant’s obligations with respect to Confidential Information 
+shall not apply to any information that: (a) is or becomes publicly available in a manner not involving 
+Consultant’s violation of this Agreement or any other agreement to which Consultant is a party; (b) was 
+known to Consultant at the time it was disclosed, other than by previous disclosure by or on behalf of 
+Cornell, as evidenced by Consultant’s written records at the time of disclosure; (c) is independently 
+developed by Consultant outside the scope of this Agreement without use of or reference to any 
+Confidential Information; or (d) is lawfully and in good faith made available to Consultant by third 
+
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+4 
+persons without the breach of any confidentiality obligation of which Consultant is or reasonable should 
+be aware.  
+10.3 
+As used in this Agreement, the term “Confidential Information” means all information disclosed 
+by or on behalf of Cornell to Consultant in connection with this Agreement or Consultant’s performance 
+of the Services, whether orally or in writing, that is designated as confidential or that reasonably should 
+be understood to be confidential given the nature of the information and the circumstances of 
+disclosure.Confidential Information includes, without limitation, the terms of this Agreement; work 
+performed and deliverables provided by Consultant to Cornell pursuant to this Agreement; Cornell Data; 
+Cornell’s scientific, technical, trade or business information; information pertaining to Cornell’s 
+information security, physical security, network security, systems security, or staff security; Cornell’s 
+business, development, or construction needs, plans, methods, or proposals; and financial information. 
+10.4 
+If required by law or by order of a court of competent jurisdiction, then Consultant may disclose 
+Confidential Information to a governmental authority, provided that Consultant shall: (i) make reasonable 
+efforts to give Cornell notice of such requirement prior to disclosure (which must include a copy of any 
+applicable subpoena or order) in order to permit Cornell to obtain, at its own expense, protective 
+treatment of such Confidential Information and (ii) limit the disclosure only to such portion of the 
+Confidential Information that it is required by law or such court order to disclose. If Consultant breaches 
+its confidentiality obligations, Cornell shall have all rights available to it at law and in equity to enforce 
+the provisions in this Section including, but not limited to, applying to a court of competent jurisdiction 
+for specific performance and/or injunctive relief.  
+10.5 
+The obligations of this Section shall expressly survive the expiration or earlier termination of this 
+Agreement. 
+11.
+Intellectual Property.
+11.1. 
+Ownership.
+11.1.1. Cornell shall own all information, deliverables, and other work product developed, created, 
+produced, or otherwise obtained by Consultant pursuant to this Agreement. 
+11.1.2. Any copyrightable work (“Work”) developed in the course of Consultant’s performance under 
+this Agreement shall be deemed “work made for hire” under federal copyright law and all interests in 
+such Work shall belong to Cornell. To the extent any such Work does not constitute a “work made for 
+hire” under copyright law, Consultant hereby grants, transfers, assigns, and conveys to Cornell and its 
+successors and assigns the entire right, title, and interest in the Work or any part of the Work, including 
+but not limited to, the right to: reproduce, prepare derivative works, distribute by sale, license or other 
+transfer, perform publicly, display, and to secure copyrights or patents and renewals, reissues, and 
+extensions of any such copyrights or patents in the United States of America or any foreign country. 
+11.1.3. Any patentable invention conceived or reduced to practice in the course of Consultant’s 
+performance under this Agreement shall be the property of Cornell, and Cornell has the right to secure 
+patents, reissues, and extensions of the same in the United States of America or any foreign country. 
+Whether a copyright or patent in the Work will be maintained or registered in the United States of 
+America or any foreign country shall be at the sole discretion of Cornell. 
+11.1.4. Consultant agrees to cooperate fully with Cornell in the preparation and execution of all 
+documents necessary or incidental to the assignment in this Section and the protection 
+and preservation of rights herein granted to Cornell. The obligations of this Section shall 
+
+ 
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+ 
+ 
+5 
+expressly survive the expiration or earlier termination of this Agreement. 
+ 
+11.1.5. Notwithstanding the foregoing, Consultant owns and shall retain ownership to all of its pre-
+existing intellectual property, including all rights, title, and interest to inventive intellectual property 
+conceived or acquired by Consultant external to or pre-dating this Agreement consistent with U.S. patent 
+law (“Background IP”). Consultant agrees that Cornell may use Consultant’s Background IP in 
+connection with the Services. Consultant hereby grants to Cornell a perpetual, worldwide, non-exclusive, 
+non-terminable, fully transferable, royalty-free, fully paid up right and license to use any Background IP 
+incorporated into the Services or any deliverable. All Services and deliverables exclusive of Consultant’s 
+Background IP shall be owned by Cornell to the extent such remainder is functionally separable. Nothing 
+in this Agreement shall restrict Cornell from owning any ideas, concepts, know-how, techniques, or 
+experience developed by its personnel while carrying out the Services under this Agreement. This 
+Agreement does not give Consultant any rights, implied or otherwise, information, or intellectual 
+property, except as expressly stated in this Agreement.  
+ 
+11.1.6. If Consultant includes third-party owned assets in the deliverables (“Third-Party Assets”), 
+Consultant shall obtain all licenses for such Third-Party Assets from the rights holder for inclusion in the 
+deliverables. Upon Cornell’s request, Consultant will provide Cornell with the source from which it 
+obtained such Third-Party Assets and, as an alternative, Cornell may request to negotiate and obtain 
+licenses directly from the source of the Third-Party Assets if deemed necessary by Cornell. 
+ 
+11.2. 
+Non-infringement Warranty. Consultant warrants and represents that the Services and all work 
+provided under this Agreement will not infringe, individually or collectively, any patent, copyright, trade 
+secret, or other proprietary right of any third party; and Consultant has no reason to believe that any 
+patent, copyright, trade secret, or other proprietary right of any third party may be infringed by 
+Consultant’s provision of the Services and any work under this Agreement.  
+ 
+12. 
+Termination.  
+ 
+12.1 
+Termination for Convenience. Cornell may terminate this Agreement at any time without cause 
+upon thirty (30) days’ written notice to Consultant.  
+ 
+12.2 
+Termination for Cause. Either party may terminate this Agreement immediately upon notice for 
+the following reasons:  
+ 
+(i)  the other party’s non-performance or other breach of the Agreement if not cured within thirty (30) 
+days. 
+ 
+(ii) Conflict of Interest between a Cornell employee and Consultant. For purposes of this Agreement, a 
+“Conflict of Interest” may be deemed present if, in Cornell’s reasonable judgment, a Cornell employee 
+who reviews, approves, or administratively manages this Agreement and/or a member of such Cornell 
+employee’s family has a significant financial interest in the Consultant, is directly involved in performing 
+obligations under this Agreement on behalf of Consultant, or receives any personal financial advantage or 
+compensation from this transaction. In this Section, the terms “family” and “significant financial interest” 
+have the same meaning as defined in the university conflicts of interest policy. 
+ 
+(iii) In the event of any suspension of payment or the institution of any proceedings by or against the 
+other party voluntary or involuntary, in bankruptcy or insolvency, or under the provisions of the Federal 
+Bankruptcy Act, or for the appointment of a receiver or trustee or an assignee for the benefit of creditors 
+of the property of the other party.  
+ 
+
+ 
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+ 
+ 
+6 
+13. 
+Effect of Termination. In the event of termination, Consultant is obligated to provide Cornell 
+with copies of any and all Work in progress and complete Work created in the course and scope of this 
+Agreement on or before the date of termination. Except in the event of termination for cause, Consultant 
+shall be entitled to payment for Services performed to the satisfaction of Cornell prior to termination, if 
+any, and explicitly waives any right to additional or other amounts of any kind, including based on 
+quantum meruit or other similar theory. 
+ 
+14. 
+Indemnification. Consultant shall release, defend, indemnify, and hold harmless Cornell and its 
+trustees, officers, agents, and employees from all liability, suits, actions, or claims of any character, name, 
+or description including reasonable attorneys’ fees, brought on account of any injuries or damage, or loss 
+(real or alleged) received or sustained by any person, persons, or property, arising out of the Services or 
+any other work provided under this Agreement, and/or Consultant’s failure to perform or comply with any 
+requirements of this Agreement, including, but not limited to, any claims for personal injury, property 
+damage, breach of warranty, or infringement of copyright, patent, or other proprietary right. Consultant 
+indemnifies Cornell, and its agents, officers, employees and trustees, and holds each harmless against any 
+fines, damages, assessments, or attorney fees in the event a court or administrative agency shall find that 
+Consultant or anyone or entity engaged through Consultant is an employee of Cornell. Cornell reserves 
+the right to retain whatever funds which would be due to Consultant under this Agreement until such 
+suits, action or actions, claim or claims for injuries or damages as aforesaid are settled and satisfactory 
+evidence to that effect furnished. These obligations shall expressly survive the expiration or earlier 
+termination of this Agreement.  
+ 
+15. 
+Insurance.  
+ 
+15.1.  Insurance Coverages. Consultant shall procure and carry insurance to financially support 
+indemnification of Cornell as provided herein, and shall provide certificates of such insurance, upon 
+request. Annual automatic renewals of the certificate(s) of insurance must be requested from the 
+Consultant’s insurance carrier and sent to Cornell upon the annual expiration date of the insurance 
+policies. For the Term of the Agreement, Consultant shall procure, at its sole cost and expense, the 
+insurance coverages in Appendix 1, Insurance Requirements. 
+ 
+15.2.  Other Insurance-Related Requirements. 
+ 
+15.2.1. The limits of insurance stated in Appendix 1 for each type of insurance are minimum limits only; 
+if any policy provided by Consultant provides limits greater than those stated, then the additional insureds 
+will be entitled to the full limits of such policy and this Agreement shall be deemed to require such full 
+limits. Except with respect to Professional Liability, all policies shall contain a waiver of subrogation. 
+Consultant shall be responsible for all deductibles under its policies and all defense costs if its policies do 
+not cover such expenses. 
+ 
+15.2.2. All policies required to be maintained shall be issued by an insurance company licensed or 
+authorized to do business in New York State with a rating of A- VII or better by A.M. Best. 
+ 
+15.2.3. All contractors and subcontractors used by the Consultant to provide Services under this 
+Agreement shall be required to comply with the insurance requirements in this Agreement. 
+ 
+15.2.4. Insurance coverage in the minimum amounts shall not relieve the Consultant or any of its 
+subcontractors of any liability, nor shall it preclude Cornell from exercising any rights or taking such 
+other actions as are available to it under the law. 
+ 
+
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+7 
+15.2.5. A Certificate of Insurance is required evidencing all coverages outlined above prior to 
+commencement of work. Further, each policy shall contain provisions giving Cornell at least 30 days 
+written (10 days in the case of non-payment) notice of cancellation, non-renewal, or other change in 
+coverage. 
+15.2.6. Cornell reserves the right to require additional coverage or to increase limits depending upon the 
+liability exposure in the scope of work in this Agreement. 
+15.2.7. Cornell’s failure to enforce these requirements shall not be considered a waiver of the 
+requirements. Any changes to these requirements shall only be made in writing and agreed upon by all 
+parties. 
+15.2.8.  Consultant shall not do or permit anything to be done that would invalidate the insurance policies 
+required herein. 
+16.
+Compliance with Applicable Laws and University Policies. The Consultant is subject to 
+applicable Cornell University regulations and policies, and all applicable federal, state, and local laws and 
+regulations. Further, Consultant, its employees, contractors and agents shall act at all times in a 
+professional and ethical manner, and shall not engage in harassing, retaliatory, or discriminatory behavior 
+of any kind. If Consultant violates any of these obligations or otherwise engages in behavior on Cornell 
+property that is considered to be detrimental to students or Cornell, or for any other reason in Cornell’s 
+sole discretion, Cornell shall have the right to terminate this Agreement without prior notice. Prior to 
+gaining access to Cornell’s facilities in order to perform Services, Consultant personnel will execute 
+Cornell’s document(s) required for access privileges and at all times act in compliance with Cornell’s 
+policies and procedures. Consultant and all individuals assigned by Consultant to a project under this 
+Agreement must comply with Cornell policies.
+17.
+Equal Employment Opportunity. If Consultant is a federal subcontractor for Cornell, upon 
+request Consultant will provide to Cornell a copy of its written polic(ies) or other documentation to 
+comply with Section 503 of the Rehabilitation Act of 1973 (Section 503) and the Vietnam Era Veterans 
+Readjustment Assistance Act (VEVRAA) and implementing federal regulations.
+18.
+Advertisement. Consultant may not use the name Cornell or any variation of the Cornell name, 
+including logos and trademarks of any kind, or those of any of Cornell’s colleges, divisions, departments, 
+or programs, for advertising or publicity purposes without first obtaining the written consent of Cornell in 
+each instance.
+19.
+Inspection and Right to Audit. Cornell shall at all times have access to review the ongoing work 
+of Consultant for purposes of inspecting the same and determining that the Services are being performed 
+in accordance with the terms of this Agreement. Throughout the Term of this Agreement, and for a period 
+of three years after the later of final payment, expiration or termination, or longer if required by law, 
+Cornell, at its own expense, shall be entitled to perform, or to have performed by a third party of Cornell’s 
+choosing, during normal business hours and upon ten (10) days’ notice, an on-site audit of any and all 
+relevant records of Consultant necessary to permit Cornell to evaluate and verify Consultant’s compliance 
+with the requirements of this Agreement. Consultant grants Cornell permission to view and/or copy any 
+books, documents, records, data, and information (including data and information stored in electronic 
+form) of Consultant which relate to or have been used in connection with the performance of this 
+Agreement. Consultant also grants Cornell permission to interview Consultant’s staff and agents as part of 
+the audit. If applicable, Consultant agrees to provide Cornell with adequate and appropriate workspace for 
+conducting the audit. If Cornell, in its sole discretion, determines that an on-site audit is not necessary, 
+Consultant agrees to complete, within thirty (30) days of receipt, an audit questionnaire provided by
+
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+8 
+Cornell. Consultant shall refund to Cornell any overcharges discovered by Cornell, or by a third party of 
+Cornell’s choosing, within thirty (30) days following Consultant’s acceptance of Cornell’s written 
+notification of audit findings. Consultant may not unreasonably withhold or delay acceptance of audit 
+findings. Consultant shall include this audit provision in any subcontracts that it may issue under this 
+Agreement. 
+20.
+FERPA and HIPAA Compliance.
+20.1. 
+FERPA. To the extent that performance of the Services under this Agreement involves disclosure 
+to Consultant of personally identifiable information from student education records protected by the 
+Family Educational Rights and Privacy Act (FERPA) (“Student Information”), the following obligations 
+shall apply. Consultant acknowledges that for the purposes of this Agreement, it will be designated as a 
+“school official” with “legitimate educational interests” in the Student Information, as those terms have 
+been defined under FERPA and its implementing regulations, and Consultant agrees to abide by the 
+limitations and requirements imposed by 34 CFR 99.33(a) on school officials. Consultant will use Student 
+Information only for the specific purpose of fulfilling its obligations under this Agreement. Consultant 
+may not disclose Student Information to or share any Student Information with any other party or for any 
+other purpose without the prior written consent of the student. Without limiting the foregoing, Consultant 
+will not use such information for Consultant’s own benefit or engage in “data mining” of Cornell Data or 
+communications, whether through automated or human means, except as necessary to fulfill its specific 
+obligations under this Agreement. Consultant agrees that prior to releasing any Student Information to any 
+subcontractor or agent, Consultant will require such subcontractor or agent to agree in writing to terms 
+substantively similar to the obligations in this Section. Promptly following the termination or expiration 
+of this Agreement, Consultant shall return to Cornell or certify in writing to Cornell the destruction of all 
+Student Information (including that provided to or obtained by its subcontractors or agents) disclosed to 
+Consultant in connection with this Agreement.  
+20.2. 
+HIPAA. If Cornell determines that Consultant’s performance under this Agreement requires 
+compliance with the Health Insurance Portability and Accountability Act (HIPAA), Consultant agrees to 
+enter into any and all additional documents or amendments Cornell deems necessary to address HIPAA 
+compliance, including, without limitation, a Business Associate Agreement in substantially the form 
+provided by Cornell. 
+21.
+Compliance with Personal Data Protection and Privacy Laws. Consultant will comply in all
+respects with applicable laws and regulations relating to privacy and the collection, processing, and use of
+personal data, including those of the United States and any other country to the extent applicable to the
+processing of personal data under this Agreement (together, the “Privacy Laws”). Consultant agrees to
+process personal data for which Cornell is the controller (as defined under any applicable Privacy Law)
+only to the extent necessary to perform its obligations under this Agreement, and to implement and
+maintain appropriate technical and administrative safeguards (as defined in the applicable Privacy Laws)
+to prevent the unauthorized access, use or disclosure of such data. Consultant further agrees to allow
+Cornell staff or representatives to examine such measures upon request, and to take all reasonable steps to
+ensure the reliability of any Consultant personnel who will have access to personal data. Without
+prejudice to Consultant’s obligations set out above, Consultant will report to Cornell within forty-eight
+(48) hours any loss, damage, or destruction of any personal data processed under this Agreement for
+which Cornell is a controller, regardless of whether such personal data constitutes Cornell Data. If
+required or deemed advisable for compliance with the Privacy Laws, then Cornell and the Consultant
+agree to execute Cornell’s Personal Data Processing Agreement (PDPA) or other required documentation
+under applicable Privacy Laws. For purposes of this Section, “personal data” means information relating
+to an identified or identifiable individual, and an “identifiable individual” means one who can be
+identified, directly or indirectly, by use of any identifier or characteristic specific to that individual.
+
+ 
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+ 
+ 
+9 
+ 
+22. 
+Export Control Compliance. Consultant acknowledges that it is subject to U.S. export control 
+laws and regulations (collectively, “Export Control Laws”), which include (without limitation) the 
+International Traffic in Arms Regulations (“ITAR”), the Export Administration Regulations (“EAR”), and 
+regulations and orders administered by the Treasury Department’s Office of Foreign Assets Control 
+(“OFAC Regulations”). Consultant agrees to comply with all Export Control Laws. Consultant shall not 
+disclose any technology or technical data subject to Export Control Laws unless and until a plan for the 
+transfer, use, dissemination, and control of the information has been approved in writing by Cornell’s 
+Export Control Office. Furthermore, Consultant represents and warrants that it is not an entity or 
+individual identified on, or owned by a party identified on, any denied or restricted party list under Export 
+Control Laws. 
+ 
+23. 
+Force Majeure. A Party shall be excused from liability for its failure or delay in performance of 
+an obligation under this Agreement to the extent the failure or delay results from causes beyond that 
+party’s reasonable control including, but not limited to, a fire, a flood, an explosion, an earthquake, a 
+natural disaster or any other act of God, as well as a pandemic, an epidemic, a recognized health threat as 
+determined by any federal, state or local government or quasi-governmental authority (including the 
+federal Centers for Disease Control), civil unrest, a strike or labor disturbance, war or threat of war, 
+terrorism or a threat of terrorism, a governmental or quasi-governmental order or directive to “shelter in 
+place”, or any other event, occurrence, order or directive similar to those enumerated above (each, a 
+“Force Majeure Event”). A Force Majeure Event may also include a then-current order, policy, rule or 
+regulation imposed by Cornell University based upon the health and safety of its student body, faculty, 
+staff and/or broader community. A party seeking to rely on this provision shall (i) use reasonable diligence 
+to remove the condition that prevents performance and shall not be entitled to suspend performance of its 
+obligations in any greater scope or for any longer duration than is required by the Force Majeure event, 
+(ii) use its commercially reasonable efforts to mitigate the effects of such Force Majeure Event, remedy 
+its inability to perform, and resume full performance of its obligations under this Agreement, and (iii) 
+promptly provide notice of failure or delay in performance due to a Force Majeure Event to the other 
+party, including anticipated impact on performance and efforts to mitigate the failure or delay. The party 
+shall provide such notice within ten (10) days prior to the required performance unless the circumstances 
+and/or conditions giving rise to the Force Majeure Event necessitate a shorter notice period. 
+ 
+24. 
+Gramm-Leach-Bliley. Consultant represents that its management and storage of Cornell Data 
+shall in all respects, including, without limitation, administrative, physical and technical aspects, meet the 
+privacy and security standards set forth in Gramm-Leach- Bliley Act, 15 U.S.C. sections 6801-6809 
+(“GLBA”) and its implementing regulations. Without representing that it is subject to GLBA, Consultant 
+understands that it may have access under this Agreement to Cornell financial information and other 
+nonpublic personal information protected by law. To assist Cornell in meeting Cornell’s GLBA 
+obligations, Consultant will implement, maintain, and use appropriate administrative, technical, and 
+physical security measures to protect the confidentiality and integrity of all electronically maintained or 
+transmitted Cornell Data. 
+ 
+25. 
+Notices. All notices given or required to be given pursuant to this Agreement shall be in writing 
+and shall be deemed sufficient upon: (i) personal delivery; (ii) delivery by email with confirmation of 
+receipt; or (iii) the third business day after first class certified mailing, in each case to the addresses first 
+written above or to such other address as may be specified in writing by the parties for notice purposes. 
+ 
+26. 
+Effective Date. The effective date of this Agreement shall be the later of the two dates of 
+signature below. 
+ 
+
+ 
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+ 
+ 
+10
+27. 
+Waiver. A delay or failure by either party to exercise any right under this Agreement will not 
+constitute a waiver of that or any similar or future right. 
+ 
+28. 
+Authority; Binding Agreement. Each party warrants that: (a) it has all requisite power and the 
+authority to enter into this Agreement; (b) it is not under, and will not enter into, any obligation to any 
+person or entity, contractual or otherwise, that is conflicting or inconsistent in any material respect with 
+the terms of this Agreement or that would impede the diligent and complete fulfillment of its obligations 
+under this Agreement; and (c) entering into this Agreement is not restricted or prohibited by any existing 
+agreement to which it is a party. This Agreement shall be binding upon and shall inure to the benefit of the 
+parties hereto and their respective permitted successors and permitted assigns. 
+ 
+29. 
+Severability. In the event that any provision of this Agreement is held to be invalid, illegal, or 
+unenforceable, then that provision will be limited or eliminated to the minimum extent necessary, and the 
+remaining provisions of this Agreement will remain in full force and effect. 
+ 
+30. 
+Assignment. Consultant may not assign, transfer, or delegate any of or all of its rights or 
+obligations under this Agreement, voluntarily or involuntarily, including by change of control, merger, 
+operation of law, or any other manner, without the express prior written permission of Cornell. Any 
+purported assignment or delegation in violation of this Section shall be null and void. 
+ 
+31. 
+Governing Law; Dispute Resolution; Jurisdiction. This Agreement will be interpreted under, 
+and be governed by, the laws of the State of New York, without regard to its conflict of laws principles. 
+The parties shall strive to settle amicably, in good faith, and with due diligence any dispute arising from 
+or relating to this Agreement. The parties agree if such attempts to resolve a dispute are unsuccessful, then 
+any claims, suits, actions, or proceedings between the parties arising in whole or in part under or in 
+connection with this Agreement will be brought in the state courts of Tompkins County, New York or the 
+federal district court for the Northern District of New York. Each party irrevocably consents to personal 
+jurisdiction and exclusive venue in such courts and waives any related claim of improper forum. 
+ 
+32. 
+Entire Agreement. This Agreement, including all incorporated appendices, exhibits, and 
+attachments, represents the entire understanding of the parties and may not be modified except by written 
+agreement of the parties and supersedes all prior written and/or oral agreements. Any terms or conditions 
+on Consultant’s quote, invoice, statement of work, or other similar document related to this Agreement, 
+including any online terms or click-through agreements, are expressly rejected and are deemed void. This 
+Agreement may be executed in counterpart signatures. In the event of a conflict between the terms in this 
+Agreement and the terms of any other agreement, including a purchase order, the terms in this Agreement 
+shall control. 
+ 
+(Appendix, Schedules, and Signature Page Follow) 
+ 
+
+ 
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+ 
+ 
+Appendix 1-1 
+APPENDIX 1 
+INSURANCE REQUIREMENTS 
+ 
+At all times during the Term of this Agreement, Consultant will procure and maintain the following 
+insurance coverages: 
+ 
+A. Statutory Worker’s Compensation Insurance: under the laws of the State of New York and any 
+other laws that may be applicable thereto.  Coverage “B” Employers’ Liability must have limits 
+of at least $1,000,000 per accident for bodily injury and disease. Where permitted by law and 
+allowed by insurance, the Consultant’s policy shall be specifically endorsed to waive any rights of 
+subrogation against Cornell, its subsidiaries, and its directors, officers, and employees.  For 
+Longshore, Harbor, or Maritime Workers the policy shall be endorsed to include United States 
+Longshore and Harbor Workers Compensation Act (USL&H) and/or Jones Act insurance. 
+B. Commercial General Liability Insurance: subject to at least $1,000,000 each occurrence and 
+$2,000,000 aggregate. Coverage must be provided for Bodily Injury Liability, Broad Form 
+Property Damage Liability, Contractual Liability, and Products-Completed Operations coverage. 
+Completed Operations coverage is to be maintained for a minimum period of three (3) years after 
+completion of the Agreement. The policies shall be primary and non-contributory.  Cornell 
+University shall be included as an additional insured in the policy utilizing additional insured 
+endorsements CG 20 10 07 04 and CG 20 37 07 04 or their equivalents. Coverage shall not 
+contain exclusions for claims related to (New York) labor law. Consultant must expressly hold 
+harmless, defend and indemnify Cornell as an additional insured for any suits referencing or 
+seeking recovery under New York Labor Law §§ 200, 240, 240(1), 241, 241(6) and any related 
+sections, and their insurance certificate or accompanying letter from an authorized representative 
+must specifically state the same.) For services involving minors, the Commercial General 
+Liability policy shall provide coverage for any incidents related or connected to or arising out of 
+sexual misconduct, sexual molestation, sexual or physical assault, or abuse subject to $1,000,000 
+separate limit per occurrence and $2,000,000 aggregate separate limit, and the corresponding 
+certificate of insurance must indicate as such. 
+C. Automobile Liability Insurance: (based on scope of Services, Merchandise and/or materials) 
+subject to limits of not less than $1,000,000 combined single limit for each accident. Such 
+Automobile Liability Insurance shall be for all owned, non-owned, and hired automobiles. 
+(Cornell requires limits of $5,000,000 for any bus charter-related services. Aircraft or watercraft 
+travel that is not a ticketed event (e.g., charters) requires higher insurance limits and pre-
+approval from Cornell Risk Management and Insurance.) 
+D. Umbrella/Excess Liability Insurance: subject to at least $5,000,000 per occurrence and follow-
+form of the primary General Liability, Automobile Liability, and Employers Liability policies. 
+These policies shall contain an endorsement stating that any entity qualifying as an additional 
+insured on the insurance stated in the Schedule of Underlying Insurance shall be an Additional 
+Insured on the Umbrella/Excess liability policy and that they apply immediately upon exhaustion 
+of the insurance stated in the Schedule of Underlying Insurance as respects to the coverage 
+afforded to any additional insured.  
+E. All Risk Property Insurance: providing replacement cost coverage for any property damage to 
+the Consultant’s property which is caused by a loss of any kind and description to any property 
+brought onto Cornell University premises. The Consultant agrees to waive on behalf of itself and 
+its insurance company subrogation against Cornell for any loss or damage, which is covered or 
+should be covered by this insurance. 
+F. Professional Liability/Errors & Omissions Insurance: subject to $1,000,000 per 
+claim/$3,000,000 aggregate covering the activities of the Consultant. The coverage must be 
+maintained during the Term of this Agreement and at least three (3) years following its 
+
+ 
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+ 
+ 
+Appendix 1-2 
+completion or earlier cancellation. Consultant’s policy will provide a carve-back to the “Insured 
+versus Insured” exclusion for claims brought by or on behalf of additional insureds.  
+G. Liquor Liability Insurance: (based on scope of Services, Merchandise and/or materials) with a 
+minimum of $1,000,000 per occurrence. 
+H. Crime Insurance: (based on scope of Services, Merchandise and/or materials) subject to at least 
+$1,000,000 per occurrence. 
+I. Environmental Liability Insurance: (based on scope of Services, Merchandise and/or 
+materials) with a minimum of $5,000,000 per occurrence. The coverage must be maintained 
+during the Term of this Agreement and at least three (3) years following its completion or earlier 
+termination. 
+J. Cyber and Technology Products & Services Liability insurance: (based on scope of Services, 
+Merchandise and/or materials) with limits of not less than $5,000,000 for each wrongful act, that 
+provides coverage for: 
+1. Liability for network security failures or privacy breaches, including loss or unauthorized 
+access, use or disclosure of Cornell Data, whether by Consultant or any of subcontractor or 
+cloud service provider used by Consultant; 
+2. Costs associated with a privacy breach, including notification of affected individuals, 
+customer support, forensics, crises management/public relations consulting, legal services 
+of a privacy attorney, credit monitoring and identity fraud resolution services for affected 
+individuals; 
+3. Expenses related to regulatory compliance, government investigations, fines, 
+fees/assessments and penalties; 
+4. Liability for technological products and services; 
+5. PCI fines, fees, penalties and assessments; 
+6. Cyber extortion payment and response costs; 
+ 
+If the Cyber Liability policy is written on a claims-made basis and non-renewed at any time 
+during the Term of this Agreement, the Consultant shall purchase an Extended Reporting Period 
+for at least a two-year period. The Consultant’s policy will provide a carve-back to the “Insured 
+versus Insured” exclusion for claims brought by or on behalf of additional insureds. 
+
+ 
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+ 
+ 
+Schedule A-1
+ 
+ 
+Schedule A 
+ 
+ 
+SCOPE OF SERVICES 
+☐See attached (check if document attached) 
+ 
+Project Description, Work Scope, and Deliverables: 
+
+ 
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+ 
+ 
+Schedule B-1
+ 
+Schedule B 
+ 
+ 
+PROJECT TIMETABLE AND TASK DESCRIPTION  
+☐See attached (check if document attached) 
+ 
+Detail and explanation of the agreement between Cornell and 
+Consultant: Completion Date: 
+
+ 
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+ 
+ 
+ 
+Schedule C-1
+Schedule C 
+ 
+ 
+PAYMENT AMOUNT AND SCHEDULE 
+☐See attached (check if document attached) 
+ 
+Payment Amount and Schedule: (Specify assigned consultant(s), hourly rate(s), and/or per project 
+amount(s), estimated total hours, term of assignment (if applicable): 
+
+ 
+Professional Services Agreement -Cornell Rev. 4/28/2025 
+ 
+ 
+ 
+Schedule D-1
+Schedule D 
+ 
+ 
+CONSULTANT’S PERSONNEL 
+ 
+ 
+☐See attached (check if document attached) 
+ 
+List of Consultant’s Personnel: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List of Cornell’s Representative(s): 
+ 
+
+ 
+ 
+ 
+In witness whereof the parties hereto have caused this Agreement to be executed by their 
+respective duly authorized representatives. 
+ 
+ 
+Company Name:   
+ 
+Signature:  
+______________________________________________________ 
+Signature Date: ______________________________________________________ 
+Print Name: 
+______________________________________________________ 
+Title:   
+______________________________________________________ 
+Phone:   
+______________________________________________________ 
+Email:   
+______________________________________________________ 
+Address:  
+_______________________________________________________________________ 
+ 
+ 
+ 
+Cornell University Procurement Services: 
+ 
+Signature:  
+______________________________________________________ 
+Signature Date: ______________________________________________________ 
+Title: 
+ 
+Procurement Agent 
+Email:  
+___________________@cornell.edu 
+Address:  
+377 Pine Tree Road, Ithaca, NY 14850 
+Purchase Order #: _____________________________ 
+ 
+ 
+ 
+ 
+

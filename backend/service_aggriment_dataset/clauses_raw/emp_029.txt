@@ -1,0 +1,83 @@
+ Service Related Contract Template Guide
+
+Overview
+You may prepare your own contract starting with the template below to fit your business needs and use it as the agreement you enter into with your clients.
+
+How to Use the Contract Template 
+When you see Purple text delete the purple and input the information it requests. 
+
+The Red text lists options you need to select from to detail the agreement with your client or provides optional text for you to include. Remove any clauses that are not relevant for your final agreement.
+
+Tips
+
+Change all font colors back to “black.”
+If you are attaching this contract to a Square Invoice, you will have to save the finalized agreement in PDF format locally on your system. 
+Once it is saved as a PDF file, you can attach the file to the Square Invoice to send to your customer using the “Add Attachment” button under “More Options” in the invoice. 
+You should obtain your client’s initials in each designated space.
+You and your client should both sign and date the agreement.
+
+Within the contract template, there is a section in the header prompting you for your business contact information. We highly recommend always including this information so that your customer can sign the document and return it to you since they are unable to re-upload the attachment back to the invoice for return.
+
+Note: If you are using this template for home improvement purposes, ensure you check your state’s laws for home improvement contract regulations. Legislation for the home improvement sector varies state by state and requires additional contractual considerations.
+
+Legal Disclaimer
+Square is not a law firm, an attorney or a professional advisor in any industry. Square provides this template to individuals who choose to prepare their own contractual documents. Square services and related documents and materials provided by Square do not constitute legal advice and are for your private use. Square does not review the information you provide for legal accuracy or sufficiency. If you need legal advice as to specific contract terms or have questions regarding a term’s applicability or enforceability, you should consult with a licensed attorney. 
+
+
+
+
+
+
+Your Business Name Here
+Your Business/Contact Email Here
+Your Business Phone Number Here
+
+The PROJECT/CONTRACT TITLE goes here
+
+This Contract is between your CLIENT NAME (the “Client”) and your BUSINESS NAME (the “Business”). 
+
+Project Address: Write address where project is taking place, if applicable
+
+The Contract is dated write the date this contract is sent here.  
+
+Scope of Work/Payment:
+Project Description: The Client is hiring the Business to do the following: Describe the services to be rendered and general project description here.
+Schedule: The project will begin on: write Project Start Date here (Optional) and must be complete by write Project End Date here with the exception of unforeseen circumstances or failure to meet payment requirements. 
+Payment Schedule: Select which payment schedule type meets your needs from the following: (a.) Flat Price, (b.) Milestone or Progress Payments, (c.) Hourly Rate Selection. Only include what is applicable from section(s) (1.3.1 - 1.3.4) and revise them to match your payment schedule type
+Flat Price: The Client will pay the Business write Total Contract Price here for the completion of the project. Client Initial Here _________
+If you require a deposit, write the Deposit Type here (e.g. Upfront Deposit, Security Deposit, etc.): The Client will pay the Business write Deposit Amount here by enter Deposit Due Date here to ensure the project is started on time. Client Initial Here _________
+Milestone/Progress Payments: The Client will pay the Business write Total Contract Price here for the completion of the project.                             Client Initial Here _________
+ Choose Deposit Type (e.g. Upfront Deposit, Security    Deposit, etc.): The Client will pay the Business Deposit Amount by Deposit Due Date to ensure the project is started on time.
+Write the Number of Installment Payments here: The Client will pay the Business the remaining amount in accordance with completion of the following milestones:
+Write Milestone Description here: $XXX.XX
+Write Milestone Description here: $XXX.XX
+Write Milestone Description here: $XXX.XX
+Hourly Rate Selection: The Client will pay the Business write Hourly Rate here for the completion of the project. Client Initial Here _________
+The Client will pay the Business for the hours billed on a Write the Billing Cadence here (e.g. weekly) basis. The Business will provide an invoice for the work completed during hours billed.
+
+Payment Terms: Payment shall be made to the Business write the accepted payment methods here. (Optional) The Business will send an invoice for each installment completion. If any invoice is not paid when due, this could result in suspension or termination of the project. If the Client fails to pay for the Services when due, the Business reserves the right to treat such failure as a breach of this Contract. Any legal fees associated with such will be the Client’s responsibility. 
+Invoices: The Business will invoice the Client on the dates listed in the Payment Schedule section. The Client agrees to pay the invoice with the amount owed within specify the number of days the Client has to make the payment from date of receiving invoice here.
+Late Payments: If the Client fails to pay the Business on time per agreed upon payment schedule, the Business may suspend work until delinquent payments are brought current. If payments are delinquent for more than specify the number of days allowed for delayed payment prior to suspension of work here then the Client will be subjected to a late fee of write total late fee amount here.
+Expenses: Client shall pay to the Business any expenses incurred by the Business in the provision of services under this Agreement, including, but not limited to specify types of costs to be covered outside of explicit contract detail (e.g. travel expenses, 3rd party vendors, etc.) here no later than specify number of days here after receipt is provided.
+ Refund and Cancellation Policy: Select which refund policy suits your business from the following: (a.) Refund/Cancellation (include what is applicable from section 1.51 & 1.5.2 and revise them to match your refund policy), (b.) Warranty.  (include what is applicable from section 1.5.3 and revise it to match your warranty policy).  
+No Refunds: Services completed as described in this contract are not subject to refunds. The Client will not be reimbursed for services cancelled once work has begun. All sales are final. Client Initial Here _________
+Refund Policy: Work completed unsatisfactory to the Client may be refunded for up to write eligible refund amount here $XX.XX for up to write number of days they have to refund here after service. Client Initial Here _________
+Warranty Policy: No refunds will be provided for work completed as described in this contract. Services for work completed are warranted to be free from defects in materials or workmanship for specify your warranty time frame here from the date of service completion. This warranty does not apply to: specify warranty conditions you do not cover here (e.g. (i.) cosmetic damage (ii.) damage by service of another business) Client Initial Here _________
+
+Licensing: The Business warrants that the Business currently holds a valid license under the laws of the State of specify your state to perform the work. Work performed will be done so in compliance with all applicable local, state, or federal statutes and regulations.
+
+Representations:
+Authority to Sign: Each party promises to the other party that it has the authority to enter into this Contract and to perform all of its obligations under this Contract.
+Client will Review Work: The Client promises to review the work product, to be reasonably available to the Business if the Business has questions regarding this project, and to provide timely feedback and decisions.
+
+General:
+    Modification(s): To change anything in this Contract, the Client and the Business must agree to the change in writing and sign a document showing their contract.
+    Signatures: The Client and the Business must sign the document either electronically or in hardcopy. If this document is signed in hard copy, it must be returned to the Business for valid record. Electronic signatures count as originals for all purposes.
+
+Term and Termination: This Contract ends on write the contract end date here, unless the Client or the Business ends the contract before that time. If one of the parties chooses to end the Contract prior to project completion, the Client is responsible for paying for all work and costs incurred up until that date.
+
+The Parties hereto agree to the foregoing as evidenced by their signatures below.
+
+Date ______    _________________________           Date ______       _____________________
+                        Business Owner Name, Owner	                                        Client Name, Client
+                        Business Name

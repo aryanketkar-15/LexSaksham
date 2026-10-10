@@ -1,0 +1,597 @@
+WHATFIX SOFTWARE AS A SERVICE AGREEMENT
+This Software as a Service Agreement (“SaaS Agreement” or “Agreement”) is entered into between Quicko
+Technosoft Labs Private Limited and its affiliates (“Whatfix”), with its principal place of business at 443, 2nd
+and
+3rd
+Floor,
+14th
+Main, 17th
+Cross,
+Sector
+-
+4, HSR
+Layout, Bangalore
+-
+560102, India and
+__________(insert name of the Company) with its principal place of business at _________(insert address of
+the Company) (“Customer”) on ___________, 2020 (“Effective Date”). Whatfix and Customer agree that the
+following terms and conditions will apply to the services provided under this Agreement and Orders placed
+thereunder.
+1.
+DEFINITIONS
+1.1. “Platform User” means each Customer employee designated by Customer to serve as user of the Whatfix
+SaaS platform on Customer’s behalf. Each Platform User must complete training and qualification
+requirements reasonably requested by Whatfix.
+1.2. “Affiliate” means, in relation to a Party, such Party’s holding companies and the direct or indirect
+subsidiaries of such holding companies from time to time
+1.3. “Application” shall mean any software used by the Customer for its internal purposes.
+1.4. “Customer Content” means all data and materials created or provided by Platform User to Whatfix for
+use in connection with the SaaS Services, including, without limitation, flows, text snippets, images, and
+videos.
+1.5. “Documentation” means the user guides, online help, release notes, training materials and other
+documentation provided or made available by Whatfix to Customer regarding the use or operation of the
+SaaS Services.
+1.6. “End User(s)” means an individual that uses the Customer Application & interacts with Whatfix widgets
+overlays & content on top of the Application and includes Platform users.    .
+1.7. “End User Data” means any data or information of any End User that is provided to or obtained by any
+Party in the performance of its obligations under this Agreement, including but not limited to, all lists of
+End Users, former End Users, and all information relating to and identified with such End Users.
+1.8. “GDPR” means the EU General Data Protection Regulation (EU) 2016/279.
+1.9. “Intellectual Property Rights” means all (i) copyrights (including, without limitation, the right to
+reproduce, distribute copies of, display and perform the copyrighted work and to prepare derivative works),
+copyright registrations and applications, trademark rights (including, without limitation, registrations and
+applications), patent rights, trade names, mask-work rights, trade secrets, moral rights, author’s rights,
+privacy rights, publicity rights, algorithms, rights in packaging, goodwill and other proprietary rights, and
+all renewals and extensions thereof, regardless of whether any of such rights arise under the laws of the
+United States or any other state, country or jurisdiction; (ii) intangible legal rights or interests evidenced by
+or embodied in any idea, design, concept, technique, invention, discovery, enhancement or improvement,
+regardless of patentability, but including patents, patent applications, trade secrets, and know-how; and (iii)
+all derivatives of any of the foregoing.
+1.10.“Order Form” shall mean the Order Form executed by Whatfix and Customer, defining the scope of
+Customer’s subscription plan for use and access of the Software.
+1.11.“Personal Data” means data relating to a living individual who is or can be identified either from the data
+or from the data in conjunction with other information that is in, or is likely to come into, the possession of
+the data controller
+1.12.“Professional Services” means consulting, implementation or other services that may be provided by
+Whatfix to Customer hereunder and that may involve analysis, development, technical support, integration,
+and training, as set forth in more detail in the SOW or Order Form.
+1.13.“Software” means the object code version of the Digital Adoption Platform (DAP) software to which
+Customer is provided access as part of the Service, including any updates or new versions under the brand
+name “Whatfix”
+1.14.“SaaS Services” means the cloud-based Software as made available by Whatfix to Customer hereunder in
+a hosted, software-as-a-service format, and including all upgrades, updates and patches to the SaaS
+Services that Whatfix makes available for general release at no additional charge to its Customers.
+1.15.“Support
+Services” means the technical support services for the SaaS Services available at
+https://info.whatfix.com/legal/Support+Terms.pdf (“Support Terms”).
+1
+
+1.16.“Subscription Term” shall mean that period specified in the applicable Order Form during which
+Customer will have on-line access and use of the Software through Whatfix’s SaaS Services.
+The
+Subscription Term shall renew for a successive Subscription Term, unless terminated in accordance with
+Section 7.2 of this Agreement.
+1.17.“Subscription Fees” or “Fees”  shall mean the amounts as mentioned in the applicable Order Form.
+1.18.“Flows” Whatfix Flow or “Walkthroughs” are a series of steps that help users learn an objective or
+complete a task through a series of step-by-step actions. These steps display as a layer over your web
+application.
+2. SAAS SERVICES
+2.1 During the Subscription Term, Customer will receive a non-exclusive, non-assignable, non-sublicensable,
+royalty free, worldwide right to access and use the SaaS Services solely for its internal business operations
+subject to the terms of this Agreement and up to the number of application users documented in the Order
+Form.
+2.2 Whatfix will provide Customer with Support Services with respect to the SaaS Services so long as Customer
+has paid all outstanding Subscription Fees at the time such Support Services are required.
+2.3 Customer acknowledges that this Agreement is a services agreement and Whatfix will not be delivering
+copies of the Software to Customer as part of the SaaS Services. In case of a self-hosted deployment,
+Whatfix will provide the Customer the capability to host the Customer Content and the SaaS service on the
+Customer’s servers.
+2.4 Whatfix shall work with the Customer and provide the onboarding and training assistance for the creation of
+Flows  and Customer Content for the SaaS services to be availed by the Customer.
+3. PROFESSIONAL SERVICES
+The Professional Services shall be provided in accordance to the Statement of Work (“SOW”) or the Order
+Form executed by the Customer , if applicable and shall be provided remotely (and not at Customer’s premises),
+unless otherwise agreed in writing between the Parties in the SOW or Order Form.
+4. RESTRICTIONS
+Customer shall not, and shall not permit anyone to: (i) copy or republish the SaaS Services or Software, (ii)
+make the SaaS Services available to any person other than authorized End User, (iii) use or access the SaaS
+Services to provide service bureau, time-sharing or other computer hosting services to third parties, (iv) modify
+or create derivative works based upon the SaaS Services or Documentation or copy, modify, transmit, distribute,
+frame or mirror any of the Software in any form or media or by any means, (v) remove, modify or obscure any
+copyright, trademark or other proprietary notices contained in the Software used to provide the SaaS Services or
+in the Documentation, (vi) reverse engineer, decompile, disassemble, or otherwise attempt to derive the source
+code of the Software used to provide the SaaS Services, except and only to the extent such activity is expressly
+permitted by applicable law, (vii) license, sell, resell, transfer, rent, lease, distribute, exploit or otherwise make
+the SaaS Services or Software available to anyone other than the End Users or (viii) access the SaaS Services or
+use the Documentation in order to build a similar product or competitive product. Subject to the limited licenses
+granted herein, Whatfix shall own all right, title and interest in and to the Software, Services, Documentation,
+and other deliverables provided under this SaaS Agreement, including all modifications, improvements,
+upgrades, derivative works and feedback related thereto and Intellectual Property Rights therein. Customer
+agrees to assign all right, title and interest it may have in the foregoing to Whatfix.
+5. CUSTOMER RESPONSIBILITIES
+5.1
+Assistance: Customer shall provide commercially reasonable information and assistance to Whatfix to
+enable Whatfix to deliver the SaaS Services. Upon request from Whatfix, Customer shall promptly
+deliver Customer Content to Whatfix in an electronic file format specified and accessible by Whatfix and
+2
+
+provide access to training/development environment of the Application, Customer shall make necessary
+connections with business/technical teams and shall explain business objectives and process to Whatfix.
+Customer acknowledges that Whatfix’s ability to deliver the SaaS Services in the manner provided in this
+SaaS Agreement may depend upon the accuracy and timeliness of such information and assistance
+5.2
+Compliance with Laws: Customer shall comply with all applicable local, state, national and foreign laws
+in connection with its use of the SaaS Services, including those laws related to data privacy, international
+communications, and the transmission of technical or personal data. Customer acknowledges that Whatfix
+exercises no control over the content of the information transmitted by Customer or the End User through
+the SaaS Services. Customer shall not upload, post, reproduce or distribute any information, software or
+other material protected by copyright, privacy rights, or any other intellectual property right without first
+obtaining the permission of the owner of such rights.
+5.3 Platform Access: Customer shall be solely responsible for the acts and omissions of its Platform Users.
+Whatfix shall not be liable for any loss of data or functionality caused directly or indirectly by the Platform
+Users.
+5.5
+Customer Content: Customer is solely responsible for collecting, inputting and updating all Customer
+Content stored on the Software, and for ensuring that the Customer Content does not (i) include anything
+that actually or potentially infringes or misappropriates the copyright, trade secret, trademark or other
+intellectual property right of any third party, or (ii) contain anything that is obscene, defamatory, harassing,
+offensive or malicious. Customer shall: (i) notify Whatfix immediately of any unauthorized use of any
+password or user id or any other known or suspected breach of security, (ii) report to Whatfix immediately
+and use reasonable efforts to stop any unauthorized use of the Service that is known or suspected by
+Customer or any End User and (iii) not provide false identity information to gain access to or use the
+Service. Customer owns and shall retain all right title and interest in and to the Customer Content which is
+(i) provided by Customer to Whatfix for the purpose of the provision of the Service and/or the Professional
+Services; (ii) created by Customer using the Service; and/or (iii) to the extent applicable, created by
+Whatfix specifically for Customer under the provision of Professional Services, and which incorporates or
+is based on Customer’s copyrighted work and/or Customer’s Confidential Information. Customer Content
+specifically excludes Content provided by Whatfix which does not use Customer Content, the Software’
+“look and feel”, and Whatfix’s Confidential Information and Intellectual Property.
+5.6
+License from Customer: Subject to the terms and conditions of this SaaS Agreement, Customer shall
+grant to Whatfix a limited, non-exclusive and non-transferable license, to copy, store, configure, perform,
+display and transmit Customer Content solely as necessary to provide the SaaS Services to Customer
+pursuant to this Agreement and the applicable Order Form.
+5.7
+Ownership and Restrictions: Customer retains ownership and intellectual property rights in and to its
+Customer Content. Whatfix or its licensors retain all ownership and intellectual property rights to the
+services, Software programs, and anything developed and delivered under the Agreement. Third party
+technology, if any, that may be appropriate or necessary for use with some Whatfix programs is specified
+in the program Documentation or ordering document as applicable. Customer’s right to use such third party
+technology is governed by the terms of the third party technology license agreement
+and not under the
+Agreement.
+5.8
+Suggestions: Whatfix shall have a royalty-free, worldwide, irrevocable, perpetual license to use and
+incorporate into the SaaS Services any suggestions, enhancement requests, recommendation or other
+feedback provided by Customer, including End Users, relating to the operation of the SaaS Services.
+6. ORDERS AND PAYMENT
+6.1
+Orders: Customer shall order SaaS Services pursuant to the Order Form. All services acquired by
+Customer shall be governed exclusively by this SaaS Agreement and the applicable Order Form. In the
+3
+
+event of a conflict between the terms of an Order Form and this Agreement, the terms of the Order Form
+shall take precedence.
+6.2
+Invoicing and Payment: Unless otherwise provided in the Order Form, Whatfix shall invoice Customer
+for all Fees on the Order Form effective date. Customer shall pay all undisputed invoices within 30 days
+after Customer receives the invoice. Except as expressly provided otherwise, fees are non-refundable. are
+payable in the currency detailed in the Order Form, and must be paid by Customer to Whatfix in such
+currency.
+6.3
+ Expenses: Customer will reimburse Whatfix for its reasonable, out-of-pocket travel and related expenses
+incurred in performing the Other Services. Whatfix shall notify Customer prior to incurring any such
+expense. Whatfix shall comply with Customer’s travel and expense policy if made available to Whatfix
+prior to the required travel.
+6.4
+Taxes: All payments under this Agreement are exclusive of taxes, including but not limited to withholding
+taxes. However, it is agreed between the Parties, that the Fees Payable by the Customer shall be subject to
+deduction of taxes, as per applicable laws.
+7. TERM AND TERMINATION
+7.1
+Term of SaaS Agreement: The term of this SaaS Agreement shall begin on the Effective Date and shall
+continue until terminated by either party in accordance with Section 7.2 of this Agreement.
+7.2
+Termination:. The Subscription Term shall renew for successive Subscription Term unless either party
+delivers written notice of non-renewal to the other party at least 30 days prior to the expiration of the
+then-current Subscription Term.
+7.3
+Suspension for Non-Payment: Whatfix reserves the right to suspend delivery of the SaaS Services if
+Customer fails to timely pay any undisputed amounts due to Whatfix under this SaaS Agreement, but only
+after Whatfix notifies Customer of such failure and such failure continues for fifteen (15) days. Suspension
+of the SaaS Services shall not release Customer of its payment obligations under this SaaS Agreement.
+Customer agrees that Whatfix shall not be liable to Customer or to any third party for any liabilities, claims
+or expenses arising from or relating to suspension of the SaaS Services resulting from Customer’s
+non-payment.
+7.4
+Suspension for Ongoing Harm: Whatfix reserves the right to suspend delivery of the SaaS Services if
+Whatfix reasonably concludes that Customer or an End User user’s use of the SaaS Services is causing
+immediate and ongoing harm to Whatfix or others. In the extraordinary case that Whatfix must suspend
+delivery of the SaaS Services, Whatfix shall immediately notify Customer of the suspension and the parties
+shall diligently attempt to resolve the issue. Whatfix shall not be liable to Customer or to any third party
+for any liabilities, claims or expenses arising from or relating to any suspension of the SaaS Services in
+accordance with this Section 7.4. Nothing in this Section 7.4 will limit Whatfix’s rights under Section 7.5
+below. This SaaS Agreement may be terminated (i) by Whatfix if Customer breaches a term of this SaaS
+Agreement that remains uncured for 30 days (or, in the case of non-payment, five days) after delivery of
+notice of such breach, or (ii) if Customer becomes the subject of a petition in bankruptcy or any other
+proceeding relating to insolvency, receivership, liquidation or assignment for the benefit of creditors not
+dismissed within 30 days. 
+7.5
+Notwithstanding the foregoing, without affecting any other right or remedy available to it, either party may
+terminate this Agreement with immediate effect by giving written notice to the other party if:
+(a) if the other party commits a material breach of any term of this Agreement, which breach is
+irremediable or (if such breach is remediable) fails to remedy that breach within thirty (30) days after
+being notified in writing to do so; or
+4
+
+(b) the other party takes any step or action in connection with its entering administration, provisional
+liquidation or any composition or arrangement with its creditors (other than in relation to a solvent
+restructuring), being wound up (whether voluntarily or by order of the court, unless for the purpose of a
+solvent restructuring), having a receiver appointed to any of its assets or ceasing to carry on business or,
+if the step or action is taken in another jurisdiction, in connection with any analogous procedure in the
+relevant jurisdiction, or it ceases or threatens to cease to carry on business.
+7.6
+Effect of Termination:
+(a) Upon termination of this SaaS Agreement or expiration of the Subscription Term, Whatfix shall
+immediately cease providing the SaaS Services and all usage rights granted under this SaaS Agreement
+shall terminate.
+(b) If Whatfix terminates this SaaS Agreement due to a breach by Customer, then Customer shall
+immediately pay to Whatfix all amounts then due under this SaaS Agreement and to become due during
+the remaining term of this SaaS Agreement, but for such termination. If Customer terminates this SaaS
+Agreement due to a breach by Whatfix, then Whatfix shall immediately repay to Customer all pre-paid
+amounts for any unperformed SaaS Services scheduled to be delivered after the termination date.
+(c) Upon termination of this SaaS Agreement and upon subsequent written request by the disclosing party,
+the receiving party of tangible Confidential Information shall immediately return such information or
+destroy such information and provide written certification of such destruction, provided that the
+receiving party may permit its legal counsel to retain one archival copy of such information in the event
+of a subsequent dispute between the parties.
+8. SERVICE LEVEL AGREEMENT
+The Service Level Agreement (“SLA”) for the SaaS Services is set forth under the Support Terms. The SLA
+sets forth Customer’s sole remedies for availability or quality of the SaaS Services including any failure to
+meet any guarantee set forth in the SLA.
+9. WARRANTIES
+9.1  Warranty: Whatfix represents and warrants that it will provide the SaaS Services in a professional manner
+consistent with general industry standards and that the SaaS Services will perform substantially in
+accordance with the Documentation. For any beach of a warranty, Customer’s exclusive remedy shall be as
+provided in Section 7 Term and Termination.
+9.2
+WHATFIX WARRANTS THAT THE SAAS SERVICES WILL BE PERFORMED IN ALL MATERIAL
+RESPECTS
+IN
+ACCORDANCE
+WITH
+THE
+DOCUMENTATION.
+WHATFIX
+DOES
+NOT
+GUARANTEE
+THAT
+THE
+SAAS
+SERVICES
+WILL
+BE
+PERFORMED
+ERROR-FREE
+OR
+UNINTERRUPTED, OR THAT WHATFIX WILL CORRECT ALL SAAS SERVICES ERRORS.
+CUSTOMER ACKNOWLEDGES THAT WHATFIX DOES NOT CONTROL THE TRANSFER OF
+DATA OVER COMMUNICATIONS FACILITIES, INCLUDING THE INTERNET, AND THAT THE
+SAAS SERVICE MAY BE SUBJECT TO LIMITATIONS, DELAYS, AND OTHER PROBLEMS
+INHERENT IN THE USE OF SUCH COMMUNICATIONS FACILITIES.THIS SECTION SETS FORTH
+THE SOLE AND EXCLUSIVE WARRANTY GIVEN BY WHATFIX (EXPRESS OR IMPLIED) WITH
+RESPECT TO THE SUBJECT MATTER OF THIS AGREEMENT. NEITHER WHATFIX NOR ANY OF
+ITS LICENSORS OR OTHER SUPPLIERS WARRANT OR GUARANTEE THAT THE OPERATION
+OF THE SUBSCRIPTION SERVICE WILL BE UNINTERRUPTED, VIRUS-FREE OR ERROR-FREE,
+NOR
+SHALL
+WHATFIX
+OR
+ANY
+OF
+ITS
+SERVICE
+PROVIDERS
+BE
+LIABLE
+FOR
+UNAUTHORIZED ALTERATION, THEFT OR DESTRUCTION OF CUSTOMER’S OR ANY USER’S
+DATA, FILES, OR PROGRAMS.
+10. LIMITATIONS OF LIABILITY
+5
+
+NEITHER PARTY (NOR ANY LICENSOR OR OTHER SUPPLIER OF WHATFIX) SHALL BE LIABLE
+FOR
+INDIRECT,
+INCIDENTAL,
+SPECIAL
+OR
+CONSEQUENTIAL
+DAMAGES, INCLUDING,
+WITHOUT LIMITATION, DAMAGES FOR LOST BUSINESS, PROFITS, DATA OR USE OF ANY
+SERVICE, INCURRED BY EITHER PARTY OR ANY THIRD PARTY IN CONNECTION WITH THIS
+SAAS
+AGREEMENT,
+REGARDLESS
+OF
+THE
+NATURE
+OF
+THE
+CLAIM
+(INCLUDING
+NEGLIGENCE), EVEN IF FORESEEABLE OR THE OTHER PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. NEITHER PARTY’S AGGREGATE LIABILITY FOR DAMAGES
+UNDER THIS SAAS AGREEMENT, REGARDLESS OF THE NATURE OF THE CLAIM (INCLUDING
+NEGLIGENCE), SHALL EXCEED THE FEES PAID OR PAYABLE BY CUSTOMER UNDER THIS
+SAAS AGREEMENT DURING THE 12 MONTHS PRECEDING THE DATE THE CLAIM AROSE. The
+foregoing limitations shall not apply to the parties’ obligations (or any breach thereof) under Sections
+entitled “Restriction”, “Indemnification”, or “Confidentiality”.
+11. INDEMNIFICATION
+11.1  Indemnification by Whatfix:
+If a third party makes a claim against Customer that the SaaS Services
+infringes any patent, copyright or trademark, or misappropriates any trade secret, or that Whatfix’s
+negligence or willful misconduct has caused bodily injury or death, Whatfix shall defend Customer and its
+directors, officers and employees against the claim at Whatfix’s expense and Whatfix shall pay all losses,
+damages and expenses (including reasonable attorneys’ fees) finally awarded against such parties or agreed
+to in a written settlement agreement signed by Whatfix, to the extent arising from the claim. Whatfix shall
+have no liability for any claim based on (a) the Customer Content, (b) modification of the SaaS Services not
+authorized by Whatfix, or (c) use of the SaaS Services other than in accordance with the Documentation and
+this SaaS Agreement. Whatfix may, at its sole option and expense, procure for Customer the right to
+continue use of the SaaS Services, modify the SaaS Services in a manner that does not materially impair the
+functionality, or terminate the Subscription Term and repay to Customer any amount paid by Customer with
+respect to the Subscription Term following the termination date.
+11.2 Indemnification by Customer: If a third party makes a claim against Whatfix that the Customer Content
+infringes any patent, copyright or trademark, or misappropriates any trade secret, Customer shall defend
+Whatfix and its directors, officers and employees against the claim at Customer’s expense and Customer
+shall pay all losses, damages and expenses (including reasonable attorneys’ fees) finally awarded against
+such parties or agreed to in a written settlement agreement signed by Customer, to the extent arising from the
+claim.
+11.3 Conditions for Indemnification: A party seeking indemnification under this section shall (a) promptly
+notify the other party of the claim, (b) give the other party sole control of the defense and settlement of the
+claim, and (c) provide, at the other party’s expense for out-of-pocket expenses, the assistance, information
+and authority reasonably requested by the other party in the defense and settlement of the claim.
+12. CONFIDENTIALITY
+12.1  “Confidential Information” means any information disclosed by a party to the other party, directly or
+indirectly, which, (a) if in written, graphic, machine-readable or other tangible form, is marked as
+“confidential” or “proprietary,” (b) if disclosed orally or by demonstration, is identified at the time of initial
+disclosure as confidential and is confirmed in writing to the receiving party to be “confidential” or
+“proprietary” within 30 days of such disclosure, (c) is specifically deemed to be confidential by the terms
+of this SaaS Agreement, or (d) reasonably appears to be confidential or proprietary because of the
+circumstances of disclosure and the nature of the information itself. Confidential Information will also
+include information disclosed by third parties to a disclosing party under an obligation of confidentiality.
+Subject to the display of Customer Content as contemplated by this SaaS Agreement, Customer Content is
+deemed Confidential Information of Customer. Whatfix software and Documentation are deemed
+Confidential Information of Whatfix.
+12.2
+Confidentiality Restrictions: During the term of this SaaS Agreement and for 5 years thereafter
+(perpetually in the case of Software), each party shall treat as confidential all Confidential Information of
+6
+
+the other party, shall not use such Confidential Information except to exercise its rights and perform its
+obligations under this SaaS Agreement, and shall not disclose such Confidential Information to any third
+party. Without limiting the foregoing, each Party shall use at least the same degree of care, but not less than
+a reasonable degree of care, it uses to prevent the disclosure of its own confidential information to prevent
+the disclosure of Confidential Information of the other party. Each party shall promptly notify the other
+party of any actual or suspected misuse or unauthorized disclosure of the other party’s Confidential
+Information. Neither party shall reverse engineer, disassemble or decompile any prototypes, software or
+other tangible objects which embody the other party's Confidential Information and which are provided to
+the party hereunder. Each party may disclose Confidential Information of the other party on a
+need-to-know basis to its contractors who are subject to confidentiality agreements requiring them to
+maintain such information in confidence and use it only to facilitate the performance of their services on
+behalf of the receiving party.
+12.3
+Exceptions: Confidential Information excludes information that: (a) is known publicly at the time of the
+disclosure or becomes known publicly after disclosure through no fault of the receiving party, (b) is known
+to the receiving party, without restriction, at the time of disclosure or becomes known to the receiving
+party, without restriction, from a source other than the disclosing party not bound by confidentiality
+obligations to the disclosing party, or (c) is independently developed by the receiving party without use of
+the Confidential Information as demonstrated by the written records of the receiving party. The receiving
+party may disclose Confidential Information of the other party to the extent such disclosure is required by
+law or order of a court or other governmental authority, provided that the receiving party shall use
+reasonable efforts to promptly notify the other party prior to such disclosure to enable the disclosing party
+to seek a protective order or otherwise prevent or restrict such disclosure. Each party may disclose the
+existence of this SaaS Agreement and the relationship of the parties, but agrees that the specific terms of
+this SaaS Agreement will be treated as Confidential Information; provided, however, that each party may
+disclose the terms of this SaaS Agreement to those with a need to know and under a duty of confidentiality
+such as accountants, lawyers, bankers and investors.
+13.
+PRIVACY, DATA PROTECTION AND SECURITY
+Customer understands and acknowledges that, in connection with the use of the SaaS Services by
+Customer, Whatfix processes any Personal Data only on Customer’s behalf and Whatfix and Customer
+hereby agree that Customer shall be deemed to be the data controller and Whatfix shall be deemed to be
+the data processor as those terms are understood under the GDPR and any Personal Data shall be processed
+in accordance with the Data Protection Agreement linked here.
+Customer’s Undertakings: Customer shall be solely responsible for obtaining all consents and
+authorizations as may be required by any applicable law, for the collection, storage and processing of
+information and/or sensitive information by Whatfix according to Customer’s instructions, including that
+such processing according to Customer’s instructions will not place Whatfix in breach of applicable data
+protection laws. Prior to processing, Customer will inform Whatfix about any special categories of data
+contained within Customer personal data and any restrictions or special requirements in the processing of
+such special categories of data, including any cross border transfer restrictions.
+Security: Whatfix complies with security standards, such as encryption of data in motion over public
+networks and auditing standards (such as SOC 2 Type 2 and ISO 27001:2013). Furthermore, Customer’s
+information is stored with logical separation from information of other customers. In addition, Whatfix
+shall have in place and shall comply with documented written policies and procedures, periodically
+reviewed, covering the administrative, physical and technical safeguards in place and relevant to the
+access, use, loss, alteration, disclosure, storage, destruction and control of information. Such policies and
+procedures will include encryption of data, virus detection and firewall utilization.
+14.
+GENERAL PROVISIONS
+7
+
+14.1 Non-Exclusive Service: Customer acknowledges that SaaS Services is provided on a non-exclusive basis.
+Nothing shall be deemed to prevent or restrict Whatfix’s ability to provide the SaaS Services or other
+technology, including any features or functionality first developed for Customer, to other parties.
+14.2 Assignment: Neither party may assign this SaaS Agreement or any right under this SaaS Agreement,
+without the consent of the other party, which consent shall not be unreasonably withheld or delayed;
+provided however, that either party may assign this SaaS Agreement to an acquirer of all or substantially
+all of the business of such party to which this SaaS Agreement relates, whether by merger, asset sale or
+otherwise. This SaaS Agreement shall be binding upon and inure to the benefit of the parties’ successors
+and permitted assigns. Either party may employ subcontractors in performing its duties under this SaaS
+Agreement, provided, however, that such party shall not be relieved of any obligation under this SaaS
+Agreement.
+14.3 Notices: Except as otherwise permitted in this SaaS Agreement, notices under this SaaS Agreement shall
+be in writing and shall be deemed to have been given (a) five (5) business days after mailing if sent by
+registered or certified U.S. mail, (b) when transmitted if sent by facsimile, provided that a copy of the
+notice is promptly sent by another means specified in this section, or (c) when delivered if delivered
+personally or sent by express courier service. All notices shall be sent to the other party at the address set
+forth on the cover page of this SaaS Agreement.
+14.4 Force Majeure: Each party will be excused from performance for any period during which, and to the
+extent that, such party or any subcontractor is prevented from performing any obligation or Service, in
+whole or in part, as a result of causes beyond its reasonable control, and without its fault or negligence,
+including without limitation, acts of God, strikes, lockouts, riots, acts of terrorism or war, epidemics,
+communication line failures, and power failures.
+14.5 Waiver: No waiver shall be effective unless it is in writing and signed by the waiving party. The waiver by
+either party of any breach of this SaaS Agreement shall not constitute a waiver of any other or subsequent
+breach.
+14.6 Severability: If any term of this SaaS Agreement is held to be invalid or unenforceable, that term shall be
+reformed to achieve as nearly as possible the same effect as the original term, and the remainder of this
+SaaS Agreement shall remain in full force.
+14.7 Variation. No variation of this Agreement shall be effective unless it is in writing and signed by the
+parties (or their authorised representatives).
+14.8 Entire SaaS Agreement: This SaaS Agreement (including all exhibits) contains the entire agreement of
+the parties and supersedes all previous oral and written communications by the parties, concerning the
+subject matter of this SaaS Agreement. This SaaS Agreement may be amended solely in a writing signed
+by both parties. Standard or printed terms contained in any purchase order or sales confirmation are
+deemed rejected and shall be void unless specifically accepted in writing by the party against whom their
+enforcement is sought; mere commencement of work or payment against such forms shall not be deemed
+acceptance of the terms.
+14.9 Survival: Sections 4, 7, and 9 through 14 of this SaaS Agreement shall survive the expiration or
+termination of this SaaS Agreement for any reason.
+14.10
+Publicity: Both Parties agree to jointly work towards the publicity and marketing of this arrangement.
+The Customer agrees to commission the following activities:
+(a) Whatfix shall issue a press release within a timeframe mutually agreed by both the parties not
+exceeding 2(two) months from the Effective Date, announcing that Customer has selected Whatfix as
+its Saas Service Provider. The Customer shall have the right to edit and approve the press release prior
+to its publication.
+8
+
+(b) Within 2(two) months of successful implementation, the Customer shall assist Whatfix in providing a
+video or
+written testimonial, to be used as a marketing collateral. The video testimonial shall be
+recorded at the Customer's premises, at Whatfix’s cost. The Customer shall have the right to edit and
+approve the testimonial prior to its publication.
+(c) Customer agrees that Whatfix may use Customer’s name and logo on the website located
+at www.whatfix.com and for the purpose of marketing the Service.
+14.11 Export Compliance. The Services, Content, other technology Whatfix makes available, and derivatives
+thereof may be subject to export laws and regulations issued by Bureau of Industry and Security. Each
+party represents that it is compliant with the same. The Customer shall not permit Users to access or use
+any Service or Content in violation of the aforesaid regulations.
+14.12 No Third Party Beneficiaries: This SaaS Agreement is an agreement between the parties, and confers no
+rights upon either party’s employees, agents, contractors, partners of customers or upon any other person or
+entity.
+14.13 Independent Contractor: The parties have the status of independent contractors, and nothing in this SaaS
+Agreement nor the conduct of the parties will be deemed to place the parties in any other relationship.
+Except as provided in this SaaS Agreement, neither party shall be responsible for the acts or omissions of
+the other party or the other party’s personnel.
+14.14 Statistical Information: Whatfix may anonymously compile statistical information related to the
+performance of the Services for purposes of improving the SaaS service, provided that such information
+does not identify Customer’s data or include Customer’s name.
+14.15 Governing Law and Jurisdiction: This Agreement, including its exhibits, the Order Forms and SOWs is
+governed by the laws of India, with the courts of Bangalore, Karnataka, having exclusive jurisdiction
+without reference to any conflict of laws rules.
+14.16 Compliance with Laws: Whatfix shall comply with all applicable local, state, national and foreign laws in
+connection with its delivery of the SaaS Services, including those laws related to data privacy, international
+communications, and the transmission of technical or personal data.
+14.17 Dispute Resolution: Customer’s satisfaction is an important objective to Whatfix in performing its
+obligations under this SaaS Agreement. Except with respect to intellectual property rights, if a dispute
+arises between the parties relating to the interpretation or performance of this SaaS Agreement or the
+grounds for the termination hereof, the parties agree to hold a meeting within fifteen (15) days of written
+request by either party, attended by individuals with decision-making authority, regarding the dispute, to
+attempt in good faith to negotiate a resolution of the dispute prior to pursuing other available remedies. If,
+within 15 days after such meeting, the parties have not succeeded in resolving the dispute, either party may
+protect its interests by any lawful means available to it.
+14.18 Signatures: This SaaS Agreement may be executed in multiple counterparts, each of which when executed
+will be an original, and all of which, when taken together, will constitute one agreement. Delivery of an
+executed counterpart of a signature page of this SaaS Agreement by facsimile or other electronic
+transmission (including via pdf) will be effective as delivery of a manually executed counterpart
+Accepted and Agreed:
+Quicko Technosoft Labs Pvt Ltd.
+________________.
+9
+
+Signature:
+Print Name: Khadim Hussain Ismail Batti
+Designation: CEO
+Date (MM/DD/YY):
+Signature:
+Print Name:
+Designation:
+Date (MM/DD/YY):
+10
+
+EXHIBIT-A
+WHATFIX SUBSCRIPTION ORDER FORM
+This Order Form is made as of _______, 2020 (the “Effective Date”) between Quicko Technosoft Labs Pvt Ltd,
+a company organized and existing under the laws of India and having its place of businesses at No.- 443, 2nd
+and 3rd Floor, 14th Main, 17th Cross, Sector - 4, HSR Layout, Bangalore - 560102, India, (“Whatfix”) and the
+Customer (identified below).
+Customer Information:
+Company Name
+(“Customer”)
+Billing Name
+Customer Address
+Billing Address
+Customer Contact
+Name
+Billing Contact Name
+Customer E-Mail
+Address
+Billing Contact E-Mail Address
+Customer Phone
+Number
+Billing Contact Phone Number
+Whatfix Contact:
+Name:
+Phone:
+Email:
+Discounts (if any):
+Subscription Fees (in INR)
+Discount (%)
+Total
+Subscription Fees for the
+subscription term
+Subscription(s) Fee(s):
+Product
+Name
+Name of
+Application
+No of
+Users
+Payment
+Frequency
+Subscription
+Start Date
+Subscription
+End Date
+Subscription Fees (for
+subscription term) in
+INR
+Whatfix
+Digital
+Adoption
+Platform
+Annual
+Note:  All Whatfix Plans by default include the training and support charges for the duration of the contract.
+PROFESSIONAL SERVICE FEE:
+Name of Application
+Number of Flows
+Service Fee
+Accepted and Agreed:
+Quicko Technosoft Labs Pvt Ltd.
+Signature:
+Print Name: Khadim Hussain Ismail Batti
+Designation: CEO
+Date (MM/DD/YY):
+__________________________
+Signature:
+Print Name:
+Designation:
+Date (MM/DD/YY):
+11
+
+12
+

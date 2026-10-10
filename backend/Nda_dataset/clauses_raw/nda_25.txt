@@ -1,0 +1,401 @@
+Page 1 of 8 
+ 
+ 
+CONFIDENTIALITY & NON-DISCLOSURE AGREEMENT  
+ 
+ 
+BY 
+ 
+ 
+__________ 
+[Insert Name]__________________ (Receiving 
+Party) 
+ 
+ 
+IN FAVOUR OF 
+ 
+ 
+NEWSPACE INDIA LIMITED (NSIL) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 2 of 8 
+ 
+CONFIDENTIALITY & NON-DISCLOSURE AGREEMENT  
+(To be executed on the stamp paper of appropriate value as per the relevant state’s stamp 
+legislation) 
+ 
+This Confidentiality & Non-Disclosure Agreement (“Agreement”) made at Bengaluru, India 
+on this ___ day of _________2024.  
+ 
+BY AND BETWEEN: 
+ 
+________________________a company registered under the Companies Act, 1956/ 2013 
+and having its registered office at_____________ (hereinafter referred to as “Receiving 
+Party” which expression shall, unless repugnant to the context or meaning thereof, be 
+deemed to include its successors, transferees and permitted assigns, etc.). 
+ 
+AND 
+ 
+NewSpace India Limited a company registered under the Companies Act, 2013 and having 
+its registered office at ISRO HQ Campus, Bengaluru – 560 094 (hereinafter referred to as 
+“NSIL”, which expression shall, unless repugnant to the context or meaning thereof, be 
+deemed to include its successors, transferees and permitted assigns, etc.). 
+  
+NSIL and the Receiving Party shall hereinafter be collectively referred to as the “Parties” 
+and individually as “Party”. 
+ 
+WHEREAS  
+A. 
+NSIL has floated a request for qualification dated [08th May 2024] and bearing 
+reference no. [NSIL/RFQ/LVM3/PPP/01] (“RFQ”) in relation to the production of the 
+LVM3, in accordance with the terms and conditions of the Tender Documents 
+(including specifically in the Contract) (“Project”) and is required to provide certain 
+information (which at present is confidential and not in the public domain) to the 
+Receiving Party for the purpose of submission of Proposals by such Receiving Party.  
+B. 
+The Parties intend that the aforesaid information be kept confidential as between the 
+Parties. The Parties undertake and declare that they shall not divulge, publish or 
+reproduce the same before any party or person except in accordance with the terms 
+of this Agreement. 
+C. 
+The Parties hereto are now entering into this Agreement, in pursuance to any other 
+agreements executed or as may be executed between the Parties at a later date, 
+which is to be read in conjunction with such other agreement. 
+NOW THEREFORE the Parties agree as follows: 
+This Agreement is being furnished by Parties in consideration of the premise as set forth 
+above.  Vide this Agreement, Receiving Party, hereby agree, undertake, acknowledge and 
+confirm that: 
+1.  
+Definitions  
+1.1 
+For the purposes of this Agreement:   
+a) 
+"Confidential Information" shall mean such information as defined in Clause 
+3 
+
+Page 3 of 8 
+ 
+b) 
+“Disclosing Party” shall mean the Party disclosing any Confidential 
+Information. 
+c) 
+“Receiving Party” shall mean the Party receiving the Confidential information 
+hereunder. 
+d) 
+“Employees” shall mean and include the partners, directors, employees, 
+officers, subcontractors, agents, Associates, Affiliates, representatives of the 
+Receiving Party. 
+e) 
+“Group” shall mean in relation to a Party, that Party, each and any subsidiary 
+or holding company/controlling organisation of that Party, and each and any 
+subsidiary of a holding company of that Party or its Associates. (Associates 
+shall have the same meaning as defined under Clause 1.1 (m). 
+f) 
+“Non - Compete” shall mean that the Receiving Party shall not directly / 
+indirectly solicit work from the other departments/ divisions of Disclosing Party 
+or its Affiliates as more fully explained in Clause 6 to this Agreement. 
+g) 
+“Proprietary Information” shall mean all information, intellectual property 
+rights including but not limited to Trade Marks, Copyrights, patents, Designs, 
+algorithms, trade secrets, formulae, designs, know-how, domain names, 
+processes, applications, data, ideas, techniques, documents, notes, 
+presentations, works of authorship, business plans, customer lists, user 
+information, customer data, operational data, and other information concerning 
+the actual or anticipated business, research or development, prices and pricing 
+structures, marketing and sales information, competitive analysis, and any 
+information and materials relating thereto, or which is received in confidence 
+by or for the Company or its Affiliates from any other person, whether or not it 
+is in written or permanent form of which Disclosing Party is the registered owner 
+or has any other kind of enforceable rights. 
+h) 
+“ISRO” shall mean Indian Space Research Organisation, including its Centres/ 
+Units 
+i) 
+“Business Purposes” shall mean and include such purposes for which 
+Parties are engaging to achieve purpose defined in the Introduction.   
+j) 
+“Best Efforts” means, with respect to a Party, a duty to act in good faith and 
+with all due diligence and prudence consistent with applicable law in 
+accordance with best practices and the highest professional standards in a 
+commercially reasonable manner adhered to Business Purposes. 
+k) 
+“Effective Date” Shall mean the date this Agreement is made.  If signed on 
+two different dates, the last date will be considered as Effective Date. 
+ 
+l) 
+“Associates/ Affiliates” shall mean any person that is directly or indirectly, 
+through one or more intermediaries, Controlling, Controlled by, or under 
+common Control with a Party. For purposes of this definition, “Control” shall 
+mean possessing, directly or indirectly, the power to direct or cause the 
+direction of the management, policies, and operations of a person, whether 
+through ownership of voting securities, by contract, or otherwise.  
+
+Page 4 of 8 
+ 
+1.2 
+Any capitalised terms used in this Agreement, but not defined in this Agreement, shall 
+have the meanings ascribed to them under the RFQ 
+2. PURPOSE 
+2.1 The Receiving Party would be receiving Confidential Information (as defined below) in 
+relation to Project, from NSIL, ISRO, NSIL’s/ISRO’s Affiliates, directors, officers, 
+employees, agents or advisors  
+2.2 The Parties herein agree and acknowledge that as a condition to either Party furnishing 
+such Confidential Information, shall treat such Confidential Information provided by the 
+Disclosing Party to the Receiving Party in accordance with the terms of this Agreement 
+and to take or abstain from taking certain other actions in accordance with the terms 
+of this Agreement as set forth hereinbelow. 
+3. “Confidential Information” includes: (i) all information, data, reports, analyses, progress, 
+status advices, interpretations, studies, forecasts, records, documents and/or materials , 
+whether made available in writing or electronically to the Receiving Party by the Disclosing 
+Parties in relation to Project and/or LVM3 or becoming available to the Representatives 
+(as defined below) of the Receiving Party, including without limitation in any written or 
+printed documents, or in electronic format, specifications for the MSS terminal, designs, 
+photographs, technical details, facility layouts, general arrangement plans, production 
+schedules, drawings, samples, models, information regarding operations, financial 
+information, strategies, either in writing or orally or any means of disclosing such 
+Confidential Information that the Disclosing Party may elect to use prior to the execution 
+or during the validity of this Agreement; (iii) any financial, technical, business, operational, 
+assets and liabilities related information, any analysis that integrally incorporates and/or 
+discloses any Confidential Information; and (iv) any information exchanged between 
+parties to the Project, in respect of any Disclosing Party(ies), or documents reflecting or 
+generated from such information, and any information or document that the Disclosing 
+Party considers confidential, but excluding information that:  
+(i) 
+at the time of supply to the Receiving Party is in the public domain or otherwise 
+lawfully known to the Receiving Party; 
+(ii) becomes lawfully available to the Receiving Party or its Representatives from a 
+third party who to the best of the Receiving Party’s knowledge does not owe any 
+party an obligation of confidence in relation to such information; 
+(iii) is independently developed by the Receiving Party or its Representatives without 
+any reference to the Confidential Information, and without violating any obligations 
+hereunder; or 
+(iv) is approved for disclosure in writing by the Disclosing Parties or a Disclosing Party. 
+4. The Confidential Information shall be shared only with Affiliates or partners who shall be 
+potentially participating in the Bidding Process and the directors, partners, officers, agents, 
+employees or advisors (such as financial advisors, attorneys, bankers, consultants and 
+accountants) of the Receiving Party/their Affiliates/partners who need to know such 
+information for the purpose of submitting the Proposal (collectively referred to as the 
+“Representatives”), on a strictly “need to know” basis; provided, such Representatives 
+are also similarly restricted by the confidential obligations and the conditions set forth in 
+this Agreement. The Receiving Party agrees that the Receiving Party will be responsible 
+for any breach of the confidentiality and other terms of this Agreement by any of the 
+Receiving Party’s Representatives; 
+
+Page 5 of 8 
+ 
+5. The Receiving Party agrees that it shall ensure that its Representatives shall keep 
+confidential all Confidential Information provided to the Receiving Party, unless disclosure 
+is required to satisfy the requirements of any law, legal process, court of competent 
+jurisdiction or any governmental or regulatory agency having the authority to regulate any 
+aspect of the Receiving Party’s business. Provided that the Receiving Party may disclose 
+only such Confidential Information that is strictly required to be disclosed to comply with a 
+regulatory requirement, and to the extent legally permissible, the Receiving Party shall 
+notify the Disclosing Parties of such requirements promptly, in advance of the disclosure, 
+so that the Disclosing Parties may seek protective order or other appropriate remedy to 
+protect the secrecy of the Confidential Information. 
+6. The Receiving Party shall be liable to the Disclosing Party for such loss, damage, costs, 
+expenses or liabilities arising out of any such action, claim or proceeding, brought by any 
+third party pursuant to any unauthorized disclosure or use of any information by the 
+Receiving Party, or by any person for whom the Receiving Party is responsible under this 
+Agreement, or pursuant to any breach of any undertaking, warranty or representation 
+contained in this Agreement as awarded by a court of competent jurisdiction. Without 
+prejudice to the generality of the foregoing, and the obligations of the Parties in respect of 
+the Confidential Information, each Party agrees and acknowledges that additional 
+obligations shall be applicable in respect of Classified Information. For the purposes of this 
+Agreement ‘Classified Information’ shall mean information, documents and material of 
+any kind which the respective Government i.e., Indian Government has given or caused 
+to be given a security classification irrespective of whether the same is transmitted orally, 
+electronically, in writing or by hand. Notwithstanding any other provision of this Agreement: 
+(a) 
+Each Party hereto undertakes to follow security procedures prescribed for 
+military purposes with respect to disclosure, receipt, production, use and 
+handling of Classified Information as notified by Disclosing Party.  
+(b) 
+Any Classified Information, disclosed by one Party hereto shall be, whatever 
+the method of disclosure be, identified by the Disclosing Party as Classified 
+Information at the time of disclosure.  
+(c) 
+The provisions of this Clause 11 are to remain in full force and effect 
+notwithstanding any termination by expiration or otherwise of this Agreement. 
+7. The Receiving Party understands and agrees that monetary damages would not be 
+sufficient remedy for any actual or threatened breach of this Agreement by the Receiving 
+Party or any of its Representatives and that, in addition to all other remedies available at 
+law and/or in equity, the Disclosing Parties shall be entitled to seek equitable relief, 
+including both preliminary and permanent injunctions and specific performance, as a 
+remedy for any such actual or threatened breach of this Agreement by the Receiving Party 
+or any of its Representatives. 
+8. This Agreement shall be governed by the laws of India and thereof. Any dispute arising 
+from or related to this NDA shall be subject to the exclusive jurisdiction of the courts at 
+Bangalore, Karnataka.  
+9. The Receiving Party agrees and acknowledges that its obligations and undertakings 
+herein shall be in addition to, and not in derogation or substitution of its obligations under 
+the Tender Documents. 
+10. The Parties agree and acknowledge that capitalized terms used but not defined in this 
+Agreement shall have the meaning ascribed thereto under the RFQ. 
+
+Page 6 of 8 
+ 
+11. 
+BREACH 
+ 
+11.1. In the event of any breach of any of the terms of this Agreement by Receiving Party, 
+the Disclosing Party shall be entitled to serve a written notice to the Receiving Party 
+informing Receiving Party of such default and requiring the Receiving Party to rectify 
+the same within 5 (Five) days of receipt of the notice of default, failing which the 
+Disclosing Party shall be at liberty to terminate this Agreement / any such other 
+agreement(s) that may have been executed between the Parties. 
+ 
+12. 
+TERM AND TERMINATION 
+ 
+12.1. This Agreement shall expire on, the earlier of (i) five (5) years from the date of this 
+Agreement or (ii) either Party may terminate this Agreement by giving a prior written 
+notice of 30 (Thirty) days to the other Party. The obligations concerning Confidential 
+Information shared to Receiving Party for the purpose of this Project shall survive after 
+the expiration of the stipulated tenure of five (5) years and Receiving Party will be 
+restrained from disclosing any of the Confidential Information in perpetuity.  Where any 
+definitive agreement is executed in connection with the Permitted Purpose, this 
+Agreement shall be read together with the definitive agreement and be governed by 
+the same. 
+ 
+13. 
+INDEMNITY 
+ 
+13.1. The Receiving Party hereby agrees and undertakes to indemnify Disclosing Party or 
+its Group member from and against all damages, losses, claims, liabilities, costs and / 
+expenses which Disclosing Party may incur or sustain as a result of a breach of any of 
+the provisions of this Agreement by the Receiving Party or its Affiliates.  
+ 
+13.2. The Receiving Party hereby agrees and undertakes to be liable to Disclosing Party for 
+such damages, losses, claims, liabilities, costs and/ expenses which Disclosing Party 
+may incur or sustain as a result of a breach of any of the provisions of this Agreement 
+by the Receiving Party or its Affiliates as awarded by a court of competent jurisdiction 
+or any such amount as may be mutually agreed upon by the Parties herein. 
+ 
+14. 
+MISCELLANEOUS 
+ 
+14.1. The Receiving Party shall neither publicly release any information relating to this 
+Agreement, the relationship of the Parties nor the discussions or exchanges in 
+connection to this Agreement, without prior written consent of Disclosing Party, except 
+as permitted herein. 
+ 
+14.2. Assignment: Receiving Party shall not assign or transfer any of its rights or obligations 
+under this Agreement. 
+ 
+14.3. Amendment: The Parties may amend the provisions of this Agreement with the mutual 
+consent of the Parties to be recorded in writing and duly signed by each Party. 
+ 
+
+Page 7 of 8 
+ 
+14.4. Severability: If any provision of this Agreement becomes unenforceable or prohibited 
+under the applicable laws, such unenforceability or prohibition shall not invalidate or 
+affect the validity or enforceability of the remaining provisions of the Agreement. 
+ 
+14.5. Except where stated otherwise in this Agreement, a person who is not a Party to this 
+Agreement has no right to enforce any of its terms. 
+ 
+14.6. This Agreement shall be binding on the Receiving Party and inure to the benefit of the 
+Disclosing Party and its successors and assigns. 
+ 
+14.7. Headings: The headings contained in this Agreement are for reference purposes only 
+and shall not in any manner affect the meaning and interpretation of this Agreement. 
+ 
+14.8. Notices: Unless otherwise provided herein, all notices or other communications under 
+or in connection with this Agreement shall be given in writing and may be sent by 
+personal delivery or post or courier or facsimile at the address as specified herein 
+below: 
+Mr. Ravi Prakash Shukla 
+Manager Legal  
+ISRO HQ Campus, New BEL Road 
+Bangalore – 560 094 
+Email: ravi.prakash@nsilindia.co.in  
+Phone No.: 080 23227777 
+To M/s 
+Address: 
+Phone No.: 
+Fax: 
+E-mail: 
+ 
+ 
+Any such notice or other communication will be deemed to be effective if sent by personal 
+delivery, when delivered, if sent by post then from the date of receipt of post 
+acknowledgement, and if sent by courier, then from the date of receipt of courier 
+acknowledgement, and if transmitted electronically by e-mail (on receipt of a confirmation 
+to the mentioned email id (s)). 
+15. Counterparts: This Agreement, and any amendment thereof, may be executed in 2 (Two) 
+counterparts, each of which shall be deemed an original, but all of which together shall 
+constitute one and the same document. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 8 of 8 
+ 
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed 
+as of the Effective Date as mentioned hereinabove. 
+ 
+For and on-behalf of NSIL 
+For and on-behalf of {Insert Company 
+Name} 
+ 
+Signature: 
+ 
+Name 
+Ravi Prakash 
+Shukla 
+Designation 
+Manager, Legal  
+Place 
+Bangalore 
+Date 
+ 
+Seal 
+ 
+ 
+ 
+Signature: 
+ 
+Name 
+ 
+Designation 
+ 
+Place 
+ 
+Date 
+ 
+Seal 
+ 
+ 
+WITNESS: 
+ 
+Signature: 
+ 
+Name:  
+ 
+WITNESS 
+ 
+Signature: 
+ 
+Name: 
+ 
+ 
+ 
+[Note to draft:  
+1. 
+In case the constitutional documents of the Receiving Party provide for common seal, 
+the said common seal shall be affixed on this Agreement in accordance with the 
+constitutional documents of the Receiving Party; and 
+2. 
+In case of a Consortium, this Agreement shall be executed by the Lead Member on 
+behalf of each Member of such Consortium.]  
+

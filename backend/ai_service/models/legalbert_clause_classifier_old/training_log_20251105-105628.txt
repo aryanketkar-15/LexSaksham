@@ -1,0 +1,43 @@
+ Training Log started: C:\Users\aryan\lexsaksham\backend\ai_service\models\legalbert_clause_classifier\training_log_20251105-105628.txt
+======================================================================
+ Loading datasets from C:\Users\aryan\lexsaksham\backend\ai_service\datasets\clause_dataset\prepared
+ Text normalized for consistent training.
+ Encoded 25 clause types.
+ Tokenization complete.
+ Loading LegalBERT model for classification...
+ Transformers version outdated; using fallback without evaluation strategy.
+ Training started (epochs=3, batch_size=8, lr=2e-05)...
+{'loss': 2.3236, 'grad_norm': 6.348400592803955, 'learning_rate': 1.9327874445581713e-05, 'epoch': 0.1}
+{'loss': 1.8502, 'grad_norm': 9.486519813537598, 'learning_rate': 1.8645513476629138e-05, 'epoch': 0.2}
+{'loss': 1.4848, 'grad_norm': 9.004068374633789, 'learning_rate': 1.7963152507676562e-05, 'epoch': 0.31}
+{'loss': 1.2942, 'grad_norm': 7.706457138061523, 'learning_rate': 1.7280791538723987e-05, 'epoch': 0.41}
+{'loss': 1.2101, 'grad_norm': 15.002723693847656, 'learning_rate': 1.6601842374616173e-05, 'epoch': 0.51}
+{'loss': 1.1617, 'grad_norm': 9.201855659484863, 'learning_rate': 1.5919481405663598e-05, 'epoch': 0.61}
+{'loss': 1.1349, 'grad_norm': 12.78243350982666, 'learning_rate': 1.5240532241555784e-05, 'epoch': 0.72}
+{'loss': 1.037, 'grad_norm': 4.82189416885376, 'learning_rate': 1.4558171272603208e-05, 'epoch': 0.82}
+{'loss': 1.0547, 'grad_norm': 7.210043430328369, 'learning_rate': 1.3875810303650631e-05, 'epoch': 0.92}
+{'loss': 0.9946, 'grad_norm': 7.302212238311768, 'learning_rate': 1.3193449334698056e-05, 'epoch': 1.02}
+{'loss': 0.9581, 'grad_norm': 7.862821102142334, 'learning_rate': 1.2511088365745481e-05, 'epoch': 1.13}
+{'loss': 0.9218, 'grad_norm': 11.346131324768066, 'learning_rate': 1.1828727396792906e-05, 'epoch': 1.23}
+{'loss': 0.8727, 'grad_norm': 6.839257717132568, 'learning_rate': 1.1146366427840329e-05, 'epoch': 1.33}
+{'loss': 0.8909, 'grad_norm': 12.866982460021973, 'learning_rate': 1.0464005458887752e-05, 'epoch': 1.43}
+{'loss': 0.8835, 'grad_norm': 7.808600902557373, 'learning_rate': 9.781644489935176e-06, 'epoch': 1.54}
+{'loss': 0.8601, 'grad_norm': 5.1516947746276855, 'learning_rate': 9.0992835209826e-06, 'epoch': 1.64}
+{'loss': 0.8166, 'grad_norm': 13.024713516235352, 'learning_rate': 8.416922552030024e-06, 'epoch': 1.74}
+{'loss': 0.8182, 'grad_norm': 16.08010482788086, 'learning_rate': 7.734561583077449e-06, 'epoch': 1.84}
+{'loss': 0.8428, 'grad_norm': 6.555289268493652, 'learning_rate': 7.052200614124872e-06, 'epoch': 1.94}
+{'loss': 0.7856, 'grad_norm': 12.45981502532959, 'learning_rate': 6.369839645172297e-06, 'epoch': 2.05}
+{'loss': 0.7684, 'grad_norm': 4.279102325439453, 'learning_rate': 5.687478676219721e-06, 'epoch': 2.15}
+{'loss': 0.7474, 'grad_norm': 7.739352703094482, 'learning_rate': 5.0051177072671446e-06, 'epoch': 2.25}
+{'loss': 0.7637, 'grad_norm': 18.706628799438477, 'learning_rate': 4.3227567383145685e-06, 'epoch': 2.35}
+{'loss': 0.7493, 'grad_norm': 5.127688407897949, 'learning_rate': 3.6403957693619928e-06, 'epoch': 2.46}
+{'loss': 0.7564, 'grad_norm': 7.8992204666137695, 'learning_rate': 2.9580348004094167e-06, 'epoch': 2.56}
+{'loss': 0.7353, 'grad_norm': 11.33134937286377, 'learning_rate': 2.275673831456841e-06, 'epoch': 2.66}
+{'loss': 0.7336, 'grad_norm': 8.017329216003418, 'learning_rate': 1.5933128625042649e-06, 'epoch': 2.76}
+{'loss': 0.7374, 'grad_norm': 8.855368614196777, 'learning_rate': 9.143636983964519e-07, 'epoch': 2.87}
+{'loss': 0.7148, 'grad_norm': 16.96916961669922, 'learning_rate': 2.3200272944387582e-07, 'epoch': 2.97}
+{'train_runtime': 784.2938, 'train_samples_per_second': 59.775, 'train_steps_per_second': 7.474, 'train_loss': 0.9935359147903823, 'epoch': 3.0}
+ Saving final model, tokenizer, and label map...
+ Model saved to: C:\Users\aryan\lexsaksham\backend\ai_service\models\legalbert_clause_classifier
+ Full training log saved to: C:\Users\aryan\lexsaksham\backend\ai_service\models\legalbert_clause_classifier\training_log_20251105-105628.txt
+======================================================================

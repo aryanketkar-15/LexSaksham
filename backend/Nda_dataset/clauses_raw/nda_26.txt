@@ -1,0 +1,71 @@
+Non-Disclosure Agreement 
+[To be submitted on duly notarized stamp paper of INR 100] 
+[The Non-Disclosure Agreement needs to be signed by a person duly authorised by 
+the bidder. A copy of the authorization by the bidder (copy of Board resolution or 
+Power of attorney) should be provided along with the Non-Disclosure Agreement]  
+[A similar Agreement needs to be signed by the MSP on award of the contract and 
+the same shall be made available by ITD to the selected MSP]  
+This AGREEMENT (hereinafter called the “Agreement”) is made on the [day] day of the month of 
+[month], [year], between, the President of India, through his/her authorised representative 
+Commissioner of Income Tax (CIT) – CPC (TDS), Directorate of Income Tax (Systems), 
+Government of India having office at E-2, ARA Centre, Jhandewalan Extension, New Delhi, India 
+hereinafter referred to as ‘Purchaser’, (which expression shall unless repugnant to the context 
+include representatives, successors and permitted assigns) of the First Part,   
+ 
+AND  
+<***>, a Company incorporated under the Indian Companies Act, 2013 or any other previous 
+company law as per section 2 (20) of the Indian Companies Act 2013, having registered office at 
+<***> (hereinafter referred to as the ‘Bidder’, which expression shall, unless repugnant to the 
+context or meaning thereof mean and be deemed to include its authorized agents, representatives 
+and permitted assigns) of the Second Part.  
+WHEREAS  
+1. the Purchaser has issued a Request For Proposal (RFP) inviting various organizations for 
+‘Selection of Managed Service Provider (MSP) to Design, Develop, Implement, Operate and 
+Maintain CPC (TDS) 2.0’ for the Income Tax Department (hereinafter called the “Project”) of 
+the Purchaser;  
+2. the Bidder, having represented to the “Purchaser” that it is interested to bid for the proposed 
+Project and being found to be the successful bidder(s) on completion of the bid process;  
+The Purchaser and the Bidder agree as follows:  
+1. In connection with the “Project”, the Purchaser agrees to provide to the Bidder a Detailed 
+Document on the Project vide the RFP contained in three volumes along with annexures. The 
+RFP contains details and information of the Purchaser operations that are considered 
+confidential.  
+2. The Bidder to whom the Information contained in the RFP is disclosed shall:  
+a) Hold such Information in confidence with the same degree of care with which the Bidder 
+protects its own confidential and proprietary information;  
+
+b) Restrict disclosure of the Information solely to its employees, agents and contractors with 
+a need to know such Information and advice those persons of their obligations hereunder 
+with respect to such Information;  
+c) Use the Information only as needed for the purpose of bidding for the Project;   
+d) Except for the purpose of bidding for the Project, not copy or otherwise duplicate such 
+Information or knowingly allow anyone else to copy or otherwise duplicate such 
+Information; and  
+e) Undertake to document the number of copies it makes on completion of the bidding 
+process and in case unsuccessful, promptly return to the Purchaser, all Information in a 
+tangible form or certify to the Purchaser that it has destroyed such Information.  
+3. The Bidder shall have no obligation to preserve the confidential or proprietary nature of any 
+Information which:  
+a) Was previously known to the Bidder free of any obligation to keep it confidential at the 
+time of its disclosure as evidenced by the Bidder’s written records prepared prior to such 
+disclosure; or  
+b) Is or becomes publicly known through no wrongful act of the Bidder; or  
+c) Is independently developed by an employee, agent or contractor of the Bidder not 
+associated with the Project and who did not have any direct or indirect access to the 
+Information.  
+4. The Agreement shall apply to all Information relating to the Project disclosed by the Purchaser 
+to the Bidder under this Agreement.  
+5. Nothing contained in this Agreement shall be construed as granting or conferring rights of 
+license or otherwise, to the bidder, in any of the Information.  
+6. This Agreement shall benefit and be binding upon the Purchaser and the Bidder and their 
+respective subsidiaries, affiliates, successors and assigns.  
+7. This Agreement shall be governed by and construed in accordance with the Indian laws.   
+  
+For and on behalf of the Bidder  
+ 
+________________________ 
+(signature and company seal) 
+  
+(Name of the Authorised Signatory)  
+  
+

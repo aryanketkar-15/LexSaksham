@@ -1,0 +1,383 @@
+
+
+# *LexSaksham – Full Frontend Prompt (Figma/Uizard Ready)*
+
+### (Refined with Supreme Court Data Integration + AI Chatbot + Dual Logic)
+
+---
+
+# *1. Project Overview*
+
+*Name:* LexSaksham – AI-Powered Contract Intelligence Platform
+*Core Features:* Contract analysis, risk detection, clause recommendations, Supreme Court judgement suggestions, chatbot, voice interaction, analytics
+*Backend Models:*
+
+* *Legal-BERT → clause extraction, risk scoring*
+* *ShapLIME → explainable AI-based highlighting of risk segments*
+* *Legal T5 → clause rewriting + simplified explanation*
+* *Supreme Court Dataset → judgement retrieval & similarity matching*
+
+*Target Roles:*
+
+1. *User / General Public Mode* – simplified insights
+2. *Lawyer / Legal Expert Mode* – deep analysis + Supreme Court references
+
+*Style:* Professional legal-tech, modern UI, clean spacing, responsive
+*Colors:*
+
+* Primary: Deep Blue (#1F3C88)
+* Secondary: Neutral Gray/White
+* Risk Colors: Green (Low), Yellow (Medium), Orange (High), Red (Critical)
+
+*Typography:* Inter / Roboto / Poppins – clean, bold headings
+
+---
+
+# *2. Page 1: Login Page*
+
+*Components:*
+
+* Email, Password fields
+* Login button
+* “Login as User” / “Login as Lawyer” toggle
+* Forgot password
+* Background vector of law/contract graphics
+
+*Interactions:*
+
+* Toggle changes dashboard access
+* Validation, hover animation
+
+---
+
+# *3. Page 2: Registration Page*
+
+*Components:*
+
+* Name, Email, Password
+* *Role selection dropdown (User / Lawyer)*
+* T&C checkbox
+* Register button
+
+*Interactions:*
+
+* Role selection changes access later
+* Hover animations
+
+---
+
+# *4. Page 3: Dashboard (Role-Based)*
+
+### *Components:*
+
+* Sidebar navigation:
+
+  * Dashboard
+  * Contracts
+  * AI Chatbot
+  * Analytics
+  * Upload
+  * Supreme Court Insights (Lawyer only)
+  * Profile
+
+* Top Bar: Notifications, avatar, language toggle
+
+* Cards:
+
+  * Total Contracts
+  * High-Risk Contracts
+  * Clauses Flagged
+  * Supreme Court Matches (Lawyer only)
+
+* Mini charts using mock data
+
+### *Interactions:*
+
+* Hover for card expansion
+* Drag-and-drop card layout
+* Sidebar collapsible
+
+---
+
+# *5. Page 4: Contract List Page*
+
+*Components:*
+
+* Table: Name, Type, Risk, Uploaded On, Status
+* Search + advanced filters
+* Role-based visibility:
+
+  * User: Clauses, Risk
+  * Lawyer: + Supreme Court matched judgements
+* Pagination
+* Tag filtering
+
+*Interactions:*
+
+* Hover row → mini preview
+* Toggle risk filters
+
+---
+
+# *6. Page 5: Contract Upload Page*
+
+*Components:*
+
+* Drag-and-drop upload zone
+* File validation (PDF/DOCX)
+* Progress bar
+* Role selector for analysis type
+* Success/fail notifications
+* Export options: PDF, Word, CSV
+
+*Mock data:*
+
+* Sample uploads
+
+---
+
+# *7. Page 6: Contract Details Page (Highly Expanded)*
+
+*Components:*
+
+### *Left Panel → Original Contract Text*
+
+* Highlighted risky segments using *ShapLIME* output
+* Scrollable text viewer
+
+### *Right Panel → Clause Intelligence*
+
+1. *Extracted Clauses List*
+
+   * Risk color coding
+   * Clause type tags
+
+2. *AI Insights (from Legal-BERT & Legal T5)*
+
+   * Risk score
+   * Simplified explanation
+   * Suggested alternative clause
+   * Missing clauses warnings
+
+3. *Supreme Court Judgement Recommendations*
+   (Visible **only for Lawyer Mode)
+
+   * List of top similar judgements
+   * Each item includes:
+
+     * Case name
+     * Year
+     * Relevance score
+     * Short summary
+     * “Open in Chatbot” button
+
+4. *Version History Timeline*
+
+5. *Comments + Notes Section*
+
+6. *Rich Text Editor for clause editing*
+
+*Interactions:*
+
+* Hover clause → explanation tooltip
+* Click suggested clause → insert into editor
+* Click judgement → opens in chatbot for study
+
+---
+
+# *8. Page 7: AI Chatbot Page (Integrated with Entire System)*
+
+### *Purpose:*
+
+A universal assistant connected to backend AI + Supreme Court dataset.
+
+### *Components:*
+
+* Chat window
+* Voice input button
+* Attachment option (upload clause for analysis)
+* Role-based intelligence:
+
+  * *User Mode:*
+
+    * Explains clauses
+    * Gives risk score
+    * Suggests replacement clauses
+    * Provides simplified language responses
+  * *Lawyer Mode:*
+
+    * All user features +
+    * Relevant Supreme Court judgements
+    * Citation extraction
+    * Case summary + clause correlation
+    * Deep legal argument assistance
+
+### *Chatbot Response Structure:*
+
+* AI explanation
+* Risk analysis
+* Clause alternatives
+* Judgement references (lawyer only)
+* Direct link to Contract Details Page
+
+### *Interactions:*
+
+* Speech-to-text
+* Playback for TTS
+* Sidebar: Recent Chat Threads
+
+---
+
+# *9. Page 8: Analytics & Visualization*
+
+*Components:*
+
+* Risk Distribution charts
+* Clause-wise risk heatmap
+* *Supreme Court Judgement Insight Graph* (Lawyer only)
+
+  * Top linked cases
+  * Case frequency map
+* Time-wise contract improvements
+* Comparison view: Old vs New clause impact
+
+*Interactions:*
+
+* Hover chart filters
+* Expand/collapse graphs
+* Export as PNG/PDF
+
+---
+
+# *10. Page 9: Multilingual & Voice Interaction*
+
+*Components:*
+
+* Language toggle (English / Hindi)
+* Voice input
+* TTS responses
+* Highlighted text from voice
+
+---
+
+# *11. Page 10: Notifications & Alerts*
+
+*Components:*
+
+* Contract results
+* AI analysis alerts
+* Judgement match notifications (lawyer only)
+* Toast messages
+* Mark read / filter
+
+---
+
+# *12. Page 11: Additional Enhancements*
+
+*Components:*
+
+* Collaborative editing UI with avatar indicators
+* Dashboard badges (User progress, lawyer research attempts)
+* Skeleton loaders for AI responses
+* Onboarding tutorial modals
+
+---
+
+# *13. Backend Connectivity Notes (To Guide UI Interactions)*
+
+Connect every UI element with backend endpoints:
+
+* *Legal-BERT:* Clause extraction & classification
+* *ShapLIME:* Visual risk highlighting
+* *Legal T5:* Clause rewriting + plain-language explanations
+* *Supreme Court Case Engine:*
+
+  * Similarity search of clauses to judgements
+  * Fetch metadata
+  * Display case summaries
+* *Chatbot Engine:*
+
+  * Unified system responding using all models + dataset
+
+*Actions in UI should call corresponding backend hooks:*
+
+* Upload → /analyzeDocument
+* Clause Click → /getClauseInsights
+* Chatbot message → /chat
+* Supreme Court search → /searchJudgement
+
+---
+
+# *14. Flow Summary*
+
+1. *Login → Select Role*
+2. *Upload Contract*
+3. Backend runs models
+4. Output goes to:
+
+   * Clause list
+   * Insights panel
+   * Judgement suggestions
+   * Chatbot
+5. Lawyer Mode shows additional Supreme Court section
+6. User or Lawyer asks anything in chatbot
+7. System fetches AI + judgement data
+8. Full analytics + export
+
+---
+
+### **1. Project Structure (Where Everything Lives)**
+
+Your project is split into two main parts: the **Brain (Backend)** and the **Face (Frontend)**.
+
+* **Root Folder:** `C:\Users\aryan\lexsaksham\`
+
+#### **A. The Backend (The Brain)**
+* **Location:** `backend/ai_service/`
+* **Main File:** `app.py` (This is the server that runs everything).
+* **Port:** `http://127.0.0.1:5000` (Localhost Port 5000)
+* **Key Folders:**
+    * `models/`: Stores your trained AI models (LegalBERT, T5, Judgment Model).
+    * `indexes/`: Stores the FAISS index (`judgments.index`) for searching case law.
+    * `datasets/`: Stores your raw data (`supreme_judgments.jsonl`).
+
+#### **B. The Frontend (The Face)**
+* **Location:** `frontend/`
+* **Main File:** `src/App.jsx` (This is the UI code you see in the browser).
+* **Port:** `http://localhost:5173` (Localhost Port 5173 - standard for Vite apps)
+* **Key Folders:**
+    * `src/components/`: Reusable parts like the Sidebar and Analysis Card.
+    * `src/pages/`: The main screens (Login, Dashboard, Analysis).
+    * `src/services/`: The `api.js` file that talks to the backend.
+
+---
+
+### **2. How They Connect (The "Wiring")**
+
+The Frontend and Backend are separate programs running on your computer at the same time. They talk to each other using **HTTP Requests** (like a web browser talking to a website).
+
+1.  **User Action:** You click "Analyze Contract" in the Frontend (Port 5173).
+2.  **Request:** The Frontend sends a message (POST request) to `http://127.0.0.1:5000/analyze_document`.
+3.  **Processing:** The Backend (`app.py`) receives the text.
+    * It asks **LegalBERT**: "Is this risky?"
+    * It asks **T5**: "Simplify this."
+    * It asks **FAISS**: "Find similar cases."
+4.  **Response:** The Backend sends a JSON package back to the Frontend with all the answers.
+5.  **Display:** The Frontend reads the JSON and updates the screen (showing the red/green badges and text).
+
+---
+
+### **3. Minute Details You Need to Know**
+
+* **CORS (Cross-Origin Resource Sharing):** This is the security rule that lets Port 5173 talk to Port 5000. In `app.py`, the line `CORS(app)` handles this. If you ever see a "CORS Error," it means this bridge is broken.
+* **Virtual Environment (`venv`):** Your backend runs inside a special isolated box called `venv`. You **must** always activate this (`.\venv\Scripts\activate`) before running `python app.py`, or it won't find your libraries.
+* **Node Modules:** Your frontend relies on thousands of tiny libraries stored in `node_modules`. You never touch this folder, but you need to run `npm install` if you ever move the project to a new computer.
+
+### **4. Summary for Your Mental Model**
+
+* **You run TWO terminals:**
+    * **Terminal 1 (Backend):** Runs Python. It's the engine room. It stays open and prints logs like `POST /analyze 200 OK`.
+    * **Terminal 2 (Frontend):** Runs Node.js. It serves the visual website.
+* **The Bridge:** The `axios` library in your frontend code is the messenger that carries data back and forth.
+
+This architecture is industry-standard for modern web applications (MERN stack style, but with Python for AI). You are building a professional-grade system.

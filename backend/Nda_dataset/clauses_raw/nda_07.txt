@@ -1,0 +1,216 @@
+
+
+
+
+
+
+Avnesure TT
+NON-DISCLOSURE AGREEMENT
+
+4. Definitions
+In this Non Disclosure Agreement the folowing torms shall, unless the context otherwise
+
+requires, have the following meanings:
+
+1.4 ‘Disclosing Party’ or ‘First Party’ means NSTL(V) disclosing confidential
+Information to the Academic Institution under this Agreement.
+
+4.2 Receiving Party’ means the Academic Institution receiving Confidential Information
+NSTL under this Agreement.
+
+4.3 ‘Confidential Information’ means any information, which shall include but is not
+limited to, design. fabrication and assembly drawings, know-how, processes, product
+specications, raw materials, product samples, inventions, concepts and any other
+technical and/or commercial information, disclosed directly or indirectly and in any form
+whatsoever (including, but not limited to, disclosure made in writing, oral or inthe frm of
+‘samples, model, computer programmes, drawings or other instruments) fumished by the
+Disclosing Party to the Receiving Party under this Agreement.
+
+4.3.4 Such Confidential Information shal also include but shall not be limited to:
+
+4.3.4.1 Information disclosed by the Disclosing Party in writing marked as
+‘confidential atthe time of disclosure;
+
+4.3.4.2 Information disclosed by the Disclosing Party orally which is slated
+{o-bo confidential at the time of disloeure
+
+4.3.4.3 Information disclosed in any other manner is designated in writing
+‘as Confidential Information atthe time of disclosure; or
+
+1.344 Notwithstanding sub-clauses 1.3.1.1, 1.3.1.2 and 1.3.1.3 of this
+efiniion, ny Information whose nature makes it obvious that it ie
+confidential
+
+Page 106
+
+
+41.3.2 Such Confidential Information shall not include any information which:
+
+1.3.2: Is, atthe time of disclosure, publicly known; or
+1.9.22 Bocomes at a later date, publicly available otherwise than a
+wrongful act or negligence or breach of this Agreement of or by the
+Receiving Party; or
+1.3.2.3 The Receiving Party can demonstrate by its witten records was in
+its possession, or known to the Receiving Party, before receipt under this
+‘Agreement, and which was not previously acquired under an obligation of
+‘confidentiality; or
+1.3.24 Is legitimately obiained at any time by the Receiving Party from a
+third Party without restrictions in respect of disclosure or use; or
+1.32.5 The Receiving Parly can demonstrate to the satisfaction of the
+Disclosing Party, has been developed independently of its obligations under
+this Aareement and without acess to the Confidential Information.
+Administrative instructions
+
+2A Authority of the Signatory of Receiving Party in NDA shall be established prior to
+signing of NDA. Preferably, a letter should be obtained from Director of the Receiving
+Party authorizing a named senior level offical to sign NDA on their behalf, Only such
+authorized Senior Level Officer should sign the NDA document on behalf of Receving
+
+PartylSeoond Party.
+
+2.2 The confidentiality ofthe documents shall also be maintained by the Receiving Party
+
+Poge 206
+
+This agrooment made this_ day of. ‘between The President of India, through the
+Director, Naval Science & Technological Laboratory (NSTL), Visakhapatnam, hereinafter
+refered to a. “Firet_~«~Party’ «onthe - one part «andthe
+(Second Party’) herein after
+referred as “Receiving Party" which expression shall unless it be repugnant to or inconsistent
+with subject or context thereof, include and be deemed to include their Heirs, Executers,
+‘Successors oF Administrators and permitted assigns on the other part.
+
+Hereafter collectively referred to as the “Parties” o individually as the “Party”.
+
+WHEREAS, First Party/LabiEstt. (Disclosing Party) possess certain sensitive and confidential
+information and desires to disclose it tothe Fim (the Recelving Party) to further co-development
+relationship between the Parties subject to the Terms and Conditions ofthis Agreement.
+
+NOW IT IS AGREED ANN NEC ARED RY AND RETWEEN THE PARTIES AS FOLLOWS:
+
+4. Wentifiation
+\When Confidential information is dsclased in wrting or other tangible form, the information shall
+bbe marked “CONFIDENTIAL” or with similar legend on each page containing Confidential
+information. When Confidential information is disclosed orally, visually or in any other intangible
+form, such information shall be identiied as confidential at the time of disclosure, subsequently
+summarized and confirmed in writing within Thiry (30) days from the initial disclosure, refering
+the dete of dodlooure,
+
+2 Standard of Care
+The Receiving Party shall protect the confidenti
+appropriate care.
+
+information disclosed by the First Party with
+
+(@) Receiving Party shall communicate to First Party in wing the list of nominated
+persons for receiving confidential information.
+
+(©) Confidentia information should not be communicated through phone, fax, oF email
+Confidential information should be exchanged through secure form of communication as
+
+‘an exampl, including but not limited o, secure FTP, secure remote access, etc.
+Page 306
+
+
+(©) When confidential information is received by Receiving Party, the Receiving Party
+‘should treatit with reasonable care.
+
+(4) Reclving Party should not discuss the confidential information disclosed by First
+Party with any Third Party, within Government Organizations or outside Government
+Organizations without the prior writen approval of DirectorFirst Party. The Academic
+Partner agrees. to promptly notify First «Party of any
+‘misuse/misappropriationvloss/comprise ofthe confidential information.
+
+3, Either Party's failure to enforce any provision, right or remedy under this agreement shal
+not constitute a waiver of such provision ight or remedy.
+
+4, This Agreement will be construed in, interpreted and applied to accordance withthe laws
+of India,
+
+5. Confidentiality Period
+For the term of this Agreement and Ten (10) years thereafter, the Receiving Party shall neither
+disclose the First Party's confidential information to any Party other than its Employees who
+have express need to know inthe context of the relavant co-development.
+
+6. Exceptions,
+‘No obligation shall be imposed regarding confidential information ifthe Receiving Party can
+demonstrate that the confidential information:
+
+(@) Is oF becomes thereafter available 0 the public through no breach of this,
+‘Agreement;
+(0) is disclosed pursuant to governmental or judicial order requirement.
+
+7. Return of Materials
+‘The Receiving Party shall return to the First Party, or at the discretion of the First Party cortly
+the destruction of all copies of the Fist Party's confidential information upon written request of
+First Party.
+
+Page 406
+
+8. NoLicense
+"Nothing herein constitutes a license or other transer of rights in respect of elther Party's interest
+In any Confidential information disclosed pursuant to this Agreement.
+
+8. Term
+‘The Term ofthis agreement is Five (5) years from the effective Dato, however, those Sections
+5,6, Band 11 hereof shall survive even after expiration or termination hereof
+
+10. Assignment, Modification and Waiver
+[No assignment, modification, or waiver of any Term of this A;reement shal be effective unless
+set forth in wing and signed by an Authorized Represents ive of each Party. No failure to
+enforce any provision ofthis Agreement shall be construed! as waive.
+
+11. Dispute Resolution
+Ditlerance of opinion. if any. arising during the period of this Agreement. concerning the
+‘execution of the responsiblites will be settled on the basis of mutual consultation by the
+signatories or their designated nominees. The partes will make best possible efforts to resolve
+the dispute and in case oftheir failure to do so and reconciling the dispute mutually, the same
+shall be referred for Arbitration.
+
+42. Arbitration
+‘Any dispute, disagreement or question arising out of oF relating to the Contractor relating to
+produet or performance! which cannot be fattled amicably, shall be resolved by artitation in
+accordance with ether ofthe following provisions:
+
+“The case of arbitration may be referred to arbitrator / arbitrators appointed as per section 11 of
+Indian Arbitration and conciliation Act, 1996 as amended and the proceedings shall be
+‘conducted in accordance with procedure of Indian Arbitration and Conelation Act, 1996 as
+‘amended
+
+Page of6
+
+
+“The case of arbitration may be referred to International Contre for Altemative Dispute
+Resolution (|CADR) for the appointment of arbitrator and proceedings shall be conducted in
+‘accordance with procedure of Indian Arbitration and Conciliation Act, 1996 as amended
+
+or
+
+“The case of arbitration may be conducted in accordance with the rules of Arbitration of the
+International Chamber of Commerce by one or more arbitralors appointed in accordance with
+the sald rules in India. However, the arbitration proceedings shall be conducted in India under
+Indian Arbitration and Conciliation Act, 1996 as amended *.
+
+19. Entire Agreement
+
+‘This Agrooment constitutes the entie Agreement between the Parties with respect to the
+‘matters covered by this Agreement, supersedes all prior agreements and understandings with
+respect thereof, and may only be amended in writing signed by both Parties.
+
+14, Binding Effect
+‘This Agreement shall be binding and inure to the benefit of the undersigned Parties, their
+
+‘Successors and Assigns.
+
+IN WITNESS WHEREOF, the partes have executed this Agreement to be executed as the
+effective date writen above when signed below by thelr duly authorized representatives.
+
+or President Onda Through Director NSTL | For
+Name Name = rs
+
+Designation ~ Designation ;
+‘Address NSTL, Vizag adress
+[bate - - Date
+
+Poge 66
+

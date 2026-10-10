@@ -1,0 +1,9 @@
+Training Log started: C:\Users\aryan\lexsaksham\backend\ai_service\models\legalbert_clause_classifier\training_log_20251105-161117.txt
+======================================================================
+Loaded train/validation from C:\Users\aryan\lexsaksham\backend\ai_service\datasets\clause_dataset\prepared
+Text normalized.
+Using unified label mapping (25 labels).
+Labels encoded.
+Tokenization complete.
+Loading LegalBERT base model...
+Model initialized.

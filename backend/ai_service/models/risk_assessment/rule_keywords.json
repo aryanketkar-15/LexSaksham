@@ -1,0 +1,47 @@
+{
+  "High": [
+    "indemnify",
+    "indemnification",
+    "liability",
+    "unlimited liability",
+    "penalty",
+    "damages",
+    "termination without notice",
+    "breach",
+    "non-performance",
+    "default",
+    "compensation",
+    "losses",
+    "warranty breach",
+    "legal action",
+    "lawsuit"
+  ],
+  "Medium": [
+    "delay",
+    "confidential",
+    "data protection",
+    "governing law",
+    "non-compete",
+    "termination with notice",
+    "intellectual property",
+    "force majeure",
+    "service levels",
+    "audit",
+    "insurance",
+    "renewal",
+    "arbitration",
+    "dispute resolution"
+  ],
+  "Low": [
+    "payment",
+    "invoice",
+    "scope",
+    "definitions",
+    "term",
+    "notices",
+    "assignment",
+    "contact information",
+    "signature",
+    "effective date"
+  ]
+}

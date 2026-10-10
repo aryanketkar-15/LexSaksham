@@ -1,0 +1,1280 @@
+ 
+ 
+AGREEMENT FOR SERVICES 
+ 
+THIS AGREEMENT FOR SERVICES is made effective as of the Effective Date (specified in Schedule 1) by and between Tata Consultancy 
+Services Limited, a company incorporated under the Companies Act 1956, with its corporate office located at TCS House, Raveline Street, 
+21 D. S. Marg, Fort, Mumbai 400001 and acting through its branch office in the UK at 18 Grosvenor Place, London SW1X 7HS, United 
+Kingdom, herein after referred as ‘TCS’ (which expression shall include its successors and assigns) and the Customer entity named in the 
+signature block below, with other details thereof set out in Schedule 1- Contract Details, herein after referred as a ‘Customer’ (which 
+expressions shall, unless the context requires otherwise, includes its successor in business and permitted assigns). In this Agreement, TCS 
+and Customer are collectively referred as “Parties” and individually as a “Party”. 
+ 
+WHEREAS TCS has developed a proprietary business concept titled as ‘IT-as-a-Service’ aimed at delivering an integrated suite of end-to-end 
+business solutions and cloud services to small and medium businesses (SMB), involves use of shared software applications owned or 
+licensed and hosted by TCS at a centralized TCS facilities and/or deployed at Customer facilities. AND WHEREAS Customer who has been 
+introduced to TCS by the entity/person named in Schedule 1, desires to avail of certain services of TCS as more fully described in Schedule 2 
+and TCS agrees to provide such services in accordance with the terms and conditions set out in this Agreement. 
+ 
+NOW THIS AGREEMENT WITNESSETH: 
+ 
+1. Definitions: 
+ 
+All capitalized terms used in this Agreement or any attachment 
+thereof, unless the context specifically requires otherwise, shall 
+have the meaning assigned to each of the terms given in Exhibit 
+A hereto. 
+ 
+2. Scope of Services: 
+ 
+2.1 Services: The scope of Services to be provided by TCS to 
+Customer is as described in Schedule 2. TCS will host on TCS’s 
+Services Environment at TCS designated location(s), and/or 
+deploy on designated Customer systems at Customer designated 
+location(s) identified in Schedule 2, the TCS Application 
+System, for provision of such Services. TCS reserves the right to 
+modify the Services Environment without impacting the 
+Services. The Services may commence on the Service 
+Commencement Date identified in Schedule 1, unless the Parties 
+otherwise agree. If the Parties desire to modify the Scope of 
+Services in Schedule 2 in any manner, the Parties agree that 
+such change, to Schedule 2 and its corresponding change to 
+other Schedules hereto shall be implemented in accordance with 
+the Change Control Procedure defined in Schedule 5 hereto. 
+ 
+2.2 Permitted Use of Services: Customer’s use of TCS 
+Applications System shall always be subject to the Licensing 
+Conditions stipulated in Schedule 3. In case the TCS Application 
+System includes a third party software (identified in Schedule 2), 
+and where such third party licensor requires Customer to sign a 
+license agreement, the Customer agrees to execute such third 
+party software license agreement, which shall prevail upon any 
+conflicting provisions herein. Such third party software license 
+agreement shall become a part of this Agreement. 
+ 
+3. Obligations of Customer: 
+ 
+Customer undertakes to comply with all the access authorization 
+and access controls for the Customer’s access to the Services 
+Environment as may be prescribed by TCS. Customer shall limit 
+the access to Services Environment only to the Authorized Users. 
+Each Authorized Users shall follow the security policies and rules 
+as have been notified by TCS. Customer acknowledges that the 
+Services offered by TCS under this Agreement are not the data 
+processing services but are in the nature of information 
+technology infrastructure and application services for Customer’s 
+own data processing and business use only and agrees that the 
+Customer shall not, in any way, commercially exploit the Services 
+otherwise. Customer shall be responsible for all activity occurring 
+under its control and shall abide by all applicable local, state, 
+national and foreign laws, treaties and regulations in connection 
+with their use of the Service, including those related to data 
+privacy, international communications and the transmission of 
+technical or personal data. The Customer shall notify TCS 
+immediately of any unauthorized use of the Services or Services 
+Environment. Customer undertakes that all Customer Data will 
+not infringe the intellectual property rights of any third party. 
+ 
+4. Proprietary Rights 
+ 
+All rights, title and interests in and to the Services Environment, 
+TCS Application System and any other material used by TCS in 
+the provision of the Services shall exclusively belong to TCS or its 
+licensors (“TCS Proprietary Material”). Any and all Intellectual 
+ 
+ 
+Property Rights with respect to the Services and the TCS 
+Proprietary 
+Material 
+and 
+all 
+modifications, 
+improvements, 
+enhancements, or derivative works made thereto, shall always 
+belong to TCS or its licensors and the Customer shall not be 
+entitled to claim any rights therein. Customer agrees that TCS 
+shall have the right to list Customer name in its marketing material 
+and use Customer logo with respect to such listing and for 
+reference purposes. The Customer acknowledges that the 
+provision of the Services hereunder by TCS shall be on a non-
+exclusive basis and TCS shall be free at all times to provide the 
+services or perform obligations same or similar to the Services 
+and obligations envisaged hereunder to any of its other clients, 
+either existing or future, and nothing herein shall preclude TCS 
+from providing such services or performing such obligations to its 
+other clients. 
+ 
+5. Compensation 
+ 
+In consideration of the Services hereunder, the Customer shall 
+pay TCS the fees and expenses (“Charges”) as specified in 
+Schedule 4. All amounts payable to TCS are exclusive of any 
+Taxes. Customer shall be entitled to deduct from applicable 
+payments to TCS, any tax on TCS’ income deductible at source at 
+the rates applicable as per the provisions of applicable law and 
+provide TCS with evidence or certificate of payment of such tax to 
+the taxing authorities. TCS shall submit invoices to Customer in 
+accordance with the payment schedule in Schedule 
+ 
+4. Customer shall remit payment to TCS within thirty (30) days 
+from the date of invoice. TCS shall invoice and Customer shall 
+make payment, in advance, in accordance with the billing period 
+specified in Schedule 4. If any invoice remains unpaid after the 
+aforesaid period, TCS shall be entitled to recover the unpaid 
+invoices with interest @ 1.5% per month calculated from the 
+payment due date until the recovery is made in full with interest 
+and/or suspend the Services. 
+ 
+6. Representations and Warranties 
+ 
+TCS warrants that the Services will be provided in a skilful and 
+workman like manner and in conformity with the scope described 
+in Schedule 2. Notwithstanding the aforesaid, any Services which 
+are provided by TCS free of charge or are otherwise not 
+chargeable shall be provided on an ‘AS IS’ basis without any 
+warranties whatsoever. Each Party represents, warrants and 
+covenants to the other that: (i) it is duly organized and validly 
+existing and in good standing under the laws of the state of its 
+incorporation or formation; (ii) it has the full right and authority to 
+enter into and that this Agreement constitutes a legal, valid and 
+binding 
+obligation; 
+and 
+(iii) 
+its 
+execution, 
+delivery 
+and 
+performance of this Agreement does not and will not conflict with, 
+or constitute a breach or default under, its charter of organization, 
+or any contract or other instrument to which it is a party. EXCEPT 
+AS SET FORTH IN THIS CLAUSE, TCS MAKES NO 
+WARRANTIES TO CUSTOMER, EXPRESS OR IMPLIED, WITH 
+RESPECT TO ANY SERVICES OR DELIVERABLES PROVIDED 
+HEREUNDER OR UNDER SCOPE OF WORK, INCLUDING, 
+WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF 
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR 
+PURPOSE. ALL SUCH OTHER WARRANTIES ARE HEREBY 
+DISCLAIMED BY TCS. 
+ 
+(TCS Proprietary and Confidential) 
+- 1 - 
+
+ 
+ 
+Customer warrants that, it shall provide all information, material, 
+data and other assistance (including knowledge transition) 
+required by TCS to enable TCS to provide Services to the 
+Customer in accordance with this Agreement. Customer warrants 
+that it shall limit the access to TCS Application System and 
+Hosting Environment only to the Authorized Personnel. Further, 
+Customer warrants that each Authorized Personnel shall follow 
+the security policies and rules as have been notified by TCS. 
+Customer further warrants that the Services are for Customer’s 
+own business use only and agrees that the Customer shall not, in 
+any way, commercially exploit the Services otherwise. 
+ 
+Customer warrants to TCS that the materials, data, information 
+and other assistance (‘Customer Materials’) supplied to TCS or 
+uploaded by Customer on TCS Application System for the 
+purpose of execution of the terms of the Agreement are either 
+Customer owned properties or are properties obtained by 
+Customer under proper intellectual property licenses. Customer 
+further warrants that the said Customer Material provided by 
+Customer or uploaded by the Customer on TCS Application 
+System shall not infringe any intellectual property rights or 
+proprietary rights of any party. Customer further warrants to TCS 
+that Customer Material supplied to TCS or uploaded by Customer 
+on TCS Application System shall not violate any applicable laws 
+and regulations. If the Customer Materials supplied by Customer 
+or uploaded by Customer on TCS Application System are found 
+to infringe the intellectual property rights of any party or is in 
+violation of any law or regulation, then Customer shall defend 
+TCS and its directors, officers and employees from and against 
+any such suit ,claim , proceeding and indemnify and hold TCS 
+harmless against all judgment, damages, costs, fine, penalty and 
+expenses (including, reasonable attorney fees).This clause shall 
+survive the termination of this Agreement. However, Parties agree 
+that, TCS shall have the right and license to use the Customer 
+Materials for support, testing and enhancement 
+ 
+7. Limitation of Liability 
+ 
+Neither Party shall be liable to the other for any special, indirect, 
+incidental, consequential , exemplary or punitive damages or for 
+loss of revenue, data and/or profit), whether in contract, tort or 
+other theories of law, even if the Party has been advised of the 
+possibility of such damages. The total aggregate liability of either 
+party under this Agreement shall not exceed the amount paid to 
+TCS by the Customer for the Service that gives rise to such 
+liability during the twelve month period immediately preceding 
+such claim. The limitation on any Party’s liability herein shall not 
+apply to liability for damages, resulting from (i) the wilful 
+misconduct; and (ii) breach of the license conditions and 
+obligations in respect of use of TCS Application System. TCS 
+shall not be held liable for any delay or failure in its obligations, if 
+and to the extent such delay or failure has resulted from a delay 
+or failure by or on behalf of Customer to perform any of 
+Customer’s obligations. In such event, TCS shall be (a) allowed 
+additional time as may be required to perform its obligations, and 
+ 
+(b) Entitled to charge the Customer for additional costs incurred, if 
+any, as may be mutually agreed upon between the Parties. With 
+respect to Managed Services, it is agreed between the Parties 
+that TCS shall not be liable for any operational losses sustained 
+or incurred by the Customer 
+ 
+8. Confidential Information 
+ 
+Each Party (the “Receiving Party”) acknowledges and agrees to 
+maintain the confidentiality of Confidential Information (as hereafter 
+defined) provided by the other Party (the “Disclosing Party”) 
+hereunder. The Receiving Party shall not disclose or disseminate the 
+Disclosing Party’s Confidential Information to any person other than 
+those employees, agents, contractors, subcontractors and licensees 
+of the Receiving Party, or its affiliates, who have a need to know it in 
+order to assist the Receiving Party in performing its obligations, or to 
+permit the Receiving Party to exercise its rights under this Agreement. 
+In addition, the Receiving Party (i) shall take all such steps to prevent 
+unauthorized 
+access 
+to 
+the 
+Disclosing 
+Party’s 
+Confidential 
+Information, as it takes to protect its own confidential or proprietary 
+information of a similar nature, which steps shall in no event be less 
+than a reasonable standard of care, (ii) shall not use the Disclosing 
+Party’s Confidential Information, or authorize other 
+persons or entities to use the Disclosing Party’s Confidential 
+Information, for any purposes other than in connection with 
+performing its obligations or exercising its rights hereunder, and 
+ 
+(iii) Shall require all persons and entities who are provided access 
+to the Disclosing Party’s Confidential Information, to execute 
+confidentiality or non-disclosure agreements containing provisions 
+substantially similar to those set forth in this Clause 8. The 
+provisions of this Clause 8 respecting Confidential Information 
+shall not apply to the extent, but only to the extent, that such 
+Confidential Information is: (a) already known to the Receiving 
+Party free of any restriction at the time it is obtained from the 
+Disclosing Party, (b) subsequently learned from an independent 
+third party free of any restriction and without breach of this 
+provision; (c) is or becomes publicly available through no wrongful 
+act of the Receiving Party or any third party; (d) is independently 
+developed by the Receiving Party without reference to or use of 
+any Confidential Information of the Disclosing Party; or (e) is 
+required to be disclosed pursuant to an applicable law, rule, 
+regulation, government requirement or court order, or the rules of 
+any stock exchange. Upon the Disclosing Party’s written request 
+at any time, or following the completion or termination of this 
+Agreement, the Receiving Party shall promptly return to the 
+Disclosing Party, or destroy, all Confidential Information of the 
+Disclosing Party provided under or in connection with this 
+Agreement, including all copies, portions and summaries thereof. 
+ 
+9. Processing Norms 
+ 
+Both Parties acknowledge and agree that the provision of certain 
+Services under this Agreement may require TCS to interact with 
+the clients and suppliers of Customer relating to the Services as 
+special agent for and on behalf of the Customer and/or to process 
+transactions, in accordance with the general or special guidelines, 
+norms and instructions (“Processing Norms”) provided by 
+Customer and agreed by the Parties. TCS shall be entitled to rely 
+on and act in accordance with any such Processing Norms 
+agreed by the parties and TCS shall incur no liability for claims, 
+loss or damages arising as a result of TCS’s compliance with the 
+Processing Norms. Customer agrees to indemnify, defend and 
+hold TCS and its affiliates, their officers and employees involved 
+in the Services, harmless from any and all claims, actions, 
+damages, liabilities, costs and expenses, including but not limited 
+to reasonable attorney’s fees and expenses, arising out of or 
+resulting from TCS’ compliance with Processing Norms and the 
+Customer’s liability arising out of this Clause shall be outside of 
+the liability cap provided in Clause 7. Further, Customer shall be 
+responsible for all activity occurring under its control and shall 
+abide by all applicable local, state, national and foreign laws, 
+treaties and regulations in connection with their use of the 
+Service, including those related to data privacy, international 
+communications and the transmission of technical or personal 
+data 
+ 
+10. Term and Termination 
+ 
+10.1 Term: The term of this Agreement shall commence on the 
+Effective Date and continue for Contract Term specified in 
+Schedule 1, unless terminated earlier in accordance with the 
+provisions herein. The Agreement may be renewed for further 
+term(s) on mutual agreement between the Parties. 
+ 
+10.2 Termination for Material Breach. Either Party may terminate 
+this Agreement immediately by a written notice to the other Party 
+ 
+(i) in the event of a material breach by the other Party, by a 
+written notice immediately, if the breach is not curable and by a 
+written notice of 30 days, if the breach is curable and is not cured 
+within the said notice period; or (ii) in the event of any 
+proceedings in bankruptcy, insolvency or winding up filed by or 
+against the other Party or for the appointment of an assignee or 
+equivalent for the benefit of creditors or of a receiver or of any 
+similar proceedings. 
+ 
+10.3 Effect of termination. In the event of termination or expiry of 
+this Agreement, (A) Customer shall (i) forthwith cease to access 
+and/ or use any of TCS Application Systems and Services 
+Environment; (ii) return to TCS any of TCS confidential and 
+proprietary information and material in its possession; and (iii) 
+ 
+(TCS Proprietary and Confidential) 
+- 2 - 
+
+ 
+ 
+purchase Equipment at the then market value or the written down 
+book value in TCS books whichever is higher; and (B) TCS shall 
+ 
+(i) return to Customer all confidential and proprietary information 
+of Customer; (ii) if a third party software license is obtained 
+specifically for the Customer under this Agreement and allows 
+Customer to use such software after termination of this 
+Agreement (as specifically identified in Schedule 2), then TCS 
+shall transfer such third party software to Customer on an ‘AS IS’ 
+basis. Any additional fee if applicable for such transfer shall be 
+borne by the Customer. 
+ 
+11. Non Solicitation 
+ 
+Neither Party will, without the consent of the other Party, employ 
+or offer to employ directly or indirectly any person engaged or 
+previously engaged by the other in any capacity in relation to the 
+project, during the subsistence of this Agreement and until a 
+period of 24 months has expired after the termination or expiry of 
+this Agreement 
+ 
+12. Miscellaneous Provisions 
+ 
+12.1 Independent Contractors and assignment. Each Party to this 
+contract is an independent contracting entity and shall not be 
+deemed an agent, legal representative, joint venture partner or 
+partner of the other. Neither Party is authorized to bind the other 
+to any third person. Customer shall not assign or transfer this 
+Agreement or any obligations hereunder to any third party, 
+without the prior written consent of TCS.. 
+ 
+12.2 Governing Law and Dispute Resolution. This Agreement 
+shall be governed by and interpreted in accordance with the laws 
+of England . All disputes or differences whatsoever arising 
+between the Parties, out of or in relation to the construction, 
+meaning and operation or effect of this Agreement or breach 
+thereof, shall be settled amicably. If, however, the Parties are not 
+able to resolve such dispute or difference amicably, the same 
+shall be referred for Arbitration to a sole Arbitrator to be mutually 
+agreed upon, and failing such agreement to an Arbitration tribunal 
+consisting of three arbitrators. Each Party will nominate an 
+arbitrator and these two arbitrators by mutual agreement will 
+appoint the third arbitrator to constitute the Arbitration tribunal. 
+The Arbitration proceedings shall be governed by the provisions 
+of the London Court of International Arbitration Rules of 
+Arbitration. The Arbitration proceedings will be carried out at 
+London and the award made in pursuance thereof shall be 
+binding on the Parties. 
+ 
+12.3 Entire Agreement. This Agreement sets forth the entire 
+understanding of the Parties and supersedes all prior or 
+simultaneous representations, discussions, negotiations, letters, 
+proposals, purchase order’s, agreements and understandings 
+between the Parties hereto, with respect to the subject matter 
+hereof. Each Party acknowledges that it has not relied on or been 
+induced to enter into this Agreement by, and to the extent 
+permitted by applicable law, a Party is not liable to another Party 
+in contract or tort or in any other way for, a representation or 
+warranty that is not set out in this Agreement. This Agreement 
+may be amended only by a written instrument signed by a duly 
+authorized representative of each of the Parties. If any provision 
+of this Agreement be held invalid or unenforceable by a 
+competent court, such provision shall be modified to the extent 
+necessary to make it valid and enforceable whilst preserving the 
+intent of the Parties and all other provisions of this Agreement 
+shall remain fully valid and enforceable unless otherwise agreed 
+between the Parties. No provision of this Agreement nor any 
+breach thereof will be considered waived by either Party, unless 
+such waiver is in writing signed on behalf of that Party and no 
+such waiver will constitute a waiver of, or excuse for any other or 
+subsequent breach of this Agreement. Certain provisions of this 
+Agreement which by their very nature ought to survive, shall so 
+survive the termination of this Agreement. 
+ 
+12.4 Force Majeure: Neither Party shall be liable for any failure or 
+delay in the performance of its obligations under this Agreement 
+to the extent such failure or delay is caused by any reason 
+beyond its reasonable control, such as fire, flood, earthquake, 
+elements of nature or acts of God, acts of state, strikes, acts of 
+war, terrorism, riots, civil disorders, rebellions or revolutions; 
+quarantines, embargoes and other similar governmental action (a 
+"Force Majeure Event"). The affected Party will immediately notify 
+the other by reasonable detail of the Force Majeure Event. If a 
+Force Majeure Event continues for more than 30 days, either 
+Party may, by a written notice to the other Party, terminate this 
+Agreement, without liability. 
+ 
+12.5 TATA Code Of Conduct: The activities of all TCS employees 
+are governed by the Tata Code of Conduct, a copy of which is 
+ 
+available at link 
+ 
+http://www.tata.com/aboutus/articles/inside.aspx?artid=NyGNnLH 
+kaAc= 
+ 
+Customer agrees to make good faith efforts to notify TCS 
+designated executives of any breach of the Tata Code of Conduct 
+by any TCS personnel relating to this Agreement. TCS in turn, 
+undertakes that it will maintain confidentiality of all communication 
+received. 
+ 
+IN WITNESS WHEREOF, the Parties hereto have caused this Agreement to be executed by their duly authorized representatives on the 
+date(s) mentioned below, effective as of the Effective Date. 
+ 
+ 
+Tata Consultancy Services Ltd. 
+(“Customer”) 
+(“TCS”) 
+By:  _______________________________ 
+By:  ___________________________________ 
+Name:______________________________ 
+Name:  _________________________________ 
+Title: _______________________________ 
+Title:  __________________________________ 
+Date:- _____________________________ 
+Date:- _________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(TCS Proprietary and Confidential) 
+- 3 - 
+
+ 
+ 
+EXHIBIT A 
+ 
+DEFINITIONS 
+ 
+“Agreement” means the Agreement for Services to which this Exhibit is attached, signed between the Parties hereto, and shall include 
+all Exhibits, Schedules, and other attachments attached thereto or referenced therein. 
+ 
+"Authorized Users" means only those individuals working for and on behalf of Customer, or for Customer’s clients, or individual clients 
+of Customer identified in Schedule 2, who have a bona fide need to have access to TCS Application System in connection with the use 
+of Services by Customer under this Agreement. 
+ 
+“Customer Data” means all applicable information, data and materials furnished or made available to TCS and/or introduced in the 
+Services Environment by or on behalf of Customer, using the TCS Application System and/or Services. 
+ 
+“Confidential Information” means and include all business strategies, plans and procedures, proprietary information, software program, 
+documentation, tools, processes, methodologies, data and trade secrets, information relating to customers, employees, or business 
+partners, and any other designated confidential or proprietary information and materials of the Disclosing Party, its affiliates, clients or 
+suppliers, that may be received or obtained by the Receiving Party as a result of this Agreement. The terms “Disclosing Party” and 
+“Receiving Party” shall have the meaning assigned to each of them in Clause 8. 
+ 
+“Contract Term” means the period of contract specified in Schedule 1. 
+ 
+“Computing Environment” shall mean Customer’s computer, hardware, software and operating environment as identified in Schedule 
+2, on which the TCS Application System or component thereof shall be installed for Customer’s use in accordance with the Use Terms in 
+Schedule 3. 
+ 
+“Effective Date” means the date on which this Agreement has come into effect, as identified in Schedule 1. 
+ 
+“Equipment” means certain hardware/software (including networking hardware (MPLS) and software) items identified, if any, in 
+Schedule 2, to be supplied or made available by or on behalf of TCS, outside the Hosting Environment, for use by Customer’s Authorised 
+Users strictly for accessing TCS Application System for the purpose of availing of the Services hereunder. 
+ 
+“Hosting Environment” means TCS’s servers within the facilities and environment managed and utilized by TCS to provide the 
+Services to Customer, including all software, servers, hardware, networks, equipment, and telecommunications facilities and the 
+technology installed within such environment and as described Schedule 2. 
+ 
+“Intellectual Property Rights” means any and all intellectual property rights and industrial rights of any kind, including without limitation, 
+copyrights, patents, trademarks, design rights and trade secrets and any other form of related protection, statutory or otherwise, 
+wherever in the world subsisting, whether registered or not. 
+ 
+“Licensing Conditions” means the terms and conditions applicable for use of the respective items of TCS Application System or third 
+party software, as identified in Schedule 3. 
+ 
+“Services” means the services to be performed by or on behalf of TCS under this Agreement as specified in scope of Services in 
+Schedule 2. 
+ 
+“Services Commencement Date” means the date as notified in writing by TCS to the Customer on which the Services are agreed to be 
+commenced. 
+ 
+“Services Environment” means collectively or severally (as the context may require) the Hosting Environment, TCS Link and Equipment. 
+ 
+“Taxes” means any sales, use, value added tax, service tax or any other taxes of similar nature or any similar, additional or replacement 
+duty, levy or tax applicable to or in connection with the charges payable or Services rendered under this Agreement, other than tax based 
+on TCS’s income. 
+ 
+“TCS Application System” means the specific software applications/solutions whether owned or licensed by TCS identified in Schedule 
+2, which TCS will either host on its Services Environment and/or install on the Customer Environment for the provision of Services under 
+this Agreement. TCS Application System includes, without limitation, proprietary software programs, processes, algorithms, user 
+interfaces, expertise, techniques and other tangible and intangible technical material or information and the technology installed within 
+TCS Application System. 
+ 
+“TCS Link” means a link either by way of a link located at a URL or a physical port prescribed by the TCS in Schedule 2 established, 
+provided and maintained by TCS, as part of the Services, for connecting to TCS Application System. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(TCS Proprietary and Confidential) 
+- 4 - 
+
+ 
+ 
+SCHEDULE 1 
+ 
+CONTRACT DETAILS 
+ 
+A. The details of the Customer are as follows: 
+ 
+In case of a company  
+ 
+Company Name 
+Registered office address 
+Details of Contact person 
+ 
+ 
+ 
+ 
+Contract Term 
+Effective Date 
+Service Commencement Date 
+3 years from Service Commencement 
+………………. 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(TCS Proprietary and Confidential) 
+- 5 - 
+
+ 
+ 
+SCHEDULE 2 
+ 
+ 
+I. 
+TCS Application systems 
+ 
+TCS will provide the following applications as Managed Services. 
+ 
+Managed Services: 
+ 
+TCS iON Energy Insights 
+ 
+Under managed services, TCS will do all the configuration and get the system ready for use and customer shall carry out 
+end user transactions. Many of the standard reports shall be delivered to customer by TCS 
+ 
+II. 
+Scope Of Services 
+Cloud Services 
+In a Cloud Services environment, business applications as part of the IT-as-a-Service will be hosted, managed and 
+run at TCS Data centres in a secure environment. The customer can access their applications at the Data Centre 
+through a network connection. These applications will be continuously updated by TCS to address the changing 
+technology, business & market needs. 
+ 
+TCS will be deploying iON Energy Insights, which comes with its powerful iON Command Centre for continual monitoring. 
+As a part of the same, customer would be receiving the following key services: 
+A. 
+Collect, digitise and organise all your energy data centrally into a database  
+B. 
+Run checks, detect inefficiencies and non-conformances  
+C. 
+Get key insights and reports on your energy portfolio performance, benchmark your sites on key performance indicators and 
+focus on critical deviations that can save energy 
+D. 
+Access to command centre which will monitor your energy portfolio remotely 
+E. 
+Quantifiable saving opportunities identified by the iON command centre. The methods to quantify and define the savings will 
+be mutually agreed at the start of the project as a part of the standard operating process document 
+F. 
+Customise your reports for compliance and create live dashboards to check energy performance 
+G. 
+Manage Alerts & Notifications 
+ 
+Inputs Required from Customer 
+We would need the following data-  
+Essential information 
+Optional information 
+ 
+Site Name, Site Type, and Site Address 
+ 
+Number 
+of 
+business 
+days 
+in 
+a 
+week 
+& 
+Daily 
+Working/Operating Hours 
+ 
+Site area (in Sq. Meters) 
+ 
+Meter ID/ MPAN, that uniquely identifies the main/billing meter 
+and what does the meter monitor E.g. Site meter, Lighting 
+load 
+ 
+Electricity or Gas classification for meter  
+ 
+Site Occupancy/ Sitting Capacity (Average should be fine) & 
+The ambient temperature you maintain at each site 
+ 
+Meter Topology 
+ 
+Historical data dump, preferably 2 years in .csv format for 
+year-on-year analysis 
+To trial the Bill & Contract Management 
+service, following information will be 
+required: 
+ 
+Up to 12 months of Utility bills (Electricity 
+and/or Gas) & Utility contracts/ Contract 
+commercials for the 10 sites readable 
+format preferably readable PDFs / Digitised/ 
+.xls/ .csv 
+ 
+Site wise Budgeted Consumption and cost 
+(monthly/annually) 
+ 
+ 
+ 
+ 
+Roles and Responsibilities 
+ 
+TCS will be responsible only for configuring the system and all transactions will be done by the customer users. 
+ 
+Responsibilities 
+Configuration and Data Setup 
+Usage 
+Repeat Configuration 
+Customer 
+Will provide relevant master data 
+Will perform transactions in iON 
+Will provide relevant new data for 
+for configuration 
+repeat configuration 
+TCS 
+Will Configure the System for use 
+Will help in generation of reports 
+Will configure the system for next 
+term/year 
+Service levels: 
+Service availability rate at data centre 
+98% based on quarterly review 
+Business Hours Support 
+Mon – Fri between 0800 – 1700 hours GMT 
+ 
+ 
+
+ 
+ 
+ 
+ 
+Exclusions: 
+ 
+The calculation of the SLA excludes events such as: 
+ 
+ 
+The event has occurred as a result of a Force Majeure or during the implementation of any disaster recovery procedure.
+
+ 
+Any activities and/or outages mutually agreed upon by the parties (planned scheduled downtime).
+
+ 
+The last mile access (Network that connects customer location and Network Service Provider’s Point of Presence) or 
+broadband access that is not provided or managed by TCS or its authorized agents.
+ 
+The failure of a customer’s application, equipment or facilities including any third party equipment.
+
+ 
+Trouble Tickets associated with new installations or upgrades.
+
+ 
+An interruption where the customer elects not to release the service for testing and repair and continues to use it on an 
+impaired basis.
+
+ 
+Interruptions during any period where TCS or its agents are not allowed access to the Customer premises where the access 
+lines are terminated.
+
+
+ 
+Out of Scope: 
+ 
+TCS is not responsible for any software not provided by TCS 
+ 
+Support: 
+ 
+TCS will ensure break-fix support to the applications mentioned in scope of services. Any change request will be administered 
+separately. 
+ 
+Training: 
+ 
+For Managed Services 
+ 
+ 
+TCS will provide training to the key users on the transactions, using “train the trainer” approach. (No configuration training 
+would be done).
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(TCS Proprietary and Confidential) 
+- 6 - 
+
+ 
+ 
+Data Migration: 
+ 
+ 
+Transaction Data migration from existing system of Customer to TCS system is out of scope and will be charged additional and 
+can be taken up on mutual agreement between TCS and Customer.
+
+ 
+However, Master data can be uploaded into the new system if customer can provide the data in the format of data templates 
+provided by TCS or TCS can open the system to the customer prior to go-live to enter the master data.
+ 
+ 
+I. 
+TCS Designated locations: 
+ 
+TCS will host its applications from TCS Data Centre. 
+ 
+II. 
+Customer designated 
+locations: None 
+ 
+III. 
+3rd party software incorporated in TCS Application 
+System: None 
+ 
+IV. 
+3rd party software (if any) obtained specifically for the Customer and to be used by Customer even after termination of 
+Agreement : 
+None 
+ 
+V. 
+Authorized Users: 
+ 
+The employees (including temporary and contract employees) of the Customer that have been duly designated and authorized 
+to use the TCS Application System 
+ 
+Customer Change Champion: 
+Name: 
+ 
+Contact #: 
+Email: 
+ 
+Customer Single Point of 
+Contact: Name: 
+ 
+Contact #: 
+Email: 
+ 
+VI. 
+Target Environment: 
+ 
+1. 
+Services Environment 
+ 
+a) 
+Hosting Environment: 
+ 
+TCS will perform all necessary maintenance and support the operation of the Hosting Environment and the TCS 
+Application System and to provide the Services in accordance with the agreed service levels. TCS will promptly 
+investigate and will make all commercially reasonable efforts to remedy any failure of the Services, Hosting 
+Environment, TCS Application System and/or the TCS Link (defined hereinafter) to operate in good working order in 
+accordance with the provisions of the Agreement 
+ 
+b) 
+TCS Link: Not 
+Applicable 
+ 
+c) 
+Equipment: 
+Not Applicable 
+ 
+2. 
+Computing Environment 
+ 
+TCS recommends the following as minimum configuration to be able to run the TCS application: 
+ 
+ Desktop System with 1 nos. of Intel processor – Dual Core/Core 2 Duo
+
+ Windows XP Professional / Windows 2003 / Windows 7 Professional (32-bit version) Operating System
+
+ Minimum 1 GB RAM
+
+ At least 80 GB SATA disk
+
+ 17-inch monitor
+
+ Standard keyboard and mouse.
+
+ MS Office in the desktops of for key users
+
+ The supported browsers are, Firefox and Chrome (latest versions).
+ 
+ 
+ 
+(TCS Proprietary and Confidential) 
+- 7 - 
+
+ 
+ 
+The network bandwidth sizing at customer site for accessing the TCS Solutions is expected to be approx. 400Kbps for 20 
+concurrent users, once solution is launched, for non-video traffic. The customer will use their own Internet link, at their own expense, 
+to access iON solutions. . The customer will upgrade the network bandwidth as per growth in concurrent users. 
+ 
+VII. 
+Data availability at the various layers: 
+ 
+a. Hardware Availability: State of the art hardware (servers, storage, networking elements) configured in Active -
+Active or Active-Hot Standby mode ensures High Availability (HA) of our infrastructure elements. 
+ 
+b. Application Availability: All application components (Web, Application, Database) are configured in Active-Active 
+mode. This ensures that the application, as well as data is available to the customers with high availability. 
+ 
+c. Data Availability: The deployment architecture ensures that the same data is available on multiple servers. In the 
+event of data issues, data can be recreated with no data loss from the other servers. 
+ 
+d. Backups: Backups are taken every day and retained for varying periods of time (daily, weekly and yearly). Backed-
+up data is available off-site. Backup recovery tests are performed at regular intervals to ensure integrity of backups. 
+ 
+e. Data Format: In the event of termination of this Agreement TCS shall give the customer data in either CSV or XLS 
+format in CD or through file transfer, based on a written request by the Customer on what data is required for them 
+within 15 days of expiry or termination of Agreement. For data to be provided by TCS, all pending invoices should 
+have been cleared by the Customer. Customer data will be retained for a period of 90 days from expiry of 
+Agreement. After this period of 90 days, all data will be deleted from TCS records. In case customer data has to be 
+extracted and provided within the first year of the Agreement, additional one time data extraction charges of 25,000 
+will apply. 
+ 
+f. 
+Disaster Recovery: A Disaster Recovery Data Centre is in operation. Data from the primary data centre is mirrored 
+onto the DR Data Centre near real-time. Operations will shift to the DR data centre in the event of a catastrophic 
+failure of the primary data centre. In addition, customers have the ability to, at their convenience, login to the DR data 
+centre and verify data availability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(TCS Proprietary and Confidential) 
+- 8 - 
+
+ 
+ 
+SCHEDULE 3 
+ 
+Licensing Terms for TCS Application System 
+ 
+ 
+APPENDIX- I to Schedule 3 
+USE TERMS for TCS Application System (TCS proprietary) 
+ 
+These Use Terms will govern the Use by Customer of TCS Application System (more specifically described in Schedule 2), during the 
+Contract Term of the Agreement for Services effective ____________________ (“Agreement”) signed between Customer named herein 
+below and Tata Consultancy Services Limited (“TCS”). 
+ 
+1. 
+DEFINITIONS 
+ 
+The following capitalized terms shall have the meaning set forth below for all purposes of this Use Terms: 
+ 
+“Target Environment” shall mean Services Environment or Customer Environment, as specified in the Schedule 2 with respect to each 
+component of the TCS Application System. “Services Environment” has the meaning ascribed to it in the Agreement. “Customer 
+Environment” has the meaning ascribed to it in the Agreement.. “Use” means using and/or accessing the TCS Application System by 
+ 
+the Authorised Users, whether it is installed on Customer Environment or on the Services Environment, for the purposes of executing, 
+processing, transmitting, transferring, loading and storing of data in connection with the Services rendered by the TCS under this 
+Agreement, in terms of this Use Terms. All other capitalized terms used herein but not defined above, shall have the meaning ascribed to 
+them in the Agreement. 
+ 
+2. 
+USAGE RIGHTS AND RESTRICTIONS 
+ 
+2.1 Usage rights. (i) Subject to the terms and conditions set forth in this Use Terms, effective upon the installation of the TCS Application 
+System by TCS or upon TCS permitting access to Customer of the TCS Application System through any means, TCS hereby grants to 
+Customer the right to Use as specifically permitted under this Use Terms and to permit Authorized Users to Use the TCS Application 
+System during the Agreement for Contract Term. The forgoing does not (a) authorize installation of the TCS Application System other 
+than on Target Environment, (b) permit Use of the TCS Application System for any purpose other than as permitted under this Use 
+Terms, or (c) permit Use of the TCS Application System to any Person other than Authorized User. Any extension or change of the 
+contractual use of the TCS Application System requires TCS’ prior written consent and authorization. Customer is responsible to ensure 
+compliance with all usage restrictions and other applicable terms and conditions of this Use Terms by each Authorized User. Any breach 
+or non-compliance of the terms and conditions of this Use Terms by any Authorized User shall be deemed to be a breach or non-
+compliance by Customer. Customer will indemnify and defend the TCS in respect of any breach of this Use Terms to the extent that such 
+breach arises from any act (or failure to act) by the Authorized Users. (ii) The usage rights granted herein and the provisions of this Use 
+Terms do not grant or convey to Customer any ownership rights and interest or title in or to the TCS Application System any Intellectual 
+Property Rights therein nor do they permit Customer to make derivative works or to make copies of the TCS Application System. To the 
+extent that TCS Application System consists of any software codes, such material, when delivered to Customer pursuant to this Use 
+Terms, shall be delivered by TCS in Object Code form only and Customer shall not have any right or license with respect to the Source 
+Code or data base design of the TCS Application System. 
+ 
+2.2 Proprietary and Confidentiality Markings or Notices. Customer shall retain all of TCS’s and/or its licensors’ Logo, Trademark, 
+Copyright notice and other proprietary markings or notice on the TCS Application System. Customer shall not, permit any Authorized 
+Users or other persons to, remove, alter or otherwise render illegible any of TCS’s Logo, Trademark, Copyright notice or other proprietary 
+or confidentiality markings that may be placed on the TCS Application System or components thereof provided to Customer hereunder. 
+Customer shall not remove or alter TCS’s and/or its licensors’ Logo, Trademark, Copyright notice and other proprietary markings or 
+notice on all copies of the TCS Application System or any part thereof including the documentation. 
+ 
+2.3 Restrictions on Copying. Copying of the TCS Application System is prohibited except with TCS’s prior written consent and 
+authorization. Neither Customer nor any Authorized User is authorized to sell, license, sublicense, distribute, assign, transfer or distribute 
+or timeshare the TCS Application System or otherwise grant any right under this Use Terms to any third party (other than Authorized 
+Users). Any attempted sale, licensing, sublicensing, distribution, marketing, assignment or time sharing including by interactive cable or 
+remote processing services or otherwise shall be null and void. Customer is not entitled to, and shall not make or permit others to, 
+reverse engineer, disassemble, de-compile, recreate, enhance or modify the TCS Application System or any part thereof or to create 
+enhancements to or derivative works of the TCS Application System or any portions thereof. 
+ 
+2.4 Trademarks. Customer will have no rights in any trademarks or service marks or trade names adopted by the TCS and/or its licensors 
+for the TCS Application System or any part thereof. 
+ 
+2.5 Breach. Should the TCS Application System be Used beyond the Use rights by Authorized Users as set out in this Section 2, TCS 
+shall notify Customer in writing requiring Customer to cure the breach of Use Terms and if Customer does not cure such breach within 10 
+ 
+days (or such other period that the TCS may permit upon Customer’s request), of receipt of written notice from TCS then TCS shall be 
+entitled to terminate the Use rights granted hereunder in respect of such TCS Application System, without prejudice to any other rights or 
+remedies TCS may have under this Use Terms or otherwise. 
+ 
+3. 
+OWNERSHIP AND PROPRIETARY RIGHTS 
+ 
+Customer acknowledges and agrees that TCS does and will continue to own all Intellectual Properties and Intellectual Property Rights in 
+or attached to the TCS Application System, including without limitation, in or attached to any enhancement and upgrades and any 
+derivative works thereof even if made for, by or on behalf of Customer. Nothing contained herein shall be construed as a transfer, 
+assignment or conveyance by TCS to Customer of the ownership or title to the Intellectual Property or Intellectual Property Rights in or 
+attached to the TCS Application System or any enhancements, upgrades or derivative works thereof. 
+ 
+ 
+ 
+ 
+(TCS Proprietary and Confidential) 
+- 9 - 
+
+ 
+ 
+4. 
+MISCELLANEOUS 
+ 
+In the event of any conflict between the provisions of this Use Terms and those in the Agreement for Services or the Agreement, 
+notwithstanding any contrary provision anywhere else, Customer and TCS specifically agree and acknowledge that the provision of this 
+Use Terms will prevail with respect to the TCS Application System. 
+ 
+___ 
+Tata Consultancy Services Ltd. 
+(“Customer”) 
+(“TCS”) 
+By:  _______________________________ 
+By:  ___________________________________ 
+Name:______________________________ 
+Name:  _________________________________ 
+Title: _______________________________ 
+Title:  __________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(TCS Proprietary and Confidential) 
+- 10 - 
+
+ 
+ 
+SCHEDULE 4 
+FEES FOR SERVICES 
+
+
+
+o 
+Annual Monitoring Cost using iON Platform and iCommand Centre in a Gain Share Model for current metered portfolio: 
+o 
+Minimum Annual Monitoring Cost: GBP 40,000 (to be billed in equal monthly payments) 
+o 
+End of the Year Amount linked to Potential Savings during the contracted period (1/2/3 years): 
+ 
+Savings 0 – GBP ……. / annum: No Additional Amount to be Paid 
+ 
+Savings GBP ………. – GBP …….. / annum: 50% of savings (maximum GBP ……….) 
+ 
+Savings GBP ………. – GBP …………. / annum: 60% of savings (maximum GBP ………)  
+ 
+Savings GBP …….. – GBP ……../ annum: 70% of savings (maximum GBP ……….) 
+ 
+Savings > GBP ……….. / annum: 50% of savings (maximum GBP ………….) 
+ 
+Max Amount linked to Potential Savings: GBP ………. (to be billed at the end of the year) 
+o 
+To allow us to successfully implement savings opportunities, we request you to consider a 3-year contract with an optional 
+termination clause 
+o 
+Contract may be terminated at the end of 4 consecutive quarters with a 60-day notice in case of a 3-year contract   
+o 
+Gain share model guidelines to be defined as a working document at the start of the project 
+o 
+Any additional site may be added for Monthly Monitoring on iON Energy for the following costs: 
+ 
+One time set up cost: GBP 500   
+ 
+Monthly monitoring cost per meter/touch point: GBP 25/month  
+ 
+Annual data fee to data collector or third party as on actuals 
+o 
+Any site may be added for Bill Management for the following costs: 
+ 
+One time set up cost: GBP 100   
+ 
+Bill digitisation and processing cost: GBP 10/bill 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(TCS Proprietary and Confidential) 
+- 12 - 
+
+ 
+ 
+SCHEDULE 5 
+ 
+CHANGE CONTROL PROCEDURE 
+ 
+ 
+Either Party may request a change in the scope of Services or deliverables but no such change shall be effective and binding unless such 
+changes are documented in a change control document in the format described in Annexure A below (“Change Control Document”) and 
+signed by both parties. 
+ 
+If Customer desires to propose a change in Scope of Services, Customer shall deliver to TCS a change request in writing, describing the 
+changes proposed. Promptly following TCS’ receipt of Customer’s change request, TCS shall submit a written change order proposal to 
+Customer. If TCS desires to propose any change, TCS shall submit to the Customer a written description of the change in the form of a 
+proposed change order for Customer’s review and approval. Any change order document prepared by the parties shall include, among other 
+items, an estimate of additional charges to Customer, if applicable, for the modified Services, any additional software or other material 
+required to implement the change and any expected impact on the time schedule or service levels under the Schedule 2. 
+ 
+On Customer’s written approval of the change order document submitted by TCS the parties shall sign the Change Control Document 
+whereupon the Scope of Services in Schedule 2 and any other relevant Schedule(s) shall be deemed to have been amended by the change 
+order. 
+ 
+No change to any Scope of Services shall be binding on the Parties unless the Change Control Document has been signed by authorized 
+representatives of each party. 
+ 
+Annexure A to Schedule 5 
+ 
+ 
+Change Request No.: _______ 
+ 
+Date Initiated: 
+_______________ 
+Date Approved_________________ 
+ 
+Project:________________________________________________________________ 
+ 
+ 
+ 
+Description of Change: 
+ 
+Following are the changes/additions agreed to: 
+ 
+a) 
+Schedule 1 
+ 
+b) 
+Schedule 2 
+ 
+c) 
+Schedule 4 
+ 
+ 
+Approved with Changes 
+Tata Consultancy Services Limited 
+______________ 
+____ 
+Authorized Signatory 
+Date 
+Customer 
+_______________ 
+___ 
+Authorized Signatory 
+Date 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(TCS Proprietary and Confidential) 
+- 13 - 
+ 
+

@@ -119,15 +119,32 @@ backend/venv/
 react-frontend/node_modules/
 frontend/node_modules/
 
-# Large model files (use Git LFS for these)
+# Archives (exceeds GitHub 100MB limit)
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Checkpoint states and optimizer caches
+*.pth
+checkpoint-*/
+**/checkpoint-*/
+backend/models/
+backend/Edi_project_code/
+
+# Large model files (binary weights >100MB)
 backend/ai_service/models/**/*.pt
 backend/ai_service/models/**/*.bin
 backend/ai_service/models/**/*.safetensors
 backend/ai_service/indexes/*.index
 backend/ai_service/indexes/*.npy
 
-# Keep model metadata
+# Keep model metadata, configs, tokenizers, and dictionaries
 !backend/ai_service/models/**/*.json
 !backend/ai_service/models/**/*.txt
 !backend/ai_service/indexes/*.json
+!backend/ai_service/models/prepared_data.csv
+!structured_fields_all_projects.csv
+!merged_relabels_all_v2.csv
+!backend/structured_fields_all_projects.csv
 

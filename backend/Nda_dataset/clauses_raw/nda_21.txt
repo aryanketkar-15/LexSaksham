@@ -1,0 +1,404 @@
+ 
+Page 1 of 8 
+ 
+Pre Contract NON-DISCLOSURE AGREEMENT for Tender Ref. No.  
+9-12/ISMG/2018 
+(The pre contract NDA needs to be executed on a stamp paper of value equal to 
+Rupees hundred only (₹100) and signed by a person duly authorised by the 
+bidder) 
+ 
+ 
+THIS AGREEMENT is made on this the <***> day of <***> 20--- at <***>, India.  
+BETWEEN Director, Financial Intelligence Unit – India (FIU-IND), Department of Revenue, 
+Ministry of Finance, Government of India having its office at 6th Floor, Hotel Samrat, 
+Chanakyapuri, New Delhi, India, acting for and on behalf of the President of India, 
+(hereinafter referred to as ‘FIU-IND’, which expression shall, unless the context otherwise 
+requires, include its permitted successors and assigns); 
+ 
+AND  
+ 
+<***>, a Company incorporated under the Companies Act, 1956, having its registered office 
+at <***> (hereinafter referred to as ‘Purchasing firm’ which expression shall, unless the 
+context otherwise requires, include its permitted successors and assigns).  
+ 
+Each of the parties mentioned above are collectively referred to as the ‘Parties’ and 
+individually as a ‘Party’.  
+ 
+WHEREAS:  
+(a) FIU-IND is desirous to select a single Managed Service Provider (MSP) for design, 
+development, implementation, operations and maintenance of FINnet 2.0 of Financial 
+Intelligence Unit-India.  
+(b) Whereas in pursuing the RFP for this project (the “Business Purpose”), FIU-
+IND(“Disclosing Party”) recognises that they will disclose certain Confidential 
+Information (as defined hereinafter) to the Purchasing firm (“Receiving Party”).  
+(c) Whereas such Confidential Information belongs to Disclosing Party as the case may be 
+and is being transferred to the Receiving Party to be used only for the Business Purpose 
+and hence there is a need to protect such information from unauthorised use and 
+disclosure.  
+ 
+NOW THEREFORE, in consideration of the mutual covenants, promises, assurances, 
+representations and provisions set forth herein, the Parties hereto agree as follows:  
+ 
+ INTERPRETATION 
+ 
+Interpretation  
+In this agreement, unless otherwise specified:  
+
+ 
+Page 2 of 8 
+ 
+(i) 
+references to clauses, Sub-clauses, Paragraphs and Schedules are to 
+clauses, sub-clauses, paragraphs of and schedules to this Agreement;  
+(ii) 
+use of any gender includes the other genders;  
+(iii) 
+references to a ‘company’ shall be construed so as to include any 
+company, corporation or other body corporate, wherever and however 
+incorporated or established;  
+(iv) 
+references to a ‘person’ shall be construed so as to include any individual, 
+firm, company, government, state or agency of a state, local or municipal 
+authority or government body or any joint venture, association or 
+partnership (whether or not having separate legal personality);  
+(v) 
+a reference to any statute or statutory provision shall be construed as a 
+reference to the same as it may have been, or may from time to time be, 
+amended, modified or re-enacted;  
+(vi) 
+any reference to a ‘day’ (including within the phrase ‘business day’) shall 
+mean a period of 24 hours running from midnight to midnight;  
+(vii) 
+references to a ‘business day’ shall be construed as a reference to any 
+day that is not a Sunday or a public holiday and starts at 9 am; 
+(viii) 
+references to times are to Indian standard time;  
+(ix) 
+a reference to any other document referred to in this Agreement is a 
+reference to that other document as amended, varied, novated or 
+supplemented at any time; and  
+(x) 
+all headings and titles are inserted for convenience only. 
+ 
+ 
+Ambiguities within Agreement  
+In case of ambiguities or discrepancies within this agreement, the following 
+principles shall apply: 
+(i) 
+as between two clauses of this agreement, the provisions of a specific 
+clause relevant to the issue under consideration shall prevail over those 
+in a general clause;  
+(ii) 
+as between the provisions of this agreement and the Schedules, the 
+agreement shall prevail, save and except as expressly provided otherwise 
+in the agreement or the Schedules; and  
+(iii) 
+as between any value written in numerals and that in words, the value in 
+words shall prevail.  
+ 
+ TERM 
+This agreement will remain in effect till six (6) months post the expiry of the 
+contract for the on boarded MSP unless explicitly extended by FIU-IND. 
+ 
+ SCOPE OF THE AGREEMENT  
+(i) 
+This agreement shall apply to all confidential and proprietary information 
+disclosed by Disclosing Party to the Receiving Party and other information 
+
+ 
+Page 3 of 8 
+ 
+which the disclosing party identifies in writing or otherwise as confidential 
+before or within (30) thirty days after disclosure to the Receiving Party 
+(“Confidential Information”). Such Confidential Information consists of 
+RFP, certain specifications, documents, software, prototypes and/or 
+technical information, and all copies and derivatives containing such 
+Information that may be disclosed to the Disclosing Party for and during 
+the Business Purpose, which a party considers proprietary or confidential. 
+(ii) 
+Such Confidential Information may be in any form or medium, tangible or 
+intangible, and may be communicated/disclosed in writing, orally, or 
+through visual observation or by any other means to the Receiving Party. 
+ 
+ OBLIGATIONS OF THE RECEIVING PARTY  
+The Receiving Party shall – 
+(i) 
+use the Confidential Information only for the Business Purpose and shall 
+hold the Confidential Information in confidence using the same degree of 
+care as it normally exercises to protect its own proprietary information, 
+taking into account the nature of the Confidential Information, and  
+(ii) 
+grant access to Confidential Information only to its employees on a “need 
+to know basis” and restrict such access as and when not necessary to 
+carry out the Business Purpose.  
+(iii) 
+cause its employees to comply with the provisions of this agreement;  
+(iv) 
+reproduce Confidential Information only to the extent essential to fulfilling 
+the Business Purpose, and  
+(v) 
+disclose the Confidential Information to its consultants/contractors/any 
+third parties on a “need to know basis”; provided that by doing so, the 
+Receiving Party agrees to bind such consultants/ contractors to terms at 
+least as restrictive as those stated herein. The Receiving Party upon 
+making a disclosure under this clause shall – 
+a. 
+advise the consultants/contractors of the confidentiality obligations 
+imposed on them by this clause. 
+(vi) 
+upon the Disclosing Party's request, the Receiving Party shall either 
+return to the disclosing party all Confidential Information or shall certify 
+to the disclosing party that all media containing Confidential Information 
+have been destroyed. Provided, however, that an archival copy of the 
+Confidential Information may be retained in the files of the Receiving 
+Party's counsel, solely for the purpose of proving the contents of the 
+Confidential Information.  
+(vii) 
+not to remove any of the other Party’s Confidential Information from the 
+premises of the Disclosing Party without prior written approval.  
+(viii) 
+exercise extreme care in protecting the confidentiality of any Confidential 
+Information which is removed, only with the Disclosing Party’s prior 
+written approval, from the Disclosing Party’s premises. Each Party 
+agrees to comply with any and all terms and conditions the disclosing 
+party may impose upon any such approved removal, such as conditions 
+
+ 
+Page 4 of 8 
+ 
+that the removed Confidential Information and all copies must be 
+returned by a certain date, and that no copies are to be made off of the 
+premises.  
+(ix) 
+Upon the Disclosing Party’s request, the Receiving Party shall promptly 
+return to the Disclosing Party all tangible items containing or consisting 
+of the disclosing party’s Confidential Information all copies thereof.  
+ 
+ EXCEPTIONS TO CONFIDENTIAL INFORMATION  
+The foregoing restrictions on each party's use or disclosure of Confidential 
+Information shall not apply to the Confidential Information that the Receiving Party 
+can demonstrate that such Confidential Information – 
+(i) 
+was independently developed by or for the Receiving Party without 
+reference to the Information, or was received without restrictions; or  
+(ii) 
+has become generally available to the public without breach of 
+confidentiality obligations of the Receiving Party; or  
+(iii) 
+was in the Receiving Party's possession without restriction or was known 
+by the Receiving Party without restriction at the time of disclosure; or  
+(iv) 
+is the subject of a subpoena or other legal or administrative demand for 
+disclosure; provided, however, that the Receiving Party has given the 
+disclosing party prompt notice of such demand for disclosure and the 
+Receiving Party reasonably cooperates with the disclosing party's efforts 
+to secure an appropriate protective order; or  
+(v) 
+is disclosed with the prior consent of the disclosing party; or  
+(vi) 
+was in its possession or known to it by being in its use or being recorded 
+in its files or computers or other recording media prior to receipt from the 
+disclosing party and was not previously acquired by the Receiving Party 
+from the disclosing party under an obligation of confidence; or  
+(vii) 
+the Receiving Party obtains or has available from a source other than the 
+disclosing party without breach by the Receiving Party or such source of 
+any obligation of confidentiality or non-use towards the disclosing party.  
+ 
+ OWNERSHIP OF THE CONFIDENTIAL INFORMATION  
+(i) 
+Each Party recognises and agrees that all of the disclosing Party’s 
+Confidential Information is owned solely by the Disclosing Party (or its 
+licensors) and that the unauthorised disclosure or use of such 
+Confidential Information would cause irreparable harm and significant 
+injury, the degree of which may be difficult to ascertain.  
+(ii) 
+By disclosing the Confidential Information or executing this agreement, 
+Disclosing Party does not grant any license, explicitly or implicitly, under 
+any trademark, patent, copyright, mask work protection right, trade secret 
+or any other intellectual property right. The Disclosing Party disclaims all 
+warranties regarding the information, including all warranties with respect 
+
+ 
+Page 5 of 8 
+ 
+to infringement of intellectual property rights and all warranties as to the 
+accuracy or utility of such information.  
+(iii) 
+Access to Confidential Information hereunder shall not preclude an 
+individual who has seen such Confidential Information for the purposes 
+of this agreement from working on future projects for the Disclosing Party 
+which relate to similar subject matters, provided that such individual does 
+not make reference to the Confidential Information and does not copy the 
+substance of the Confidential Information during the Term. Furthermore, 
+nothing contained herein shall be construed as imposing any restriction 
+on the Receiving Party's disclosure or use of any general learning, skills 
+or know-how developed by the Receiving Party's personnel under this 
+agreement.  
+(iv) 
+Execution of this agreement and the disclosure of Confidential 
+Information pursuant to this agreement do not constitute or imply any 
+commitment, promise, or inducement by either Party to make any 
+purchase or sale, or to enter into any additional agreement of any kind.  
+ 
+ DISPUTE RESOLUTION  
+(i) 
+If a dispute arises in relation to the conduct of this Contract (Dispute), a 
+party must comply with this clause 7 before starting arbitration or court 
+proceedings (except proceedings for urgent interlocutory relief). After a 
+party has sought or obtained any urgent interlocutory relief that party 
+must follow this clause 7.  
+(ii) 
+A party claiming a Dispute has arisen must give the other parties to the 
+Dispute notice setting out details of the Dispute.  
+(iii) 
+During the 14 days after a notice is given under clause 7 (ii) (or longer 
+period if the parties to the Dispute agree in writing), each party to the 
+Dispute must use its reasonable efforts through a meeting of Senior 
+Executive (or their nominees) to resolve the Dispute. If the parties cannot 
+resolve the Dispute within that period then any such dispute or difference 
+whatsoever arising between the parties to this Contract out of or relating 
+to the construction, meaning, scope, operation or effect of this Contract 
+or the validity of the breach thereof shall be referred to a sole arbitrator 
+to be appointed by mutual consent of both the parties herein. If the parties 
+cannot agree on the appointment of the arbitrator within a period of one 
+month from the notification by one party to the other of existence of such 
+dispute, then the Arbitrator shall be appointed by the High Court of Delhi. 
+The provisions of the Arbitration and Conciliation Act, 1996 will be 
+applicable and the award made there under shall be final and binding 
+upon the parties hereto, subject to legal remedies available under the 
+law. Such differences shall be deemed to be a submission to arbitration 
+under the Indian Arbitration and Conciliation Act, 1996, or of any 
+modifications, Rules or re-enactments thereof. The Arbitration 
+proceedings will be held at the jurisdiction specified in Item 27. Any legal 
+dispute will come under the sole jurisdiction specified in Item 27.  
+
+ 
+Page 6 of 8 
+ 
+(iv) The Receiving Party agrees that the Disclosing Party shall have the right 
+to obtain an immediate injunction enjoining any breach of this agreement, 
+as well as the right to pursue any and all other rights and remedies 
+available at law or in equity for such a breach.  
+ 
+ VARIATION  
+This agreement may only be varied in writing and signed by both Parties.  
+ 
+ WAIVER  
+Waiver including partial or conditional waiver, by either Party of any default by the 
+other Party in the observance and performance of any provision of or obligations 
+under this agreement:-  
+(i) 
+shall be in writing  
+(ii) 
+shall not operate or be construed as a waiver of any other or subsequent 
+default hereof or of other provisions of or obligations under this 
+agreement;  
+(iii) 
+shall be executed by a duly authorised representative of the Party; and  
+(iv) shall not affect the validity or enforceability of this agreement in any 
+manner.  
+ 
+ EXCLUSION OF IMPLIED WARRANTIES  
+This agreement expressly excludes any warranty, condition or other undertaking 
+implied at law or by custom or otherwise arising out of any other agreement 
+between the Parties or any representation by either Party not contained in a 
+binding legal agreement executed by both Parties. 
+ 
+ ENTIRE AGREEMENT  
+This agreement together constitute a complete and exclusive statement of the 
+terms of the agreement between the Parties on the subject hereof, and no 
+amendment or modification hereto shall be valid and effective unless such 
+modification or amendment is agreed to in writing by the Parties and duly 
+executed by persons especially empowered in this behalf by the respective 
+Parties. All prior written or oral understandings, offers or other communications 
+of every kind pertaining to this agreement are abrogated and withdrawn.  
+ 
+ SEVERABILITY  
+If for any reason whatever, any provision of this agreement is or becomes invalid, 
+illegal or unenforceable or is declared by any court of competent jurisdiction or 
+any other instrumentality to be invalid, illegal or unenforceable, the validity, 
+legality or enforceability of the remaining provisions shall not be affected in any 
+manner, and the Parties shall negotiate in good faith with a view to agreeing to 
+one or more provisions which may be substituted for such invalid, unenforceable 
+
+ 
+Page 7 of 8 
+ 
+or illegal provisions, as nearly as is practicable to such invalid, illegal or 
+unenforceable provision. Failure to agree upon any such provisions shall not be 
+subject to the dispute resolution procedure set forth under this agreement or 
+otherwise.  
+ 
+ NO PARTNERSHIP  
+This agreement shall not be interpreted or construed to create an association, 
+joint venture or partnership between the Parties, or to impose any partnership 
+obligation or liability upon either Party, and neither Party shall have any right, 
+power or authority to enter into any agreement or undertaking for, or act on behalf 
+of, or to act as or be an agent or representative of, or to otherwise bind, the other 
+Party except as expressly provided under the terms of this agreement.  
+ 
+ THIRD PARTIES  
+This agreement is intended solely for the benefit of the Parties and their 
+respective successors and permitted assigns, and nothing in this agreement shall 
+be construed to create any duty to, standard of care with reference to, or any 
+liability to, any person not a Party to this agreement. 
+ 
+ SUCCESSORS AND ASSIGNS  
+The agreement shall be binding on and shall inure to the benefit of the Parties 
+and their respective successors and permitted assigns.  
+ 
+ NOTICES  
+Any notice or other communication to be given by any Party to the other Party 
+under or in connection with the matters contemplated by this agreement shall be 
+in writing and shall be given by hand delivery, recognised courier, registered post, 
+email or facsimile transmission and delivered or transmitted to the Parties at their 
+respective addresses set forth below – 
+ 
+If to FIU:  
+ 
+Attn: <> 
+ 
+If to the bidder:  
+Attn. <***>  
+Phone: <***>  
+Fax No. <***>  
+ 
+ LANGUAGE  
+
+ 
+Page 8 of 8 
+ 
+All notices required to be given by one Party to the other Party and all other 
+communications, documentation and proceedings which are in any way relevant 
+to this agreement shall be in writing and in the English language.  
+ 
+ MITIGATION  
+Without prejudice to any express provisions of this agreement on any mitigation 
+obligations of the Parties, each of FIU and the bidder shall at all times take all 
+reasonable steps to minimize and mitigate any loss for which the relevant Party 
+is entitled to bring a claim against the other Party pursuant to this agreement.  
+ 
+ 
+IN WITNESS WHEREOF THE PARTIES HAVE EXECUTED AND DELIVERED 
+THIS AGREEMENT AS OF THE DATE FIRST ABOVE WRITTEN.  
+ 
+SIGNED, SEALED AND DELIVERED 
+For and on behalf of the bidder by:  
+SIGNED, SEALED AND 
+DELIVERED  
+For and on behalf of FIU by:  
+(Signature)  
+ 
+(Name)  
+(Designation)  
+(Address)  
+(Fax No.)  
+ (Signature) 
+  
+<> 
+ 
+In the presence of: 
+1.___________ 
+2.___________ 
+

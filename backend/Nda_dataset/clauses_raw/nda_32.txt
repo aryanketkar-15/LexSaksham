@@ -1,0 +1,275 @@
+Annexure 3
+NON
+ 
+  DISCLOSURE
+ 
+  AGREEMENT
+ 
+ 
+1. Preamble
+This Non Disclosure Agreement (hereinafter referred to as "the Agreement") is made and entered into on Month 
+Date, Year (hereinafter referred to as the "Effective Date"), by and between:
+The CMD YIL through General Manager, Ordnance Factory Dum Dum, a PSU under Government of India, 
+Ministry of Defence with its principal place of business at Jessore Road, Kolkata, North 24 Parganas, West 
+Bengal - 700028 (hereinafter referred to as the "OFDC"), and Mr XYZ, residing at #123, ABC, DEF - 
+GGGGGG, India. (hereinafter referred to as the "Vendor").
+Hereinafter, OFDC & ................. are collectively referred to as “Parties” and individually as “Party”
+The party hereinafter disclosing the confidential information shall be referred to as the “Disclosing Party” & the 
+party receiving confidential information shall be referred to as the “Receiving Party”.
+WHEREAS, the Entity which is engaged in the business of providing high quality defence hardware and 
+equipments and possesses valuable and proprietary information, including trade secrets, client data, technical 
+specifications, product designs, business strategies, and other confidential information;
+WHEREAS, the Vendor will be contracted by the Entity and will have access to and be entrusted with such 
+confidential information in the course of their contract;
+WHEREAS, the Entity seeks to protect its confidential information and trade secrets from unauthorised use, 
+disclosure, or competitive advantage by third parties;
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the sufficiency 
+of which is hereby acknowledged, the parties agree as follows:
+2.
+Definition of Confidential Information:
+"Confidential Information" refers to any and all information, whether written, oral, or in any other 
+form, disclosed by the Entity to the Vendor, including but not limited to trade secrets, client lists, 
+business plans, financial information, marketing strategies, technical documentation, product designs, 
+and any proprietary knowledge not generally available to the public.
+3.
+OFDC’s Obligations:
+A  Party  transferring  its  confidential  information  to  the  other  Party  shall  indicate  the same  as 
+“Confidential Information” by making the data medium suitably through a reasonably acceptable 
+method like stamp, inspection, etc.
+The Party has to appoint representative(s) authorized for disclosing & receiving confidential 
+information, under information in writing, to the other Party. Subsequent changes thereto, if any, shall 
+also be informed to the other Party in writing. The party shall inform the representative about their 
+obligations of non-disclosure under this Agreement.
+The rights and obligations of party cannot be transferred to a third party without the prior written 
+
+consent of the other party, except to successor by way of merger, acquisition etc. This Agreement will 
+be binding upon such successors.
+4.
+Vendor's Obligations:
+a.
+The Vendor acknowledges that all Confidential Information provided by the Entity is the 
+exclusive property of the Entity and shall be used solely for the benefit of the Entity during the 
+term of contract and thereafter.
+b.
+The Vendor agrees to keep all Confidential Information strictly confidential and not to disclose, 
+directly or indirectly, any Confidential Information to any third party without the prior written 
+consent of the Entity and both the “Parties” may share the confidential information received with 
+such employees, who require it to fulfil the objective of this agreement. Both the “Parties” shall 
+be solely accountable for any breach of confidentiality as a result of such sharing of Confidential 
+Information.
+c.
+The Vendor shall not use any Confidential Information for personal gain, competitive advantage, 
+or to the detriment of the Entity.
+d.
+The Vendor shall take all reasonable precautions and implement appropriate safeguards to 
+prevent unauthorised access, use, or disclosure of Confidential Information.
+e.
+The Vendor will be required to follow all the specified test requirements with respect to the 
+subject matter and also not share any such test requirements and reports with the third parties 
+without written consent of the OFDC.
+f.
+The Party has to appoint representative(s) authorized for disclosing & receiving confidential 
+information, under information in writing, to the other Party. Subsequent changes thereto, if any, 
+shall also be informed to the other Party in writing. The party shall inform the representative 
+about their obligations of non-disclosure under this Agreement.
+g.
+The rights and obligations of party cannot be transferred to a third party without the prior written 
+consent of  the other party, except to successor by  way  of merger, acquisition etc. This 
+Agreement will be binding upon such successors.
+h.
+The Design, Drawing or whatever the Vendor gains through derived learning or anything which 
+is gained by Vendor as a result of the input provided by OFDC needs to be kept strictly 
+confidential and not disclosed under any circumstances.
+5.
+Non Disclosure provisions shall not apply if the information:
+i)
+Is available in public domain;
+ii)
+Was shared or disclosed with the written consent of Disclosing party;
+iii)
+Became available to the Receiving party;
+iv)
+Was developed and Proved independently by the Receiving Party;
+v)
+Was not classified or confirmed as Confidential Information and its disclosure to any unauthorized 
+third party will not prejudice the interest of Disclosing Party.
+6.
+Non-Disclosure and Non-Use:
+a.
+The Vendor acknowledges that the obligations of confidentiality and non-use set forth in this 
+
+Agreement shall survive the termination of their contract term with the Entity.
+b.
+Confidential Information covered by the agreement for the product "QWE" and the design and 
+specifications "RTY" developed by OFDC may include but is not limited to:
+c.
+Technical Specifications: Detailed technical specifications outlining the architecture, design 
+principles, functionality, and performance requirements of the "QWE" product.
+d.
+Algorithms: Proprietary algorithms and models utilized within the product, implementation 
+details, and optimization techniques, programming instructions, modules, libraries, and 
+frameworks that constitute their core functionalities.
+e.
+Client Data: Confidential data provided by OFDC's clients for the purpose of developing and 
+implementing the "QWE" product, encompassing personal information, business data, and any 
+other sensitive data subject to data privacy regulations.
+f.
+Business Strategies: OFDC's confidential strategies and plans related to the development, 
+marketing, and deployment of the "QWE" product, including unique methodologies, market 
+positioning, and competitive advantages associated with the product.
+g.
+Financial Information: Confidential financial information associated with the "QWE" product, 
+such as budgets, cost estimates, pricing models, revenue projections, and investment strategies.
+h.
+Marketing Plans: Exclusive marketing plans, campaigns, target markets, and branding strategies 
+designed to promote and establish the "QWE" product in the industry.
+i.
+Trade Secrets: Proprietary knowledge, techniques, or practices related to the "QWE" product and 
+provide  OFDC  with  a  distinct competitive  advantage in  the  field  of Military product 
+development and are considered confidential and valuable.
+j.
+The Vendor agrees not to disclose or use any Confidential Information for any purpose other 
+than as required to perform their obligations mandated by the Entity.
+7.
+Return or Destruction of Confidential Information:
+a.
+Upon the termination of the Vendor's contract or at any time upon the Entity's request, the 
+Vendor shall promptly return to the Entity all documents, records, electronic files, and any other 
+materials containing or related to the Confidential Information.
+b.
+The Vendor shall also permanently delete any electronic copies or other reproductions of 
+Confidential Information from their personal devices and systems.
+8.
+Non-Competition and Non-Solicitation:
+a.
+The Vendor agrees that, for a period of 5 years following the termination of their contract, they 
+shall not, directly or indirectly, compete with the Entity, solicit its clients, or induce any 
+customer, contractor, or supplier of the Entity to terminate their relationship with the Entity.
+9.
+This Agreement shall be signed in two originals, in English. Each copy shall have equal legal effect.
+10. Arbitration Clause
+Any disputes or differences arising from or pertaining to this Agreement, which may not be settled by the parties 
+through negotiations within 30 (thirty) days, shall be subject to settlement through arbitration. The arbitration 
+shall be governed by the Indian Arbitration and Conciliation (Amendment) Act, 2015. Place of Arbitration shall 
+be Kolkata. The arbitration proceedings shall be final and binding on the parties of this Agreement.
+
+11. Remedies:
+a.
+The parties acknowledge that a breach of this Agreement may cause irreparable harm to the 
+Entity.
+b.
+Any breach of confidentiality in violation of provisions of this Agreement shall be punishable 
+under relevant clauses of Official Secrets Act, 1923.
+c.
+The Vendor shall not use the Confidential Information for personal gain or to the detriment of 
+the Entity. This non-disclosure obligation shall remain in effect during the Vendor's contract and 
+continue after termination of the same. Any breach of this clause may result in legal action, 
+including seeking injunctive relief and damages, as permitted under the Indian Contracts Act, 
+1872.
+12. Governing Law and Jurisdiction:
+a.
+This Agreement shall be governed by and construed in accordance with the laws of India. Any 
+disputes arising out of or in connection with this Agreement shall be subject to the exclusive 
+jurisdiction of the courts of ( ) courts.
+13. Severability:
+a.
+If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the validity, 
+legality, and enforceability of the remaining provisions shall not in any way by affected or 
+impaired.
+14. Non-Circumvention
+a.
+The Vendor agrees not to circumvent the Entity and work with business associates, clients, and 
+other third-party vendors introduced by the Entity. This non-
+Circumvention provision shall expire at the end of ( In words ) ( In no.- ) years from the termination of 
+this Agreement.
+15. Non-Solicitation
+a.
+For a period of (in words) (in no.) years after the termination of this Agreement, the Vendor 
+agrees that he will not solicit for work, provide service or advice or assist others with the 
+opportunity to do the same, any Client of any Entity in the specified reasonable geographical 
+limit.
+16. No Tampering
+a.
+While Vendor is contracted by the Company and for (in words) (in no.) years following the 
+termination of Vendor’s Contract with the Entity, the Vendor shall not:
+
+request, induce or attempt to influence any supplier of goods or services to the Entity to curtail or cancel 
+any business they may transact with the Entity;
+
+request, induce or attempt to influence any customers of the Entity that have done business with or 
+potential customers which have been in contact with the Entity to curtail or cancel any business they 
+may transact with the Entity.
+
+17. Termination
+a.
+This Agreement shall survive and remain in effect and expressly terminated in writing and 
+signed by all Parties or until (in words) (in no.) years from the date of termination of contract 
+between the Entity and the Vendor. A 30 days notice is to be provided for the purpose.
+18. Entire Agreement:
+a.
+This Agreement constitutes the entire understanding between the parties concerning the subject 
+matter herein, containing 13 clauses that supersede all prior agreements, understandings, or 
+representations, whether oral or written.
+IN WITNESS WHEREOF, the parties hereto have executed this Non Confidentiality Agreement as of the 
+Effective Date first above written.
+Company:
+Vendor:
+Ordnance Factory Dum Dum
+(Designation) Date 
+(Designation) Date 
+Witnessed by:
+Witnessed by:
+(Name of Witness) Address                                                                                             (Name of Witness) Address
+(Designation) Date 
+(Designation) Date 
+
+Annexure 4
+NON-COMPETE AGREEMENT
+This Non-Compete Agreement ("Agreement") is entered into as of [Date], by and between Ordnance 
+Factory Dum Dum, Jessore Road, Kolkat-28,  a unit of Yantra India Limited , a government of  India 
+Enterprise under the Ministry of Defence,  having its registered office at Ambajhari Nagpur (hereinafter 
+referred to as "OFDC"), and “ the company”, a company registered under the laws of India, having its 
+registered office at [Address] (hereinafter referred to as "The Company").
+1.
+Purpose of Agreement: OFDC is entering into a contract with The Company for the designing & 
+manufacturing of defense items, and as a part of the collaboration, OFDC may share technical 
+details and proprietary information with The Company. In consideration of the mutual covenants 
+contained herein, the parties agree to the terms set forth in this Agreement.
+2.
+Non-Compete Obligations: 
+(a) The Company agrees that, during the term of the manufacturing contract and for a period of 
+Ten years after the termination or completion of the contract, The Company shall not engage, 
+directly or indirectly, either individually or as a partner, officer, director, employee, consultant, or 
+otherwise, in any business or enterprise that competes with the products or services provided by 
+OFDC within the territory of India.
+(b) The Company further agrees not to disclose, use, or reproduce any confidential or proprietary 
+information  received  from  OFDC  for  any  purpose  other  than  the  performance  of  the 
+manufacturing contract.
+3.
+Exceptions: The  non-compete  obligations  in  this  Agreement  shall  not  apply  to  activities 
+expressly authorized by OFDC in writing.
+4.
+Non-Solicitation: The Company agrees not to solicit, directly or indirectly, the services of any 
+employee or contractor of OFDC during the term of the manufacturing contract and for a period 
+of 10 years after the termination or completion of the contract.
+5.
+Governing Law: This Agreement shall be governed by and construed in accordance with the 
+laws of India.
+6.
+Dispute Resolution: Any disputes arising out of or in connection with this Agreement shall be 
+resolved through arbitration in accordance with the YIL, Nagpur Arbitration and Conciliation 
+policy. The seat of arbitration shall be Kolkata or as decided by YIL HQ Nagpur, and the 
+language of the arbitration shall be English.
+7.
+Entire Agreement: This Agreement contains the entire understanding between the parties 
+concerning the subject matter hereof and supersedes all prior and contemporaneous agreements 
+and understandings, whether oral or written.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Non-Compete Agreement as of the date 
+first above written.
+For Ordnance Factory Dum Dum (OFDC): 
+For The Company:
+[Name and Designation] [Signature] [Date]
+ [Name  and  Designation]  [Signature] 
+[Date]
+

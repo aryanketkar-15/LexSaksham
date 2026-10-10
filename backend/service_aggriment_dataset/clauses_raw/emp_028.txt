@@ -1,0 +1,48 @@
+Completion of Services Template Guide
+
+Overview
+You may prepare your own Completion of Services Agreement starting with the template below.This template is designed to be used once the services sold have been rendered in full.  The intended use is to obtain written acknowledgement that the services provided were successfully completed as described. This form could provide added protection during the dispute process, as certain chargeback types require written acknowledgement from the buyer that services were completed as described.  
+
+How to Use the Contract Template 
+When you see Purple text delete the purple and input the information it requests. 
+
+Tips
+
+When you are done, change all font colors back to “black.”
+If you are attaching this contract to a Square Invoice, you will have to save the finalized agreement in PDF format locally on your system. 
+Once it is saved as a PDF file, you can attach the file to the Square Invoice to send to your customer using the “Add Attachment” button under “More Options” in the invoice. 
+
+Within the template, there is a section in the header prompting you for your business contact information. We highly recommend always including this information so that your customer can sign the document and return it to you since they are unable to re-upload the attachment back to the invoice for return. 
+
+Legal Disclaimer
+Square is not a law firm, an attorney or a professional advisor in any industry. Square provides this template to individuals who choose to prepare their own contractual documents. Square services and related documents and materials provided by Square do not constitute legal advice and are for your private use. Square does not review the information you provide for legal accuracy or sufficiency. If you need legal advice as to specific contract terms or have questions regarding a term’s applicability or enforceability, you should consult with a licensed attorney. 
+
+
+
+
+
+
+
+
+Your Business Name Here
+Your Business/Contact Email Here
+Your Business Phone Number Here
+
+
+Project Name: Write project title here (as provided in original invoice/contract)
+
+Description of Services Provided: The Service Provider has completed in full enter description of all services rendered for the Client as agreed upon. 
+
+Date of Completion: Write date of completion here
+
+The undersigned individual hereby acknowledges that all services were provided as described on the invoice or contract previously provided to the customer. Further, acknowledgement of completion includes that the services were provided as described and that the buyer did not identify any issues at completion.  The services provided are subject to write the terms of your refund/cancellation policy here.
+
+The undersigned individual hereto agrees to the foregoing as evidenced by their signature below.
+
+
+
+Date_______       _____________________
+		      Client Name, Client
+
+
+

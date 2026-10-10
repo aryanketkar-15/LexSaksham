@@ -1,0 +1,16 @@
+Subject: Internship offer at [company name]
+
+Dear [candidate's first name],
+We are happy to offer you an internship position at [company name] with the [team name] department as the [designation].
+The two-month internship will commence on the [start date] and end on the [end date]. This is a paid internship opportunity and your compensation will be ₹ xx,xxx per month.
+You will be working at our head office, [work location], and your work schedule is [Monday to Friday] from [9 AM to 5 PM].
+During your internship, you may get access to some of the company's confidential information. By accepting this offer, you agree not to disclose such information without prior approval.
+Please note that an internship position does not entitle you to the company's employee benefit plan.
+Please sign and send this offer letter by [offer expiry date] to accept the position. We look forward to working with you.
+Sincerely,
+[Sender name]
+[Designation], [Company name]
+
+Accepted by: [Candidate name]
+Signature:
+Date:
